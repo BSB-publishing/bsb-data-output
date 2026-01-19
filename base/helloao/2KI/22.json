@@ -1,0 +1,1971 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2KI",
+    "name": "2 Kings",
+    "number": 12
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Josiah",
+            "strong": "H2977"
+          },
+          " ",
+          {
+            "text": "was eight",
+            "strong": "H8083"
+          },
+          " ",
+          {
+            "text": "years old",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "when he became king",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "and he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "thirty-one",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          ". ",
+          {
+            "text": "His mother\u2019s",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "was Jedidah",
+            "strong": "H3040"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Adaiah",
+            "strong": "H5718"
+          },
+          "; ",
+          {
+            "text": "she was from Bozkath",
+            "strong": "H1218"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And he did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "[what was] right",
+            "strong": "H3477"
+          },
+          " ",
+          {
+            "text": "in the eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "and walked",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          "; ",
+          {
+            "text": "he did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "turn aside",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "to the right",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "or to the left",
+            "strong": "H8040"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in the eighteenth",
+            "strong": "H8083"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of his reign",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Josiah",
+            "strong": "H2977"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5608"
+          },
+          ", ",
+          {
+            "text": "Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Azaliah",
+            "strong": "H683"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Meshullam",
+            "strong": "H4918"
+          },
+          ", ",
+          {
+            "text": "to the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "\u201c",
+          {
+            "text": "Go up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Hilkiah",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "the high",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "and have him count",
+            "strong": "H8552"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "that has been brought",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "into the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the doorkeepers",
+            "strong": "H5592"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "have collected",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "from the people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "And let them deliver it",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the supervisors",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "of those doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the work",
+            "strong": "H4399"
+          },
+          " ",
+          {
+            "text": "on the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "who in turn are to give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the workmen",
+            "strong": "H6213"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4399"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "repairing",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "the damages",
+            "strong": "H919"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "to the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "to the carpenters",
+            "strong": "H2796"
+          },
+          ", ",
+          {
+            "text": "builders",
+            "strong": "H1129"
+          },
+          ", ",
+          {
+            "text": "and masons",
+            "strong": "H1443"
+          },
+          " \u2014 ",
+          {
+            "text": "to buy",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "timber",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "and dressed",
+            "strong": "H4274"
+          },
+          " ",
+          {
+            "text": "stone",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "to repair",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the temple",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "they need not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "account",
+            "strong": "H2803"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "for the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "put",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their hands",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "since",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "work",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "with integrity",
+            "strong": "H530"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then Hilkiah",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "the high",
+            "strong": "H1419"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "said to",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5608"
+          },
+          ", \u201c",
+          {
+            "text": "I have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "the Book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the Law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "in the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "!\u201d ",
+          {
+            "text": "And he",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Shaphan",
+            "strong": "H8227"
+          },
+          ", ",
+          {
+            "text": "who read it",
+            "strong": "H7121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and reported",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1697"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Your servants",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "have paid out",
+            "strong": "H5413"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "that was found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "in the temple",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "and have put",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "it into",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the workers",
+            "strong": "H6213"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4399"
+          },
+          " ",
+          {
+            "text": "and supervisors",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Moreover , Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "told",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "Hilkiah",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "has given",
+            "strong": "H5414"
+          },
+          " me ",
+          {
+            "text": "a book",
+            "strong": "H5612"
+          },
+          ".\u201d ",
+          {
+            "text": "And Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "read it",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "in the presence",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "When the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the Book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the Law",
+            "strong": "H8451"
+          },
+          ", ",
+          {
+            "text": "he tore",
+            "strong": "H7167"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "[and]",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "Hilkiah",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ahikam",
+            "strong": "H296"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shaphan",
+            "strong": "H8227"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Achbor",
+            "strong": "H5907"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Micaiah",
+            "strong": "H4320"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Shaphan",
+            "strong": "H8227"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5608"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Asaiah",
+            "strong": "H6222"
+          },
+          " ",
+          {
+            "text": "the servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "\u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "for me",
+            "strong": "H1157"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H1157"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and for",
+            "strong": "H1157"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "concerning",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "in this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "that has been found",
+            "strong": "H4672"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "[is] the wrath",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "burns",
+            "strong": "H3341"
+          },
+          " against us",
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "our fathers",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "obeyed",
+            "strong": "H8085"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "by doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that is written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "about us",
+            "strong": "H5921"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "So Hilkiah",
+            "strong": "H2518"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "Ahikam",
+            "strong": "H296"
+          },
+          ", ",
+          {
+            "text": "Achbor",
+            "strong": "H5907"
+          },
+          ", ",
+          {
+            "text": "Shaphan",
+            "strong": "H8227"
+          },
+          ", ",
+          {
+            "text": "and Asaiah",
+            "strong": "H6222"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Huldah",
+            "strong": "H2468"
+          },
+          " ",
+          {
+            "text": "the prophetess",
+            "strong": "H5031"
+          },
+          ", ",
+          {
+            "text": "the wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "of Shallum",
+            "strong": "H7967"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Tikvah",
+            "strong": "H8616"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Harhas",
+            "strong": "H2745"
+          },
+          ", ",
+          {
+            "text": "the keeper",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "of the wardrobe",
+            "strong": "H899"
+          },
+          ". ",
+          {
+            "text": "She",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "lived",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "in the Second District",
+            "strong": "H4932"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "And [Huldah] said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to them",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Tell",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "that this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": ",
+          {
+            "text": "I am about to bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "calamity",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "and on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its people",
+            "strong": "H3427"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "according to all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "has read",
+            "strong": "H7121"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "because",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they have forsaken Me",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "and burned incense",
+            "strong": "H6999"
+          },
+          " ",
+          {
+            "text": "to other",
+            "strong": "H312"
+          },
+          " ",
+          {
+            "text": "gods",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "they might provoke Me to anger",
+            "strong": "H3707"
+          },
+          " ",
+          {
+            "text": "with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the works",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "of their hands",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "My wrath",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "will be kindled",
+            "strong": "H3341"
+          },
+          " ",
+          {
+            "text": "against this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "and will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be quenched",
+            "strong": "H3518"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "But as for",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "who sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "tell him",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "that this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "As for the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you heard",
+            "strong": "H8085"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "because",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "your heart",
+            "strong": "H3824"
+          },
+          " ",
+          {
+            "text": "was tender",
+            "strong": "H7401"
+          },
+          " ",
+          {
+            "text": "and you humbled yourself",
+            "strong": "H3665"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "when you heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "and against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its people",
+            "strong": "H3427"
+          },
+          ", ",
+          {
+            "text": "that they would become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a desolation",
+            "strong": "H8047"
+          },
+          " ",
+          {
+            "text": "and a curse",
+            "strong": "H7045"
+          },
+          ", ",
+          {
+            "text": "and because you have torn",
+            "strong": "H7167"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and wept",
+            "strong": "H1058"
+          },
+          " ",
+          {
+            "text": "before Me",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "have heard [you]",
+            "strong": "H8085"
+          },
+          ",\u2019 ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "\u2018",
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "I will indeed gather",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "you to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "your fathers",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "and you will be gathered",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "your grave",
+            "strong": "H6913"
+          },
+          " ",
+          {
+            "text": "in peace",
+            "strong": "H7965"
+          },
+          ". ",
+          {
+            "text": "Your eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the calamity",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          ".\u2019\u201d ",
+          {
+            "text": "So they brought",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "answer",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "back to the king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

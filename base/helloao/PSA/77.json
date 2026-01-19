@@ -1,0 +1,825 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 77,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "In the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of trouble",
+            "strong": "H6869"
+          },
+          " ",
+          {
+            "text": "I sought",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          "; ",
+          {
+            "text": "through the night",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "my outstretched hands",
+            "strong": "H3027"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5064"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "did not grow weary",
+            "strong": "H6313"
+          },
+          "; ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "refused",
+            "strong": "H3985"
+          },
+          " ",
+          {
+            "text": "to be comforted",
+            "strong": "H5162"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "I remembered You",
+            "strong": "H2142"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and I groaned",
+            "strong": "H1993"
+          },
+          "; ",
+          {
+            "text": "I mused",
+            "strong": "H7878"
+          },
+          " ",
+          {
+            "text": "[and] my spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "grew faint",
+            "strong": "H5848"
+          },
+          ". ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "You have kept",
+            "strong": "H270"
+          },
+          " ",
+          {
+            "text": "my eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "from closing",
+            "strong": "H8109"
+          },
+          "; ",
+          {
+            "text": "I am too troubled",
+            "strong": "H6470"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to speak",
+            "strong": "H1696"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "I considered",
+            "strong": "H2803"
+          },
+          " ",
+          {
+            "text": "the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of old",
+            "strong": "H6924"
+          },
+          ", ",
+          {
+            "text": "the years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "long in the past",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "At night",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "I remembered",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "my song",
+            "strong": "H5058"
+          },
+          "; ",
+          {
+            "text": "in",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "my heart",
+            "strong": "H3824"
+          },
+          " ",
+          {
+            "text": "I mused",
+            "strong": "H7878"
+          },
+          ", ",
+          {
+            "text": "[and] my spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "pondered",
+            "strong": "H2664"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "\u201c",
+          {
+            "text": "Will the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "spurn [us]",
+            "strong": "H2186"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "and never",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "show His favor again",
+            "strong": "H7521"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Is His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "gone",
+            "strong": "H656"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5331"
+          },
+          "? ",
+          {
+            "text": "Has His promise",
+            "strong": "H562"
+          },
+          " ",
+          {
+            "text": "failed",
+            "strong": "H1584"
+          },
+          " ",
+          {
+            "text": "for all time",
+            "strong": "H1755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1755"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Has God",
+            "strong": "H410"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "forgotten",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "to be gracious",
+            "strong": "H2603"
+          },
+          "? ",
+          {
+            "text": "Has His anger",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "shut off",
+            "strong": "H7092"
+          },
+          " ",
+          {
+            "text": "His compassion",
+            "strong": "H7356"
+          },
+          "?\u201d ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "So I said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "I am grieved",
+            "strong": "H2470"
+          },
+          " ",
+          {
+            "text": "that the right hand",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "of the Most High",
+            "strong": "H5945"
+          },
+          " ",
+          {
+            "text": "has changed",
+            "strong": "H1931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8138"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "I will remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "the works",
+            "strong": "H4611"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3050"
+          },
+          "; ",
+          {
+            "text": "yes",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "I will remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "Your wonders",
+            "strong": "H6382"
+          },
+          " ",
+          {
+            "text": "of old",
+            "strong": "H6924"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "I will reflect",
+            "strong": "H1897"
+          },
+          " ",
+          {
+            "text": "on all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "You have done",
+            "strong": "H6467"
+          },
+          " ",
+          {
+            "text": "and ponder",
+            "strong": "H7878"
+          },
+          " ",
+          {
+            "text": "Your mighty deeds",
+            "strong": "H5949"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Your way",
+            "strong": "H1870"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "is holy",
+            "strong": "H6944"
+          },
+          ". ",
+          {
+            "text": "What",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "[is so] great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "as [our] God",
+            "strong": "H430"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are the God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "who works",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "wonders",
+            "strong": "H6382"
+          },
+          "; ",
+          {
+            "text": "You display",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "Your strength",
+            "strong": "H5797"
+          },
+          " ",
+          {
+            "text": "among the peoples",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "With power",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "You redeemed",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "Your people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "and Joseph",
+            "strong": "H3130"
+          },
+          ". ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "The waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "saw You",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "saw You",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and swirled",
+            "strong": "H2342"
+          },
+          "; ",
+          {
+            "text": "even",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "the depths",
+            "strong": "H8415"
+          },
+          " ",
+          {
+            "text": "were shaken",
+            "strong": "H7264"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "The clouds",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "poured down",
+            "strong": "H2229"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          "; ",
+          {
+            "text": "the skies",
+            "strong": "H7834"
+          },
+          " ",
+          {
+            "text": "resounded",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "with thunder",
+            "strong": "H6963"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "Your arrows",
+            "strong": "H2671"
+          },
+          " ",
+          {
+            "text": "flashed back and forth",
+            "strong": "H1980"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Your thunder",
+            "strong": "H7482"
+          },
+          " ",
+          {
+            "text": "resounded",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "in the whirlwind",
+            "strong": "H1534"
+          },
+          "; ",
+          {
+            "text": "the lightning",
+            "strong": "H1300"
+          },
+          " ",
+          {
+            "text": "lit up",
+            "strong": "H215"
+          },
+          " ",
+          {
+            "text": "the world",
+            "strong": "H8398"
+          },
+          "; ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "trembled",
+            "strong": "H7264"
+          },
+          " ",
+          {
+            "text": "and quaked",
+            "strong": "H7493"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Your path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "led through the sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "Your way",
+            "strong": "H7635"
+          },
+          " ",
+          {
+            "text": "through the mighty",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "waters",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "but Your footprints",
+            "strong": "H6119"
+          },
+          " ",
+          {
+            "text": "were not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to be found",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "You led",
+            "strong": "H5148"
+          },
+          " ",
+          {
+            "text": "Your people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "like a flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "by the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

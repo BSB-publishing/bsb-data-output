@@ -1,0 +1,1895 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2KI",
+    "name": "2 Kings",
+    "number": 12
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "After",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "the death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          ", ",
+          {
+            "text": "Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "rebelled",
+            "strong": "H6586"
+          },
+          " ",
+          {
+            "text": "against Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Now Ahaziah",
+            "strong": "H274"
+          },
+          " ",
+          {
+            "text": "had fallen",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "H1157"
+          },
+          " ",
+          {
+            "text": "the lattice",
+            "strong": "H7639"
+          },
+          " ",
+          {
+            "text": "of his upper room",
+            "strong": "H5944"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in Samaria",
+            "strong": "H8111"
+          },
+          " ",
+          {
+            "text": "and injured himself",
+            "strong": "H2470"
+          },
+          ". ",
+          {
+            "text": "So he sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "messengers",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "and instructed them",
+            "strong": "H559"
+          },
+          ": ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1176"
+          },
+          " ",
+          {
+            "text": "of Baal-zebub",
+            "strong": "H1176"
+          },
+          ", ",
+          {
+            "text": "the god",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Ekron",
+            "strong": "H6138"
+          },
+          ", ",
+          {
+            "text": "whether",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I will recover",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "from this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "injury",
+            "strong": "H2483"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "But the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          " ",
+          {
+            "text": "the Tishbite",
+            "strong": "H8664"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H6965"
+          },
+          " \u201c",
+          {
+            "text": "Go up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to meet",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "the messengers",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Samaria",
+            "strong": "H8111"
+          },
+          " ",
+          {
+            "text": "and ask them",
+            "strong": "H1696"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u2018",
+          {
+            "text": "[Is [it] because",
+            "strong": "H1097"
+          },
+          " ",
+          {
+            "text": "[there is] no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "that you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are on your way",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1176"
+          },
+          " ",
+          {
+            "text": "of Baal-zebub",
+            "strong": "H1176"
+          },
+          ", ",
+          {
+            "text": "the god",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Ekron",
+            "strong": "H6138"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "You will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "get up",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the bed",
+            "strong": "H4296"
+          },
+          " ",
+          {
+            "text": "on which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are lying",
+            "strong": "H5927"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "You will surely die",
+            "strong": "H4191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4191"
+          },
+          ".\u2019\u201d ",
+          {
+            "text": "So Elijah",
+            "strong": "H452"
+          },
+          " ",
+          {
+            "text": "departed",
+            "strong": "H1980"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "When the messengers",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to the king",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "he asked them",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "have you returned",
+            "strong": "H7725"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "They replied",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "A man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "came up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to meet us",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          ", \u2018",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "back",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and tell",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "that this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": ",
+          {
+            "text": "Is it because",
+            "strong": "H1097"
+          },
+          " ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "that you are",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "sending",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "these men to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1176"
+          },
+          " ",
+          {
+            "text": "of Baal-zebub",
+            "strong": "H1176"
+          },
+          ", ",
+          {
+            "text": "the god",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Ekron",
+            "strong": "H6138"
+          },
+          "? ",
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "you will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "get up",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from the bed",
+            "strong": "H4296"
+          },
+          " ",
+          {
+            "text": "on which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are lying",
+            "strong": "H5927"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You will surely die",
+            "strong": "H4191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4191"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The king asked them",
+            "strong": "H1696"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "sort",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "came up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to meet",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "you and spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          "?\u201d ",
+          {
+            "text": "-",
+            "strong": "H853"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u201c",
+          {
+            "text": "[He was] a hairy",
+            "strong": "H8181"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H376"
+          },
+          ",\u201d ",
+          {
+            "text": ". . .",
+            "strong": "H1167"
+          },
+          " ",
+          {
+            "text": "they answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "with a leather",
+            "strong": "H5785"
+          },
+          {
+            "text": ". . .",
+            "strong": "H247"
+          },
+          " ",
+          {
+            "text": "belt",
+            "strong": "H232"
+          },
+          " ",
+          {
+            "text": "around his waist",
+            "strong": "H4975"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "It [was]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          " ",
+          {
+            "text": "the Tishbite",
+            "strong": "H8664"
+          },
+          ",\u201d ",
+          {
+            "text": "said [the king]",
+            "strong": "H559"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then King Ahaziah sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "to Elijah",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a captain",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "with his company of fifty men",
+            "strong": "H2572"
+          },
+          ". ",
+          {
+            "text": "So the captain went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to [Elijah]",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "who was sitting",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "top",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of a hill",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "and said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "declares",
+            "strong": "H1696"
+          },
+          ", \u2018",
+          {
+            "text": "Come down",
+            "strong": "H3381"
+          },
+          "!\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the captain",
+            "strong": "H8269"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2572"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "may fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[your] fifty [men]",
+            "strong": "H2572"
+          },
+          ".\u201d ",
+          {
+            "text": "And fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "came down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and consumed",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "[the captain]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[his] fifty men",
+            "strong": "H2572"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "So the king sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "to Elijah",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "H312"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H8269"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "[with his] fifty [men]",
+            "strong": "H2572"
+          },
+          ". ",
+          {
+            "text": "And [the captain]",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to [Elijah]",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "declares",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "at once",
+            "strong": "H4120"
+          },
+          "!\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Again Elijah",
+            "strong": "H452"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H6030"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "may fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[your] fifty [men]",
+            "strong": "H2572"
+          },
+          ".\u201d ",
+          {
+            "text": "And the fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "came down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and consumed",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "[the captain]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[his] fifty men",
+            "strong": "H2572"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "the king sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "a third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "with his fifty men",
+            "strong": "H2572"
+          },
+          ". ",
+          {
+            "text": "And the third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H8269"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "went up",
+            "strong": "H5927"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "fell",
+            "strong": "H3766"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his knees",
+            "strong": "H1290"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H5048"
+          },
+          " ",
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          ", ",
+          {
+            "text": "and begged him",
+            "strong": "H2603"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "may my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "and the lives",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "servants of yours",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "be precious",
+            "strong": "H3365"
+          },
+          " ",
+          {
+            "text": "in your sight",
+            "strong": "H5869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "has come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and consumed",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the first",
+            "strong": "H7223"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "captains",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of fifty",
+            "strong": "H2572"
+          },
+          ", ",
+          {
+            "text": "with all their men",
+            "strong": "H2572"
+          },
+          ". ",
+          {
+            "text": "But now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "may my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "be precious",
+            "strong": "H3365"
+          },
+          " ",
+          {
+            "text": "in your sight",
+            "strong": "H5869"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Then the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          ", \u201c",
+          {
+            "text": "Go down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          ". ",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be afraid",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "of him",
+            "strong": "H6440"
+          },
+          ".\u201d ",
+          {
+            "text": "So [Elijah] got up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and went down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "And Elijah said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to King Ahaziah",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": ",
+          {
+            "text": "Is there really no",
+            "strong": "H1097"
+          },
+          {
+            "text": ". . .",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "for you to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "of His word",
+            "strong": "H1697"
+          },
+          "? ",
+          {
+            "text": "Is that why",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you have sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "messengers",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1176"
+          },
+          " ",
+          {
+            "text": "of Baal-zebub",
+            "strong": "H1176"
+          },
+          ", ",
+          {
+            "text": "the god",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Ekron",
+            "strong": "H6138"
+          },
+          "? ",
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "you will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "get up from",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "the bed",
+            "strong": "H4296"
+          },
+          " ",
+          {
+            "text": "on which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are lying",
+            "strong": "H5927"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You will surely die",
+            "strong": "H4191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4191"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "So [Ahaziah] died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "according to the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Elijah",
+            "strong": "H452"
+          },
+          " ",
+          {
+            "text": "had spoken",
+            "strong": "H1696"
+          },
+          ". ",
+          {
+            "text": "And since",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he had",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "Jehoram",
+            "strong": "H3088"
+          },
+          " ",
+          {
+            "text": "succeeded him",
+            "strong": "H4427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "in the second",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the reign",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Jehoram",
+            "strong": "H3088"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoshaphat",
+            "strong": "H3092"
+          },
+          " ",
+          {
+            "text": "over Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "As for the rest",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "of the acts",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of Ahaziah",
+            "strong": "H274"
+          },
+          ", ",
+          {
+            "text": "along with his accomplishments",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "are they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the Chronicles",
+            "strong": "H1697"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of the Kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "?"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

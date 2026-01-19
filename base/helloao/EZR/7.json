@@ -1,0 +1,2317 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZR",
+    "name": "Ezra",
+    "number": 15
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Many years later",
+            "strong": "H310"
+          },
+          {
+            "text": ". . .",
+            "strong": "H428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1697"
+          },
+          ", ",
+          {
+            "text": "during the reign",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "of Artaxerxes",
+            "strong": "H783"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6539"
+          },
+          ", ",
+          {
+            "text": "Ezra",
+            "strong": "H5830"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Seraiah",
+            "strong": "H8304"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Azariah",
+            "strong": "H5838"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Hilkiah",
+            "strong": "H2518"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shallum",
+            "strong": "H7967"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zadok",
+            "strong": "H6659"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahitub",
+            "strong": "H285"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Amariah",
+            "strong": "H568"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Azariah",
+            "strong": "H5838"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Meraioth",
+            "strong": "H4812"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zerahiah",
+            "strong": "H2228"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Uzzi",
+            "strong": "H5813"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Bukki",
+            "strong": "H1231"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Abishua",
+            "strong": "H50"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Phinehas",
+            "strong": "H6372"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Eleazar",
+            "strong": "H499"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "the chief",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          "\u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "this",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "Ezra",
+            "strong": "H5830"
+          },
+          " ",
+          {
+            "text": "came up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "from Babylon",
+            "strong": "H894"
+          },
+          ". ",
+          {
+            "text": "He [was]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "a scribe",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "skilled",
+            "strong": "H4106"
+          },
+          " ",
+          {
+            "text": "in the Law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "had given",
+            "strong": "H5414"
+          },
+          ". ",
+          {
+            "text": "The king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "had granted",
+            "strong": "H5414"
+          },
+          " [Ezra] ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his requests",
+            "strong": "H1246"
+          },
+          ", ",
+          {
+            "text": "for the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "his God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "was upon him",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So in the seventh",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          ", ",
+          {
+            "text": "he went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "with some of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "including priests",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "Levites",
+            "strong": "H3881"
+          },
+          ", ",
+          {
+            "text": "singers",
+            "strong": "H7891"
+          },
+          ", ",
+          {
+            "text": "gatekeepers",
+            "strong": "H7778"
+          },
+          ", ",
+          {
+            "text": "and temple servants",
+            "strong": "H5411"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ezra arrived",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "in the fifth",
+            "strong": "H2549"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "of the seventh",
+            "strong": "H7637"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "had begun",
+            "strong": "H3246"
+          },
+          " ",
+          {
+            "text": "the journey",
+            "strong": "H4609"
+          },
+          " ",
+          {
+            "text": "from Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "on the first [day]",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "of the first",
+            "strong": "H7223"
+          },
+          " ",
+          {
+            "text": "month",
+            "strong": "H2320"
+          },
+          ", ",
+          {
+            "text": "and he arrived",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "on the first",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "day of the fifth",
+            "strong": "H2549"
+          },
+          " ",
+          {
+            "text": "month",
+            "strong": "H2320"
+          },
+          ", ",
+          {
+            "text": "for the gracious",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of his God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "was upon him",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Ezra",
+            "strong": "H5830"
+          },
+          " ",
+          {
+            "text": "had set",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "his heart",
+            "strong": "H3824"
+          },
+          " ",
+          {
+            "text": "to study",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "to practice it",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "and to teach",
+            "strong": "H3925"
+          },
+          " ",
+          {
+            "text": "its statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "and ordinances",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "is the text",
+            "strong": "H6572"
+          },
+          " ",
+          {
+            "text": "of the letter",
+            "strong": "H5406"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          " ",
+          {
+            "text": "had given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to Ezra",
+            "strong": "H5830"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "[and] scribe",
+            "strong": "H5608"
+          },
+          ", ",
+          {
+            "text": "an expert",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "in the commandments",
+            "strong": "H4687"
+          },
+          " ",
+          {
+            "text": "and statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          ", ",
+          {
+            "text": "king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "of kings",
+            "strong": "H4430"
+          },
+          ". ",
+          {
+            "text": "To Ezra",
+            "strong": "H5831"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3549"
+          },
+          ", ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          " ",
+          {
+            "text": "of the Law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8065"
+          },
+          ": ",
+          {
+            "text": "Greetings",
+            "strong": "H1585"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3706"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "hereby",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "volunteers",
+            "strong": "H5069"
+          },
+          " ",
+          {
+            "text": "among the Israelites",
+            "strong": "H5972"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3479"
+          },
+          " ",
+          {
+            "text": "in my kingdom",
+            "strong": "H4437"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "including the priests",
+            "strong": "H3549"
+          },
+          " ",
+          {
+            "text": "and Levites",
+            "strong": "H3879"
+          },
+          ", ",
+          {
+            "text": "may go up",
+            "strong": "H1946"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5974"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1946"
+          },
+          " ",
+          {
+            "text": "to Jerusalem",
+            "strong": "H3390"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "You are sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H4481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and his seven",
+            "strong": "H7655"
+          },
+          " ",
+          {
+            "text": "counselors",
+            "strong": "H3272"
+          },
+          " ",
+          {
+            "text": "to evaluate",
+            "strong": "H1240"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3061"
+          },
+          " ",
+          {
+            "text": "and Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "according to the Law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "is in your hand",
+            "strong": "H3028"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Moreover, you are to take with you",
+            "strong": "H2987"
+          },
+          " ",
+          {
+            "text": "the silver",
+            "strong": "H3702"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and his counselors",
+            "strong": "H3272"
+          },
+          " ",
+          {
+            "text": "have freely offered",
+            "strong": "H5069"
+          },
+          " ",
+          {
+            "text": "to the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3479"
+          },
+          ", ",
+          {
+            "text": "whose",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "dwelling",
+            "strong": "H4907"
+          },
+          " ",
+          {
+            "text": "is in Jerusalem",
+            "strong": "H3390"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "together with all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the silver",
+            "strong": "H3702"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you may find",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the province",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H895"
+          },
+          ", ",
+          {
+            "text": "as well as",
+            "strong": "H5974"
+          },
+          " ",
+          {
+            "text": "the freewill offerings",
+            "strong": "H5069"
+          },
+          " ",
+          {
+            "text": "of the people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "and priests",
+            "strong": "H3549"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5069"
+          },
+          " ",
+          {
+            "text": "to the house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of their God",
+            "strong": "H426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3390"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "With this",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "money",
+            "strong": "H3702"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6903"
+          },
+          " ",
+          {
+            "text": "therefore",
+            "strong": "H1836"
+          },
+          ", ",
+          {
+            "text": "you are to buy",
+            "strong": "H7066"
+          },
+          " ",
+          {
+            "text": "as many bulls",
+            "strong": "H8450"
+          },
+          ", ",
+          {
+            "text": "rams",
+            "strong": "H1798"
+          },
+          ", ",
+          {
+            "text": "and lambs",
+            "strong": "H563"
+          },
+          " ",
+          {
+            "text": "as needed",
+            "strong": "H629"
+          },
+          ", ",
+          {
+            "text": "together with their grain offerings",
+            "strong": "H4504"
+          },
+          " ",
+          {
+            "text": "and drink offerings",
+            "strong": "H5261"
+          },
+          ", ",
+          {
+            "text": "and offer",
+            "strong": "H7127"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H1994"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the altar",
+            "strong": "H4056"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "at the house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3390"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "You and your brothers",
+            "strong": "H252"
+          },
+          " ",
+          {
+            "text": "may do",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "whatever",
+            "strong": "H4101"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "seems best",
+            "strong": "H3191"
+          },
+          " ",
+          {
+            "text": "with the rest",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "of the silver",
+            "strong": "H3702"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H1722"
+          },
+          ", ",
+          {
+            "text": "according to the will",
+            "strong": "H7470"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5648"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "You must deliver",
+            "strong": "H8000"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "all the articles",
+            "strong": "H3984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "given",
+            "strong": "H3052"
+          },
+          " to you ",
+          {
+            "text": "for the service",
+            "strong": "H6402"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And if anything else",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "is needed",
+            "strong": "H2819"
+          },
+          " ",
+          {
+            "text": "for the house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " you ",
+          {
+            "text": "may have occasion",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "to supply",
+            "strong": "H5415"
+          },
+          ", ",
+          {
+            "text": "you may pay [for it]",
+            "strong": "H5415"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the royal",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "treasury",
+            "strong": "H1596"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H576"
+          },
+          ", ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "to all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the treasurers",
+            "strong": "H1490"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          ":",
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Whatever",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Ezra",
+            "strong": "H5831"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3549"
+          },
+          ", ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          " ",
+          {
+            "text": "of the Law",
+            "strong": "H1882"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "of the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8065"
+          },
+          ", ",
+          {
+            "text": "may require of you",
+            "strong": "H7593"
+          },
+          ", ",
+          {
+            "text": "it must be provided",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "promptly",
+            "strong": "H629"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "up to",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "a hundred",
+            "strong": "H3969"
+          },
+          " ",
+          {
+            "text": "talents",
+            "strong": "H3604"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3702"
+          },
+          ", ",
+          {
+            "text": "a hundred",
+            "strong": "H3969"
+          },
+          " ",
+          {
+            "text": "cors",
+            "strong": "H3734"
+          },
+          " ",
+          {
+            "text": "of wheat",
+            "strong": "H2591"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "a hundred",
+            "strong": "H3969"
+          },
+          " ",
+          {
+            "text": "baths",
+            "strong": "H1325"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "of wine",
+            "strong": "H2562"
+          },
+          ", ",
+          {
+            "text": "a hundred",
+            "strong": "H3969"
+          },
+          " ",
+          {
+            "text": "baths",
+            "strong": "H1325"
+          },
+          " ",
+          {
+            "text": "of olive oil",
+            "strong": "H4887"
+          },
+          ", ",
+          {
+            "text": "and salt",
+            "strong": "H4416"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "limit",
+            "strong": "H3792"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Whatever",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "is commanded",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8065"
+          },
+          " ",
+          {
+            "text": "must be done",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "diligently",
+            "strong": "H149"
+          },
+          " ",
+          {
+            "text": "for [His] house",
+            "strong": "H1005"
+          },
+          {
+            "text": ". . .",
+            "strong": "H426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8065"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "why",
+            "strong": "H4101"
+          },
+          " ",
+          {
+            "text": "should wrath",
+            "strong": "H7109"
+          },
+          " ",
+          {
+            "text": "fall",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the realm",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1123"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "And ",
+          {
+            "text": "be advised",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you have no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "authority",
+            "strong": "H7990"
+          },
+          " ",
+          {
+            "text": "to impose",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "tribute",
+            "strong": "H4061"
+          },
+          ", ",
+          {
+            "text": "duty",
+            "strong": "H1093"
+          },
+          ", ",
+          {
+            "text": "or toll",
+            "strong": "H1983"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "of the priests",
+            "strong": "H3549"
+          },
+          ", ",
+          {
+            "text": "Levites",
+            "strong": "H3879"
+          },
+          ", ",
+          {
+            "text": "singers",
+            "strong": "H2171"
+          },
+          ", ",
+          {
+            "text": "doorkeepers",
+            "strong": "H8652"
+          },
+          ", ",
+          {
+            "text": "temple servants",
+            "strong": "H5412"
+          },
+          ", ",
+          {
+            "text": "or other servants",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "of this",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H426"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "And you",
+            "strong": "H607"
+          },
+          ", ",
+          {
+            "text": "Ezra",
+            "strong": "H5831"
+          },
+          ", ",
+          {
+            "text": "according to the wisdom",
+            "strong": "H2452"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "which you possess",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3028"
+          },
+          ", ",
+          {
+            "text": "are to appoint",
+            "strong": "H4483"
+          },
+          " ",
+          {
+            "text": "magistrates",
+            "strong": "H8200"
+          },
+          " ",
+          {
+            "text": "and judges",
+            "strong": "H1782"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "to judge",
+            "strong": "H1778"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5972"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          " \u2014 ",
+          {
+            "text": "all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "who know",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "the laws",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H426"
+          },
+          ". ",
+          {
+            "text": "And you are to teach [these laws]",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "to anyone who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "know them",
+            "strong": "H3046"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "If anyone",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "keep",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "and the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "let a strict",
+            "strong": "H629"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "H1780"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "executed",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "against him",
+            "strong": "H4481"
+          },
+          ", ",
+          {
+            "text": "whether",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "death",
+            "strong": "H4193"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "banishment",
+            "strong": "H8332"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "confiscation",
+            "strong": "H6065"
+          },
+          " ",
+          {
+            "text": "of property",
+            "strong": "H5232"
+          },
+          ", ",
+          {
+            "text": "or imprisonment",
+            "strong": "H613"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Blessed [be]",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of our fathers",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has put",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "into the heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "to so honor",
+            "strong": "H6286"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "and who has shown",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "his counselors",
+            "strong": "H3289"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "powerful",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "officials",
+            "strong": "H8269"
+          },
+          ". ",
+          {
+            "text": "And because the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "[was] upon me",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "took courage",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "and gathered",
+            "strong": "H6908"
+          },
+          " ",
+          {
+            "text": "the leaders",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "to return",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,1546 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "REV",
+    "name": "Revelation",
+    "number": 66
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "I saw",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "G243"
+          },
+          " ",
+          {
+            "text": "mighty",
+            "strong": "G2478"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "coming down",
+            "strong": "G2597"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          ", ",
+          {
+            "text": "wrapped in",
+            "strong": "G4016"
+          },
+          " ",
+          {
+            "text": "a cloud",
+            "strong": "G3507"
+          },
+          ", ",
+          {
+            "text": "[with]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "a",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "rainbow",
+            "strong": "G2463"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "head",
+            "strong": "G2776"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "face",
+            "strong": "G4383"
+          },
+          " ",
+          {
+            "text": "[was] like",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sun",
+            "strong": "G2246"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "legs",
+            "strong": "G4228"
+          },
+          " ",
+          {
+            "text": "[were] like",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "pillars",
+            "strong": "G4769"
+          },
+          " ",
+          {
+            "text": "of fire",
+            "strong": "G4442"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "He held",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "G5495"
+          },
+          " ",
+          {
+            "text": "a small scroll",
+            "strong": "G974"
+          },
+          ", ",
+          {
+            "text": "which lay open",
+            "strong": "G455"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "He placed",
+            "strong": "G5087"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "right",
+            "strong": "G1188"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "foot",
+            "strong": "G4228"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sea",
+            "strong": "G2281"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[his]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "left [foot]",
+            "strong": "G2176"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "G1093"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he cried out",
+            "strong": "G2896"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3173"
+          },
+          " ",
+          {
+            "text": "in a loud voice",
+            "strong": "G5456"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "G5618"
+          },
+          " ",
+          {
+            "text": "the roar",
+            "strong": "G3455"
+          },
+          " ",
+          {
+            "text": "of a lion",
+            "strong": "G3023"
+          },
+          ". ",
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "G3753"
+          },
+          " ",
+          {
+            "text": "he cried out",
+            "strong": "G2896"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "G2033"
+          },
+          " ",
+          {
+            "text": "thunders",
+            "strong": "G1027"
+          },
+          " ",
+          {
+            "text": "sounded",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "voices",
+            "strong": "G5456"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "When",
+            "strong": "G3753"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "G2033"
+          },
+          " ",
+          {
+            "text": "thunders",
+            "strong": "G1027"
+          },
+          " ",
+          {
+            "text": "had spoken",
+            "strong": "G2980"
+          },
+          ", ",
+          {
+            "text": "I was about",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "to put it in writing",
+            "strong": "G1125"
+          },
+          ". ",
+          {
+            "text": "But",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "I heard",
+            "strong": "G191"
+          },
+          " ",
+          {
+            "text": "a voice",
+            "strong": "G5456"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "saying",
+            "strong": "G3004"
+          },
+          ", \u201c",
+          {
+            "text": "Seal up",
+            "strong": "G4972"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "G2033"
+          },
+          " ",
+          {
+            "text": "thunders",
+            "strong": "G1027"
+          },
+          " ",
+          {
+            "text": "have said",
+            "strong": "G2980"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "{do} not",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "write",
+            "strong": "G1125"
+          },
+          " ",
+          {
+            "text": "it {down}",
+            "strong": "G846"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "I had seen",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "G2476"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sea",
+            "strong": "G2281"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "G1093"
+          },
+          " ",
+          {
+            "text": "lifted up",
+            "strong": "G142"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "right",
+            "strong": "G1188"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "G5495"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he swore",
+            "strong": "G3660"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "Him who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "lives",
+            "strong": "G2198"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "G165"
+          },
+          " ",
+          {
+            "text": "[and]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "ever",
+            "strong": "G165"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "created",
+            "strong": "G2936"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[everything]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "G1093"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[everything]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sea",
+            "strong": "G2281"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[everything]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          ": \u201c",
+          {
+            "text": "There will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "G3765"
+          },
+          " ",
+          {
+            "text": "delay",
+            "strong": "G5550"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "voice",
+            "strong": "G5456"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "seventh",
+            "strong": "G1442"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          ", ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "he begins",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "to sound [his] trumpet",
+            "strong": "G4537"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mystery",
+            "strong": "G3466"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "will be fulfilled",
+            "strong": "G5055"
+          },
+          ", ",
+          {
+            "text": "just as",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "He proclaimed",
+            "strong": "G2097"
+          },
+          " ",
+          {
+            "text": "to His",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "servants",
+            "strong": "G1401"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "prophets",
+            "strong": "G4396"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "voice",
+            "strong": "G5456"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "I had heard",
+            "strong": "G191"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "G3825"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "saying",
+            "strong": "G3004"
+          },
+          ", \u201c",
+          {
+            "text": "Go",
+            "strong": "G5217"
+          },
+          ", ",
+          {
+            "text": "take",
+            "strong": "G2983"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "small scroll",
+            "strong": "G975"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "lies open",
+            "strong": "G455"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "G5495"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "G2476"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sea",
+            "strong": "G2281"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "G1093"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "I went",
+            "strong": "G565"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G846"
+          },
+          ", \u201c",
+          {
+            "text": "Give",
+            "strong": "G1325"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "small scroll",
+            "strong": "G974"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "Take [it]",
+            "strong": "G2983"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "eat",
+            "strong": "G2719"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          ",\u201d ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he said",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1473"
+          },
+          ". \u201c",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "It will make",
+            "strong": "G4087"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "stomach {bitter}",
+            "strong": "G2836"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mouth",
+            "strong": "G4750"
+          },
+          " ",
+          {
+            "text": "it will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "as sweet",
+            "strong": "G1099"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "honey",
+            "strong": "G3192"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "[So]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "I took",
+            "strong": "G2983"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "small scroll",
+            "strong": "G974"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angel\u2019s",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "G5495"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "ate",
+            "strong": "G2719"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "it was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "as sweet",
+            "strong": "G1099"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "honey",
+            "strong": "G3192"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mouth",
+            "strong": "G4750"
+          },
+          ". ",
+          {
+            "text": "[But]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "G3753"
+          },
+          " ",
+          {
+            "text": "I had eaten",
+            "strong": "G5315"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "stomach",
+            "strong": "G2836"
+          },
+          " ",
+          {
+            "text": "turned bitter",
+            "strong": "G4087"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "they told",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          ", \u201c",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "must",
+            "strong": "G1163"
+          },
+          " ",
+          {
+            "text": "prophesy",
+            "strong": "G4395"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "G3825"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "peoples",
+            "strong": "G2992"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "tongues",
+            "strong": "G1100"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "G935"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

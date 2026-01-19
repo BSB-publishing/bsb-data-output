@@ -1,0 +1,4423 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "MAT",
+    "name": "Matthew",
+    "number": 40
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[As]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "G1831"
+          },
+          {
+            "text": ". . .",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "temple",
+            "strong": "G2411"
+          },
+          " ",
+          {
+            "text": "[and] was walking away",
+            "strong": "G4198"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "disciples",
+            "strong": "G3101"
+          },
+          " ",
+          {
+            "text": "came up to [Him]",
+            "strong": "G4334"
+          },
+          " ",
+          {
+            "text": "to point out",
+            "strong": "G1925"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "[its]",
+            "strong": "G2411"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "buildings",
+            "strong": "G3619"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "Do you see",
+            "strong": "G991"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "G3778"
+          },
+          "?\u201d ",
+          {
+            "text": "vvv",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G611"
+          },
+          " ",
+          {
+            "text": "He replied",
+            "strong": "G2036"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          ". \u201c",
+          {
+            "text": "Truly",
+            "strong": "G281"
+          },
+          " ",
+          {
+            "text": "I tell",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "one stone",
+            "strong": "G3037"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "G5602"
+          },
+          " ",
+          {
+            "text": "will be left",
+            "strong": "G863"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "[another]",
+            "strong": "G3037"
+          },
+          "; ",
+          {
+            "text": "[every one]",
+            "strong": "G3739"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "will be thrown down",
+            "strong": "G2647"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "[While]",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[Jesus]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "was sitting",
+            "strong": "G2521"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Mount",
+            "strong": "G3735"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Olives",
+            "strong": "G1636"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "disciples",
+            "strong": "G3101"
+          },
+          " ",
+          {
+            "text": "came to",
+            "strong": "G4334"
+          },
+          " ",
+          {
+            "text": "Him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "privately",
+            "strong": "G2398"
+          },
+          ". \u201c",
+          {
+            "text": "Tell",
+            "strong": "G2036"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "G1473"
+          },
+          ",\u201d ",
+          {
+            "text": "they said",
+            "strong": "G3004"
+          },
+          ", \u201c",
+          {
+            "text": "when {will}",
+            "strong": "G4219"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "happen",
+            "strong": "G1510"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "what [will be]",
+            "strong": "G5101"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sign",
+            "strong": "G4592"
+          },
+          " ",
+          {
+            "text": "of Your",
+            "strong": "G4674"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "G3952"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "of the end",
+            "strong": "G4930"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "age",
+            "strong": "G165"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "G611"
+          },
+          {
+            "text": ". . .",
+            "strong": "G2036"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          ", \u201c",
+          {
+            "text": "See to it",
+            "strong": "G991"
+          },
+          " ",
+          {
+            "text": "that no one",
+            "strong": "G3361"
+          },
+          {
+            "text": ". . .",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "deceives",
+            "strong": "G4105"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "G2064"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "G3686"
+          },
+          ", ",
+          {
+            "text": "claiming",
+            "strong": "G3004"
+          },
+          ", \u2018",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "am",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ",\u2019 ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "will deceive many",
+            "strong": "G4105"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4183"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "You will",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "hear of",
+            "strong": "G191"
+          },
+          " ",
+          {
+            "text": "wars",
+            "strong": "G4171"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "rumors",
+            "strong": "G189"
+          },
+          " ",
+          {
+            "text": "of wars",
+            "strong": "G4171"
+          },
+          ", ",
+          {
+            "text": "but see to it",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "that you are not alarmed",
+            "strong": "G2360"
+          },
+          ". ",
+          {
+            "text": "[These things]",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "must",
+            "strong": "G1163"
+          },
+          " ",
+          {
+            "text": "happen",
+            "strong": "G1096"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "end",
+            "strong": "G5056"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "still to come",
+            "strong": "G3768"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "Nation",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "will rise",
+            "strong": "G1453"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "G1484"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "G932"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "G932"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "There will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "famines",
+            "strong": "G3042"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "earthquakes",
+            "strong": "G4578"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "[various] places",
+            "strong": "G5117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "All",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "these [are]",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "[the] beginning",
+            "strong": "G746"
+          },
+          " ",
+          {
+            "text": "of birth pains",
+            "strong": "G5604"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "they will deliver",
+            "strong": "G3860"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "over to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "be persecuted",
+            "strong": "G2347"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "killed",
+            "strong": "G615"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "you will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "hated",
+            "strong": "G3404"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "G3686"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "At that time",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "will fall away",
+            "strong": "G4624"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "will betray",
+            "strong": "G3860"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G240"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "hate",
+            "strong": "G3404"
+          },
+          " ",
+          {
+            "text": "one another",
+            "strong": "G240"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "false prophets",
+            "strong": "G5578"
+          },
+          " ",
+          {
+            "text": "will arise",
+            "strong": "G1453"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "deceive",
+            "strong": "G4105"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "G4183"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Because of",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "the multiplication",
+            "strong": "G4129"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of wickedness",
+            "strong": "G458"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "love",
+            "strong": "G26"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "most",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "will grow cold",
+            "strong": "G5594"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the [one who]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "perseveres",
+            "strong": "G5278"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "[the] end",
+            "strong": "G5056"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "will be saved",
+            "strong": "G4982"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "gospel",
+            "strong": "G2098"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "G932"
+          },
+          " ",
+          {
+            "text": "will be preached",
+            "strong": "G2784"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3650"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "world",
+            "strong": "G3625"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "a testimony",
+            "strong": "G3142"
+          },
+          " ",
+          {
+            "text": "to all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "G1484"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "then",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "end",
+            "strong": "G5056"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "G2240"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "you see",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "G2476"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] holy",
+            "strong": "G40"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "G5117"
+          },
+          " \u2018",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "abomination",
+            "strong": "G946"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of desolation",
+            "strong": "G2050"
+          },
+          ",\u2019 ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "spoken of",
+            "strong": "G2046"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "prophet",
+            "strong": "G4396"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "G1158"
+          },
+          " ",
+          {
+            "text": "({let} the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "reader",
+            "strong": "G314"
+          },
+          " ",
+          {
+            "text": "understand)",
+            "strong": "G3539"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "then {let}",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "those who are",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Judea",
+            "strong": "G2449"
+          },
+          " ",
+          {
+            "text": "flee",
+            "strong": "G5343"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mountains",
+            "strong": "G3735"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "[Let no one]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "housetop",
+            "strong": "G1430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "come down",
+            "strong": "G2597"
+          },
+          " ",
+          {
+            "text": "to retrieve",
+            "strong": "G142"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "G3614"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[let no one]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "field",
+            "strong": "G68"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "return",
+            "strong": "G1994"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3694"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G142"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "cloak",
+            "strong": "G2440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "How",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "miserable",
+            "strong": "G3759"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "those",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days [will be]",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "pregnant",
+            "strong": "G2192"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1064"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "nursing [mothers]",
+            "strong": "G2337"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Pray",
+            "strong": "G4336"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G2443"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "flight",
+            "strong": "G5437"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "will not occur",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "in the winter",
+            "strong": "G5494"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "G3366"
+          },
+          " ",
+          {
+            "text": "on the Sabbath",
+            "strong": "G4521"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "at that time",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "there will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "G3173"
+          },
+          " ",
+          {
+            "text": "tribulation",
+            "strong": "G2347"
+          },
+          ", ",
+          {
+            "text": "unseen",
+            "strong": "G3634"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3756"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "[the] beginning",
+            "strong": "G746"
+          },
+          " ",
+          {
+            "text": "of [the] world",
+            "strong": "G2889"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "G3568"
+          },
+          ", ",
+          {
+            "text": "[and]",
+            "strong": "G3761"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "never",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "to be [seen again]",
+            "strong": "G1096"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "If",
+            "strong": "G1487"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "those",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "had not been cut short",
+            "strong": "G2856"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "nobody",
+            "strong": "G3956"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4561"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G302"
+          },
+          " ",
+          {
+            "text": "would be saved",
+            "strong": "G4982"
+          },
+          ". ",
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "for the sake of",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "elect",
+            "strong": "G1588"
+          },
+          ", ",
+          {
+            "text": "those",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "will be cut short",
+            "strong": "G2856"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "At that time",
+            "strong": "G5119"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "anyone",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "G2036"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "G4771"
+          },
+          ", \u2018",
+          {
+            "text": "Look",
+            "strong": "G2400"
+          },
+          ", ",
+          {
+            "text": "here [is]",
+            "strong": "G5602"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          "!\u2019 ",
+          {
+            "text": "or",
+            "strong": "G2228"
+          },
+          " \u2018",
+          {
+            "text": "There [He is]",
+            "strong": "G5602"
+          },
+          "!\u2019 ",
+          {
+            "text": "{do} not",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "believe [it]",
+            "strong": "G4100"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "false Christs",
+            "strong": "G5580"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "false prophets",
+            "strong": "G5578"
+          },
+          " ",
+          {
+            "text": "will appear",
+            "strong": "G1453"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "perform",
+            "strong": "G1325"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "G3173"
+          },
+          " ",
+          {
+            "text": "signs",
+            "strong": "G4592"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "wonders",
+            "strong": "G5059"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G5620"
+          },
+          " ",
+          {
+            "text": "deceive",
+            "strong": "G4105"
+          },
+          " ",
+          {
+            "text": "even",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "elect",
+            "strong": "G1588"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "G1487"
+          },
+          " ",
+          {
+            "text": "that were possible",
+            "strong": "G1415"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "See",
+            "strong": "G2400"
+          },
+          ", ",
+          {
+            "text": "I have told you in advance",
+            "strong": "G4302"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "they tell",
+            "strong": "G2036"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ", \u2018",
+          {
+            "text": "There",
+            "strong": "G2400"
+          },
+          " ",
+          {
+            "text": "He is",
+            "strong": "G1510"
+          },
+          ", ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "wilderness",
+            "strong": "G2048"
+          },
+          ",\u2019 ",
+          {
+            "text": "{do} not",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "go out",
+            "strong": "G1831"
+          },
+          ", ",
+          {
+            "text": "[or], \u2018Here",
+            "strong": "G2400"
+          },
+          " ",
+          {
+            "text": "[He is,] in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "inner rooms",
+            "strong": "G5009"
+          },
+          ",\u2019 ",
+          {
+            "text": "{do} not",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "believe [it]",
+            "strong": "G4100"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "just as",
+            "strong": "G5618"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "lightning",
+            "strong": "G796"
+          },
+          " ",
+          {
+            "text": "comes",
+            "strong": "G1831"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "[the] east",
+            "strong": "G395"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "flashes",
+            "strong": "G5316"
+          },
+          " ",
+          {
+            "text": "as far as",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "[the] west",
+            "strong": "G1424"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "G3952"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Wherever",
+            "strong": "G3699"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "there is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "a carcass",
+            "strong": "G4430"
+          },
+          ", ",
+          {
+            "text": "there",
+            "strong": "G1563"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vultures",
+            "strong": "G105"
+          },
+          " ",
+          {
+            "text": "will gather",
+            "strong": "G4863"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Immediately",
+            "strong": "G2112"
+          },
+          " ",
+          {
+            "text": "after",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "tribulation",
+            "strong": "G2347"
+          },
+          " ",
+          {
+            "text": "of those",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          ":\u2018",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sun",
+            "strong": "G2246"
+          },
+          " ",
+          {
+            "text": "will be darkened",
+            "strong": "G4654"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "moon",
+            "strong": "G4582"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "will not give",
+            "strong": "G1325"
+          },
+          " ",
+          {
+            "text": "its",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "G5338"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "stars",
+            "strong": "G792"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "G4098"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sky",
+            "strong": "G3772"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "powers",
+            "strong": "G1411"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heavens",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "will be shaken",
+            "strong": "G4531"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "At that time",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sign",
+            "strong": "G4592"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "will appear",
+            "strong": "G5316"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "G3772"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          {
+            "text": ". . .",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "tribes",
+            "strong": "G5443"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "G1093"
+          },
+          " ",
+          {
+            "text": "will mourn",
+            "strong": "G2875"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "They will see",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "G2064"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "clouds",
+            "strong": "G3507"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "power",
+            "strong": "G1411"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "glory",
+            "strong": "G1391"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "He will send out",
+            "strong": "G649"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "a loud",
+            "strong": "G3173"
+          },
+          " ",
+          {
+            "text": "trumpet call",
+            "strong": "G4536"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "they will gather",
+            "strong": "G1996"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "elect",
+            "strong": "G1588"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "G5064"
+          },
+          " ",
+          {
+            "text": "winds",
+            "strong": "G417"
+          },
+          ", ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "one end",
+            "strong": "G206"
+          },
+          " ",
+          {
+            "text": "of the heavens",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "[other]",
+            "strong": "G206"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "learn",
+            "strong": "G3129"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "lesson",
+            "strong": "G3850"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fig tree",
+            "strong": "G4808"
+          },
+          ": ",
+          {
+            "text": "As soon as",
+            "strong": "G3752"
+          },
+          {
+            "text": ". . .",
+            "strong": "G2235"
+          },
+          " ",
+          {
+            "text": "its",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "branches",
+            "strong": "G2798"
+          },
+          " ",
+          {
+            "text": "become",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "tender",
+            "strong": "G527"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "sprout",
+            "strong": "G1631"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "leaves",
+            "strong": "G5444"
+          },
+          ", ",
+          {
+            "text": "you know",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "summer",
+            "strong": "G2330"
+          },
+          " ",
+          {
+            "text": "[is] near",
+            "strong": "G1451"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "also",
+            "strong": "G2532"
+          },
+          ", ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "you see",
+            "strong": "G3708"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "G3778"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "will know",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "He is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "near",
+            "strong": "G1451"
+          },
+          ", ",
+          {
+            "text": "right at",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "[the] door",
+            "strong": "G2374"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "Truly",
+            "strong": "G281"
+          },
+          " ",
+          {
+            "text": "I tell",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          ", ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "generation",
+            "strong": "G1074"
+          },
+          " ",
+          {
+            "text": "{will} not",
+            "strong": "G3756"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "pass away",
+            "strong": "G3928"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          {
+            "text": ". . .",
+            "strong": "G302"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "have happened",
+            "strong": "G1096"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Heaven",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "G1093"
+          },
+          " ",
+          {
+            "text": "will pass away",
+            "strong": "G3928"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "words",
+            "strong": "G3056"
+          },
+          " ",
+          {
+            "text": "{will} never",
+            "strong": "G3756"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "pass away",
+            "strong": "G3928"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "No one",
+            "strong": "G3762"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "G1492"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G4012"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "hour",
+            "strong": "G5610"
+          },
+          ", ",
+          {
+            "text": "not even",
+            "strong": "G3761"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in heaven",
+            "strong": "G3772"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "G3761"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1487"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "only",
+            "strong": "G3441"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Father",
+            "strong": "G3962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "As [it was]",
+            "strong": "G5618"
+          },
+          " ",
+          {
+            "text": "in the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Noah",
+            "strong": "G3575"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "will it be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "at the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "G3952"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "G4253"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "flood",
+            "strong": "G2627"
+          },
+          ", ",
+          {
+            "text": "[people] were",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "eating",
+            "strong": "G5176"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "drinking",
+            "strong": "G4095"
+          },
+          ", ",
+          {
+            "text": "marrying",
+            "strong": "G1060"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "giving in marriage",
+            "strong": "G1061"
+          },
+          ", ",
+          {
+            "text": "up to",
+            "strong": "G891"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "Noah",
+            "strong": "G3575"
+          },
+          " ",
+          {
+            "text": "entered",
+            "strong": "G1525"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "ark",
+            "strong": "G2787"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "they were oblivious",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "flood",
+            "strong": "G2627"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "G2064"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "swept them all away",
+            "strong": "G142"
+          },
+          {
+            "text": ". . .",
+            "strong": "G537"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "So",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "will it be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "[at] the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "G3952"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "Two [men]",
+            "strong": "G1417"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "field",
+            "strong": "G68"
+          },
+          ": ",
+          {
+            "text": "one",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "will be taken",
+            "strong": "G3880"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[the other]",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "G863"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "Two [women]",
+            "strong": "G1417"
+          },
+          " ",
+          {
+            "text": "will be grinding",
+            "strong": "G229"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mill",
+            "strong": "G3458"
+          },
+          ": ",
+          {
+            "text": "one",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "will be taken",
+            "strong": "G3880"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[the other]",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "G863"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "keep watch",
+            "strong": "G1127"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "you do not know",
+            "strong": "G1492"
+          },
+          " ",
+          {
+            "text": "[the] day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "on which",
+            "strong": "G4169"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "G2064"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "understand",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G1565"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "If",
+            "strong": "G1487"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "homeowner",
+            "strong": "G3617"
+          },
+          " ",
+          {
+            "text": "had known",
+            "strong": "G1492"
+          },
+          " ",
+          {
+            "text": "in which",
+            "strong": "G4169"
+          },
+          " ",
+          {
+            "text": "watch of the night",
+            "strong": "G5438"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "thief",
+            "strong": "G2812"
+          },
+          " ",
+          {
+            "text": "was coming",
+            "strong": "G2064"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "G302"
+          },
+          " ",
+          {
+            "text": "he would have kept watch",
+            "strong": "G1127"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G302"
+          },
+          " ",
+          {
+            "text": "{would} not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "have let",
+            "strong": "G1439"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "G3614"
+          },
+          " ",
+          {
+            "text": "be broken into",
+            "strong": "G1358"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          {
+            "text": "For this reason",
+            "strong": "G1223"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3778"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "also",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "must be",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "ready",
+            "strong": "G2092"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Man",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "G2064"
+          },
+          " ",
+          {
+            "text": "at an",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "hour",
+            "strong": "G5610"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "you do not expect",
+            "strong": "G1380"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          {
+            "text": "Who",
+            "strong": "G5101"
+          },
+          " ",
+          {
+            "text": "then",
+            "strong": "G686"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "faithful",
+            "strong": "G4103"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "wise",
+            "strong": "G5429"
+          },
+          " ",
+          {
+            "text": "servant",
+            "strong": "G1401"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "master",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "has put in charge",
+            "strong": "G2525"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "household",
+            "strong": "G3610"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "to give",
+            "strong": "G1325"
+          },
+          " ",
+          {
+            "text": "[the others]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "[their]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "G5160"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the proper time",
+            "strong": "G2540"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "Blessed [is]",
+            "strong": "G3107"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "servant",
+            "strong": "G1401"
+          },
+          " ",
+          {
+            "text": "whose",
+            "strong": "G3739"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "master",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "finds",
+            "strong": "G2147"
+          },
+          " ",
+          {
+            "text": "him doing",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "when he returns",
+            "strong": "G2064"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "Truly",
+            "strong": "G281"
+          },
+          " ",
+          {
+            "text": "I tell",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          ", ",
+          {
+            "text": "he will put him in charge",
+            "strong": "G2525"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "possessions",
+            "strong": "G5225"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "suppose",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "servant",
+            "strong": "G1401"
+          },
+          " ",
+          {
+            "text": "[is] wicked",
+            "strong": "G2556"
+          },
+          " ",
+          {
+            "text": "[and] says",
+            "strong": "G2036"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heart",
+            "strong": "G2588"
+          },
+          ", \u2018",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "master",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "will be away a long time",
+            "strong": "G5549"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he begins",
+            "strong": "G756"
+          },
+          " ",
+          {
+            "text": "to beat",
+            "strong": "G5180"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow servants",
+            "strong": "G4889"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "G2068"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "drink",
+            "strong": "G4095"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "drunkards",
+            "strong": "G3184"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "master",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "of that",
+            "strong": "G1565"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "servant",
+            "strong": "G1401"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "G2240"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "a day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "he does not expect",
+            "strong": "G4328"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "an hour",
+            "strong": "G5610"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "he does not anticipate",
+            "strong": "G1097"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he will cut him to pieces",
+            "strong": "G1371"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "assign",
+            "strong": "G5087"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "a place",
+            "strong": "G3313"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hypocrites",
+            "strong": "G5273"
+          },
+          ", ",
+          {
+            "text": "[where] there",
+            "strong": "G1563"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "weeping",
+            "strong": "G2805"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "gnashing",
+            "strong": "G1030"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "teeth",
+            "strong": "G3599"
+          },
+          ".[\u2019\u2019]"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,978 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JER",
+    "name": "Jeremiah",
+    "number": 24
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "After",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5019"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "had carried away",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "Jeconiah",
+            "strong": "H3204"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoiakim",
+            "strong": "H3079"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "as well as",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the officials",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the craftsmen",
+            "strong": "H2796"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and metalsmiths",
+            "strong": "H4525"
+          },
+          " ",
+          {
+            "text": "from Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "and had brought them",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "H894"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "showed me",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "baskets",
+            "strong": "H1731"
+          },
+          " ",
+          {
+            "text": "of figs",
+            "strong": "H8384"
+          },
+          " ",
+          {
+            "text": "placed",
+            "strong": "H3259"
+          },
+          " ",
+          {
+            "text": "in front of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the temple",
+            "strong": "H1964"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "One",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "basket",
+            "strong": "H1731"
+          },
+          " ",
+          {
+            "text": "[had] very",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "figs",
+            "strong": "H8384"
+          },
+          ", ",
+          {
+            "text": "like those that ripen early",
+            "strong": "H8384"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1063"
+          },
+          ", ",
+          {
+            "text": "but the other",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "basket",
+            "strong": "H1731"
+          },
+          " ",
+          {
+            "text": "contained very",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "poor",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "figs",
+            "strong": "H8384"
+          },
+          ", ",
+          {
+            "text": "so bad",
+            "strong": "H7455"
+          },
+          " ",
+          {
+            "text": "they could not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "\u201c",
+          {
+            "text": "Jeremiah",
+            "strong": "H3414"
+          },
+          ",\u201d ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "Figs",
+            "strong": "H8384"
+          },
+          "!\u201d ",
+          {
+            "text": "I replied",
+            "strong": "H559"
+          },
+          ". \u201c",
+          {
+            "text": "The good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "figs",
+            "strong": "H8384"
+          },
+          " ",
+          {
+            "text": "are very",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "but the bad figs",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "are very",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "bad",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "so bad",
+            "strong": "H7455"
+          },
+          " ",
+          {
+            "text": "they cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Then the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "\u201c",
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Like these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "figs",
+            "strong": "H8384"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I regard",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "as good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "the exiles",
+            "strong": "H1546"
+          },
+          " ",
+          {
+            "text": "from Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I have sent away",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "to the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of the Chaldeans",
+            "strong": "H3778"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "I will keep",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "My eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "on them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "for good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "and will return them",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "I will build them up",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "tear [them] down",
+            "strong": "H2040"
+          },
+          "; ",
+          {
+            "text": "I will plant them",
+            "strong": "H5193"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "uproot them",
+            "strong": "H5428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "I will give",
+            "strong": "H5414"
+          },
+          " them ",
+          {
+            "text": "a heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "to know Me",
+            "strong": "H3045"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "They will be",
+            "strong": "H1961"
+          },
+          " My ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " their ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they will return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to Me",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "their heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "But like the bad",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "figs",
+            "strong": "H8384"
+          },
+          ", ",
+          {
+            "text": "so bad",
+            "strong": "H7455"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          ",\u2019 ",
+          {
+            "text": "-",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", \u2018",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "will I deal with",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Zedekiah",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his officials",
+            "strong": "H8269"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the remnant",
+            "strong": "H7611"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3389"
+          },
+          "\u2014 ",
+          {
+            "text": "those remaining",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "in this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and those living",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "I will make them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "a horror",
+            "strong": "H2113"
+          },
+          " ",
+          {
+            "text": "and an offense",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "to all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the kingdoms",
+            "strong": "H4467"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "a disgrace",
+            "strong": "H2781"
+          },
+          " ",
+          {
+            "text": "and an object of scorn",
+            "strong": "H4912"
+          },
+          ", ",
+          {
+            "text": "ridicule",
+            "strong": "H8148"
+          },
+          ", ",
+          {
+            "text": "and cursing",
+            "strong": "H7045"
+          },
+          " ",
+          {
+            "text": "wherever",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I have banished them",
+            "strong": "H5080"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And I will send",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " against them ",
+          {
+            "text": "sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and plague",
+            "strong": "H1698"
+          },
+          ", ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "they have perished",
+            "strong": "H8552"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I gave",
+            "strong": "H5414"
+          },
+          " to them ",
+          {
+            "text": "and their fathers",
+            "strong": "H1"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

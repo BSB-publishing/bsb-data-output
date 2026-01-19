@@ -1,0 +1,2236 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EXO",
+    "name": "Exodus",
+    "number": 2
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          ", ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "of Midian",
+            "strong": "H4080"
+          },
+          ", ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "about all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "had done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "and His people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "and how",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "had brought",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "out of Egypt",
+            "strong": "H4714"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "After",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "had sent back",
+            "strong": "H7964"
+          },
+          " ",
+          {
+            "text": "his wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Zipporah",
+            "strong": "H6855"
+          },
+          ", ",
+          {
+            "text": "[his]",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          " ",
+          {
+            "text": "had received her",
+            "strong": "H3947"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "along with",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "her two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ". ",
+          {
+            "text": "One",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "[son]",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Gershom",
+            "strong": "H1647"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Moses had said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "I have been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a foreigner",
+            "strong": "H1616"
+          },
+          " ",
+          {
+            "text": "in a foreign",
+            "strong": "H5237"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The other [son]",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "was named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Eliezer",
+            "strong": "H461"
+          },
+          ", ",
+          {
+            "text": "for [Moses had said]",
+            "strong": "H3588"
+          },
+          ", \u201c",
+          {
+            "text": "The God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of my father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "was my helper",
+            "strong": "H5828"
+          },
+          " ",
+          {
+            "text": "and delivered me",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from the sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "of Pharaoh",
+            "strong": "H6547"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Moses\u2019 father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          ", ",
+          {
+            "text": "along with Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "and sons",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the desert",
+            "strong": "H4057"
+          },
+          ", ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was encamped",
+            "strong": "H2583"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "at the mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "He sent word",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "your father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          ", ",
+          {
+            "text": "am coming",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "you with your wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "and her",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "went out to meet",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "his father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "and bowed down",
+            "strong": "H7812"
+          },
+          " ",
+          {
+            "text": "and kissed",
+            "strong": "H5401"
+          },
+          " him. ",
+          {
+            "text": "They greeted",
+            "strong": "H7592"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "each",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "other",
+            "strong": "H7453"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "into the tent",
+            "strong": "H168"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "recounted",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "to his father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "to Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "and the Egyptians",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel\u2019s",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "sake",
+            "strong": "H182"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the hardships",
+            "strong": "H8513"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they had encountered",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "along the way",
+            "strong": "H1870"
+          },
+          ", ",
+          {
+            "text": "and how the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had delivered them",
+            "strong": "H5337"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And Jethro",
+            "strong": "H3503"
+          },
+          " ",
+          {
+            "text": "rejoiced",
+            "strong": "H2302"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the good things",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He had rescued",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the Egyptians",
+            "strong": "H4714"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          " ",
+          {
+            "text": "declared",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Blessed [be]",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has delivered",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "from the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the Egyptians",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "and of Pharaoh",
+            "strong": "H6547"
+          },
+          ", ",
+          {
+            "text": "and who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has delivered",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the Egyptians",
+            "strong": "H4714"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "I know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is greater",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "than all other",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "gods",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He did this",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "when they",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "treated Israel with arrogance",
+            "strong": "H2102"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Then Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "Jethro",
+            "strong": "H3503"
+          },
+          " ",
+          {
+            "text": "brought",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a burnt offering",
+            "strong": "H5930"
+          },
+          " ",
+          {
+            "text": "and sacrifices",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "to God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "bread",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "in the presence",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "The next day",
+            "strong": "H4283"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "took his seat",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "to judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and they stood",
+            "strong": "H5975"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "around",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "When [his]",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "[Moses]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for the people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "he asked",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "is this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "you are",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for the people",
+            "strong": "H5971"
+          },
+          "? ",
+          {
+            "text": "Why",
+            "strong": "H4069"
+          },
+          " ",
+          {
+            "text": "do you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "sit",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "alone [as judge]",
+            "strong": "H905"
+          },
+          ", ",
+          {
+            "text": "with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "around",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "you from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "till",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "\u201c",
+          {
+            "text": "Because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "to inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ",\u201d ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2859"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u201c",
+          {
+            "text": "Whenever",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they have",
+            "strong": "H1961"
+          },
+          " . . . ",
+          {
+            "text": "a dispute",
+            "strong": "H1697"
+          },
+          ", ",
+          {
+            "text": "it is brought",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "to judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "one man",
+            "strong": "H376"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "and another",
+            "strong": "H7453"
+          },
+          ", ",
+          {
+            "text": "and I make known",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "to them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "laws",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "What",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Surely",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "will wear yourselves out",
+            "strong": "H5034"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5034"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the task",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "is too heavy",
+            "strong": "H3515"
+          },
+          " ",
+          {
+            "text": "for you",
+            "strong": "H4480"
+          },
+          ". ",
+          {
+            "text": "You cannot",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "handle",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "it alone",
+            "strong": "H905"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "listen to me",
+            "strong": "H8085"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "I will give you some advice",
+            "strong": "H3289"
+          },
+          ", ",
+          {
+            "text": "and may God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          ". ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "must be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the people\u2019s representative",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H4136"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "and bring",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their causes",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Him",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Teach",
+            "strong": "H2094"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and laws",
+            "strong": "H8451"
+          },
+          ", ",
+          {
+            "text": "and show",
+            "strong": "H3045"
+          },
+          " them ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to live",
+            "strong": "H1980"
+          },
+          " - ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the work",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they must do",
+            "strong": "H6213"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Furthermore",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "select",
+            "strong": "H2372"
+          },
+          " ",
+          {
+            "text": "capable",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "from among",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " \u2014 ",
+          {
+            "text": "God-fearing",
+            "strong": "H3373"
+          },
+          {
+            "text": ". . .",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "trustworthy men",
+            "strong": "H571"
+          },
+          " ",
+          {
+            "text": "who are averse",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "to dishonest gain",
+            "strong": "H1215"
+          },
+          ". ",
+          {
+            "text": "Appoint them",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "over [the people]",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "as leaders",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of thousands",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of hundreds",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of fifties",
+            "strong": "H2572"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "and of tens",
+            "strong": "H6235"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Have [these men] judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "at all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H6256"
+          },
+          ". ",
+          {
+            "text": "Then",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "they can bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "major",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "issue",
+            "strong": "H1697"
+          },
+          ", ",
+          {
+            "text": "but all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "minor",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "cases",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "they can judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "on their own",
+            "strong": "H1992"
+          },
+          ", ",
+          {
+            "text": "so that your load may be lightened",
+            "strong": "H7043"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "as they share",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "it with you",
+            "strong": "H854"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you follow",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "advice",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "and God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "so directs you",
+            "strong": "H6680"
+          },
+          ", ",
+          {
+            "text": "then you will be able",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "to endure",
+            "strong": "H5975"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "can go",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "home",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "in peace",
+            "strong": "H7965"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "listened",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "to his father-in-law",
+            "strong": "H2859"
+          },
+          " ",
+          {
+            "text": "and did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he said",
+            "strong": "H559"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "chose",
+            "strong": "H977"
+          },
+          " ",
+          {
+            "text": "capable",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "from all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and made",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "heads",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "as leaders",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of thousands",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of hundreds",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of fifties",
+            "strong": "H2572"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "and of tens",
+            "strong": "H6235"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "And they judged",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "at all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H6256"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "they would bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "the difficult",
+            "strong": "H7186"
+          },
+          " ",
+          {
+            "text": "cases",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "but any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "minor",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "issue",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "they would judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "themselves",
+            "strong": "H1992"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Then Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "his father-in-law {on his way}",
+            "strong": "H2859"
+          },
+          ", ",
+          {
+            "text": "and [Jethro] returned",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his own land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

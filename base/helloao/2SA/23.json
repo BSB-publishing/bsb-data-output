@@ -1,0 +1,2415 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2SA",
+    "name": "2 Samuel",
+    "number": 10
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the last",
+            "strong": "H314"
+          },
+          " ",
+          {
+            "text": "words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ":\u201c",
+          {
+            "text": "The oracle",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jesse",
+            "strong": "H3448"
+          },
+          ", ",
+          {
+            "text": "the oracle",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "of the man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "raised",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "on high",
+            "strong": "H5920"
+          },
+          ", ",
+          {
+            "text": "the one anointed",
+            "strong": "H4899"
+          },
+          " ",
+          {
+            "text": "by the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "and the sweet",
+            "strong": "H5273"
+          },
+          " ",
+          {
+            "text": "psalmist",
+            "strong": "H2158"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The Spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke through",
+            "strong": "H1696"
+          },
+          " me; ",
+          {
+            "text": "His word",
+            "strong": "H4405"
+          },
+          " ",
+          {
+            "text": "was on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my tongue",
+            "strong": "H3956"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "The God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H559"
+          },
+          "; ",
+          {
+            "text": "the Rock",
+            "strong": "H6697"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " to me,\u2018",
+          {
+            "text": "He who rules",
+            "strong": "H4910"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "with justice",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "who rules",
+            "strong": "H4910"
+          },
+          " ",
+          {
+            "text": "in the fear",
+            "strong": "H3374"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "is like the light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "of the morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "at sunrise",
+            "strong": "H8121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2224"
+          },
+          " ",
+          {
+            "text": "of a cloudless",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "dawn",
+            "strong": "H1242"
+          },
+          ", ",
+          {
+            "text": "the glistening",
+            "strong": "H5051"
+          },
+          " ",
+          {
+            "text": "after the rain",
+            "strong": "H4306"
+          },
+          " ",
+          {
+            "text": "on the sprouting grass",
+            "strong": "H1877"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "my house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "right",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          "? ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He has established",
+            "strong": "H7760"
+          },
+          " with me ",
+          {
+            "text": "an everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "covenant",
+            "strong": "H1285"
+          },
+          ", ",
+          {
+            "text": "ordered",
+            "strong": "H6186"
+          },
+          " ",
+          {
+            "text": "and secured",
+            "strong": "H8104"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "in every part",
+            "strong": "H3605"
+          },
+          ". ",
+          {
+            "text": "Will He not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "bring about",
+            "strong": "H6779"
+          },
+          " ",
+          {
+            "text": "my full",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "salvation",
+            "strong": "H3468"
+          },
+          " ",
+          {
+            "text": "and my every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "desire",
+            "strong": "H2656"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "But the worthless",
+            "strong": "H1100"
+          },
+          " ",
+          {
+            "text": "are all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "like thorns",
+            "strong": "H6975"
+          },
+          " ",
+          {
+            "text": "raked aside",
+            "strong": "H5074"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they can never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be gathered",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "by hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "[who] touches",
+            "strong": "H5060"
+          },
+          " them ",
+          {
+            "text": "must be armed",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "with iron",
+            "strong": "H1270"
+          },
+          " ",
+          {
+            "text": "or with the shaft",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of a spear",
+            "strong": "H2595"
+          },
+          ". ",
+          {
+            "text": "The fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "burns them to ashes",
+            "strong": "H8313"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8313"
+          },
+          " ",
+          {
+            "text": "in [the] place [where they lie]",
+            "strong": "H7675"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of David\u2019s",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "mighty men",
+            "strong": "H1368"
+          },
+          ": ",
+          {
+            "text": "Josheb-basshebeth",
+            "strong": "H3429"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3429"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the Tahchemonite",
+            "strong": "H8461"
+          },
+          " ",
+          {
+            "text": "was chief",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the Three",
+            "strong": "H7991"
+          },
+          ". ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "wielded",
+            "strong": "H5722"
+          },
+          " ",
+          {
+            "text": "his spear",
+            "strong": "H6112"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "eight",
+            "strong": "H8083"
+          },
+          " ",
+          {
+            "text": "hundred [men]",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": "whom he killed",
+            "strong": "H2491"
+          },
+          " ",
+          {
+            "text": "at one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6471"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Next in command was",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Dodo",
+            "strong": "H1734"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "the Ahohite",
+            "strong": "H266"
+          },
+          ". ",
+          {
+            "text": "As one of the three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "mighty men",
+            "strong": "H1368"
+          },
+          ", ",
+          {
+            "text": "he [went] with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "to taunt",
+            "strong": "H2778"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "who had gathered",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "for battle",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "[at Pas-dammim]",
+            "strong": "H8033"
+          },
+          ". ",
+          {
+            "text": "The men",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "retreated",
+            "strong": "H5927"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "but Eleazar",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "stood his ground",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and struck",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "his hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "grew weary",
+            "strong": "H3021"
+          },
+          " ",
+          {
+            "text": "and stuck",
+            "strong": "H1692"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his sword",
+            "strong": "H2719"
+          },
+          ". ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "brought about",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "a great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "victory",
+            "strong": "H8668"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ". ",
+          {
+            "text": "Then the troops",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H310"
+          },
+          ", ",
+          {
+            "text": "but only",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "to plunder the dead",
+            "strong": "H6584"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And after him",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "was Shammah",
+            "strong": "H8037"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Agee",
+            "strong": "H89"
+          },
+          " ",
+          {
+            "text": "the Hararite",
+            "strong": "H2043"
+          },
+          ". ",
+          {
+            "text": "When the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "had banded together",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "near",
+            "strong": "H3896"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a field",
+            "strong": "H2513"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "full of",
+            "strong": "H4392"
+          },
+          " ",
+          {
+            "text": "lentils",
+            "strong": "H5742"
+          },
+          ", ",
+          {
+            "text": "[Israel\u2019s] troops",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "fled",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "[them]",
+            "strong": "H6430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "But [Shammah] took his stand",
+            "strong": "H3320"
+          },
+          " ",
+          {
+            "text": "in the middle",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H2513"
+          },
+          ", ",
+          {
+            "text": "defended it",
+            "strong": "H5337"
+          },
+          ", ",
+          {
+            "text": "and struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          ". ",
+          {
+            "text": "So the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "brought about",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "a great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "victory",
+            "strong": "H8668"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "At",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "harvest time",
+            "strong": "H7105"
+          },
+          ", ",
+          {
+            "text": "three",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "of the thirty",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "chief men",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "went down",
+            "strong": "H3381"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the cave",
+            "strong": "H4631"
+          },
+          " ",
+          {
+            "text": "of Adullam",
+            "strong": "H5725"
+          },
+          ", ",
+          {
+            "text": "while a company",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "was encamped",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "in the Valley",
+            "strong": "H6010"
+          },
+          " ",
+          {
+            "text": "of Rephaim",
+            "strong": "H7497"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "At that time",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "was in the stronghold",
+            "strong": "H4686"
+          },
+          ", ",
+          {
+            "text": "and the garrison",
+            "strong": "H4673"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "was at Bethlehem",
+            "strong": "H1035"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "longed [for water]",
+            "strong": "H183"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Oh, that someone",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "would get me a drink",
+            "strong": "H8248"
+          },
+          " ",
+          {
+            "text": "of water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "from the well",
+            "strong": "H877"
+          },
+          " ",
+          {
+            "text": "near the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "of Bethlehem",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "So the three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "mighty men",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "broke",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "through the Philistine",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "camp",
+            "strong": "H4264"
+          },
+          ", ",
+          {
+            "text": "drew",
+            "strong": "H7579"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "from the well",
+            "strong": "H877"
+          },
+          " ",
+          {
+            "text": "near the gate",
+            "strong": "H8179"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "of Bethlehem",
+            "strong": "H1035"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and brought [it]",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "back to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          ". ",
+          {
+            "text": "But he refused",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H14"
+          },
+          " ",
+          {
+            "text": "to drink it",
+            "strong": "H8354"
+          },
+          "; ",
+          {
+            "text": "instead , he poured it out",
+            "strong": "H5258"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Far be it",
+            "strong": "H2486"
+          },
+          " from me, ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "to do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          "! ",
+          {
+            "text": "Is [this not] the blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "of the men",
+            "strong": "H582"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "who risked their lives",
+            "strong": "H5315"
+          },
+          "?\u201d ",
+          {
+            "text": "So he refused",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H14"
+          },
+          " ",
+          {
+            "text": "to drink it",
+            "strong": "H8354"
+          },
+          ". ",
+          {
+            "text": "Such",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were the exploits",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "of the three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "mighty men",
+            "strong": "H1368"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Now Abishai",
+            "strong": "H52"
+          },
+          ", ",
+          {
+            "text": "the brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "of Joab",
+            "strong": "H3097"
+          },
+          " ",
+          {
+            "text": "and son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zeruiah",
+            "strong": "H6870"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was chief",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the Three",
+            "strong": "H7992"
+          },
+          ", ",
+          {
+            "text": "and he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "wielded",
+            "strong": "H5782"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his spear",
+            "strong": "H2595"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "hundred [men]",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": "killed [them]",
+            "strong": "H2491"
+          },
+          ", and won ",
+          {
+            "text": "a name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "along with [the] Three",
+            "strong": "H7969"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Was he not",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "more honored",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the Three",
+            "strong": "H7969"
+          },
+          "? ",
+          {
+            "text": "And he became",
+            "strong": "H1961"
+          },
+          " their ",
+          {
+            "text": "commander",
+            "strong": "H8269"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "even though he was not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "included",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "among the Three",
+            "strong": "H7969"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And Benaiah",
+            "strong": "H1141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoiada",
+            "strong": "H3077"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "[was] a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of valor",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "from Kabzeel",
+            "strong": "H6909"
+          },
+          ", ",
+          {
+            "text": "a man of many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "exploits",
+            "strong": "H6467"
+          },
+          ". ",
+          {
+            "text": "[He]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "champions",
+            "strong": "H739"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          ", ",
+          {
+            "text": "and on a snowy",
+            "strong": "H7950"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "went down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "a pit",
+            "strong": "H953"
+          },
+          " ",
+          {
+            "text": "and killed",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "a lion",
+            "strong": "H738"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "also struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "an Egyptian",
+            "strong": "H4713"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "a huge",
+            "strong": "H4758"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H376"
+          },
+          ". ",
+          {
+            "text": "Although the Egyptian",
+            "strong": "H4713"
+          },
+          " ",
+          {
+            "text": "had a spear",
+            "strong": "H2595"
+          },
+          " ",
+          {
+            "text": "in his hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "Benaiah went against",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "with a club",
+            "strong": "H7626"
+          },
+          ", ",
+          {
+            "text": "snatched",
+            "strong": "H1497"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the spear",
+            "strong": "H2595"
+          },
+          " ",
+          {
+            "text": "from [his]",
+            "strong": "H4713"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "and killed [the Egyptian]",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "with his own spear",
+            "strong": "H2595"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were the exploits",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "of Benaiah",
+            "strong": "H1141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoiada",
+            "strong": "H3077"
+          },
+          ", who won ",
+          {
+            "text": "a name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "along with the three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "mighty men",
+            "strong": "H1368"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "He was most honored",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the Thirty",
+            "strong": "H7970"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "but he did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "become",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "one of the Three",
+            "strong": "H7969"
+          },
+          ". ",
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "appointed him",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his guard",
+            "strong": "H4928"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Now [these were members of] the Thirty",
+            "strong": "H7970"
+          },
+          ": ",
+          {
+            "text": "vvv",
+            "strong": "H6214"
+          },
+          " ",
+          {
+            "text": "Asahel",
+            "strong": "H6214"
+          },
+          " ",
+          {
+            "text": "the brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "of Joab",
+            "strong": "H3097"
+          },
+          ", ",
+          {
+            "text": "Elhanan",
+            "strong": "H445"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Dodo",
+            "strong": "H1734"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "of Bethlehem",
+            "strong": "H1035"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Shammah",
+            "strong": "H8048"
+          },
+          " ",
+          {
+            "text": "the Harodite",
+            "strong": "H2733"
+          },
+          ", ",
+          {
+            "text": "Elika",
+            "strong": "H470"
+          },
+          " ",
+          {
+            "text": "the Harodite",
+            "strong": "H2733"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Helez",
+            "strong": "H2503"
+          },
+          " ",
+          {
+            "text": "the Paltite",
+            "strong": "H6407"
+          },
+          ", ",
+          {
+            "text": "Ira",
+            "strong": "H5896"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ikkesh",
+            "strong": "H6142"
+          },
+          " ",
+          {
+            "text": "the Tekoite",
+            "strong": "H8621"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Abiezer",
+            "strong": "H44"
+          },
+          " ",
+          {
+            "text": "the Anathothite",
+            "strong": "H6069"
+          },
+          ", ",
+          {
+            "text": "Mebunnai",
+            "strong": "H4012"
+          },
+          " ",
+          {
+            "text": "the Hushathite",
+            "strong": "H2843"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Zalmon",
+            "strong": "H6756"
+          },
+          " ",
+          {
+            "text": "the Ahohite",
+            "strong": "H266"
+          },
+          ", ",
+          {
+            "text": "Maharai",
+            "strong": "H4121"
+          },
+          " ",
+          {
+            "text": "the Netophathite",
+            "strong": "H5200"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Heled",
+            "strong": "H2460"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Baanah",
+            "strong": "H1196"
+          },
+          " ",
+          {
+            "text": "the Netophathite",
+            "strong": "H5200"
+          },
+          ", ",
+          {
+            "text": "Ittai",
+            "strong": "H863"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ribai",
+            "strong": "H7380"
+          },
+          " ",
+          {
+            "text": "from Gibeah",
+            "strong": "H1390"
+          },
+          " ",
+          {
+            "text": "of the Benjamites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1144"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Benaiah",
+            "strong": "H1141"
+          },
+          " ",
+          {
+            "text": "the Pirathonite",
+            "strong": "H6553"
+          },
+          ", ",
+          {
+            "text": "Hiddai",
+            "strong": "H1914"
+          },
+          " ",
+          {
+            "text": "from the brooks",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "of Gaash",
+            "strong": "H1608"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H45"
+          },
+          " ",
+          {
+            "text": "Abi-albon",
+            "strong": "H45"
+          },
+          " ",
+          {
+            "text": "the Arbathite",
+            "strong": "H6164"
+          },
+          ", ",
+          {
+            "text": "Azmaveth",
+            "strong": "H5820"
+          },
+          " ",
+          {
+            "text": "the Barhumite",
+            "strong": "H1273"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Eliahba",
+            "strong": "H455"
+          },
+          " ",
+          {
+            "text": "the Shaalbonite",
+            "strong": "H8170"
+          },
+          ", ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jashen",
+            "strong": "H3464"
+          },
+          ", ",
+          {
+            "text": "Jonathan",
+            "strong": "H3083"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "[son of] Shammah",
+            "strong": "H8048"
+          },
+          " ",
+          {
+            "text": "the Hararite",
+            "strong": "H2043"
+          },
+          ", ",
+          {
+            "text": "Ahiam",
+            "strong": "H279"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Sharar",
+            "strong": "H8325"
+          },
+          " ",
+          {
+            "text": "the Hararite",
+            "strong": "H2043"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "Eliphelet",
+            "strong": "H467"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahasbai",
+            "strong": "H308"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "the Maacathite",
+            "strong": "H4602"
+          },
+          ", ",
+          {
+            "text": "Eliam",
+            "strong": "H463"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahithophel",
+            "strong": "H302"
+          },
+          " ",
+          {
+            "text": "the Gilonite",
+            "strong": "H1526"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "Hezro",
+            "strong": "H2695"
+          },
+          " ",
+          {
+            "text": "the Carmelite",
+            "strong": "H3761"
+          },
+          ", ",
+          {
+            "text": "Paarai",
+            "strong": "H6474"
+          },
+          " ",
+          {
+            "text": "the Arbite",
+            "strong": "H701"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "Igal",
+            "strong": "H3008"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Nathan",
+            "strong": "H5416"
+          },
+          " ",
+          {
+            "text": "of Zobah",
+            "strong": "H6678"
+          },
+          ", ",
+          {
+            "text": "Bani",
+            "strong": "H1137"
+          },
+          " ",
+          {
+            "text": "the Gadite",
+            "strong": "H1425"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "Zelek",
+            "strong": "H6768"
+          },
+          " ",
+          {
+            "text": "the Ammonite",
+            "strong": "H5984"
+          },
+          ", ",
+          {
+            "text": "Naharai",
+            "strong": "H5171"
+          },
+          " ",
+          {
+            "text": "the Beerothite",
+            "strong": "H886"
+          },
+          ", ",
+          {
+            "text": "the armor-bearer",
+            "strong": "H5375"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "of Joab",
+            "strong": "H3097"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zeruiah",
+            "strong": "H6870"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "Ira",
+            "strong": "H5896"
+          },
+          " ",
+          {
+            "text": "the Ithrite",
+            "strong": "H3505"
+          },
+          ", ",
+          {
+            "text": "Gareb",
+            "strong": "H1619"
+          },
+          " ",
+          {
+            "text": "the Ithrite",
+            "strong": "H3505"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "and Uriah",
+            "strong": "H223"
+          },
+          " ",
+          {
+            "text": "the Hittite",
+            "strong": "H2850"
+          },
+          ". ",
+          {
+            "text": "There were thirty-seven",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

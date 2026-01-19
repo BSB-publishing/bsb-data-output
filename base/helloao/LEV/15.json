@@ -1,0 +1,2430 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "LEV",
+    "name": "Leviticus",
+    "number": 3
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Say",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          " \u2018",
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "has",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a bodily",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "discharge",
+            "strong": "H2100"
+          },
+          ", ",
+          {
+            "text": "the discharge",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "uncleanness",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from his discharge",
+            "strong": "H2101"
+          },
+          ", ",
+          {
+            "text": "whether his body",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "allows",
+            "strong": "H7325"
+          },
+          " ",
+          {
+            "text": "the discharge {to flow}",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "blocks it",
+            "strong": "H2856"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1320"
+          },
+          ". ",
+          {
+            "text": "So his discharge",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "will bring about",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "uncleanness",
+            "strong": "H2932"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          ", ",
+          {
+            "text": "and any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "furniture",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he sits",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Anyone",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "his bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Whoever sits",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "furniture",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "was sitting",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Whoever touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "the body",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "of the man with a discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "spits",
+            "strong": "H7556"
+          },
+          " ",
+          {
+            "text": "on one who is clean",
+            "strong": "H2889"
+          },
+          ", ",
+          {
+            "text": "[that person] must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "saddle",
+            "strong": "H4817"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "rides",
+            "strong": "H7392"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "under him",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and whoever carries",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "such things",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "If the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "first rinsing",
+            "strong": "H7857"
+          },
+          " ",
+          {
+            "text": "his hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "the one who was touched must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Any clay",
+            "strong": "H2789"
+          },
+          " ",
+          {
+            "text": "pot",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the man with the discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "must be broken",
+            "strong": "H7665"
+          },
+          ", ",
+          {
+            "text": "and any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "wooden",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "utensil",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "must be rinsed",
+            "strong": "H7857"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the man",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "has been cleansed",
+            "strong": "H2891"
+          },
+          " ",
+          {
+            "text": "from his discharge",
+            "strong": "H2101"
+          },
+          ", ",
+          {
+            "text": "he must count off",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          " for his ",
+          {
+            "text": "cleansing",
+            "strong": "H2893"
+          },
+          ", ",
+          {
+            "text": "wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "himself",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "in fresh",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he shall be clean",
+            "strong": "H2891"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "On the eighth",
+            "strong": "H8066"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he is to take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "turtledoves",
+            "strong": "H8449"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "young",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "pigeons",
+            "strong": "H3123"
+          },
+          ", ",
+          {
+            "text": "come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          ", ",
+          {
+            "text": "and give them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "is to sacrifice",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "as a sin offering",
+            "strong": "H2403"
+          },
+          " ",
+          {
+            "text": "and the other",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "as a burnt offering",
+            "strong": "H5930"
+          },
+          ". ",
+          {
+            "text": "In this way the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "will make atonement",
+            "strong": "H3722"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[the man] before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "because of his discharge",
+            "strong": "H2101"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3318"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "has an emission",
+            "strong": "H7902"
+          },
+          " ",
+          {
+            "text": "of semen",
+            "strong": "H2233"
+          },
+          ", ",
+          {
+            "text": "he must bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "his whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "body",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "clothing",
+            "strong": "H899"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "or leather",
+            "strong": "H5785"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "there is",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an emission",
+            "strong": "H7902"
+          },
+          " ",
+          {
+            "text": "of semen",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "must be washed",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and it will remain unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "If a man",
+            "strong": "H376"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "lies with",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "a woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and there is an emission",
+            "strong": "H7902"
+          },
+          " ",
+          {
+            "text": "of semen",
+            "strong": "H2233"
+          },
+          ", ",
+          {
+            "text": "both must bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and they will remain unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "has",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "a discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "consisting",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "of blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "from her body",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "she will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "unclean due to her menstruation",
+            "strong": "H5079"
+          },
+          " ",
+          {
+            "text": "for seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "and anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who touches",
+            "strong": "H5060"
+          },
+          " her ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Anything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "she lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "or sits",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "during her menstruation",
+            "strong": "H5079"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2930"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "and anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "her bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "furniture",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "she was sitting",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "And whether",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "it is",
+            "strong": "H1931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "furniture",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "she",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was sitting",
+            "strong": "H3427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "whoever touches",
+            "strong": "H5060"
+          },
+          " it ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "lies with",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "and her menstrual flow",
+            "strong": "H5079"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "for seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "and any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "will become unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "has a discharge",
+            "strong": "H2100"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "of her blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "for many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "at a time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "other than",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "her menstrual period",
+            "strong": "H5079"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it continues",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "beyond",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her period",
+            "strong": "H5079"
+          },
+          ", ",
+          {
+            "text": "she",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of her unclean",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "discharge",
+            "strong": "H2101"
+          },
+          ", ",
+          {
+            "text": "just as she is during the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of her menstruation",
+            "strong": "H5079"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "she lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "or any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "furniture",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "she sits",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "during the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of her discharge",
+            "strong": "H2101"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5079"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3605"
+          },
+          ", ",
+          {
+            "text": "like her bed",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "during her menstrual period",
+            "strong": "H2932"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5079"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who touches",
+            "strong": "H5060"
+          },
+          " these things ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "; ",
+          {
+            "text": "he must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and bathe",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "with water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "[a woman] is cleansed",
+            "strong": "H2891"
+          },
+          " ",
+          {
+            "text": "of her discharge",
+            "strong": "H2101"
+          },
+          ", ",
+          {
+            "text": "she must count off",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "and after that",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "she will be ceremonially clean",
+            "strong": "H2891"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "On the eighth",
+            "strong": "H8066"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "she is to take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "turtledoves",
+            "strong": "H8449"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "young",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "pigeons",
+            "strong": "H3123"
+          },
+          " ",
+          {
+            "text": "and bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "The priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "is to sacrifice",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "as a sin offering",
+            "strong": "H2403"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the other",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "as a burnt offering",
+            "strong": "H5930"
+          },
+          ". ",
+          {
+            "text": "In this way the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "will make atonement",
+            "strong": "H3722"
+          },
+          " ",
+          {
+            "text": "for her",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "for her unclean",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "discharge",
+            "strong": "H2101"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "You must keep",
+            "strong": "H5144"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel {separate}",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "from their uncleanness",
+            "strong": "H2932"
+          },
+          ", ",
+          {
+            "text": "so that they do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "by defiling",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My tabernacle",
+            "strong": "H4908"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is among them",
+            "strong": "H8432"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of him who has a discharge",
+            "strong": "H2100"
+          },
+          ", ",
+          {
+            "text": "of the man who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "an emission",
+            "strong": "H7902"
+          },
+          " ",
+          {
+            "text": "of semen",
+            "strong": "H2233"
+          },
+          " whereby ",
+          {
+            "text": "he is unclean",
+            "strong": "H2930"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "of a woman",
+            "strong": "H1739"
+          },
+          " ",
+          {
+            "text": "in her menstrual period",
+            "strong": "H5079"
+          },
+          ", ",
+          {
+            "text": "of any male",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "or female",
+            "strong": "H5347"
+          },
+          " ",
+          {
+            "text": "who has a discharge",
+            "strong": "H2100"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2101"
+          },
+          ", ",
+          {
+            "text": "and of a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "an unclean woman",
+            "strong": "H2931"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

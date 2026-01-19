@@ -1,0 +1,2332 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "MAT",
+    "name": "Matthew",
+    "number": 40
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[This is the] record",
+            "strong": "G976"
+          },
+          " ",
+          {
+            "text": "of [the] genealogy",
+            "strong": "G1078"
+          },
+          " ",
+          {
+            "text": "of Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ", ",
+          {
+            "text": "[the] son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "G1138"
+          },
+          ", ",
+          {
+            "text": "[the] son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "of Abraham",
+            "strong": "G11"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Abraham",
+            "strong": "G11"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Isaac",
+            "strong": "G2464"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Isaac",
+            "strong": "G2464"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "G2384"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "G2384"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "G2455"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "G80"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Judah",
+            "strong": "G2455"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Perez",
+            "strong": "G5329"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Zerah",
+            "strong": "G2196"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Tamar",
+            "strong": "G2283"
+          },
+          ", ",
+          {
+            "text": "Perez",
+            "strong": "G5329"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Hezron",
+            "strong": "G2074"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Hezron",
+            "strong": "G2074"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Ram",
+            "strong": "G689"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ram",
+            "strong": "G689"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Amminadab",
+            "strong": "G284"
+          },
+          ", ",
+          {
+            "text": "Amminadab",
+            "strong": "G284"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Nahshon",
+            "strong": "G3476"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Nahshon",
+            "strong": "G3476"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Salmon",
+            "strong": "G4533"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Salmon",
+            "strong": "G4533"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Boaz",
+            "strong": "G1003"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Rahab",
+            "strong": "G4477"
+          },
+          ", ",
+          {
+            "text": "Boaz",
+            "strong": "G1003"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Obed",
+            "strong": "G5601"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Ruth",
+            "strong": "G4503"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Obed",
+            "strong": "G5601"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jesse",
+            "strong": "G2421"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Jesse",
+            "strong": "G2421"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "G1138"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "G935"
+          },
+          ". ",
+          {
+            "text": "Next",
+            "strong": "G1161"
+          },
+          ": ",
+          {
+            "text": "David",
+            "strong": "G1138"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Solomon",
+            "strong": "G4672"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1537"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Uriah\u2019s",
+            "strong": "G3774"
+          },
+          " ",
+          {
+            "text": "[wife]",
+            "strong": "G3588"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Solomon",
+            "strong": "G4672"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Rehoboam",
+            "strong": "G4497"
+          },
+          ", ",
+          {
+            "text": "Rehoboam",
+            "strong": "G4497"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Abijah",
+            "strong": "G7"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Abijah",
+            "strong": "G7"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Asa",
+            "strong": "G760"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Asa",
+            "strong": "G760"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jehoshaphat",
+            "strong": "G2498"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Jehoshaphat",
+            "strong": "G2498"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "G2496"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "G2496"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Uzziah",
+            "strong": "G3604"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Uzziah",
+            "strong": "G3604"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jotham",
+            "strong": "G2488"
+          },
+          ", ",
+          {
+            "text": "Jotham",
+            "strong": "G2488"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Ahaz",
+            "strong": "G881"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Ahaz",
+            "strong": "G881"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Hezekiah",
+            "strong": "G1478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Hezekiah",
+            "strong": "G1478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Manasseh",
+            "strong": "G3128"
+          },
+          ", ",
+          {
+            "text": "Manasseh",
+            "strong": "G3128"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Amon",
+            "strong": "G301"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Amon",
+            "strong": "G301"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Josiah",
+            "strong": "G2502"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Josiah",
+            "strong": "G2502"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jeconiah",
+            "strong": "G2423"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "G80"
+          },
+          " ",
+          {
+            "text": "at [the time]",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "exile",
+            "strong": "G3350"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "G897"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "After",
+            "strong": "G3326"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "exile",
+            "strong": "G3350"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "G897"
+          },
+          ": ",
+          {
+            "text": "Jeconiah",
+            "strong": "G2423"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Shealtiel",
+            "strong": "G4528"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Shealtiel",
+            "strong": "G4528"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Zerubbabel",
+            "strong": "G2216"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Zerubbabel",
+            "strong": "G2216"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Abiud",
+            "strong": "G10"
+          },
+          ", ",
+          {
+            "text": "Abiud",
+            "strong": "G10"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Eliakim",
+            "strong": "G1662"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Eliakim",
+            "strong": "G1662"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Azor",
+            "strong": "G107"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Azor",
+            "strong": "G107"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Zadok",
+            "strong": "G4524"
+          },
+          ", ",
+          {
+            "text": "Zadok",
+            "strong": "G4524"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Achim",
+            "strong": "G885"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Achim",
+            "strong": "G885"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Eliud",
+            "strong": "G1664"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Eliud",
+            "strong": "G1664"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "G1648"
+          },
+          ", ",
+          {
+            "text": "Eleazar",
+            "strong": "G1648"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Matthan",
+            "strong": "G3157"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Matthan",
+            "strong": "G3157"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "G2384"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "G2384"
+          },
+          " ",
+          {
+            "text": "the father of",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "G2501"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "husband",
+            "strong": "G435"
+          },
+          " ",
+          {
+            "text": "of Mary",
+            "strong": "G3137"
+          },
+          ", ",
+          {
+            "text": "of",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "was born",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "is called",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "In all",
+            "strong": "G3956"
+          },
+          ", ",
+          {
+            "text": "then",
+            "strong": "G3767"
+          },
+          ", ",
+          {
+            "text": "[there were] fourteen",
+            "strong": "G1180"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1074"
+          },
+          " ",
+          {
+            "text": "generations",
+            "strong": "G1074"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "G11"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "G1138"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "fourteen",
+            "strong": "G1180"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1074"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "G1138"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "exile",
+            "strong": "G3350"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "G897"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "fourteen",
+            "strong": "G1180"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1074"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "exile",
+            "strong": "G3350"
+          },
+          {
+            "text": ". . .",
+            "strong": "G897"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "This is how",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "birth",
+            "strong": "G1078"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "came about",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          ": ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "mother",
+            "strong": "G3384"
+          },
+          " ",
+          {
+            "text": "Mary",
+            "strong": "G3137"
+          },
+          " ",
+          {
+            "text": "was pledged in marriage",
+            "strong": "G3423"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "to Joseph",
+            "strong": "G2501"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G2228"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "G4250"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "came together",
+            "strong": "G4905"
+          },
+          ", ",
+          {
+            "text": "she was found",
+            "strong": "G2147"
+          },
+          " ",
+          {
+            "text": "to be with child",
+            "strong": "G2192"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1064"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "[the] Holy",
+            "strong": "G40"
+          },
+          " ",
+          {
+            "text": "Spirit",
+            "strong": "G4151"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Because",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "G2501"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "husband",
+            "strong": "G435"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a righteous man",
+            "strong": "G1342"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "was unwilling",
+            "strong": "G2309"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "to disgrace her publicly",
+            "strong": "G1165"
+          },
+          ", ",
+          {
+            "text": "he resolved",
+            "strong": "G1014"
+          },
+          " ",
+          {
+            "text": "to divorce",
+            "strong": "G630"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "quietly",
+            "strong": "G2977"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "after",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "he had pondered",
+            "strong": "G1760"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "G3778"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2400"
+          },
+          " ",
+          {
+            "text": "an angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "of [the] Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "appeared",
+            "strong": "G5316"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "a dream",
+            "strong": "G3677"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G3004"
+          },
+          ", \u201c",
+          {
+            "text": "Joseph",
+            "strong": "G2501"
+          },
+          ", ",
+          {
+            "text": "son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "G1138"
+          },
+          ", ",
+          {
+            "text": "do not be afraid",
+            "strong": "G5399"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "to embrace",
+            "strong": "G3880"
+          },
+          " ",
+          {
+            "text": "Mary",
+            "strong": "G3137"
+          },
+          " ",
+          {
+            "text": "[as]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "G1135"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "the [One]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "conceived",
+            "strong": "G1080"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "[the] Holy",
+            "strong": "G40"
+          },
+          " ",
+          {
+            "text": "Spirit",
+            "strong": "G4151"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "She will give birth to",
+            "strong": "G5088"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "a Son",
+            "strong": "G5207"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "you are to give",
+            "strong": "G2564"
+          },
+          " ",
+          {
+            "text": "Him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "G3686"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "will save",
+            "strong": "G4982"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "G2992"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "sins",
+            "strong": "G266"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "All",
+            "strong": "G3650"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "took place",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2443"
+          },
+          " ",
+          {
+            "text": "fulfill",
+            "strong": "G4137"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "had said",
+            "strong": "G2046"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "prophet",
+            "strong": "G4396"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3004"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "\u201c",
+          {
+            "text": "Behold",
+            "strong": "G2400"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "virgin",
+            "strong": "G3933"
+          },
+          " ",
+          {
+            "text": "will be with child",
+            "strong": "G2192"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1064"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "will give birth to",
+            "strong": "G5088"
+          },
+          " ",
+          {
+            "text": "a son",
+            "strong": "G5207"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "they will call",
+            "strong": "G2564"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Him",
+            "strong": "G846"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3686"
+          },
+          " ",
+          {
+            "text": "Immanuel",
+            "strong": "G1694"
+          },
+          "\u201d ",
+          {
+            "text": "( which",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "means",
+            "strong": "G1510"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3177"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " \u201c",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "G1473"
+          },
+          "\u201d)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "When",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "G2501"
+          },
+          " ",
+          {
+            "text": "woke up",
+            "strong": "G1453"
+          },
+          {
+            "text": ". . .",
+            "strong": "G575"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G5258"
+          },
+          ", ",
+          {
+            "text": "he did",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "of [the] Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "had commanded",
+            "strong": "G4367"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "embraced",
+            "strong": "G3880"
+          },
+          " ",
+          {
+            "text": "[Mary as]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "G1135"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "[But]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he had no union",
+            "strong": "G1097"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "with her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "she gave birth to",
+            "strong": "G5088"
+          },
+          " ",
+          {
+            "text": "a Son",
+            "strong": "G5207"
+          },
+          ". ",
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he gave Him the name",
+            "strong": "G2564"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3686"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

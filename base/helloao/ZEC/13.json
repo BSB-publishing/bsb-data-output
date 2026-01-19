@@ -1,0 +1,819 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ZEC",
+    "name": "Zechariah",
+    "number": 38
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "On that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "a fountain",
+            "strong": "H4726"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "opened",
+            "strong": "H6605"
+          },
+          " ",
+          {
+            "text": "to the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and the people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "to cleanse them from sin",
+            "strong": "H2403"
+          },
+          " ",
+          {
+            "text": "and impurity",
+            "strong": "H5079"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "on that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ", ",
+          {
+            "text": "I will erase",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the idols",
+            "strong": "H6091"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and they will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "be remembered",
+            "strong": "H2142"
+          },
+          ". ",
+          {
+            "text": "I will also remove",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "the prophets",
+            "strong": "H5030"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of impurity",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "anyone",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "still",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "prophesies",
+            "strong": "H5012"
+          },
+          ", ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and mother",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "who bore him",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "will say",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          ", \u2018",
+          {
+            "text": "You shall not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "remain alive",
+            "strong": "H2421"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have spoken",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "falsely",
+            "strong": "H8267"
+          },
+          " ",
+          {
+            "text": "in the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ".\u2019 ",
+          {
+            "text": "When he prophesies",
+            "strong": "H5012"
+          },
+          ", ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and mother",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "who bore him",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "will pierce him through",
+            "strong": "H1856"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "on that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "prophet",
+            "strong": "H5030"
+          },
+          " ",
+          {
+            "text": "who prophesies",
+            "strong": "H5012"
+          },
+          " ",
+          {
+            "text": "will be ashamed",
+            "strong": "H954"
+          },
+          " ",
+          {
+            "text": "of his vision",
+            "strong": "H2384"
+          },
+          ", ",
+          {
+            "text": "and he will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "put on",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "a hairy",
+            "strong": "H8181"
+          },
+          " ",
+          {
+            "text": "cloak",
+            "strong": "H155"
+          },
+          " ",
+          {
+            "text": "in order to",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "deceive",
+            "strong": "H3584"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "He will say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          {
+            "text": ". . .",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "am not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "a prophet",
+            "strong": "H5030"
+          },
+          "; ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "work",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H127"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "I was purchased as a servant",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "in my youth",
+            "strong": "H5271"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "If someone asks",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          ", \u2018",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "are these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "wounds",
+            "strong": "H4347"
+          },
+          " ",
+          {
+            "text": "on your chest",
+            "strong": "H996"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          "?\u2019 ",
+          {
+            "text": "he will answer",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "These are",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the wounds I received",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "in the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of my friends",
+            "strong": "H157"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Awake",
+            "strong": "H5782"
+          },
+          ", ",
+          {
+            "text": "O sword",
+            "strong": "H2719"
+          },
+          ", ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "My Shepherd",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "who is My Companion",
+            "strong": "H5997"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ". ",
+          {
+            "text": "Strike",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Shepherd",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "and the sheep",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "will be scattered",
+            "strong": "H6327"
+          },
+          ", ",
+          {
+            "text": "and I will turn",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "My hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the little ones",
+            "strong": "H6819"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "two-thirds",
+            "strong": "H6310"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "will be cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "[and] perish",
+            "strong": "H1478"
+          },
+          ", ",
+          {
+            "text": "but a third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "will be left",
+            "strong": "H3498"
+          },
+          " in it."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "This third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "I will bring",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "through the fire",
+            "strong": "H784"
+          },
+          "; ",
+          {
+            "text": "I will refine them",
+            "strong": "H6884"
+          },
+          " ",
+          {
+            "text": "like silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6884"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and test them",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "like gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "They will call",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "on My name",
+            "strong": "H8034"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will answer them",
+            "strong": "H6030"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "I will say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "They are My people",
+            "strong": "H5971"
+          },
+          ",\u2019 ",
+          {
+            "text": "and they",
+            "strong": "H1931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "will say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "The LORD [is]",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "our God",
+            "strong": "H430"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 88,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "May my prayer",
+            "strong": "H8605"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "before You",
+            "strong": "H6440"
+          },
+          "; ",
+          {
+            "text": "incline",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "Your ear",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "to my cry",
+            "strong": "H7440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "is full",
+            "strong": "H7646"
+          },
+          " ",
+          {
+            "text": "of troubles",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and my life",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "draws near",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "to Sheol",
+            "strong": "H7585"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "I am counted",
+            "strong": "H2803"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "those descending",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to the Pit",
+            "strong": "H953"
+          },
+          ". ",
+          {
+            "text": "I am",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like a man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "strength",
+            "strong": "H353"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "I am forsaken",
+            "strong": "H2670"
+          },
+          " ",
+          {
+            "text": "among the dead",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "like",
+            "strong": "H3644"
+          },
+          " ",
+          {
+            "text": "the slain",
+            "strong": "H2491"
+          },
+          " ",
+          {
+            "text": "who lie",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "in the grave",
+            "strong": "H6913"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "H5750"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "are cut off",
+            "strong": "H1504"
+          },
+          " ",
+          {
+            "text": "from Your care",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "You have laid me",
+            "strong": "H7896"
+          },
+          " ",
+          {
+            "text": "in the lowest",
+            "strong": "H8482"
+          },
+          " ",
+          {
+            "text": "Pit",
+            "strong": "H953"
+          },
+          ", ",
+          {
+            "text": "in the darkest",
+            "strong": "H4285"
+          },
+          " ",
+          {
+            "text": "of the depths",
+            "strong": "H4688"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Your wrath",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "weighs heavily",
+            "strong": "H5564"
+          },
+          " ",
+          {
+            "text": "upon me",
+            "strong": "H5921"
+          },
+          "; ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "Your waves",
+            "strong": "H4867"
+          },
+          " ",
+          {
+            "text": "have submerged [me]",
+            "strong": "H6031"
+          },
+          ". ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "You have removed",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "my friends",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          "; ",
+          {
+            "text": "You have made me",
+            "strong": "H7896"
+          },
+          " ",
+          {
+            "text": "repulsive",
+            "strong": "H8441"
+          },
+          " to them; ",
+          {
+            "text": "I am confined",
+            "strong": "H3607"
+          },
+          " ",
+          {
+            "text": "and cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "escape",
+            "strong": "H3318"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "My eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "grow dim",
+            "strong": "H1669"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "grief",
+            "strong": "H6040"
+          },
+          ". ",
+          {
+            "text": "I call to You",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "daily",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "I spread out",
+            "strong": "H7849"
+          },
+          " ",
+          {
+            "text": "my hands",
+            "strong": "H3709"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H413"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Do You work",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "wonders",
+            "strong": "H6382"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "for the dead",
+            "strong": "H4191"
+          },
+          "? ",
+          {
+            "text": "Do departed spirits",
+            "strong": "H7496"
+          },
+          " ",
+          {
+            "text": "rise up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "to praise You",
+            "strong": "H3034"
+          },
+          "? ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Can Your loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "be proclaimed",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "in the grave",
+            "strong": "H6913"
+          },
+          ", ",
+          {
+            "text": "Your faithfulness",
+            "strong": "H530"
+          },
+          " ",
+          {
+            "text": "in Abaddon",
+            "strong": "H11"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Will Your wonders",
+            "strong": "H6382"
+          },
+          " ",
+          {
+            "text": "be known",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "in the darkness",
+            "strong": "H2822"
+          },
+          ", ",
+          {
+            "text": "or Your righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of oblivion",
+            "strong": "H5388"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "I cry for help",
+            "strong": "H7768"
+          },
+          "; ",
+          {
+            "text": "in the morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "my prayer",
+            "strong": "H8605"
+          },
+          " ",
+          {
+            "text": "comes before You",
+            "strong": "H6923"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "do You reject",
+            "strong": "H2186"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H5315"
+          },
+          "? ",
+          {
+            "text": "Why do You hide",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "Your face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "From my youth",
+            "strong": "H5290"
+          },
+          " ",
+          {
+            "text": "I [was]",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "and near death",
+            "strong": "H1478"
+          },
+          ". ",
+          {
+            "text": "I have borne",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "Your terrors",
+            "strong": "H367"
+          },
+          "; ",
+          {
+            "text": "I am in despair",
+            "strong": "H6323"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Your wrath",
+            "strong": "H2740"
+          },
+          " ",
+          {
+            "text": "has swept",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "over me",
+            "strong": "H5921"
+          },
+          "; ",
+          {
+            "text": "Your terrors",
+            "strong": "H1161"
+          },
+          " ",
+          {
+            "text": "have destroyed me",
+            "strong": "H6789"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day long",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "they engulf me",
+            "strong": "H5437"
+          },
+          " ",
+          {
+            "text": "like water",
+            "strong": "H4325"
+          },
+          "; ",
+          {
+            "text": "they enclose me",
+            "strong": "H5362"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "every side",
+            "strong": "H3162"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "You have removed",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "beloved",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "and my friend",
+            "strong": "H7453"
+          },
+          "; ",
+          {
+            "text": "darkness",
+            "strong": "H4285"
+          },
+          " ",
+          {
+            "text": "is my closest companion",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JON",
+    "name": "Jonah",
+    "number": 32
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Jonah, however",
+            "strong": "H3124"
+          },
+          ", ",
+          {
+            "text": "was greatly",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "displeased",
+            "strong": "H7489"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and he became angry",
+            "strong": "H2734"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So he prayed",
+            "strong": "H6419"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "O",
+            "strong": "H577"
+          },
+          " ",
+          {
+            "text": "LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "is this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "what I said",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "while",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "I was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "still in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my own country",
+            "strong": "H127"
+          },
+          "? ",
+          {
+            "text": "This is why",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I was so quick",
+            "strong": "H6923"
+          },
+          " ",
+          {
+            "text": "to flee",
+            "strong": "H1272"
+          },
+          " ",
+          {
+            "text": "toward Tarshish",
+            "strong": "H8659"
+          },
+          ". ",
+          {
+            "text": "I knew",
+            "strong": "H3045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You [are]",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "a gracious",
+            "strong": "H2587"
+          },
+          " ",
+          {
+            "text": "and compassionate",
+            "strong": "H7349"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          ", ",
+          {
+            "text": "slow",
+            "strong": "H750"
+          },
+          " ",
+          {
+            "text": "to anger",
+            "strong": "H639"
+          },
+          ", ",
+          {
+            "text": "abounding",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "in loving devotion",
+            "strong": "H2617"
+          },
+          " \u2014 ",
+          {
+            "text": "One who relents",
+            "strong": "H5162"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "sending disaster",
+            "strong": "H7451"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "for me to die",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "than to live",
+            "strong": "H2416"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "But the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          ", \u201cHave you ",
+          {
+            "text": "any right",
+            "strong": "H3190"
+          },
+          " ",
+          {
+            "text": "to be angry",
+            "strong": "H2734"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then Jonah",
+            "strong": "H3124"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "and sat down",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "east",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "of it",
+            "strong": "H6924"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "[where]",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "he made",
+            "strong": "H6213"
+          },
+          " himself ",
+          {
+            "text": "a shelter",
+            "strong": "H5521"
+          },
+          " ",
+          {
+            "text": "and sat",
+            "strong": "H3427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "in its shade",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "would happen",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to the city",
+            "strong": "H5892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "So the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "appointed",
+            "strong": "H4487"
+          },
+          " ",
+          {
+            "text": "a vine",
+            "strong": "H7021"
+          },
+          ", ",
+          {
+            "text": "and it grew up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to provide",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "shade",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Jonah\u2019s",
+            "strong": "H3124"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "to ease",
+            "strong": "H5337"
+          },
+          " his ",
+          {
+            "text": "discomfort",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and Jonah",
+            "strong": "H3124"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "was greatly",
+            "strong": "H8057"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "pleased",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "with the plant",
+            "strong": "H7021"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "When dawn",
+            "strong": "H7837"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the next day",
+            "strong": "H4283"
+          },
+          ", ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "appointed",
+            "strong": "H4487"
+          },
+          " ",
+          {
+            "text": "a worm",
+            "strong": "H8438"
+          },
+          " ",
+          {
+            "text": "that attacked",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the plant",
+            "strong": "H7021"
+          },
+          " ",
+          {
+            "text": "so that it withered",
+            "strong": "H3001"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "As the sun",
+            "strong": "H8121"
+          },
+          " ",
+          {
+            "text": "was rising",
+            "strong": "H2224"
+          },
+          ", ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "appointed",
+            "strong": "H4487"
+          },
+          " ",
+          {
+            "text": "a scorching",
+            "strong": "H2759"
+          },
+          " ",
+          {
+            "text": "east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "wind",
+            "strong": "H7307"
+          },
+          ", ",
+          {
+            "text": "and the sun",
+            "strong": "H8121"
+          },
+          " ",
+          {
+            "text": "beat down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Jonah\u2019s",
+            "strong": "H3124"
+          },
+          " ",
+          {
+            "text": "head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "so that he grew faint",
+            "strong": "H5968"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "and wished",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to die",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "It is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "for me to die",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "than to live",
+            "strong": "H2416"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Jonah",
+            "strong": "H3124"
+          },
+          ", \u201cHave you ",
+          {
+            "text": "any right",
+            "strong": "H3190"
+          },
+          " ",
+          {
+            "text": "to be angry",
+            "strong": "H2734"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the plant",
+            "strong": "H7021"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "I do",
+            "strong": "H3190"
+          },
+          ",\u201d ",
+          {
+            "text": "he replied",
+            "strong": "H559"
+          },
+          ". \u201c",
+          {
+            "text": "I am angry",
+            "strong": "H2734"
+          },
+          " ",
+          {
+            "text": "enough to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4194"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "But the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "cared",
+            "strong": "H2347"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the plant",
+            "strong": "H7021"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you neither",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "tended",
+            "strong": "H5998"
+          },
+          " ",
+          {
+            "text": "nor",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "made grow",
+            "strong": "H1431"
+          },
+          ". ",
+          {
+            "text": "It sprang up",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in a night",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "and perished",
+            "strong": "H6"
+          },
+          " ",
+          {
+            "text": "in a night",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3915"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "So should I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "care",
+            "strong": "H2347"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of Nineveh",
+            "strong": "H5210"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "more than",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "120,000 {}",
+            "strong": "H8147"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7239"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "tell",
+            "strong": "H3045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "their right hand",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "from their left",
+            "strong": "H8040"
+          },
+          ", ",
+          {
+            "text": "and many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "cattle as well",
+            "strong": "H929"
+          },
+          "?\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

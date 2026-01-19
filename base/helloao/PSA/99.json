@@ -1,0 +1,479 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 99,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "reigns",
+            "strong": "H4427"
+          },
+          "; ",
+          {
+            "text": "let the nations",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "tremble",
+            "strong": "H7264"
+          },
+          "! ",
+          {
+            "text": "He is enthroned",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "above the cherubim",
+            "strong": "H3742"
+          },
+          "; ",
+          {
+            "text": "let the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "quake",
+            "strong": "H5120"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Great is",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "in Zion",
+            "strong": "H6726"
+          },
+          "; ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is exalted",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Let them praise",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "Your great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "and awesome",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " \u2014 ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is holy",
+            "strong": "H6918"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The mighty",
+            "strong": "H5797"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "loves",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          ". ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have established",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "equity",
+            "strong": "H4339"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have exercised",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "and righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "in Jacob",
+            "strong": "H3290"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Exalt",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "our God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and worship",
+            "strong": "H7812"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H1916"
+          },
+          " ",
+          {
+            "text": "His footstool",
+            "strong": "H7272"
+          },
+          "; ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is holy",
+            "strong": "H6918"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "were among His priests",
+            "strong": "H3548"
+          },
+          "; ",
+          {
+            "text": "Samuel",
+            "strong": "H8050"
+          },
+          " ",
+          {
+            "text": "was among those who called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "on His name",
+            "strong": "H8034"
+          },
+          ". ",
+          {
+            "text": "They called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "and He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to them",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "from the pillar",
+            "strong": "H5982"
+          },
+          " ",
+          {
+            "text": "of cloud",
+            "strong": "H6051"
+          },
+          "; ",
+          {
+            "text": "they kept",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "His decrees",
+            "strong": "H5713"
+          },
+          " ",
+          {
+            "text": "and the statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "He gave",
+            "strong": "H5414"
+          },
+          " them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "our God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "answered them",
+            "strong": "H6030"
+          },
+          ". ",
+          {
+            "text": "You were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a forgiving",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          " to them, ",
+          {
+            "text": "yet an avenger",
+            "strong": "H5358"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their misdeeds",
+            "strong": "H5949"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Exalt",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "our God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H7812"
+          },
+          " ",
+          {
+            "text": "at His holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "our God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "is holy",
+            "strong": "H6918"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "He lifted me up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "from the pit",
+            "strong": "H953"
+          },
+          " ",
+          {
+            "text": "of despair",
+            "strong": "H7588"
+          },
+          ", ",
+          {
+            "text": "out of the miry",
+            "strong": "H3121"
+          },
+          " ",
+          {
+            "text": "clay",
+            "strong": "H2916"
+          },
+          "; ",
+          {
+            "text": "He set",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "my feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a rock",
+            "strong": "H5553"
+          },
+          ", ",
+          {
+            "text": "[and] made my footsteps",
+            "strong": "H838"
+          },
+          " ",
+          {
+            "text": "firm",
+            "strong": "H3559"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He put",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "a new",
+            "strong": "H2319"
+          },
+          " ",
+          {
+            "text": "song",
+            "strong": "H7892"
+          },
+          " ",
+          {
+            "text": "in my mouth",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "a hymn of praise",
+            "strong": "H8416"
+          },
+          " ",
+          {
+            "text": "to our God",
+            "strong": "H430"
+          },
+          ". ",
+          {
+            "text": "Many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "will see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and fear",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "and put their trust",
+            "strong": "H982"
+          },
+          " ",
+          {
+            "text": "in the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Blessed",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "is the man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "has made",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "his trust",
+            "strong": "H4009"
+          },
+          ", ",
+          {
+            "text": "who has not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H6437"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the proud",
+            "strong": "H7295"
+          },
+          ", ",
+          {
+            "text": "nor to those who lapse",
+            "strong": "H7750"
+          },
+          " ",
+          {
+            "text": "into falsehood",
+            "strong": "H3577"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Many",
+            "strong": "H7227"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "are the wonders",
+            "strong": "H6381"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have done",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "and the plans You have",
+            "strong": "H4284"
+          },
+          " ",
+          {
+            "text": "for us",
+            "strong": "H413"
+          },
+          " \u2014 ",
+          {
+            "text": "none",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "can compare",
+            "strong": "H6186"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H413"
+          },
+          " \u2014 ",
+          {
+            "text": "if I proclaim",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "and declare them",
+            "strong": "H1696"
+          },
+          ", ",
+          {
+            "text": "they are more than",
+            "strong": "H6105"
+          },
+          " ",
+          {
+            "text": "[I] can count",
+            "strong": "H5608"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "and offering",
+            "strong": "H4503"
+          },
+          " ",
+          {
+            "text": "You did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "desire",
+            "strong": "H2654"
+          },
+          ", ",
+          {
+            "text": "but my ears",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "You have opened",
+            "strong": "H3738"
+          },
+          ". ",
+          {
+            "text": "Burnt offerings",
+            "strong": "H5930"
+          },
+          " ",
+          {
+            "text": "and sin offerings",
+            "strong": "H2401"
+          },
+          " ",
+          {
+            "text": "You did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "require",
+            "strong": "H7592"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "I said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Here I am",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I have come",
+            "strong": "H935"
+          },
+          " \u2014 ",
+          {
+            "text": "it is written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "about me",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "in the scroll",
+            "strong": "H4039"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5612"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "I delight",
+            "strong": "H2654"
+          },
+          " ",
+          {
+            "text": "to do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "Your will",
+            "strong": "H7522"
+          },
+          ", ",
+          {
+            "text": "O my God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "Your law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "[is] within",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "my heart",
+            "strong": "H4578"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "I proclaim",
+            "strong": "H1319"
+          },
+          " ",
+          {
+            "text": "righteousness",
+            "strong": "H6664"
+          },
+          " ",
+          {
+            "text": "in the great",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "assembly",
+            "strong": "H6951"
+          },
+          "; ",
+          {
+            "text": "behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "seal",
+            "strong": "H3607"
+          },
+          " ",
+          {
+            "text": "my lips",
+            "strong": "H8193"
+          },
+          ", ",
+          {
+            "text": "as You",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "do know",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "I have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "covered up",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "Your righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "my heart",
+            "strong": "H3820"
+          },
+          "; ",
+          {
+            "text": "I have declared",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Your faithfulness",
+            "strong": "H530"
+          },
+          " ",
+          {
+            "text": "and salvation",
+            "strong": "H8668"
+          },
+          "; ",
+          {
+            "text": "I have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "concealed",
+            "strong": "H3582"
+          },
+          " ",
+          {
+            "text": "Your loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "and faithfulness",
+            "strong": "H571"
+          },
+          " ",
+          {
+            "text": "from the great",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "assembly",
+            "strong": "H6951"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "withhold",
+            "strong": "H3607"
+          },
+          " ",
+          {
+            "text": "Your mercy",
+            "strong": "H7356"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          "; ",
+          {
+            "text": "Your loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "and faithfulness",
+            "strong": "H571"
+          },
+          " ",
+          {
+            "text": "will always",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "guard me",
+            "strong": "H5341"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "evils",
+            "strong": "H7451"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "number",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "surround me",
+            "strong": "H661"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          "; ",
+          {
+            "text": "my sins",
+            "strong": "H5771"
+          },
+          " ",
+          {
+            "text": "have overtaken me",
+            "strong": "H5381"
+          },
+          ", ",
+          {
+            "text": "so that I cannot",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          ". ",
+          {
+            "text": "They are more",
+            "strong": "H6105"
+          },
+          " ",
+          {
+            "text": "than the hairs",
+            "strong": "H8185"
+          },
+          " ",
+          {
+            "text": "of my head",
+            "strong": "H7218"
+          },
+          ", ",
+          {
+            "text": "and my heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "has failed within me",
+            "strong": "H5800"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Be pleased",
+            "strong": "H7521"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "to deliver me",
+            "strong": "H5337"
+          },
+          "; ",
+          {
+            "text": "hurry",
+            "strong": "H2363"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "to help me",
+            "strong": "H5833"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "May those who seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5595"
+          },
+          " ",
+          {
+            "text": "my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "be ashamed",
+            "strong": "H954"
+          },
+          " ",
+          {
+            "text": "and confounded",
+            "strong": "H2659"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3162"
+          },
+          "; ",
+          {
+            "text": "may those who wish me",
+            "strong": "H2655"
+          },
+          " ",
+          {
+            "text": "harm",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "be repelled",
+            "strong": "H5472"
+          },
+          {
+            "text": ". . .",
+            "strong": "H268"
+          },
+          " ",
+          {
+            "text": "and humiliated",
+            "strong": "H3637"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "May those who say",
+            "strong": "H559"
+          },
+          " to me, \u201c",
+          {
+            "text": "Aha",
+            "strong": "H1889"
+          },
+          ", ",
+          {
+            "text": "aha",
+            "strong": "H1889"
+          },
+          "!\u201d ",
+          {
+            "text": "be appalled",
+            "strong": "H8074"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6118"
+          },
+          " ",
+          {
+            "text": "their own shame",
+            "strong": "H1322"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "May all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who seek You",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "rejoice",
+            "strong": "H7797"
+          },
+          " ",
+          {
+            "text": "and be glad",
+            "strong": "H8055"
+          },
+          " in You; ",
+          {
+            "text": "may those who love",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "Your salvation",
+            "strong": "H8668"
+          },
+          " ",
+          {
+            "text": "always",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "be magnified",
+            "strong": "H1431"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But I [am]",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "poor",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "and needy",
+            "strong": "H34"
+          },
+          "; ",
+          {
+            "text": "may the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "think",
+            "strong": "H2803"
+          },
+          " of me. ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are my helper",
+            "strong": "H5833"
+          },
+          " ",
+          {
+            "text": "and deliverer",
+            "strong": "H6403"
+          },
+          "; ",
+          {
+            "text": "O my God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "delay",
+            "strong": "H309"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

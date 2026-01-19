@@ -1,0 +1,674 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Woe",
+            "strong": "H1945"
+          },
+          " ",
+          {
+            "text": "to the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of whirring",
+            "strong": "H6767"
+          },
+          " ",
+          {
+            "text": "wings",
+            "strong": "H3671"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5676"
+          },
+          " ",
+          {
+            "text": "the rivers",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "of Cush",
+            "strong": "H3568"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "which sends",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "couriers",
+            "strong": "H6735"
+          },
+          " ",
+          {
+            "text": "by sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "in papyrus",
+            "strong": "H1573"
+          },
+          " ",
+          {
+            "text": "vessels",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          ". ",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "swift",
+            "strong": "H7031"
+          },
+          " ",
+          {
+            "text": "messengers",
+            "strong": "H4397"
+          },
+          ", ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a people",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "tall",
+            "strong": "H4900"
+          },
+          " ",
+          {
+            "text": "and smooth-skinned",
+            "strong": "H4803"
+          },
+          ", ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "widely",
+            "strong": "H4480"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1973"
+          },
+          " ",
+          {
+            "text": "feared",
+            "strong": "H3372"
+          },
+          ", ",
+          {
+            "text": "to a powerful",
+            "strong": "H6957"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6957"
+          },
+          " ",
+          {
+            "text": "of strange speech",
+            "strong": "H4001"
+          },
+          ", ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "is divided",
+            "strong": "H958"
+          },
+          " ",
+          {
+            "text": "by rivers",
+            "strong": "H5104"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "you people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of the world",
+            "strong": "H8398"
+          },
+          " ",
+          {
+            "text": "and dwellers",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "when a banner",
+            "strong": "H5251"
+          },
+          " ",
+          {
+            "text": "is raised",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "on the mountains",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "you will see it",
+            "strong": "H7200"
+          },
+          "; ",
+          {
+            "text": "when a ram\u2019s horn",
+            "strong": "H7782"
+          },
+          " ",
+          {
+            "text": "sounds",
+            "strong": "H8628"
+          },
+          ", ",
+          {
+            "text": "you will hear it",
+            "strong": "H8085"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H413"
+          },
+          ":\u201c",
+          {
+            "text": "I will quietly",
+            "strong": "H8252"
+          },
+          " ",
+          {
+            "text": "look on",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "from My dwelling place",
+            "strong": "H4349"
+          },
+          ", ",
+          {
+            "text": "like shimmering",
+            "strong": "H6703"
+          },
+          " ",
+          {
+            "text": "heat",
+            "strong": "H2527"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the sunshine",
+            "strong": "H216"
+          },
+          ", ",
+          {
+            "text": "like a cloud",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "of dew",
+            "strong": "H2919"
+          },
+          " ",
+          {
+            "text": "in the heat",
+            "strong": "H2527"
+          },
+          " ",
+          {
+            "text": "of harvest",
+            "strong": "H7105"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the harvest",
+            "strong": "H7105"
+          },
+          ", ",
+          {
+            "text": "when the blossom",
+            "strong": "H6525"
+          },
+          " ",
+          {
+            "text": "is gone",
+            "strong": "H8552"
+          },
+          " ",
+          {
+            "text": "and the flower",
+            "strong": "H5328"
+          },
+          " ",
+          {
+            "text": "becomes",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a ripening",
+            "strong": "H1580"
+          },
+          " ",
+          {
+            "text": "grape",
+            "strong": "H1155"
+          },
+          ", ",
+          {
+            "text": "He will cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "the shoots",
+            "strong": "H2150"
+          },
+          " ",
+          {
+            "text": "with a pruning knife",
+            "strong": "H4211"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "remove",
+            "strong": "H8456"
+          },
+          " ",
+          {
+            "text": "and discard",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "the branches",
+            "strong": "H5189"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "They will all",
+            "strong": "H3162"
+          },
+          " ",
+          {
+            "text": "be left",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "to the mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "birds of prey",
+            "strong": "H5861"
+          },
+          ", ",
+          {
+            "text": "and to the beasts",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "The birds",
+            "strong": "H5861"
+          },
+          " ",
+          {
+            "text": "will feed on them in summer",
+            "strong": "H6972"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the wild animals",
+            "strong": "H929"
+          },
+          {
+            "text": ". . .",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "in winter",
+            "strong": "H2778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "At that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "gifts",
+            "strong": "H7862"
+          },
+          " ",
+          {
+            "text": "will be brought",
+            "strong": "H2986"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          "\u2014 ",
+          {
+            "text": "from a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "tall",
+            "strong": "H4900"
+          },
+          " ",
+          {
+            "text": "and smooth-skinned",
+            "strong": "H4803"
+          },
+          ", ",
+          {
+            "text": "from a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "widely",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "feared",
+            "strong": "H3372"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H1973"
+          },
+          " ",
+          {
+            "text": "from a powerful",
+            "strong": "H6957"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6957"
+          },
+          " ",
+          {
+            "text": "of strange speech",
+            "strong": "H4001"
+          },
+          ", ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "is divided",
+            "strong": "H958"
+          },
+          " ",
+          {
+            "text": "by rivers",
+            "strong": "H5104"
+          },
+          "\u2014 ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          ", ",
+          {
+            "text": "the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "of the Name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

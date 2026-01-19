@@ -1,0 +1,916 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Your arrows",
+            "strong": "H2671"
+          },
+          " ",
+          {
+            "text": "have pierced me deeply",
+            "strong": "H5181"
+          },
+          ", ",
+          {
+            "text": "and Your hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "has pressed down",
+            "strong": "H5181"
+          },
+          " ",
+          {
+            "text": "on me",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "There is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "soundness",
+            "strong": "H4974"
+          },
+          " ",
+          {
+            "text": "in my body",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Your anger",
+            "strong": "H2195"
+          },
+          "; ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "rest",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "in my bones",
+            "strong": "H6106"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "my sin",
+            "strong": "H2403"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my iniquities",
+            "strong": "H5771"
+          },
+          " ",
+          {
+            "text": "have overwhelmed",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H7218"
+          },
+          "; ",
+          {
+            "text": "they are a burden",
+            "strong": "H4853"
+          },
+          " ",
+          {
+            "text": "too heavy",
+            "strong": "H3515"
+          },
+          " ",
+          {
+            "text": "to bear",
+            "strong": "H3513"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "My wounds",
+            "strong": "H2250"
+          },
+          " ",
+          {
+            "text": "are foul",
+            "strong": "H887"
+          },
+          " ",
+          {
+            "text": "and festering",
+            "strong": "H4743"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "my sinful folly",
+            "strong": "H200"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "I am bent",
+            "strong": "H5753"
+          },
+          " ",
+          {
+            "text": "and brought low",
+            "strong": "H7817"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3966"
+          },
+          "; ",
+          {
+            "text": "all day long",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "I go about",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "mourning",
+            "strong": "H6937"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my loins",
+            "strong": "H3689"
+          },
+          " ",
+          {
+            "text": "are full of",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "burning pain",
+            "strong": "H7033"
+          },
+          ", ",
+          {
+            "text": "and no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "soundness",
+            "strong": "H4974"
+          },
+          " ",
+          {
+            "text": "[remains] in my body",
+            "strong": "H1320"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "I am numb",
+            "strong": "H6313"
+          },
+          " ",
+          {
+            "text": "and badly",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "crushed",
+            "strong": "H1794"
+          },
+          "; ",
+          {
+            "text": "I groan",
+            "strong": "H7580"
+          },
+          " ",
+          {
+            "text": "in anguish",
+            "strong": "H5100"
+          },
+          " ",
+          {
+            "text": "of heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "O Lord",
+            "strong": "H136"
+          },
+          ", ",
+          {
+            "text": "my every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "desire",
+            "strong": "H8378"
+          },
+          " ",
+          {
+            "text": "[is] before You",
+            "strong": "H5048"
+          },
+          "; ",
+          {
+            "text": "my groaning",
+            "strong": "H585"
+          },
+          " ",
+          {
+            "text": "is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hidden",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "from You",
+            "strong": "H4480"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "My heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "pounds",
+            "strong": "H5503"
+          },
+          ", ",
+          {
+            "text": "my strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "fails",
+            "strong": "H5800"
+          },
+          ", ",
+          {
+            "text": "and even",
+            "strong": "H1571"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "the light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "of my eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "has faded",
+            "strong": "H369"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "My beloved",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "and friends",
+            "strong": "H7453"
+          },
+          " ",
+          {
+            "text": "shun",
+            "strong": "H5975"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5048"
+          },
+          " ",
+          {
+            "text": "my disease",
+            "strong": "H5061"
+          },
+          ", ",
+          {
+            "text": "and my kinsmen",
+            "strong": "H7138"
+          },
+          " ",
+          {
+            "text": "stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "at a distance",
+            "strong": "H7350"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Those who seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "lay snares",
+            "strong": "H5367"
+          },
+          "; ",
+          {
+            "text": "those who wish me",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "harm",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "destruction",
+            "strong": "H1942"
+          },
+          ", ",
+          {
+            "text": "plotting",
+            "strong": "H1897"
+          },
+          " ",
+          {
+            "text": "deceit",
+            "strong": "H4820"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day long",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "But like a deaf man",
+            "strong": "H2795"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          "; ",
+          {
+            "text": "and like a mute man",
+            "strong": "H483"
+          },
+          ", ",
+          {
+            "text": "I do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "open",
+            "strong": "H6605"
+          },
+          " ",
+          {
+            "text": "my mouth",
+            "strong": "H6310"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "I am",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "whose mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "offers no reply",
+            "strong": "H8433"
+          },
+          {
+            "text": ". . .",
+            "strong": "H369"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I wait",
+            "strong": "H3176"
+          },
+          " for You, ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will answer",
+            "strong": "H6030"
+          },
+          ", ",
+          {
+            "text": "O Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let them not",
+            "strong": "H6435"
+          },
+          " ",
+          {
+            "text": "gloat",
+            "strong": "H8055"
+          },
+          " over me \u2014 ",
+          {
+            "text": "those who taunt",
+            "strong": "H1431"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "when my foot",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "slips",
+            "strong": "H4131"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am ready",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "to fall",
+            "strong": "H6761"
+          },
+          ", ",
+          {
+            "text": "and my pain",
+            "strong": "H4341"
+          },
+          " ",
+          {
+            "text": "is ever",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5048"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Yes",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "I confess",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "my iniquity",
+            "strong": "H5771"
+          },
+          "; ",
+          {
+            "text": "I am troubled",
+            "strong": "H1672"
+          },
+          " ",
+          {
+            "text": "by my sin",
+            "strong": "H2403"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Many are my enemies",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "without cause",
+            "strong": "H2416"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6105"
+          },
+          ", ",
+          {
+            "text": "and many",
+            "strong": "H7231"
+          },
+          " ",
+          {
+            "text": "hate me",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "without reason",
+            "strong": "H8267"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Those who repay",
+            "strong": "H7999"
+          },
+          " ",
+          {
+            "text": "my good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "attack me",
+            "strong": "H7853"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "pursuing",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "the good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "forsake me",
+            "strong": "H5800"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "be not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "far",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "O my God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Come quickly",
+            "strong": "H2363"
+          },
+          " ",
+          {
+            "text": "to help me",
+            "strong": "H5833"
+          },
+          ", ",
+          {
+            "text": "O Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "my Savior",
+            "strong": "H8668"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,997 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "In the year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "that King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Uzziah",
+            "strong": "H5818"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4194"
+          },
+          ", ",
+          {
+            "text": "I saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "seated",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a throne",
+            "strong": "H3678"
+          },
+          ", ",
+          {
+            "text": "high",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "and exalted",
+            "strong": "H5375"
+          },
+          "; ",
+          {
+            "text": "and the train of His robe",
+            "strong": "H7757"
+          },
+          " ",
+          {
+            "text": "filled",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the temple",
+            "strong": "H1964"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Above",
+            "strong": "H4605"
+          },
+          " Him ",
+          {
+            "text": "stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "seraphim",
+            "strong": "H8314"
+          },
+          ", ",
+          {
+            "text": "each",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "having six",
+            "strong": "H8337"
+          },
+          " ",
+          {
+            "text": "wings",
+            "strong": "H3671"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8337"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3671"
+          },
+          ": ",
+          {
+            "text": "With two [wings]",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "they covered",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "their faces",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "with two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "they covered",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "their feet",
+            "strong": "H7272"
+          },
+          ", ",
+          {
+            "text": "and with two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "they were flying",
+            "strong": "H5774"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And they",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "were calling out",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "one another",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Holy",
+            "strong": "H6918"
+          },
+          ", ",
+          {
+            "text": "holy",
+            "strong": "H6918"
+          },
+          ", ",
+          {
+            "text": "holy",
+            "strong": "H6918"
+          },
+          " ",
+          {
+            "text": "is the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          "; ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "is full",
+            "strong": "H4393"
+          },
+          " ",
+          {
+            "text": "of His glory",
+            "strong": "H3519"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "At the sound",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of their voices",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the doorposts",
+            "strong": "H520"
+          },
+          " ",
+          {
+            "text": "and thresholds",
+            "strong": "H5592"
+          },
+          " ",
+          {
+            "text": "shook",
+            "strong": "H5128"
+          },
+          ", ",
+          {
+            "text": "and the temple",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "was filled",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "with smoke",
+            "strong": "H6227"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then I said",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Woe",
+            "strong": "H188"
+          },
+          " is me, ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I am ruined",
+            "strong": "H1820"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "dwelling",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "of unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "lips",
+            "strong": "H8193"
+          },
+          {
+            "text": ". . .",
+            "strong": "H595"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "my eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "have seen",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the King",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Then one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the seraphim",
+            "strong": "H8314"
+          },
+          " ",
+          {
+            "text": "flew",
+            "strong": "H5774"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "and in his hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "was a glowing coal",
+            "strong": "H7531"
+          },
+          " ",
+          {
+            "text": "that he had taken",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "with tongs",
+            "strong": "H4457"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the altar",
+            "strong": "H4196"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And with it he touched",
+            "strong": "H5060"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Now that",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "has touched",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "your lips",
+            "strong": "H8193"
+          },
+          ", ",
+          {
+            "text": "your iniquity",
+            "strong": "H5771"
+          },
+          " ",
+          {
+            "text": "is removed",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "and your sin",
+            "strong": "H2403"
+          },
+          " ",
+          {
+            "text": "is atoned for",
+            "strong": "H3722"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then I heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ":\u201c",
+          {
+            "text": "Whom",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "shall I send",
+            "strong": "H7971"
+          },
+          "? ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "will go",
+            "strong": "H1980"
+          },
+          " for Us?\u201d ",
+          {
+            "text": "And I said",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Here am I",
+            "strong": "H2005"
+          },
+          ". ",
+          {
+            "text": "Send me",
+            "strong": "H7971"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And He replied",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and tell",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          ",\u2018",
+          {
+            "text": "Be ever hearing",
+            "strong": "H8085"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "but never",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "understanding",
+            "strong": "H995"
+          },
+          "; ",
+          {
+            "text": "be ever seeing",
+            "strong": "H7200"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "but never",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "perceiving",
+            "strong": "H3045"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "{Make} the hearts",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "of this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "calloused",
+            "strong": "H8080"
+          },
+          "; ",
+          {
+            "text": "deafen",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "their ears",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "and close",
+            "strong": "H8173"
+          },
+          " ",
+          {
+            "text": "their eyes",
+            "strong": "H5869"
+          },
+          ". ",
+          {
+            "text": "Otherwise",
+            "strong": "H6435"
+          },
+          " ",
+          {
+            "text": "they might see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "with their eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "with their ears",
+            "strong": "H241"
+          },
+          ", ",
+          {
+            "text": "understand",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "with their hearts",
+            "strong": "H3824"
+          },
+          ", ",
+          {
+            "text": "and turn",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "and be healed",
+            "strong": "H7495"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Then I asked",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "How long",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4970"
+          },
+          ", ",
+          {
+            "text": "O Lord",
+            "strong": "H136"
+          },
+          "?\u201d ",
+          {
+            "text": "And He replied",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "the cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "lie ruined",
+            "strong": "H7582"
+          },
+          " ",
+          {
+            "text": "and without",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "inhabitant",
+            "strong": "H3427"
+          },
+          ", ",
+          {
+            "text": "until the houses",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "are left unoccupied",
+            "strong": "H369"
+          },
+          {
+            "text": ". . .",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "and the land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "is desolate",
+            "strong": "H7582"
+          },
+          " ",
+          {
+            "text": "and ravaged",
+            "strong": "H8077"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "until the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "has driven men",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "far away",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "and the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "is utterly",
+            "strong": "H7231"
+          },
+          " ",
+          {
+            "text": "forsaken",
+            "strong": "H5805"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7130"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "And though",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "a tenth [remains]",
+            "strong": "H6224"
+          },
+          " in [the land], ",
+          {
+            "text": "it will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "burned",
+            "strong": "H1197"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "H7725"
+          },
+          ". ",
+          {
+            "text": "As the terebinth",
+            "strong": "H424"
+          },
+          " ",
+          {
+            "text": "and oak",
+            "strong": "H437"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "leave stumps",
+            "strong": "H4678"
+          },
+          " ",
+          {
+            "text": "when felled",
+            "strong": "H7995"
+          },
+          ", ",
+          {
+            "text": "so the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "will be a stump [in the land]",
+            "strong": "H4678"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

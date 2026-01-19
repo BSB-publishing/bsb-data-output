@@ -1,0 +1,1385 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PRO",
+    "name": "Proverbs",
+    "number": 20
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[These are] the proverbs",
+            "strong": "H4912"
+          },
+          " ",
+          {
+            "text": "of Solomon",
+            "strong": "H8010"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ", ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "for gaining",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "and discipline",
+            "strong": "H4148"
+          },
+          ", ",
+          {
+            "text": "for comprehending",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "words",
+            "strong": "H561"
+          },
+          " ",
+          {
+            "text": "of insight",
+            "strong": "H998"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "[and] for receiving",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "instruction",
+            "strong": "H4148"
+          },
+          " ",
+          {
+            "text": "in wise living",
+            "strong": "H7919"
+          },
+          " ",
+          {
+            "text": "and in righteousness",
+            "strong": "H6664"
+          },
+          ", ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          ", ",
+          {
+            "text": "and equity",
+            "strong": "H4339"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "To impart",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "prudence",
+            "strong": "H6195"
+          },
+          " ",
+          {
+            "text": "to the simple",
+            "strong": "H6612"
+          },
+          " ",
+          {
+            "text": "[and] knowledge",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "and discretion",
+            "strong": "H4209"
+          },
+          " ",
+          {
+            "text": "to the young",
+            "strong": "H5288"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "{let} the wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "listen",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "and gain",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "instruction",
+            "strong": "H3948"
+          },
+          ", ",
+          {
+            "text": "and the discerning",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "acquire",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "wise counsel",
+            "strong": "H8458"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "by understanding",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "the proverbs",
+            "strong": "H4912"
+          },
+          " ",
+          {
+            "text": "and parables",
+            "strong": "H4426"
+          },
+          ", ",
+          {
+            "text": "the sayings",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "and riddles",
+            "strong": "H2420"
+          },
+          " ",
+          {
+            "text": "of the wise",
+            "strong": "H2450"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The fear",
+            "strong": "H3374"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "[is] the beginning",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "of knowledge",
+            "strong": "H1847"
+          },
+          ", ",
+          {
+            "text": "[but] fools",
+            "strong": "H191"
+          },
+          " ",
+          {
+            "text": "despise",
+            "strong": "H936"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "and discipline",
+            "strong": "H4148"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Listen",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "my son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "to your father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "instruction",
+            "strong": "H4148"
+          },
+          ", ",
+          {
+            "text": "and do not forsake",
+            "strong": "H5203"
+          },
+          {
+            "text": ". . .",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "the teaching",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of your mother",
+            "strong": "H517"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "[are] a garland",
+            "strong": "H3880"
+          },
+          " ",
+          {
+            "text": "of grace",
+            "strong": "H2580"
+          },
+          " ",
+          {
+            "text": "on your head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "and a pendant",
+            "strong": "H6060"
+          },
+          " ",
+          {
+            "text": "around your neck",
+            "strong": "H1621"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "My son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "sinners",
+            "strong": "H2400"
+          },
+          " ",
+          {
+            "text": "entice you",
+            "strong": "H6601"
+          },
+          ", ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "yield [to them]",
+            "strong": "H14"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "they say",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H854"
+          },
+          ", ",
+          {
+            "text": "let us lie in wait",
+            "strong": "H693"
+          },
+          " ",
+          {
+            "text": "for blood",
+            "strong": "H1818"
+          },
+          ", ",
+          {
+            "text": "let us ambush",
+            "strong": "H6845"
+          },
+          " ",
+          {
+            "text": "the innocent",
+            "strong": "H5355"
+          },
+          " ",
+          {
+            "text": "without cause",
+            "strong": "H2600"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "let us swallow them",
+            "strong": "H1104"
+          },
+          " ",
+          {
+            "text": "alive",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "like Sheol",
+            "strong": "H7585"
+          },
+          ", ",
+          {
+            "text": "and whole",
+            "strong": "H8549"
+          },
+          " ",
+          {
+            "text": "like those descending",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "into the Pit",
+            "strong": "H953"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "We {will} find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "all manner",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of precious",
+            "strong": "H3368"
+          },
+          " ",
+          {
+            "text": "goods",
+            "strong": "H1952"
+          },
+          "; ",
+          {
+            "text": "we {will} fill",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "our houses",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "with plunder",
+            "strong": "H7998"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Throw in",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "your lot",
+            "strong": "H1486"
+          },
+          " ",
+          {
+            "text": "with us",
+            "strong": "H8432"
+          },
+          "; ",
+          {
+            "text": "let us all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "share",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "purse",
+            "strong": "H3599"
+          },
+          "\u201d \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "my son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "or set",
+            "strong": "H4513"
+          },
+          " ",
+          {
+            "text": "foot",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "upon their path",
+            "strong": "H5410"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "their feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "run",
+            "strong": "H7323"
+          },
+          " ",
+          {
+            "text": "to evil",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and they are swift",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "to shed",
+            "strong": "H8210"
+          },
+          " ",
+          {
+            "text": "blood",
+            "strong": "H1818"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "How",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "futile [it is]",
+            "strong": "H2600"
+          },
+          " ",
+          {
+            "text": "to spread",
+            "strong": "H2219"
+          },
+          " ",
+          {
+            "text": "the net",
+            "strong": "H7568"
+          },
+          " ",
+          {
+            "text": "where any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "bird",
+            "strong": "H1167"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "can see it",
+            "strong": "H5869"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "But they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "lie in wait",
+            "strong": "H693"
+          },
+          " ",
+          {
+            "text": "for their [own] blood",
+            "strong": "H1818"
+          },
+          "; ",
+          {
+            "text": "they ambush",
+            "strong": "H6845"
+          },
+          " ",
+          {
+            "text": "their [own] lives",
+            "strong": "H5315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Such [is]",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the fate",
+            "strong": "H734"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who are greedy",
+            "strong": "H1214"
+          },
+          ", ",
+          {
+            "text": "whose unjust gain",
+            "strong": "H1215"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "takes",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "the lives",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of its possessors",
+            "strong": "H1167"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "calls out",
+            "strong": "H7442"
+          },
+          " ",
+          {
+            "text": "in the street",
+            "strong": "H2351"
+          },
+          ", ",
+          {
+            "text": "she lifts",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "her voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "in the square",
+            "strong": "H7339"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "in the main",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "concourse",
+            "strong": "H1993"
+          },
+          " ",
+          {
+            "text": "she cries aloud",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "at the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "gates",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "she makes",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "her speech",
+            "strong": "H561"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "\u201c",
+          {
+            "text": "How",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "long",
+            "strong": "H4970"
+          },
+          ", ",
+          {
+            "text": "O simple ones",
+            "strong": "H6612"
+          },
+          ", ",
+          {
+            "text": "will you love",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "your simple [ways]",
+            "strong": "H6612"
+          },
+          "? ",
+          {
+            "text": "How long will scoffers",
+            "strong": "H3887"
+          },
+          " ",
+          {
+            "text": "delight",
+            "strong": "H2530"
+          },
+          " . . . ",
+          {
+            "text": "in their scorn",
+            "strong": "H3944"
+          },
+          " ",
+          {
+            "text": "and fools",
+            "strong": "H3684"
+          },
+          " ",
+          {
+            "text": "hate",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "knowledge",
+            "strong": "H1847"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "If you had repented",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "at my rebuke",
+            "strong": "H8433"
+          },
+          ", ",
+          {
+            "text": "then surely",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "I would have poured out",
+            "strong": "H5042"
+          },
+          " my ",
+          {
+            "text": "spirit on you",
+            "strong": "H7307"
+          },
+          "; ",
+          {
+            "text": "I would have made",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "my words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "known to you",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Because",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "you refused",
+            "strong": "H3985"
+          },
+          " ",
+          {
+            "text": "my call",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "and no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H7181"
+          },
+          " ",
+          {
+            "text": "my outstretched",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "H3027"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "because you neglected",
+            "strong": "H6544"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "my counsel",
+            "strong": "H6098"
+          },
+          ", ",
+          {
+            "text": "and wanted",
+            "strong": "H14"
+          },
+          " ",
+          {
+            "text": "none",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of my correction",
+            "strong": "H8433"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "in turn",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will mock",
+            "strong": "H7832"
+          },
+          " ",
+          {
+            "text": "your calamity",
+            "strong": "H343"
+          },
+          "; ",
+          {
+            "text": "I will sneer",
+            "strong": "H3932"
+          },
+          " ",
+          {
+            "text": "when terror",
+            "strong": "H6343"
+          },
+          " ",
+          {
+            "text": "strikes you",
+            "strong": "H935"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "when your dread",
+            "strong": "H6343"
+          },
+          " ",
+          {
+            "text": "comes",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "like a storm",
+            "strong": "H7584"
+          },
+          ", ",
+          {
+            "text": "and your destruction",
+            "strong": "H343"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H857"
+          },
+          " ",
+          {
+            "text": "like a whirlwind",
+            "strong": "H5492"
+          },
+          ", ",
+          {
+            "text": "when distress",
+            "strong": "H6869"
+          },
+          " ",
+          {
+            "text": "and anguish",
+            "strong": "H6695"
+          },
+          " ",
+          {
+            "text": "overwhelm you",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "they will call on me",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "but I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "answer",
+            "strong": "H6030"
+          },
+          "; ",
+          {
+            "text": "they {will} earnestly seek me",
+            "strong": "H7836"
+          },
+          ", ",
+          {
+            "text": "but {will} not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "find me",
+            "strong": "H4672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they hated",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "knowledge",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "and chose",
+            "strong": "H977"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to fear",
+            "strong": "H3374"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "They accepted",
+            "strong": "H14"
+          },
+          " ",
+          {
+            "text": "none",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of my counsel",
+            "strong": "H6098"
+          },
+          "; ",
+          {
+            "text": "they despised",
+            "strong": "H5006"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "my reproof",
+            "strong": "H8433"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "So they {will} eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "of their own way",
+            "strong": "H1870"
+          },
+          ", ",
+          {
+            "text": "and be filled",
+            "strong": "H7646"
+          },
+          " ",
+          {
+            "text": "with their own devices",
+            "strong": "H4156"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the waywardness",
+            "strong": "H4878"
+          },
+          " ",
+          {
+            "text": "of the simple",
+            "strong": "H6612"
+          },
+          " ",
+          {
+            "text": "will slay them",
+            "strong": "H2026"
+          },
+          ", ",
+          {
+            "text": "and the complacency",
+            "strong": "H7962"
+          },
+          " ",
+          {
+            "text": "of fools",
+            "strong": "H3684"
+          },
+          " ",
+          {
+            "text": "will destroy them",
+            "strong": "H6"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "But whoever listens",
+            "strong": "H8085"
+          },
+          " to me ",
+          {
+            "text": "{will} dwell",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "in safety",
+            "strong": "H983"
+          },
+          ", ",
+          {
+            "text": "secure",
+            "strong": "H7599"
+          },
+          " ",
+          {
+            "text": "from the fear",
+            "strong": "H6343"
+          },
+          " ",
+          {
+            "text": "of evil",
+            "strong": "H7451"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

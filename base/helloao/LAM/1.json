@@ -1,0 +1,1948 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "LAM",
+    "name": "Lamentations",
+    "number": 25
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "How",
+            "strong": "H349"
+          },
+          " ",
+          {
+            "text": "lonely",
+            "strong": "H910"
+          },
+          " ",
+          {
+            "text": "lies",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "once so full",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of people",
+            "strong": "H5971"
+          },
+          "! ",
+          {
+            "text": "She who was great",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "among the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "has become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a widow",
+            "strong": "H490"
+          },
+          ". ",
+          {
+            "text": "The princess",
+            "strong": "H8282"
+          },
+          " ",
+          {
+            "text": "of the provinces",
+            "strong": "H4082"
+          },
+          " ",
+          {
+            "text": "has become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a slave",
+            "strong": "H4522"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "She weeps aloud",
+            "strong": "H1058"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1058"
+          },
+          " ",
+          {
+            "text": "in the night",
+            "strong": "H3915"
+          },
+          ", ",
+          {
+            "text": "with tears",
+            "strong": "H1832"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her cheeks",
+            "strong": "H3895"
+          },
+          ". ",
+          {
+            "text": "Among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her lovers",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "there is no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "to comfort [her]",
+            "strong": "H5162"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her friends",
+            "strong": "H7453"
+          },
+          " ",
+          {
+            "text": "have betrayed",
+            "strong": "H898"
+          },
+          " her; ",
+          {
+            "text": "they have become",
+            "strong": "H1961"
+          },
+          " her ",
+          {
+            "text": "enemies",
+            "strong": "H341"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "has gone into exile",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "under affliction",
+            "strong": "H6040"
+          },
+          " ",
+          {
+            "text": "and harsh",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "slavery",
+            "strong": "H5656"
+          },
+          "; ",
+          {
+            "text": "she",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "dwells",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "among the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "but finds",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "place to rest",
+            "strong": "H4494"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her pursuers",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "have overtaken her",
+            "strong": "H5381"
+          },
+          " ",
+          {
+            "text": "in the midst",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "of her distress",
+            "strong": "H4712"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The roads",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "mourn",
+            "strong": "H57"
+          },
+          ", ",
+          {
+            "text": "because no one",
+            "strong": "H1097"
+          },
+          " ",
+          {
+            "text": "comes",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to her appointed feasts",
+            "strong": "H4150"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her gates",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "are deserted",
+            "strong": "H8074"
+          },
+          "; ",
+          {
+            "text": "her priests",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "groan",
+            "strong": "H584"
+          },
+          ", ",
+          {
+            "text": "her maidens",
+            "strong": "H1330"
+          },
+          " ",
+          {
+            "text": "grieve",
+            "strong": "H3013"
+          },
+          ", ",
+          {
+            "text": "and she herself",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is bitter with anguish",
+            "strong": "H4751"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Her foes",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "have become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "her masters",
+            "strong": "H7218"
+          },
+          "; ",
+          {
+            "text": "her enemies",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "are at ease",
+            "strong": "H7951"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has brought her grief",
+            "strong": "H3013"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her many",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          ". ",
+          {
+            "text": "Her children",
+            "strong": "H5768"
+          },
+          " ",
+          {
+            "text": "have gone away",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "as captives",
+            "strong": "H7628"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the enemy",
+            "strong": "H6862"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the splendor",
+            "strong": "H1926"
+          },
+          " ",
+          {
+            "text": "has departed",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the Daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Zion",
+            "strong": "H6726"
+          },
+          ". ",
+          {
+            "text": "Her princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like deer",
+            "strong": "H354"
+          },
+          " ",
+          {
+            "text": "that find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "pasture",
+            "strong": "H4829"
+          },
+          "; ",
+          {
+            "text": "they lack",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "to flee",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the face of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the hunter",
+            "strong": "H7291"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "In the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of her affliction",
+            "strong": "H6040"
+          },
+          " ",
+          {
+            "text": "and wandering",
+            "strong": "H4788"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "remembers",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the treasures",
+            "strong": "H4262"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were hers",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of old",
+            "strong": "H6924"
+          },
+          ". ",
+          {
+            "text": "When her people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "fell",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "into enemy",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "she received no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "help",
+            "strong": "H5826"
+          },
+          " -. ",
+          {
+            "text": "Her enemies",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "looked upon her",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "laughing",
+            "strong": "H7832"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her downfall",
+            "strong": "H4868"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "has sinned greatly",
+            "strong": "H2399"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2398"
+          },
+          "; ",
+          {
+            "text": "therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "she has become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an object of scorn",
+            "strong": "H5206"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who honored her",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "now despise her",
+            "strong": "H2107"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they have seen",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "her nakedness",
+            "strong": "H6172"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          "; ",
+          {
+            "text": "she herself",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "groans",
+            "strong": "H584"
+          },
+          " ",
+          {
+            "text": "and turns",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "away",
+            "strong": "H268"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Her uncleanness",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "stains her skirts",
+            "strong": "H7757"
+          },
+          "; ",
+          {
+            "text": "she did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "consider",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "her end",
+            "strong": "H319"
+          },
+          ". ",
+          {
+            "text": "Her downfall",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "was astounding",
+            "strong": "H6382"
+          },
+          "; ",
+          {
+            "text": "there was no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "to comfort",
+            "strong": "H5162"
+          },
+          " her. ",
+          {
+            "text": "Look",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "on my affliction",
+            "strong": "H6040"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "has triumphed",
+            "strong": "H1431"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "The adversary",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "has seized",
+            "strong": "H3027"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6566"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her treasures",
+            "strong": "H4261"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "she has seen",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "enter",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "her sanctuary",
+            "strong": "H4720"
+          },
+          "\u2014 ",
+          {
+            "text": "those",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "You had forbidden",
+            "strong": "H6680"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to enter",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "Your assembly",
+            "strong": "H6951"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "groan",
+            "strong": "H584"
+          },
+          " ",
+          {
+            "text": "as they search",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "for bread",
+            "strong": "H3899"
+          },
+          ". ",
+          {
+            "text": "They have traded",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "their treasures",
+            "strong": "H4262"
+          },
+          " ",
+          {
+            "text": "for food",
+            "strong": "H400"
+          },
+          " ",
+          {
+            "text": "to keep themselves alive",
+            "strong": "H7725"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5315"
+          },
+          ". ",
+          {
+            "text": "Look",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "and consider",
+            "strong": "H5027"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I have become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "despised",
+            "strong": "H2151"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Is this nothing",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "you who pass by",
+            "strong": "H5674"
+          },
+          "? ",
+          {
+            "text": ". . .",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "Look around",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "and see",
+            "strong": "H7200"
+          },
+          "! ",
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "Is there",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "any sorrow",
+            "strong": "H4341"
+          },
+          " ",
+          {
+            "text": "like mine",
+            "strong": "H4341"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was inflicted",
+            "strong": "H5953"
+          },
+          " on me, ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "made me suffer",
+            "strong": "H3013"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of His fierce",
+            "strong": "H2740"
+          },
+          " ",
+          {
+            "text": "anger",
+            "strong": "H639"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "He sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "from on high",
+            "strong": "H4791"
+          },
+          ", ",
+          {
+            "text": "and it overpowered",
+            "strong": "H7287"
+          },
+          " ",
+          {
+            "text": "my bones",
+            "strong": "H6106"
+          },
+          ". ",
+          {
+            "text": "He spread",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "a net",
+            "strong": "H7568"
+          },
+          " ",
+          {
+            "text": "for my feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "and turned me",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "back",
+            "strong": "H268"
+          },
+          ". ",
+          {
+            "text": "He made me",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "desolate",
+            "strong": "H8076"
+          },
+          ", ",
+          {
+            "text": "faint",
+            "strong": "H1739"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the day long",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "My transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "are bound into",
+            "strong": "H8244"
+          },
+          " ",
+          {
+            "text": "a yoke",
+            "strong": "H5923"
+          },
+          ", ",
+          {
+            "text": "knit together",
+            "strong": "H8276"
+          },
+          " ",
+          {
+            "text": "by His hand",
+            "strong": "H3027"
+          },
+          "; ",
+          {
+            "text": "they are draped",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my neck",
+            "strong": "H6677"
+          },
+          ", ",
+          {
+            "text": "and the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "has broken",
+            "strong": "H3782"
+          },
+          " ",
+          {
+            "text": "my strength",
+            "strong": "H3581"
+          },
+          ". ",
+          {
+            "text": "He has delivered me",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of those I cannot",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "withstand",
+            "strong": "H6965"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "has rejected",
+            "strong": "H5541"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the mighty men",
+            "strong": "H47"
+          },
+          " ",
+          {
+            "text": "in my midst",
+            "strong": "H7130"
+          },
+          "; ",
+          {
+            "text": "He has summoned",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "an army",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "against me",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "to crush",
+            "strong": "H7665"
+          },
+          " ",
+          {
+            "text": "my young warriors",
+            "strong": "H970"
+          },
+          ". ",
+          {
+            "text": "Like grapes in a winepress",
+            "strong": "H1660"
+          },
+          ", ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "has trampled",
+            "strong": "H1869"
+          },
+          " ",
+          {
+            "text": "the Virgin",
+            "strong": "H1330"
+          },
+          " ",
+          {
+            "text": "Daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "weep",
+            "strong": "H1058"
+          },
+          "; ",
+          {
+            "text": "my eyes",
+            "strong": "H5869"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "flow",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "with tears",
+            "strong": "H4325"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "there is no one nearby",
+            "strong": "H7368"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "to comfort me",
+            "strong": "H5162"
+          },
+          ", ",
+          {
+            "text": "no one to revive",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          ". ",
+          {
+            "text": "My children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "destitute",
+            "strong": "H8074"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "has prevailed",
+            "strong": "H1396"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "stretches out",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "her hands",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "but there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one to comfort",
+            "strong": "H5162"
+          },
+          " her. ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has decreed",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "against Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "that his neighbors",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "become his foes",
+            "strong": "H6862"
+          },
+          ". ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "has become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an unclean thing",
+            "strong": "H5079"
+          },
+          " ",
+          {
+            "text": "among them",
+            "strong": "H996"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is righteous",
+            "strong": "H6662"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "yet",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I rebelled",
+            "strong": "H4784"
+          },
+          " ",
+          {
+            "text": "against His command",
+            "strong": "H6310"
+          },
+          ". ",
+          {
+            "text": "Listen",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "all you people",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          "; ",
+          {
+            "text": "look upon",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "my suffering",
+            "strong": "H4341"
+          },
+          ". ",
+          {
+            "text": "My young men",
+            "strong": "H970"
+          },
+          " ",
+          {
+            "text": "and maidens",
+            "strong": "H1330"
+          },
+          " ",
+          {
+            "text": "have gone",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "into captivity",
+            "strong": "H7628"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "I called out",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "to my lovers",
+            "strong": "H157"
+          },
+          ", ",
+          {
+            "text": "but they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "have betrayed me",
+            "strong": "H7411"
+          },
+          ". ",
+          {
+            "text": "My priests",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "and elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "perished",
+            "strong": "H1478"
+          },
+          " ",
+          {
+            "text": "in the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "while",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they searched for",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H400"
+          },
+          " ",
+          {
+            "text": "to keep themselves",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "alive",
+            "strong": "H5315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "See",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "how",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "distressed",
+            "strong": "H6862"
+          },
+          " I [am]! ",
+          {
+            "text": "I am churning",
+            "strong": "H2560"
+          },
+          " ",
+          {
+            "text": "within",
+            "strong": "H4578"
+          },
+          "; ",
+          {
+            "text": "my heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "is pounding",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "within me",
+            "strong": "H7130"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I have been most rebellious",
+            "strong": "H4784"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4784"
+          },
+          ". ",
+          {
+            "text": "Outside",
+            "strong": "H2351"
+          },
+          ", ",
+          {
+            "text": "the sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "bereaves",
+            "strong": "H7921"
+          },
+          "; ",
+          {
+            "text": "inside",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "there is death",
+            "strong": "H4194"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "People have heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "groaning",
+            "strong": "H584"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "but there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one to comfort",
+            "strong": "H5162"
+          },
+          " me. ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "my enemies",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "have heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "of my trouble",
+            "strong": "H7451"
+          },
+          "; ",
+          {
+            "text": "they are glad",
+            "strong": "H7797"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have caused it",
+            "strong": "H6213"
+          },
+          ". ",
+          {
+            "text": "May You bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "You have announced",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "so that they may become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like me",
+            "strong": "H3644"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Let all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "their wickedness",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "before You",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "and deal",
+            "strong": "H5953"
+          },
+          " with them ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "You have dealt",
+            "strong": "H5953"
+          },
+          " with me ",
+          {
+            "text": "because of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "my transgressions",
+            "strong": "H6588"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my groans",
+            "strong": "H585"
+          },
+          " ",
+          {
+            "text": "are many",
+            "strong": "H7227"
+          },
+          ", ",
+          {
+            "text": "and my heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "is faint",
+            "strong": "H1742"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

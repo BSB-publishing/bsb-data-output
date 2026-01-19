@@ -1,0 +1,3083 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "LEV",
+    "name": "Leviticus",
+    "number": 3
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke again",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          ", ",
+          {
+            "text": "telling",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H413"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Say",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "-",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "Of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the beasts",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "[these ones]",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you may eat",
+            "strong": "H398"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "You may eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "animal",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[that has] a split",
+            "strong": "H8157"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6541"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6536"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          " ",
+          {
+            "text": "completely divided",
+            "strong": "H8156"
+          },
+          " ",
+          {
+            "text": "and that chews",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "of those",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "that [only] chew",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          " ",
+          {
+            "text": "or [only] have a divided",
+            "strong": "H6536"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you are not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the following",
+            "strong": "H2088"
+          },
+          ": ",
+          {
+            "text": "The camel",
+            "strong": "H1581"
+          },
+          ", ",
+          {
+            "text": "though",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "chews",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          ", ",
+          {
+            "text": "does not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "have a divided",
+            "strong": "H6536"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "The rock badger",
+            "strong": "H8227"
+          },
+          ", ",
+          {
+            "text": "though",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "chews",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          ", ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "have a divided",
+            "strong": "H6536"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "The rabbit",
+            "strong": "H768"
+          },
+          ", ",
+          {
+            "text": "though",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "chews",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          ", ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "have a divided",
+            "strong": "H6536"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the pig",
+            "strong": "H2386"
+          },
+          ", ",
+          {
+            "text": "though",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it [has]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "a split",
+            "strong": "H8157"
+          },
+          " ",
+          {
+            "text": "hoof",
+            "strong": "H6541"
+          },
+          " ",
+          {
+            "text": "completely divided",
+            "strong": "H6536"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8156"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6541"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "chew",
+            "strong": "H1641"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          "; ",
+          {
+            "text": "it [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "You must not eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "their meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "or touch",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "their carcasses",
+            "strong": "H5038"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "are unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Of all [the creatures]",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that [live]",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in the water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "whether in the seas",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "or in the streams",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "you may eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "with fins",
+            "strong": "H5579"
+          },
+          " ",
+          {
+            "text": "and scales",
+            "strong": "H7193"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4325"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "But the following",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the teeming",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "life",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "and creatures",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "in the water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "are detestable",
+            "strong": "H8263"
+          },
+          " to you: ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "in the seas",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "or streams",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "have fins",
+            "strong": "H5579"
+          },
+          " ",
+          {
+            "text": "and scales",
+            "strong": "H7193"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "They shall be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an abomination",
+            "strong": "H8263"
+          },
+          " to you; ",
+          {
+            "text": "you must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their meat",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "and you must detest",
+            "strong": "H8262"
+          },
+          " ",
+          {
+            "text": "their carcasses",
+            "strong": "H5038"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "in the water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H369"
+          },
+          " have ",
+          {
+            "text": "fins",
+            "strong": "H5579"
+          },
+          " ",
+          {
+            "text": "and scales",
+            "strong": "H7193"
+          },
+          " ",
+          {
+            "text": "shall be detestable",
+            "strong": "H8263"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " to you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Additionally",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "you are to detest",
+            "strong": "H8262"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the following",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "birds",
+            "strong": "H5775"
+          },
+          ", ",
+          {
+            "text": "and they must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "because they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "are detestable",
+            "strong": "H8263"
+          },
+          ": ",
+          {
+            "text": "the eagle",
+            "strong": "H5404"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the bearded vulture",
+            "strong": "H6538"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the black vulture",
+            "strong": "H5822"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the kite",
+            "strong": "H1676"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "any kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "of falcon",
+            "strong": "H344"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "of raven",
+            "strong": "H6158"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "the ostrich",
+            "strong": "H3284"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the screech owl",
+            "strong": "H8464"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the gull",
+            "strong": "H7828"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "any kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "of hawk",
+            "strong": "H5322"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the little owl",
+            "strong": "H3563"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the cormorant",
+            "strong": "H7994"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the great owl",
+            "strong": "H3244"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the white owl",
+            "strong": "H8580"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the desert owl",
+            "strong": "H6893"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the osprey",
+            "strong": "H7360"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the stork",
+            "strong": "H2624"
+          },
+          ", ",
+          {
+            "text": "any kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "of heron",
+            "strong": "H601"
+          },
+          ", ",
+          {
+            "text": "the hoopoe",
+            "strong": "H1744"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the bat",
+            "strong": "H5847"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "flying",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "insects",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[all] fours",
+            "strong": "H702"
+          },
+          " ",
+          {
+            "text": "are detestable",
+            "strong": "H8263"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " to you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "However",
+            "strong": "H389"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you may eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the following",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "kinds of",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "flying",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "insects",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all fours",
+            "strong": "H702"
+          },
+          ": ",
+          {
+            "text": "those",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "having jointed legs",
+            "strong": "H3767"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "their feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "for hopping",
+            "strong": "H5425"
+          },
+          " . . . ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Of these",
+            "strong": "H428"
+          },
+          " - ",
+          {
+            "text": "you may eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "any kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "of locust",
+            "strong": "H697"
+          },
+          ", ",
+          {
+            "text": "katydid",
+            "strong": "H5556"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "cricket",
+            "strong": "H2728"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "or grasshopper",
+            "strong": "H2284"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4327"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "All [other]",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "flying",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "insects",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " have ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          " ",
+          {
+            "text": "legs",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "are detestable",
+            "strong": "H8263"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " to you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "These [creatures]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "will make you unclean",
+            "strong": "H2930"
+          },
+          ". ",
+          {
+            "text": "Whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "their carcasses",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "and whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "picks up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "one of their carcasses",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "animal",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8157"
+          },
+          " ",
+          {
+            "text": "hooves",
+            "strong": "H6541"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "completely divided",
+            "strong": "H6536"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8156"
+          },
+          " ",
+          {
+            "text": "or that does not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "chew",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "the cud",
+            "strong": "H1625"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " for you. ",
+          {
+            "text": "Whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " any of them ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the four-footed",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          " ",
+          {
+            "text": "animals",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "that walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their paws",
+            "strong": "H3709"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "are unclean",
+            "strong": "H2931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " for you; ",
+          {
+            "text": "whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "their carcasses",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "and anyone who picks up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "a carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and he will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "are unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "The following",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "creatures",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that move",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "are unclean",
+            "strong": "H2931"
+          },
+          " for you: ",
+          {
+            "text": "the mole",
+            "strong": "H2467"
+          },
+          ", ",
+          {
+            "text": "the mouse",
+            "strong": "H5909"
+          },
+          ", ",
+          {
+            "text": "any kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "of great lizard",
+            "strong": "H6632"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "the gecko",
+            "strong": "H604"
+          },
+          ", ",
+          {
+            "text": "the monitor lizard",
+            "strong": "H3581"
+          },
+          ", ",
+          {
+            "text": "the common lizard",
+            "strong": "H3911"
+          },
+          ", ",
+          {
+            "text": "the skink",
+            "strong": "H2546"
+          },
+          ", ",
+          {
+            "text": "and the chameleon",
+            "strong": "H8580"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "These [animals]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are unclean",
+            "strong": "H2931"
+          },
+          " for you ",
+          {
+            "text": "among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the crawling creatures",
+            "strong": "H8318"
+          },
+          ". ",
+          {
+            "text": "Whoever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " them ",
+          {
+            "text": "when they are dead",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "shall be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "one of them",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "dies",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "and falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " something, ",
+          {
+            "text": "[that article] becomes unclean",
+            "strong": "H2930"
+          },
+          "; ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "article",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "of wood",
+            "strong": "H6086"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "clothing",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "leather",
+            "strong": "H5785"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "sackcloth",
+            "strong": "H8242"
+          },
+          ", ",
+          {
+            "text": "or any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "implement",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "used",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for work",
+            "strong": "H4399"
+          },
+          " ",
+          {
+            "text": "must be rinsed with water",
+            "strong": "H4325"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and will remain unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "; ",
+          {
+            "text": "then it will be clean",
+            "strong": "H2891"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "If any of them ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "a",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "clay",
+            "strong": "H2789"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "pot",
+            "strong": "H3627"
+          },
+          ", ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "it will be unclean",
+            "strong": "H2930"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you must break [the pot]",
+            "strong": "H7665"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "Any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H400"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "coming",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "into contact",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "with water [from that pot]",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          ", ",
+          {
+            "text": "and any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "drink",
+            "strong": "H8354"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4945"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in such a",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "container",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "Anything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "upon which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "one of their carcasses",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          ". ",
+          {
+            "text": "If it is an oven",
+            "strong": "H8574"
+          },
+          " ",
+          {
+            "text": "or cooking pot",
+            "strong": "H3600"
+          },
+          ", ",
+          {
+            "text": "it must be smashed",
+            "strong": "H5422"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "and will remain",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "Nevertheless",
+            "strong": "H389"
+          },
+          ", ",
+          {
+            "text": "a spring",
+            "strong": "H4599"
+          },
+          " ",
+          {
+            "text": "or cistern",
+            "strong": "H953"
+          },
+          " ",
+          {
+            "text": "containing",
+            "strong": "H4723"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "will remain",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "clean",
+            "strong": "H2889"
+          },
+          ", ",
+          {
+            "text": "but one who touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "a carcass in it",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "for sowing",
+            "strong": "H2221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2232"
+          },
+          ", ",
+          {
+            "text": "[the seed]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is clean",
+            "strong": "H2889"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "but if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "has been put",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "and a carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "on it",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2931"
+          },
+          " for you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "an",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "animal",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " you ",
+          {
+            "text": "may eat",
+            "strong": "H402"
+          },
+          " ",
+          {
+            "text": "dies",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "anyone who touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "the carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "Whoever eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "from the carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and anyone who picks up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the carcass",
+            "strong": "H5038"
+          },
+          " ",
+          {
+            "text": "must wash",
+            "strong": "H3526"
+          },
+          " ",
+          {
+            "text": "his clothes",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "and will be unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "Every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that moves",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "is detestable",
+            "strong": "H8263"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "any creature",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that moves",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "whether",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "it crawls",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its belly",
+            "strong": "H1512"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "walks",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "more",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "feet",
+            "strong": "H7272"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "such [creatures]",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "are detestable",
+            "strong": "H8263"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "defile",
+            "strong": "H8262"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "yourselves",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "by any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "crawling creature",
+            "strong": "H8318"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8317"
+          },
+          "; ",
+          {
+            "text": "do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "become unclean",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "or defiled",
+            "strong": "H2930"
+          },
+          " by them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "consecrate yourselves, therefore",
+            "strong": "H6942"
+          },
+          ", ",
+          {
+            "text": "and be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "holy",
+            "strong": "H6918"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am holy",
+            "strong": "H6918"
+          },
+          ". ",
+          {
+            "text": "You must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "defile",
+            "strong": "H2930"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "yourselves",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "by any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H8318"
+          },
+          " ",
+          {
+            "text": "that crawls",
+            "strong": "H7430"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "who brought you up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "out of the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "so that I would be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "therefore be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "holy",
+            "strong": "H6918"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am holy",
+            "strong": "H6918"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "regarding animals",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "birds",
+            "strong": "H5775"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "living",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "creatures",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "that move",
+            "strong": "H7430"
+          },
+          " ",
+          {
+            "text": "in the water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creatures",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "that crawl",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "You must distinguish",
+            "strong": "H914"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "and the clean",
+            "strong": "H2889"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "animals",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "that may be eaten",
+            "strong": "H398"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "and those",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "may not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H398"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

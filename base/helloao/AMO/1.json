@@ -1,0 +1,1165 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "AMO",
+    "name": "Amos",
+    "number": 30
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[These are] the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of Amos",
+            "strong": "H5986"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "among the sheepherders",
+            "strong": "H5349"
+          },
+          " ",
+          {
+            "text": "of Tekoa",
+            "strong": "H8620"
+          },
+          "\u2014 ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he saw",
+            "strong": "H2372"
+          },
+          " ",
+          {
+            "text": "concerning",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "two years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the earthquake",
+            "strong": "H7494"
+          },
+          ", ",
+          {
+            "text": "in the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "[when] Uzziah",
+            "strong": "H5818"
+          },
+          " ",
+          {
+            "text": "[was] king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and Jeroboam",
+            "strong": "H3379"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoash",
+            "strong": "H3101"
+          },
+          " ",
+          {
+            "text": "[was] king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "He said",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "roars",
+            "strong": "H7580"
+          },
+          " ",
+          {
+            "text": "from Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "and raises",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "His voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "from Jerusalem",
+            "strong": "H3389"
+          },
+          "; ",
+          {
+            "text": "the pastures",
+            "strong": "H4999"
+          },
+          " ",
+          {
+            "text": "of the shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "mourn",
+            "strong": "H56"
+          },
+          ", ",
+          {
+            "text": "and the summit",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of Carmel",
+            "strong": "H3760"
+          },
+          " ",
+          {
+            "text": "withers",
+            "strong": "H3001"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "of Damascus",
+            "strong": "H1834"
+          },
+          ", ",
+          {
+            "text": "even",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "revoke [My judgment]",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "they threshed",
+            "strong": "H1758"
+          },
+          " ",
+          {
+            "text": "Gilead",
+            "strong": "H1568"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "with sledges",
+            "strong": "H2742"
+          },
+          " ",
+          {
+            "text": "of iron",
+            "strong": "H1270"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "So I will send",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "upon the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Hazael",
+            "strong": "H2371"
+          },
+          " ",
+          {
+            "text": "to consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the citadels",
+            "strong": "H759"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "Ben-hadad",
+            "strong": "H1130"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "I will break down",
+            "strong": "H7665"
+          },
+          " ",
+          {
+            "text": "the gates",
+            "strong": "H1280"
+          },
+          " ",
+          {
+            "text": "of Damascus",
+            "strong": "H1834"
+          },
+          "; ",
+          {
+            "text": "I will cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "the ruler",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "from the Valley of Aven",
+            "strong": "H1237"
+          },
+          {
+            "text": ". . .",
+            "strong": "H206"
+          },
+          " ",
+          {
+            "text": "and the one who wields",
+            "strong": "H8551"
+          },
+          " ",
+          {
+            "text": "the scepter",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "in Beth-eden",
+            "strong": "H1040"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1040"
+          },
+          ". ",
+          {
+            "text": "The people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "will be exiled",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "to Kir",
+            "strong": "H7024"
+          },
+          ",\u201d ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "of Gaza",
+            "strong": "H5804"
+          },
+          ", ",
+          {
+            "text": "even",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "revoke [My judgment]",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "they exiled",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "a whole",
+            "strong": "H8003"
+          },
+          " ",
+          {
+            "text": "population",
+            "strong": "H1546"
+          },
+          ", ",
+          {
+            "text": "delivering [them] up",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "to Edom",
+            "strong": "H123"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So I will send",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "upon the walls",
+            "strong": "H2346"
+          },
+          " ",
+          {
+            "text": "of Gaza",
+            "strong": "H5804"
+          },
+          ", ",
+          {
+            "text": "to consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "its citadels",
+            "strong": "H759"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "I will cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "the ruler",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of Ashdod",
+            "strong": "H795"
+          },
+          " ",
+          {
+            "text": "and the one who wields",
+            "strong": "H8551"
+          },
+          " ",
+          {
+            "text": "the scepter",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "in Ashkelon",
+            "strong": "H831"
+          },
+          ". ",
+          {
+            "text": "I will turn",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "My hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Ekron",
+            "strong": "H6138"
+          },
+          ", ",
+          {
+            "text": "and the remnant",
+            "strong": "H7611"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "will perish",
+            "strong": "H6"
+          },
+          ",\u201d ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "of Tyre",
+            "strong": "H6865"
+          },
+          ", ",
+          {
+            "text": "even",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "revoke [My judgment]",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "they delivered up",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "a whole",
+            "strong": "H8003"
+          },
+          " ",
+          {
+            "text": "congregation of exiles",
+            "strong": "H1546"
+          },
+          " ",
+          {
+            "text": "to Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "and broke",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "of brotherhood",
+            "strong": "H251"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "So I will send",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "upon the walls",
+            "strong": "H2346"
+          },
+          " ",
+          {
+            "text": "of Tyre",
+            "strong": "H6865"
+          },
+          " ",
+          {
+            "text": "to consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "its citadels",
+            "strong": "H759"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "even",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "revoke [My judgment]",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "he pursued",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "his brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "with the sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "and stifled",
+            "strong": "H7843"
+          },
+          " ",
+          {
+            "text": "all compassion",
+            "strong": "H7356"
+          },
+          "; ",
+          {
+            "text": "his anger",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "raged",
+            "strong": "H2963"
+          },
+          " ",
+          {
+            "text": "continually",
+            "strong": "H5703"
+          },
+          ", ",
+          {
+            "text": "and his fury",
+            "strong": "H5678"
+          },
+          " ",
+          {
+            "text": "flamed",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "incessantly",
+            "strong": "H5331"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "So I will send",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "upon Teman",
+            "strong": "H8487"
+          },
+          " ",
+          {
+            "text": "to consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the citadels",
+            "strong": "H759"
+          },
+          " ",
+          {
+            "text": "of Bozrah",
+            "strong": "H1224"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "For",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "of the Ammonites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5983"
+          },
+          ", ",
+          {
+            "text": "even",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H702"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "revoke [My judgment]",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "they ripped open",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "the pregnant",
+            "strong": "H2030"
+          },
+          " ",
+          {
+            "text": "women of Gilead",
+            "strong": "H1568"
+          },
+          " ",
+          {
+            "text": "in order to",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "enlarge",
+            "strong": "H7337"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their territory",
+            "strong": "H1366"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "So I will kindle",
+            "strong": "H3341"
+          },
+          " ",
+          {
+            "text": "a fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "in the walls",
+            "strong": "H2346"
+          },
+          " ",
+          {
+            "text": "of Rabbah",
+            "strong": "H7237"
+          },
+          " ",
+          {
+            "text": "to consume",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "its citadels",
+            "strong": "H759"
+          },
+          " ",
+          {
+            "text": "amid war cries",
+            "strong": "H8643"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of battle",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "and a violent wind",
+            "strong": "H5591"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of tempest",
+            "strong": "H5492"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Their king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "will go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "into exile",
+            "strong": "H1473"
+          },
+          " \u2014 ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "and his princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H3162"
+          },
+          ",\u201d ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

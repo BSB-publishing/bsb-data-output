@@ -1,0 +1,873 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are my God",
+            "strong": "H430"
+          },
+          "! ",
+          {
+            "text": "I will exalt You",
+            "strong": "H7311"
+          },
+          "; ",
+          {
+            "text": "I will praise",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "Your name",
+            "strong": "H8034"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You have worked",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "wonders",
+            "strong": "H6382"
+          },
+          " \u2014 ",
+          {
+            "text": "plans",
+            "strong": "H6098"
+          },
+          " ",
+          {
+            "text": "[formed] long ago",
+            "strong": "H7350"
+          },
+          " \u2014 ",
+          {
+            "text": "in perfect faithfulness",
+            "strong": "H530"
+          },
+          {
+            "text": ". . .",
+            "strong": "H544"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Indeed",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "You have made",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "a heap of rubble",
+            "strong": "H1530"
+          },
+          ", ",
+          {
+            "text": "the fortified",
+            "strong": "H1219"
+          },
+          " ",
+          {
+            "text": "town",
+            "strong": "H7151"
+          },
+          " ",
+          {
+            "text": "a ruin",
+            "strong": "H4654"
+          },
+          ". ",
+          {
+            "text": "The fortress",
+            "strong": "H759"
+          },
+          " ",
+          {
+            "text": "of strangers",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "[is] a city [no more]",
+            "strong": "H5892"
+          },
+          "; ",
+          {
+            "text": "it will never",
+            "strong": "H5769"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be rebuilt",
+            "strong": "H1129"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "a strong",
+            "strong": "H5794"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "will honor You",
+            "strong": "H3513"
+          },
+          ". ",
+          {
+            "text": "The cities",
+            "strong": "H7151"
+          },
+          " ",
+          {
+            "text": "of ruthless",
+            "strong": "H6184"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "will revere You",
+            "strong": "H3372"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You have been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a refuge",
+            "strong": "H4581"
+          },
+          " ",
+          {
+            "text": "for the poor",
+            "strong": "H1800"
+          },
+          ", ",
+          {
+            "text": "a stronghold",
+            "strong": "H4581"
+          },
+          " ",
+          {
+            "text": "for the needy",
+            "strong": "H34"
+          },
+          " ",
+          {
+            "text": "in distress",
+            "strong": "H6862"
+          },
+          ", ",
+          {
+            "text": "a refuge",
+            "strong": "H4268"
+          },
+          " ",
+          {
+            "text": "from the storm",
+            "strong": "H2230"
+          },
+          ", ",
+          {
+            "text": "a shade",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "from the heat",
+            "strong": "H2721"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the breath",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of the ruthless",
+            "strong": "H6184"
+          },
+          " ",
+          {
+            "text": "is like rain",
+            "strong": "H2230"
+          },
+          " ",
+          {
+            "text": "against a wall",
+            "strong": "H7023"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "like heat",
+            "strong": "H2721"
+          },
+          " ",
+          {
+            "text": "in a dry land",
+            "strong": "H6724"
+          },
+          ". ",
+          {
+            "text": "You subdue",
+            "strong": "H3665"
+          },
+          " ",
+          {
+            "text": "the uproar",
+            "strong": "H7588"
+          },
+          " ",
+          {
+            "text": "of foreigners",
+            "strong": "H2114"
+          },
+          ". ",
+          {
+            "text": "As the shade",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "of a cloud",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "cools the heat",
+            "strong": "H2721"
+          },
+          ", ",
+          {
+            "text": "so the song",
+            "strong": "H2158"
+          },
+          " ",
+          {
+            "text": "of the ruthless",
+            "strong": "H6184"
+          },
+          " ",
+          {
+            "text": "is silenced",
+            "strong": "H6031"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "On this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "will prepare",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "a lavish",
+            "strong": "H8081"
+          },
+          " ",
+          {
+            "text": "banquet",
+            "strong": "H4960"
+          },
+          " ",
+          {
+            "text": "for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "a feast",
+            "strong": "H4960"
+          },
+          " ",
+          {
+            "text": "of aged wine",
+            "strong": "H8105"
+          },
+          ", ",
+          {
+            "text": "of choice meat",
+            "strong": "H8081"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4229"
+          },
+          ", ",
+          {
+            "text": "of finely",
+            "strong": "H2212"
+          },
+          " ",
+          {
+            "text": "aged wine",
+            "strong": "H8105"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "On this",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "He will swallow up",
+            "strong": "H1104"
+          },
+          " ",
+          {
+            "text": "the shroud",
+            "strong": "H3874"
+          },
+          " ",
+          {
+            "text": "that enfolds",
+            "strong": "H3875"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "peoples",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "the sheet",
+            "strong": "H4541"
+          },
+          " ",
+          {
+            "text": "that covers",
+            "strong": "H5259"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "He will swallow up",
+            "strong": "H1104"
+          },
+          " ",
+          {
+            "text": "death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5331"
+          },
+          ". ",
+          {
+            "text": "The Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "will wipe away",
+            "strong": "H4229"
+          },
+          " ",
+          {
+            "text": "the tears",
+            "strong": "H1832"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and remove",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "the disgrace",
+            "strong": "H2781"
+          },
+          " ",
+          {
+            "text": "of His people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has spoken",
+            "strong": "H1696"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And in that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "it will be said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Surely",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "is our God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "we have waited",
+            "strong": "H6960"
+          },
+          " for Him, ",
+          {
+            "text": "and He has saved us",
+            "strong": "H3467"
+          },
+          ". ",
+          {
+            "text": "This",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "is the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "for whom we have waited",
+            "strong": "H6960"
+          },
+          ". ",
+          {
+            "text": "Let us rejoice",
+            "strong": "H1523"
+          },
+          " ",
+          {
+            "text": "and be glad",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "in His salvation",
+            "strong": "H3444"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will rest",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "on this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          ". ",
+          {
+            "text": "But Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "will be trampled",
+            "strong": "H1758"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "as straw",
+            "strong": "H4963"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "is trodden",
+            "strong": "H1758"
+          },
+          " ",
+          {
+            "text": "into the dung pile",
+            "strong": "H4087"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "He will spread out",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "his hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "within it",
+            "strong": "H7130"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "a swimmer",
+            "strong": "H7811"
+          },
+          " ",
+          {
+            "text": "spreads [his arms]",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "to swim",
+            "strong": "H7811"
+          },
+          ". ",
+          {
+            "text": "His pride",
+            "strong": "H1346"
+          },
+          " ",
+          {
+            "text": "will be brought low",
+            "strong": "H8213"
+          },
+          ", ",
+          {
+            "text": "despite",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the skill",
+            "strong": "H698"
+          },
+          " ",
+          {
+            "text": "of his hands",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "The high-walled",
+            "strong": "H4869"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2346"
+          },
+          " ",
+          {
+            "text": "fortress",
+            "strong": "H4013"
+          },
+          " ",
+          {
+            "text": "will be brought down",
+            "strong": "H7817"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H8213"
+          },
+          " ",
+          {
+            "text": "cast",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "to the ground",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "into",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the dust",
+            "strong": "H6083"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

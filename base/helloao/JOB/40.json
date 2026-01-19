@@ -1,0 +1,973 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOB",
+    "name": "Job",
+    "number": 18
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "to Job",
+            "strong": "H347"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Will the faultfinder",
+            "strong": "H3250"
+          },
+          " ",
+          {
+            "text": "contend",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the Almighty",
+            "strong": "H7706"
+          },
+          "? ",
+          {
+            "text": "Let him who argues",
+            "strong": "H3198"
+          },
+          " ",
+          {
+            "text": "with God",
+            "strong": "H433"
+          },
+          " ",
+          {
+            "text": "give an answer",
+            "strong": "H6030"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then Job",
+            "strong": "H347"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "\u201c",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I am insignificant",
+            "strong": "H7043"
+          },
+          ". ",
+          {
+            "text": "How",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "can I reply to You",
+            "strong": "H7725"
+          },
+          "? ",
+          {
+            "text": "I place",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "my hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H3926"
+          },
+          " ",
+          {
+            "text": "my mouth",
+            "strong": "H6310"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "I have spoken",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "once",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "but I have no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "answer",
+            "strong": "H6030"
+          },
+          " \u2014 ",
+          {
+            "text": "twice",
+            "strong": "H8147"
+          },
+          ", ",
+          {
+            "text": "but I have nothing",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to add",
+            "strong": "H3254"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "Job",
+            "strong": "H347"
+          },
+          " ",
+          {
+            "text": "out of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the whirlwind",
+            "strong": "H5591"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "\u201c",
+          {
+            "text": "Now",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "brace",
+            "strong": "H247"
+          },
+          " ",
+          {
+            "text": "yourself",
+            "strong": "H2504"
+          },
+          " ",
+          {
+            "text": "like a man",
+            "strong": "H1397"
+          },
+          "; ",
+          {
+            "text": "I will question you",
+            "strong": "H7592"
+          },
+          ", ",
+          {
+            "text": "and you shall inform Me",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Would you really",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "annul",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "My justice",
+            "strong": "H4639"
+          },
+          "? ",
+          {
+            "text": "Would you condemn Me",
+            "strong": "H7561"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "justify yourself?",
+            "strong": "H6663"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "Do you have an arm",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "like God\u2019s",
+            "strong": "H410"
+          },
+          "? ",
+          {
+            "text": "Can you thunder",
+            "strong": "H7481"
+          },
+          " ",
+          {
+            "text": "with a voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "like His",
+            "strong": "H3644"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "adorn yourself",
+            "strong": "H5710"
+          },
+          " ",
+          {
+            "text": "[with] majesty",
+            "strong": "H1347"
+          },
+          " ",
+          {
+            "text": "and splendor",
+            "strong": "H1363"
+          },
+          ", ",
+          {
+            "text": "and clothe",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "yourself with honor",
+            "strong": "H1935"
+          },
+          " ",
+          {
+            "text": "and glory",
+            "strong": "H1926"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Unleash",
+            "strong": "H6327"
+          },
+          " ",
+          {
+            "text": "the fury",
+            "strong": "H5678"
+          },
+          " ",
+          {
+            "text": "of your wrath",
+            "strong": "H639"
+          },
+          "; ",
+          {
+            "text": "look on",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "proud man",
+            "strong": "H1343"
+          },
+          " ",
+          {
+            "text": "and bring him low",
+            "strong": "H8213"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Look on",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "proud man",
+            "strong": "H1343"
+          },
+          " ",
+          {
+            "text": "and humble him",
+            "strong": "H3665"
+          },
+          "; ",
+          {
+            "text": "trample",
+            "strong": "H1915"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "where they stand",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Bury them",
+            "strong": "H2934"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H3162"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "in the dust",
+            "strong": "H6083"
+          },
+          "; ",
+          {
+            "text": "imprison them",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "in the grave",
+            "strong": "H2934"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will confess to you",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "your own right hand",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "can save",
+            "strong": "H3467"
+          },
+          " you."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Look at",
+            "strong": "H2009"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "Behemoth",
+            "strong": "H930"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "[along] with you",
+            "strong": "H5973"
+          },
+          ". ",
+          {
+            "text": "He feeds on",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "grass",
+            "strong": "H2682"
+          },
+          " ",
+          {
+            "text": "like an ox",
+            "strong": "H1241"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "See",
+            "strong": "H2009"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "the strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "of his loins",
+            "strong": "H4975"
+          },
+          " ",
+          {
+            "text": "and the power",
+            "strong": "H202"
+          },
+          " ",
+          {
+            "text": "in the muscles",
+            "strong": "H8306"
+          },
+          " ",
+          {
+            "text": "of his belly",
+            "strong": "H990"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "His tail",
+            "strong": "H2180"
+          },
+          " ",
+          {
+            "text": "sways",
+            "strong": "H2654"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "H3644"
+          },
+          " ",
+          {
+            "text": "a cedar",
+            "strong": "H730"
+          },
+          "; ",
+          {
+            "text": "the sinews",
+            "strong": "H1517"
+          },
+          " ",
+          {
+            "text": "of his thighs",
+            "strong": "H6344"
+          },
+          " ",
+          {
+            "text": "are tightly knit",
+            "strong": "H8276"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "His bones",
+            "strong": "H6106"
+          },
+          " ",
+          {
+            "text": "are tubes",
+            "strong": "H650"
+          },
+          " ",
+          {
+            "text": "of bronze",
+            "strong": "H5154"
+          },
+          "; ",
+          {
+            "text": "his limbs",
+            "strong": "H1634"
+          },
+          " ",
+          {
+            "text": "are rods",
+            "strong": "H4300"
+          },
+          " ",
+          {
+            "text": "of iron",
+            "strong": "H1270"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is the foremost",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "of God\u2019s",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "works",
+            "strong": "H1870"
+          },
+          "; ",
+          {
+            "text": "only his Maker",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "can draw the sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "against him",
+            "strong": "H5066"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "The hills",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "yield",
+            "strong": "H5375"
+          },
+          " him ",
+          {
+            "text": "their produce",
+            "strong": "H944"
+          },
+          ", ",
+          {
+            "text": "while all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the beasts",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "play",
+            "strong": "H7832"
+          },
+          " ",
+          {
+            "text": "nearby",
+            "strong": "H8033"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "He lies",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the lotus plants",
+            "strong": "H6628"
+          },
+          ", ",
+          {
+            "text": "hidden",
+            "strong": "H5643"
+          },
+          " ",
+          {
+            "text": "among the reeds",
+            "strong": "H7070"
+          },
+          " ",
+          {
+            "text": "of the marsh",
+            "strong": "H1207"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "The lotus plants",
+            "strong": "H6628"
+          },
+          " ",
+          {
+            "text": "conceal him",
+            "strong": "H5526"
+          },
+          " ",
+          {
+            "text": "in their shade",
+            "strong": "H6752"
+          },
+          "; ",
+          {
+            "text": "the willows",
+            "strong": "H6155"
+          },
+          " ",
+          {
+            "text": "of the brook",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "surround him",
+            "strong": "H5437"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Though",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "the river",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "rages",
+            "strong": "H6231"
+          },
+          ", ",
+          {
+            "text": "Behemoth is unafraid",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2648"
+          },
+          "; ",
+          {
+            "text": "he remains secure",
+            "strong": "H982"
+          },
+          ", ",
+          {
+            "text": "though",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the Jordan",
+            "strong": "H3383"
+          },
+          " ",
+          {
+            "text": "surges",
+            "strong": "H1518"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his mouth",
+            "strong": "H6310"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Can anyone capture him",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "as he looks on",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "or pierce",
+            "strong": "H5344"
+          },
+          " ",
+          {
+            "text": "his nose",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "with a snare",
+            "strong": "H4170"
+          },
+          "?[\u2019\u2019]"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

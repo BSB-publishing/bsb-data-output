@@ -1,0 +1,239 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 128,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "when you eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the fruit",
+            "strong": "H3709"
+          },
+          " ",
+          {
+            "text": "of your labor",
+            "strong": "H3018"
+          },
+          ", ",
+          {
+            "text": "blessings",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "and prosperity",
+            "strong": "H2896"
+          },
+          " will be yours."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Your wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "will be like a fruitful",
+            "strong": "H6509"
+          },
+          " ",
+          {
+            "text": "vine",
+            "strong": "H1612"
+          },
+          " ",
+          {
+            "text": "[flourishing] within",
+            "strong": "H3411"
+          },
+          " ",
+          {
+            "text": "your house",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "your sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "like olive",
+            "strong": "H2132"
+          },
+          " ",
+          {
+            "text": "shoots",
+            "strong": "H8363"
+          },
+          " ",
+          {
+            "text": "[sitting] around",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "your table",
+            "strong": "H7979"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "In this way",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "indeed",
+            "strong": "H2009"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "shall blessing come",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "to the man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "who fears",
+            "strong": "H3373"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "May the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "bless you",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "from Zion",
+            "strong": "H6726"
+          },
+          ", ",
+          {
+            "text": "that you may see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the prosperity",
+            "strong": "H2898"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of your life",
+            "strong": "H2416"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "that you may see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "your children\u2019s",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "children",
+            "strong": "H1121"
+          },
+          ". ",
+          {
+            "text": "Peace",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "be upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          "!"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

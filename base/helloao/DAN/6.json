@@ -1,0 +1,2801 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "DAN",
+    "name": "Daniel",
+    "number": 27
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now it",
+            "strong": "H8232"
+          },
+          " ",
+          {
+            "text": "pleased",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "Darius",
+            "strong": "H1868"
+          },
+          " ",
+          {
+            "text": "to appoint",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "120",
+            "strong": "H3969"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6243"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "satraps",
+            "strong": "H324"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "to rule",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "throughout",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the kingdom",
+            "strong": "H4437"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "and over them",
+            "strong": "H5924"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H8532"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "administrators",
+            "strong": "H5632"
+          },
+          ", ",
+          {
+            "text": "including Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2298"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " to whom ",
+          {
+            "text": "these",
+            "strong": "H459"
+          },
+          " ",
+          {
+            "text": "satraps",
+            "strong": "H324"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3052"
+          },
+          " ",
+          {
+            "text": "were accountable",
+            "strong": "H2941"
+          },
+          " ",
+          {
+            "text": "so that the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "would",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "suffer loss",
+            "strong": "H5142"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Soon",
+            "strong": "H116"
+          },
+          ", ",
+          {
+            "text": "by",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "his extraordinary",
+            "strong": "H3493"
+          },
+          " ",
+          {
+            "text": "spirit",
+            "strong": "H7308"
+          },
+          ", ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "distinguished himself",
+            "strong": "H5330"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the administrators",
+            "strong": "H5632"
+          },
+          " ",
+          {
+            "text": "and satraps",
+            "strong": "H324"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          ". ",
+          {
+            "text": "So the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "planned",
+            "strong": "H6246"
+          },
+          " ",
+          {
+            "text": "to set him",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the whole",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "H4437"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Thus",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the administrators",
+            "strong": "H5632"
+          },
+          " ",
+          {
+            "text": "and satraps",
+            "strong": "H324"
+          },
+          " ",
+          {
+            "text": "sought",
+            "strong": "H1934"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1156"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "a charge",
+            "strong": "H5931"
+          },
+          " ",
+          {
+            "text": "against Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "concerning",
+            "strong": "H6655"
+          },
+          " ",
+          {
+            "text": "the kingdom",
+            "strong": "H4437"
+          },
+          ", ",
+          {
+            "text": "but they could",
+            "strong": "H3202"
+          },
+          " ",
+          {
+            "text": "find",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "charge",
+            "strong": "H5931"
+          },
+          " ",
+          {
+            "text": "or corruption",
+            "strong": "H7844"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1932"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "was trustworthy",
+            "strong": "H540"
+          },
+          ", ",
+          {
+            "text": "and no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "negligence",
+            "strong": "H7960"
+          },
+          " ",
+          {
+            "text": "or corruption",
+            "strong": "H7844"
+          },
+          " ",
+          {
+            "text": "was found",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "in him",
+            "strong": "H5922"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Finally",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H560"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " \u201c",
+          {
+            "text": "We will never",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "find",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "charge",
+            "strong": "H5931"
+          },
+          " ",
+          {
+            "text": "against this",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "unless",
+            "strong": "H3861"
+          },
+          " ",
+          {
+            "text": "we find [something]",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "against him",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "concerning the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of his God",
+            "strong": "H426"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the administrators",
+            "strong": "H5632"
+          },
+          " ",
+          {
+            "text": "and satraps",
+            "strong": "H324"
+          },
+          {
+            "text": ". . .",
+            "strong": "H459"
+          },
+          " ",
+          {
+            "text": "went together",
+            "strong": "H7284"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3652"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H560"
+          },
+          ", \u201c",
+          {
+            "text": "O King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Darius",
+            "strong": "H1868"
+          },
+          ", ",
+          {
+            "text": "may you live",
+            "strong": "H2418"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5957"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the royal",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "administrators",
+            "strong": "H5632"
+          },
+          ", ",
+          {
+            "text": "prefects",
+            "strong": "H5460"
+          },
+          ", ",
+          {
+            "text": "satraps",
+            "strong": "H324"
+          },
+          ", ",
+          {
+            "text": "advisers",
+            "strong": "H1907"
+          },
+          ", ",
+          {
+            "text": "and governors",
+            "strong": "H6347"
+          },
+          " ",
+          {
+            "text": "have agreed",
+            "strong": "H3272"
+          },
+          " ",
+          {
+            "text": "that the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "should establish",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "an ordinance",
+            "strong": "H7010"
+          },
+          " ",
+          {
+            "text": "and enforce",
+            "strong": "H8631"
+          },
+          " ",
+          {
+            "text": "a decree",
+            "strong": "H633"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "thirty",
+            "strong": "H8533"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3118"
+          },
+          " ",
+          {
+            "text": "anyone",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "petitions",
+            "strong": "H1156"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1159"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "or man",
+            "strong": "H606"
+          },
+          " ",
+          {
+            "text": "except you",
+            "strong": "H3861"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "will be thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into the den",
+            "strong": "H1358"
+          },
+          " ",
+          {
+            "text": "of lions",
+            "strong": "H744"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3705"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "establish",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "the decree",
+            "strong": "H633"
+          },
+          " ",
+          {
+            "text": "and sign",
+            "strong": "H7560"
+          },
+          " ",
+          {
+            "text": "the document",
+            "strong": "H3792"
+          },
+          " ",
+          {
+            "text": "so that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "it cannot",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "be changed",
+            "strong": "H8133"
+          },
+          " \u2014 ",
+          {
+            "text": "in accordance with the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of the Medes",
+            "strong": "H4076"
+          },
+          " ",
+          {
+            "text": "and Persians",
+            "strong": "H6540"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "be repealed",
+            "strong": "H5709"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Darius",
+            "strong": "H1868"
+          },
+          " ",
+          {
+            "text": "signed",
+            "strong": "H7560"
+          },
+          " ",
+          {
+            "text": "the written",
+            "strong": "H3792"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H633"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Now when",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "learned",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the document",
+            "strong": "H3792"
+          },
+          " ",
+          {
+            "text": "had been signed",
+            "strong": "H7560"
+          },
+          ", ",
+          {
+            "text": "he went",
+            "strong": "H5954"
+          },
+          " ",
+          {
+            "text": "into his house",
+            "strong": "H1005"
+          },
+          ", ",
+          {
+            "text": "where the windows",
+            "strong": "H3551"
+          },
+          " of his ",
+          {
+            "text": "upper room",
+            "strong": "H5952"
+          },
+          " ",
+          {
+            "text": "opened",
+            "strong": "H6606"
+          },
+          " ",
+          {
+            "text": "toward",
+            "strong": "H5049"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3390"
+          },
+          ", ",
+          {
+            "text": "and three",
+            "strong": "H8532"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H2166"
+          },
+          " ",
+          {
+            "text": "a day",
+            "strong": "H3118"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1932"
+          },
+          " ",
+          {
+            "text": "got down",
+            "strong": "H1289"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "his knees",
+            "strong": "H1291"
+          },
+          ", ",
+          {
+            "text": "prayed",
+            "strong": "H6739"
+          },
+          ", ",
+          {
+            "text": "and gave thanks",
+            "strong": "H3029"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "his God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "just as",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "he had done",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H4481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6928"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "went as a group",
+            "strong": "H7284"
+          },
+          " ",
+          {
+            "text": "and found",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "petitioning",
+            "strong": "H1156"
+          },
+          " ",
+          {
+            "text": "and imploring",
+            "strong": "H2604"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "his God",
+            "strong": "H426"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "they approached",
+            "strong": "H7127"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and asked",
+            "strong": "H560"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "his royal",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H633"
+          },
+          ": \u201c",
+          {
+            "text": "Did you not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "sign",
+            "strong": "H7560"
+          },
+          " ",
+          {
+            "text": "a decree",
+            "strong": "H633"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "thirty",
+            "strong": "H8533"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3118"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H606"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "petitions",
+            "strong": "H1156"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "or man",
+            "strong": "H606"
+          },
+          " ",
+          {
+            "text": "except you",
+            "strong": "H3861"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "will be thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into the den",
+            "strong": "H1358"
+          },
+          " ",
+          {
+            "text": "of lions",
+            "strong": "H744"
+          },
+          "?\u201d ",
+          {
+            "text": "The king",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H6032"
+          },
+          ", \u201c",
+          {
+            "text": "According to the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of the Medes",
+            "strong": "H4076"
+          },
+          " ",
+          {
+            "text": "and Persians",
+            "strong": "H6540"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the order",
+            "strong": "H4406"
+          },
+          " ",
+          {
+            "text": "stands",
+            "strong": "H3330"
+          },
+          ", ",
+          {
+            "text": "and it cannot",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "be repealed",
+            "strong": "H5709"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "they told",
+            "strong": "H6032"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          ", \u201c",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": "one",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the exiles",
+            "strong": "H1123"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1547"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3061"
+          },
+          ", ",
+          {
+            "text": "shows no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "regard",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "for you",
+            "strong": "H5922"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "or for",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the decree",
+            "strong": "H633"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you have signed",
+            "strong": "H7560"
+          },
+          ". ",
+          {
+            "text": "He still makes",
+            "strong": "H1156"
+          },
+          " ",
+          {
+            "text": "his petition",
+            "strong": "H1159"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H8532"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H2166"
+          },
+          " ",
+          {
+            "text": "a day",
+            "strong": "H3118"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "As soon as",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8086"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H4406"
+          },
+          ", ",
+          {
+            "text": "he was deeply",
+            "strong": "H7690"
+          },
+          " ",
+          {
+            "text": "distressed",
+            "strong": "H888"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "set",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "[his] mind",
+            "strong": "H1079"
+          },
+          " ",
+          {
+            "text": "on delivering",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": "and he labored",
+            "strong": "H7712"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "sundown",
+            "strong": "H4606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8122"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "to rescue him",
+            "strong": "H5338"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "approached",
+            "strong": "H7284"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the king {together}",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H4430"
+          },
+          ", \u201c",
+          {
+            "text": "Remember",
+            "strong": "H3046"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "by the law",
+            "strong": "H1882"
+          },
+          " ",
+          {
+            "text": "of the Medes",
+            "strong": "H4076"
+          },
+          " ",
+          {
+            "text": "and Persians",
+            "strong": "H6540"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H633"
+          },
+          " ",
+          {
+            "text": "or ordinance",
+            "strong": "H7010"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "established",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "by the king",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "can be changed",
+            "strong": "H8133"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "gave the order",
+            "strong": "H560"
+          },
+          ", ",
+          {
+            "text": "and they brought",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "and threw him",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into the den",
+            "strong": "H1358"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "lions",
+            "strong": "H744"
+          },
+          ". ",
+          {
+            "text": "The king",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "to Daniel",
+            "strong": "H1841"
+          },
+          ", \u201c",
+          {
+            "text": "May your God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H607"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "continually",
+            "strong": "H8411"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1932"
+          },
+          " ",
+          {
+            "text": "deliver you",
+            "strong": "H7804"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "A",
+            "strong": "H2298"
+          },
+          " ",
+          {
+            "text": "stone",
+            "strong": "H69"
+          },
+          " ",
+          {
+            "text": "was brought",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "and placed",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the mouth",
+            "strong": "H6433"
+          },
+          " ",
+          {
+            "text": "of the den",
+            "strong": "H1358"
+          },
+          ", ",
+          {
+            "text": "and the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "sealed it",
+            "strong": "H2857"
+          },
+          " ",
+          {
+            "text": "with his own signet ring",
+            "strong": "H5824"
+          },
+          " ",
+          {
+            "text": "and with the rings",
+            "strong": "H5824"
+          },
+          " ",
+          {
+            "text": "of his nobles",
+            "strong": "H7261"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "nothing",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6640"
+          },
+          " ",
+          {
+            "text": "concerning Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "could be changed",
+            "strong": "H8133"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H236"
+          },
+          " ",
+          {
+            "text": "to his palace",
+            "strong": "H1965"
+          },
+          " ",
+          {
+            "text": "and spent the night",
+            "strong": "H956"
+          },
+          " ",
+          {
+            "text": "fasting",
+            "strong": "H2908"
+          },
+          ". ",
+          {
+            "text": "No",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "entertainment",
+            "strong": "H1761"
+          },
+          " ",
+          {
+            "text": "was brought",
+            "strong": "H5954"
+          },
+          " ",
+          {
+            "text": "before him",
+            "strong": "H6925"
+          },
+          ", ",
+          {
+            "text": "and sleep",
+            "strong": "H8139"
+          },
+          " ",
+          {
+            "text": "fled",
+            "strong": "H5075"
+          },
+          " ",
+          {
+            "text": "from him",
+            "strong": "H5922"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "At the first light",
+            "strong": "H5053"
+          },
+          " ",
+          {
+            "text": "of dawn",
+            "strong": "H8238"
+          },
+          ", ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "got up",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "and hurried",
+            "strong": "H927"
+          },
+          {
+            "text": ". . .",
+            "strong": "H236"
+          },
+          " ",
+          {
+            "text": "to the den",
+            "strong": "H1358"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "lions",
+            "strong": "H744"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "When he reached",
+            "strong": "H7127"
+          },
+          " ",
+          {
+            "text": "the den",
+            "strong": "H1358"
+          },
+          ", ",
+          {
+            "text": "he cried out",
+            "strong": "H2200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "in a voice",
+            "strong": "H7032"
+          },
+          " ",
+          {
+            "text": "of anguish",
+            "strong": "H6088"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1841"
+          },
+          ", \u201c",
+          {
+            "text": "O Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": "servant",
+            "strong": "H5649"
+          },
+          " ",
+          {
+            "text": "of the living",
+            "strong": "H2417"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "has your God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H607"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "continually",
+            "strong": "H8411"
+          },
+          ", ",
+          {
+            "text": "been able",
+            "strong": "H3202"
+          },
+          " ",
+          {
+            "text": "to deliver you",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the lions",
+            "strong": "H744"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H4449"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5974"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4430"
+          },
+          ", \u201c",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "may you live",
+            "strong": "H2418"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5957"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "My God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "His angel",
+            "strong": "H4398"
+          },
+          " ",
+          {
+            "text": "and shut",
+            "strong": "H5463"
+          },
+          " ",
+          {
+            "text": "the mouths",
+            "strong": "H6433"
+          },
+          " ",
+          {
+            "text": "of the lions",
+            "strong": "H744"
+          },
+          ". ",
+          {
+            "text": "They have not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "hurt me",
+            "strong": "H2255"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "I was found",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "innocent",
+            "strong": "H2136"
+          },
+          " ",
+          {
+            "text": "in His sight",
+            "strong": "H6925"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H638"
+          },
+          " ",
+          {
+            "text": "I have done",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "wrong",
+            "strong": "H2248"
+          },
+          " ",
+          {
+            "text": "against you",
+            "strong": "H6925"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "The king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "was overjoyed",
+            "strong": "H7690"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2868"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "and gave orders",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "to lift",
+            "strong": "H5559"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "out of",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the den",
+            "strong": "H1358"
+          },
+          ", ",
+          {
+            "text": "and when Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "was lifted",
+            "strong": "H5559"
+          },
+          " ",
+          {
+            "text": "out of",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the den",
+            "strong": "H1358"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "wounds whatsoever",
+            "strong": "H2257"
+          },
+          " ",
+          {
+            "text": "were found",
+            "strong": "H7912"
+          },
+          " on him, ",
+          {
+            "text": "because",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "he had trusted",
+            "strong": "H540"
+          },
+          " ",
+          {
+            "text": "in his God",
+            "strong": "H426"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "At the command",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "had falsely accused",
+            "strong": "H399"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7170"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "were brought",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "and thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into the den",
+            "strong": "H1358"
+          },
+          " ",
+          {
+            "text": "of lions",
+            "strong": "H744"
+          },
+          "\u2014 ",
+          {
+            "text": "they",
+            "strong": "H581"
+          },
+          " ",
+          {
+            "text": "and their children",
+            "strong": "H1123"
+          },
+          " ",
+          {
+            "text": "and wives",
+            "strong": "H5389"
+          },
+          ". ",
+          {
+            "text": "And before",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "they had reached",
+            "strong": "H4291"
+          },
+          " ",
+          {
+            "text": "the bottom",
+            "strong": "H773"
+          },
+          " ",
+          {
+            "text": "of the den",
+            "strong": "H1358"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the lions",
+            "strong": "H744"
+          },
+          " ",
+          {
+            "text": "overpowered",
+            "strong": "H7981"
+          },
+          " them ",
+          {
+            "text": "and crushed",
+            "strong": "H1855"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "their bones",
+            "strong": "H1635"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Darius",
+            "strong": "H1868"
+          },
+          " ",
+          {
+            "text": "wrote",
+            "strong": "H3790"
+          },
+          " ",
+          {
+            "text": "to the people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H524"
+          },
+          " ",
+          {
+            "text": "and language",
+            "strong": "H3961"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "throughout",
+            "strong": "H1753"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H772"
+          },
+          ": \u201c",
+          {
+            "text": "May your prosperity",
+            "strong": "H8001"
+          },
+          " ",
+          {
+            "text": "abound",
+            "strong": "H7680"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "I hereby",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "decree",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "in every",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "part",
+            "strong": "H7985"
+          },
+          " ",
+          {
+            "text": "of my kingdom",
+            "strong": "H4437"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          ", ",
+          {
+            "text": "[men are to] tremble",
+            "strong": "H2112"
+          },
+          " ",
+          {
+            "text": "in fear",
+            "strong": "H1763"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ": ",
+          {
+            "text": "For",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1932"
+          },
+          " ",
+          {
+            "text": "is the living",
+            "strong": "H2417"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "and He endures forever",
+            "strong": "H7011"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5957"
+          },
+          "; ",
+          {
+            "text": "His kingdom",
+            "strong": "H4437"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "be destroyed",
+            "strong": "H2255"
+          },
+          ", ",
+          {
+            "text": "and His dominion",
+            "strong": "H7985"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "will never end",
+            "strong": "H5491"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "He delivers",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "and rescues",
+            "strong": "H5338"
+          },
+          "; ",
+          {
+            "text": "He performs",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "signs",
+            "strong": "H852"
+          },
+          " ",
+          {
+            "text": "and wonders",
+            "strong": "H8540"
+          },
+          " ",
+          {
+            "text": "in the heavens",
+            "strong": "H8065"
+          },
+          " ",
+          {
+            "text": "and on the earth",
+            "strong": "H772"
+          },
+          ", ",
+          {
+            "text": "for He",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "has rescued",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the power",
+            "strong": "H3028"
+          },
+          " ",
+          {
+            "text": "of the lions",
+            "strong": "H744"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "So Daniel",
+            "strong": "H1841"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "prospered",
+            "strong": "H6744"
+          },
+          " ",
+          {
+            "text": "during the reign",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "of Darius",
+            "strong": "H1868"
+          },
+          " ",
+          {
+            "text": "and the reign",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "of Cyrus",
+            "strong": "H3567"
+          },
+          " ",
+          {
+            "text": "the Persian",
+            "strong": "H6543"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

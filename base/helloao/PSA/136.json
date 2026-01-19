@@ -1,0 +1,989 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 136,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Give thanks",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He is good",
+            "strong": "H2896"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Give thanks",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "to the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of gods",
+            "strong": "H430"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Give thanks",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "to the Lord",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "of lords",
+            "strong": "H113"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "He alone",
+            "strong": "H905"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "wonders",
+            "strong": "H6381"
+          },
+          ". ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "By His insight",
+            "strong": "H8394"
+          },
+          " ",
+          {
+            "text": "He made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "He spread out",
+            "strong": "H7554"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the great",
+            "strong": "H1419"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "lights",
+            "strong": "H216"
+          },
+          " \u2014 ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the sun",
+            "strong": "H8121"
+          },
+          " ",
+          {
+            "text": "to rule",
+            "strong": "H4475"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the moon",
+            "strong": "H3394"
+          },
+          " ",
+          {
+            "text": "and stars",
+            "strong": "H3556"
+          },
+          " ",
+          {
+            "text": "to govern",
+            "strong": "H4475"
+          },
+          " ",
+          {
+            "text": "the night",
+            "strong": "H3915"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "and brought Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from among them",
+            "strong": "H8432"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "with a mighty",
+            "strong": "H2389"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "and an outstretched",
+            "strong": "H5186"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "arm",
+            "strong": "H2220"
+          },
+          ". ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "He divided",
+            "strong": "H1504"
+          },
+          " ",
+          {
+            "text": "the Red",
+            "strong": "H5488"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "in two",
+            "strong": "H1506"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "and led",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "through the midst",
+            "strong": "H8432"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "but swept",
+            "strong": "H5287"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "and his army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "into the Red",
+            "strong": "H5488"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          ". ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "He led",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "His people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "through the wilderness",
+            "strong": "H4057"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "He struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "and slaughtered",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "mighty",
+            "strong": "H117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4428"
+          },
+          "\u2014 ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Sihon",
+            "strong": "H5511"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of the Amorites",
+            "strong": "H567"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "and Og",
+            "strong": "H5747"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Bashan",
+            "strong": "H1316"
+          },
+          "\u2014",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "and He gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "their land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5159"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "a heritage",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to His servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "He remembered",
+            "strong": "H2142"
+          },
+          " us ",
+          {
+            "text": "in our low estate",
+            "strong": "H8216"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "and freed us",
+            "strong": "H6561"
+          },
+          " ",
+          {
+            "text": "from our enemies",
+            "strong": "H6862"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "He gives",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "to every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H1320"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Give thanks",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "to the God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8064"
+          },
+          "!",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

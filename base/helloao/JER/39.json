@@ -1,0 +1,1605 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JER",
+    "name": "Jeremiah",
+    "number": 24
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "In the ninth",
+            "strong": "H8671"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of Zedekiah",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "in the tenth",
+            "strong": "H6224"
+          },
+          " ",
+          {
+            "text": "month",
+            "strong": "H2320"
+          },
+          ", ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5019"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "marched",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "with his entire",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "and laid siege",
+            "strong": "H6696"
+          },
+          " ",
+          {
+            "text": "to [the city]",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And on the ninth",
+            "strong": "H8672"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "of the fourth",
+            "strong": "H7243"
+          },
+          " ",
+          {
+            "text": "month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "of Zedekiah\u2019s",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "eleventh",
+            "strong": "H6249"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          ", ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "was breached",
+            "strong": "H1234"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the officials",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "entered",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and sat",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the Middle",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "Gate",
+            "strong": "H8179"
+          },
+          ": ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "Nergal-sharezer",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "of Samgar",
+            "strong": "H5562"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5562"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8310"
+          },
+          " ",
+          {
+            "text": "Nebo-sarsekim",
+            "strong": "H8310"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7249"
+          },
+          " ",
+          {
+            "text": "the Rabsaris",
+            "strong": "H7249"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "Nergal-sharezer",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7248"
+          },
+          " ",
+          {
+            "text": "the Rabmag",
+            "strong": "H7248"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the rest",
+            "strong": "H7611"
+          },
+          " ",
+          {
+            "text": "of the officials",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "When",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Zedekiah",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the soldiers",
+            "strong": "H582"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "saw them",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "they fled",
+            "strong": "H1272"
+          },
+          ". ",
+          {
+            "text": "They left",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "at night",
+            "strong": "H3915"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "by way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the king\u2019s",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "garden",
+            "strong": "H1588"
+          },
+          ", ",
+          {
+            "text": "through the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the two walls",
+            "strong": "H2346"
+          },
+          ", ",
+          {
+            "text": "and they went out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "along the route",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to the Arabah",
+            "strong": "H6160"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "But the army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "of the Chaldeans",
+            "strong": "H3778"
+          },
+          " ",
+          {
+            "text": "pursued",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "and overtook",
+            "strong": "H5381"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Zedekiah",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "in the plains",
+            "strong": "H6160"
+          },
+          " ",
+          {
+            "text": "of Jericho",
+            "strong": "H3405"
+          },
+          ". ",
+          {
+            "text": "They seized",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and brought him up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5019"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "at Riblah",
+            "strong": "H7247"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Hamath",
+            "strong": "H2574"
+          },
+          ", ",
+          {
+            "text": "where he pronounced",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "on him",
+            "strong": "H854"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "There at Riblah",
+            "strong": "H7247"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "slaughtered",
+            "strong": "H7819"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zedekiah",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "before his eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and he",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "also killed",
+            "strong": "H7819"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nobles",
+            "strong": "H2715"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Then he put out",
+            "strong": "H5786"
+          },
+          " ",
+          {
+            "text": "Zedekiah\u2019s",
+            "strong": "H6667"
+          },
+          " ",
+          {
+            "text": "eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "and bound him",
+            "strong": "H631"
+          },
+          " ",
+          {
+            "text": "with bronze chains",
+            "strong": "H5178"
+          },
+          " ",
+          {
+            "text": "to take",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "H894"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "The Chaldeans",
+            "strong": "H3778"
+          },
+          " ",
+          {
+            "text": "set fire to",
+            "strong": "H8313"
+          },
+          {
+            "text": ". . .",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "the palace",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the houses",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "they broke down",
+            "strong": "H5422"
+          },
+          " ",
+          {
+            "text": "the walls",
+            "strong": "H2346"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3389"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5018"
+          },
+          " ",
+          {
+            "text": "Nebuzaradan",
+            "strong": "H5018"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of the guard",
+            "strong": "H2876"
+          },
+          " ",
+          {
+            "text": "carried",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "away to Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "the remnant",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "of the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "who had remained",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "in the city",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "along with",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the deserters",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "had defected",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7604"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "But Nebuzaradan",
+            "strong": "H5018"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2876"
+          },
+          " ",
+          {
+            "text": "left behind",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "some of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the poor",
+            "strong": "H1800"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "had no property",
+            "strong": "H369"
+          },
+          " . . . ",
+          {
+            "text": ". . .",
+            "strong": "H3972"
+          },
+          ", ",
+          {
+            "text": "and at that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he gave",
+            "strong": "H5414"
+          },
+          " them ",
+          {
+            "text": "vineyards",
+            "strong": "H3754"
+          },
+          " ",
+          {
+            "text": "and fields",
+            "strong": "H3010"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Now Nebuchadnezzar",
+            "strong": "H5019"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "had given orders",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Jeremiah",
+            "strong": "H3414"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "Nebuzaradan",
+            "strong": "H5018"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of the guard",
+            "strong": "H2876"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "Take him",
+            "strong": "H3947"
+          },
+          ", ",
+          {
+            "text": "look after",
+            "strong": "H5869"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "and do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "let any",
+            "strong": "H3972"
+          },
+          " ",
+          {
+            "text": "harm",
+            "strong": "H7451"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H6213"
+          },
+          " to him; ",
+          {
+            "text": "do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for him",
+            "strong": "H5973"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "whatever",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he says",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "So Nebuzaradan",
+            "strong": "H5018"
+          },
+          " ",
+          {
+            "text": "captain",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of the guard",
+            "strong": "H2876"
+          },
+          ", ",
+          {
+            "text": "Nebushazban",
+            "strong": "H5021"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7249"
+          },
+          " ",
+          {
+            "text": "the Rabsaris",
+            "strong": "H7249"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "Nergal-sharezer",
+            "strong": "H5371"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7248"
+          },
+          " ",
+          {
+            "text": "the Rabmag",
+            "strong": "H7248"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the captains",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "had Jeremiah",
+            "strong": "H3414"
+          },
+          " ",
+          {
+            "text": "brought",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "from the courtyard",
+            "strong": "H2691"
+          },
+          " ",
+          {
+            "text": "of the guard",
+            "strong": "H4307"
+          },
+          ", ",
+          {
+            "text": "and they turned him over",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Gedaliah",
+            "strong": "H1436"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahikam",
+            "strong": "H296"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shaphan",
+            "strong": "H8227"
+          },
+          ", ",
+          {
+            "text": "to take",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "home",
+            "strong": "H1004"
+          },
+          ". ",
+          {
+            "text": "So [Jeremiah] remained",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "his own people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "And while [Jeremiah] had been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "confined",
+            "strong": "H6113"
+          },
+          " ",
+          {
+            "text": "in the courtyard",
+            "strong": "H2691"
+          },
+          " ",
+          {
+            "text": "of the guard",
+            "strong": "H4307"
+          },
+          ", ",
+          {
+            "text": "the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had come",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H3414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and tell",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5663"
+          },
+          " ",
+          {
+            "text": "Ebed-melech",
+            "strong": "H5663"
+          },
+          " ",
+          {
+            "text": "the Cushite that",
+            "strong": "H3569"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "I am about to fulfill",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "for harm",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "for good",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "and on that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "they will be fulfilled",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "before your eyes",
+            "strong": "H6440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But I will deliver you",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "on that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "and you will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be delivered",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "fear",
+            "strong": "H3016"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will surely rescue you",
+            "strong": "H4422"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4422"
+          },
+          " ",
+          {
+            "text": "so that you do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "fall",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "by the sword",
+            "strong": "H2719"
+          },
+          ". ",
+          {
+            "text": "Because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have trusted",
+            "strong": "H982"
+          },
+          " in Me, ",
+          {
+            "text": "you will escape",
+            "strong": "H1961"
+          },
+          " with ",
+          {
+            "text": "your life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "like a spoil of war",
+            "strong": "H7998"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

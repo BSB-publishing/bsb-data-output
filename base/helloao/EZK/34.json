@@ -1,0 +1,2449 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZK",
+    "name": "Ezekiel",
+    "number": 26
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "prophesy",
+            "strong": "H5012"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ". ",
+          {
+            "text": "Prophesy",
+            "strong": "H5012"
+          },
+          " ",
+          {
+            "text": "and tell",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "[them]",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "that this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Woe",
+            "strong": "H1945"
+          },
+          " ",
+          {
+            "text": "to the shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "only feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "themselves",
+            "strong": "H853"
+          },
+          "! ",
+          {
+            "text": "Should not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "their flock",
+            "strong": "H6629"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "You eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          ", ",
+          {
+            "text": "wear",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "the wool",
+            "strong": "H6785"
+          },
+          ", ",
+          {
+            "text": "and butcher",
+            "strong": "H2076"
+          },
+          " ",
+          {
+            "text": "the fattened sheep",
+            "strong": "H1277"
+          },
+          ", ",
+          {
+            "text": "but you do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "the flock",
+            "strong": "H6629"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "You have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "strengthened",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the weak",
+            "strong": "H2470"
+          },
+          ", ",
+          {
+            "text": "healed",
+            "strong": "H7495"
+          },
+          " ",
+          {
+            "text": "the sick",
+            "strong": "H2470"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "bound up",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the injured",
+            "strong": "H7665"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "brought back",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the strays",
+            "strong": "H5080"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "or searched for",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "the lost",
+            "strong": "H6"
+          },
+          ". ",
+          {
+            "text": "Instead",
+            "strong": "H3808"
+          },
+          ", ",
+          {
+            "text": "you have ruled",
+            "strong": "H7287"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "with violence",
+            "strong": "H2394"
+          },
+          " ",
+          {
+            "text": "and cruelty",
+            "strong": "H6531"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "They were scattered",
+            "strong": "H6327"
+          },
+          " ",
+          {
+            "text": "for lack of",
+            "strong": "H1097"
+          },
+          " ",
+          {
+            "text": "a shepherd",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "and when they were scattered",
+            "strong": "H6327"
+          },
+          " ",
+          {
+            "text": "they became",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H402"
+          },
+          " ",
+          {
+            "text": "for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the wild",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "beasts",
+            "strong": "H2416"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "went astray",
+            "strong": "H7686"
+          },
+          " ",
+          {
+            "text": "on all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "high",
+            "strong": "H7311"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "hill",
+            "strong": "H1389"
+          },
+          ". ",
+          {
+            "text": "They were scattered",
+            "strong": "H6327"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "over the face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "with no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "to search [for them]",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "seek them out",
+            "strong": "H1245"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "you shepherds",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u2018",
+          {
+            "text": "As surely as I",
+            "strong": "H589"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "live",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "lacks",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "a shepherd",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "and has become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "prey",
+            "strong": "H957"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "[and]",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H402"
+          },
+          " ",
+          {
+            "text": "for every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "wild",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "beast",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "and because My shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "search",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "for My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "but fed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "themselves",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[instead]",
+            "strong": "H853"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7462"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6629"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "therefore",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "you shepherds",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "!\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I [am] against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the shepherds",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "and I will demand",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "from them",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "and remove them",
+            "strong": "H7673"
+          },
+          " ",
+          {
+            "text": "from tending",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "the flock",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "so that they can no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "themselves",
+            "strong": "H853"
+          },
+          ". ",
+          {
+            "text": "For I will deliver",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "from their mouths",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "and it will no longer",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H402"
+          },
+          " for them.\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I Myself",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will search for",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "and seek them out",
+            "strong": "H1239"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "As a shepherd",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "looks for",
+            "strong": "H1243"
+          },
+          " ",
+          {
+            "text": "his scattered",
+            "strong": "H6567"
+          },
+          " ",
+          {
+            "text": "sheep",
+            "strong": "H5739"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he is",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the flock",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I will look for",
+            "strong": "H1239"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          ". ",
+          {
+            "text": "I will rescue them",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the places",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "to which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they were scattered",
+            "strong": "H6327"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "on a day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of clouds",
+            "strong": "H6051"
+          },
+          " ",
+          {
+            "text": "and darkness",
+            "strong": "H6205"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "I will bring them out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "gather them",
+            "strong": "H6908"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the countries",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and bring them",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "their own land",
+            "strong": "H127"
+          },
+          ". ",
+          {
+            "text": "I will feed them",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "in the ravines",
+            "strong": "H650"
+          },
+          ", ",
+          {
+            "text": "and in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the settlements",
+            "strong": "H4186"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "I will feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "pasture",
+            "strong": "H4829"
+          },
+          ", ",
+          {
+            "text": "and the lofty",
+            "strong": "H4791"
+          },
+          " ",
+          {
+            "text": "mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "their grazing land",
+            "strong": "H5116"
+          },
+          ". ",
+          {
+            "text": "There",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "they will lie down",
+            "strong": "H7257"
+          },
+          " ",
+          {
+            "text": "in a good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "grazing land",
+            "strong": "H5116"
+          },
+          "; ",
+          {
+            "text": "they will feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "in rich",
+            "strong": "H8082"
+          },
+          " ",
+          {
+            "text": "pasture",
+            "strong": "H4829"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will tend",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          {
+            "text": ". . .",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "and make them lie down",
+            "strong": "H7257"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "I will seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the lost",
+            "strong": "H6"
+          },
+          ", ",
+          {
+            "text": "bring back",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "the strays",
+            "strong": "H5080"
+          },
+          ", ",
+          {
+            "text": "bind up",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the broken",
+            "strong": "H7665"
+          },
+          ", ",
+          {
+            "text": "and strengthen",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the weak",
+            "strong": "H2470"
+          },
+          "; ",
+          {
+            "text": "but the sleek",
+            "strong": "H8082"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and strong",
+            "strong": "H2389"
+          },
+          " ",
+          {
+            "text": "I will destroy",
+            "strong": "H8045"
+          },
+          ". ",
+          {
+            "text": "I will shepherd them",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "with justice",
+            "strong": "H4941"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          ": \u2018",
+          {
+            "text": "I will judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "one sheep",
+            "strong": "H7716"
+          },
+          " ",
+          {
+            "text": "and another",
+            "strong": "H7716"
+          },
+          ", ",
+          {
+            "text": "between the rams",
+            "strong": "H352"
+          },
+          " ",
+          {
+            "text": "and the goats",
+            "strong": "H6260"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Is it not enough",
+            "strong": "H4592"
+          },
+          " for ",
+          {
+            "text": "you to feed on",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "the good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "pasture",
+            "strong": "H4829"
+          },
+          "? ",
+          {
+            "text": "Must you also trample",
+            "strong": "H7429"
+          },
+          " ",
+          {
+            "text": "the rest",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "of the pasture",
+            "strong": "H4829"
+          },
+          " ",
+          {
+            "text": "with your feet",
+            "strong": "H7272"
+          },
+          "? ",
+          {
+            "text": "Is it not enough for you to drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the clear",
+            "strong": "H4950"
+          },
+          " ",
+          {
+            "text": "waters",
+            "strong": "H4325"
+          },
+          "? ",
+          {
+            "text": "Must you also muddy",
+            "strong": "H7515"
+          },
+          " ",
+          {
+            "text": "the rest",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "with your feet",
+            "strong": "H7272"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Why must My flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "feed on",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "what your feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "have trampled",
+            "strong": "H4823"
+          },
+          ", ",
+          {
+            "text": "and drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "what your feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "have muddied",
+            "strong": "H4833"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to them",
+            "strong": "H413"
+          },
+          ": \u2018",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I Myself",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H1274"
+          },
+          " ",
+          {
+            "text": "sheep",
+            "strong": "H7716"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the lean",
+            "strong": "H7330"
+          },
+          " ",
+          {
+            "text": "sheep",
+            "strong": "H7716"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Since",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "you shove",
+            "strong": "H1920"
+          },
+          " ",
+          {
+            "text": "with flank",
+            "strong": "H6654"
+          },
+          " ",
+          {
+            "text": "and shoulder",
+            "strong": "H3802"
+          },
+          ", ",
+          {
+            "text": "butting",
+            "strong": "H5055"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the weak ones",
+            "strong": "H2470"
+          },
+          " ",
+          {
+            "text": "with your horns",
+            "strong": "H7161"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you have scattered",
+            "strong": "H6327"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "abroad",
+            "strong": "H2351"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "I will save",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "My flock",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "and they will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "prey",
+            "strong": "H957"
+          },
+          ". ",
+          {
+            "text": "I will judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "one sheep",
+            "strong": "H7716"
+          },
+          " ",
+          {
+            "text": "and another",
+            "strong": "H7716"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "I will appoint",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "over them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "shepherd",
+            "strong": "H7462"
+          },
+          ", ",
+          {
+            "text": "My servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          ", ",
+          {
+            "text": "and he will feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "will feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " their ",
+          {
+            "text": "shepherd",
+            "strong": "H7462"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " their ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and My servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "will be a prince",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "among them",
+            "strong": "H8432"
+          },
+          ". ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "have spoken",
+            "strong": "H1696"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "I will make",
+            "strong": "H3772"
+          },
+          " with them ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "of peace",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "and rid",
+            "strong": "H7673"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "wild",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "animals",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "so that they may dwell",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "securely",
+            "strong": "H983"
+          },
+          " ",
+          {
+            "text": "in the wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "and sleep",
+            "strong": "H3462"
+          },
+          " ",
+          {
+            "text": "in the forest",
+            "strong": "H3293"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "I will make",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the places around",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "My hill",
+            "strong": "H1389"
+          },
+          " ",
+          {
+            "text": "a blessing",
+            "strong": "H1293"
+          },
+          ". ",
+          {
+            "text": "I will send down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "showers",
+            "strong": "H1653"
+          },
+          " ",
+          {
+            "text": "in season",
+            "strong": "H6256"
+          },
+          "\u2014 ",
+          {
+            "text": "showers",
+            "strong": "H1653"
+          },
+          " ",
+          {
+            "text": "of blessing",
+            "strong": "H1293"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "The trees",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "will give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "their fruit",
+            "strong": "H6529"
+          },
+          ", ",
+          {
+            "text": "and the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "will yield",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "its produce",
+            "strong": "H2981"
+          },
+          "; ",
+          {
+            "text": "My flock will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "secure",
+            "strong": "H983"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their land",
+            "strong": "H127"
+          },
+          ". ",
+          {
+            "text": "Then they will know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "when I have broken",
+            "strong": "H7665"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the bars",
+            "strong": "H4133"
+          },
+          " ",
+          {
+            "text": "of their yoke",
+            "strong": "H5923"
+          },
+          " ",
+          {
+            "text": "and delivered them",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "that enslaved",
+            "strong": "H5647"
+          },
+          " them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "They will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "prey",
+            "strong": "H957"
+          },
+          " ",
+          {
+            "text": "for the nations",
+            "strong": "H1471"
+          },
+          ", ",
+          {
+            "text": "and the beasts",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "consume them",
+            "strong": "H398"
+          },
+          ". ",
+          {
+            "text": "They will dwell securely",
+            "strong": "H3427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H983"
+          },
+          ", ",
+          {
+            "text": "and no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one will frighten them",
+            "strong": "H2729"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "And I will raise up",
+            "strong": "H6965"
+          },
+          " for them ",
+          {
+            "text": "a garden",
+            "strong": "H4302"
+          },
+          " ",
+          {
+            "text": "of renown",
+            "strong": "H8034"
+          },
+          ", ",
+          {
+            "text": "and they will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "victims",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "of famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "bear",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "the scorn",
+            "strong": "H3639"
+          },
+          " ",
+          {
+            "text": "of the nations",
+            "strong": "H1471"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Then they will know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "their God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "am with them",
+            "strong": "H854"
+          },
+          ", ",
+          {
+            "text": "and that they",
+            "strong": "H1992"
+          },
+          ", ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "are My people",
+            "strong": "H5971"
+          },
+          ",\u2019 ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "\u2018",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are My flock",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "the sheep",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "of My pasture",
+            "strong": "H4830"
+          },
+          ", ",
+          {
+            "text": "My people",
+            "strong": "H120"
+          },
+          {
+            "text": ". . .",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am your God",
+            "strong": "H430"
+          },
+          ",\u2019 ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

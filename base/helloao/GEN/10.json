@@ -1,0 +1,1638 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "is the account",
+            "strong": "H8435"
+          },
+          " ",
+          {
+            "text": "of Noah\u2019s",
+            "strong": "H5146"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Shem",
+            "strong": "H8035"
+          },
+          ", ",
+          {
+            "text": "Ham",
+            "strong": "H2526"
+          },
+          ", ",
+          {
+            "text": "and Japheth",
+            "strong": "H3315"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3205"
+          },
+          " who also ",
+          {
+            "text": "had sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "after",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "the flood",
+            "strong": "H3999"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Japheth",
+            "strong": "H3315"
+          },
+          ": ",
+          {
+            "text": "Gomer",
+            "strong": "H1586"
+          },
+          ", ",
+          {
+            "text": "Magog",
+            "strong": "H4031"
+          },
+          ", ",
+          {
+            "text": "Madai",
+            "strong": "H4074"
+          },
+          ", ",
+          {
+            "text": "Javan",
+            "strong": "H3120"
+          },
+          ", ",
+          {
+            "text": "Tubal",
+            "strong": "H8422"
+          },
+          ", ",
+          {
+            "text": "Meshech",
+            "strong": "H4902"
+          },
+          ", ",
+          {
+            "text": "and Tiras",
+            "strong": "H8494"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Gomer",
+            "strong": "H1586"
+          },
+          ": ",
+          {
+            "text": "Ashkenaz",
+            "strong": "H813"
+          },
+          ", ",
+          {
+            "text": "Riphath",
+            "strong": "H7384"
+          },
+          ", ",
+          {
+            "text": "and Togarmah",
+            "strong": "H8425"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "And the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Javan",
+            "strong": "H3120"
+          },
+          ": ",
+          {
+            "text": "Elishah",
+            "strong": "H473"
+          },
+          ", ",
+          {
+            "text": "Tarshish",
+            "strong": "H8659"
+          },
+          ", ",
+          {
+            "text": "the Kittites",
+            "strong": "H3794"
+          },
+          ", ",
+          {
+            "text": "and the Rodanites",
+            "strong": "H1721"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "From these",
+            "strong": "H428"
+          },
+          ", ",
+          {
+            "text": "the maritime",
+            "strong": "H339"
+          },
+          " ",
+          {
+            "text": "peoples",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "separated",
+            "strong": "H6504"
+          },
+          " ",
+          {
+            "text": "into their territories",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "according to their languages",
+            "strong": "H3956"
+          },
+          ", ",
+          {
+            "text": "by clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "within their nations",
+            "strong": "H1471"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ham",
+            "strong": "H2526"
+          },
+          ": ",
+          {
+            "text": "Cush",
+            "strong": "H3568"
+          },
+          ", ",
+          {
+            "text": "Mizraim",
+            "strong": "H4714"
+          },
+          ", ",
+          {
+            "text": "Put",
+            "strong": "H6316"
+          },
+          ", ",
+          {
+            "text": "and Canaan",
+            "strong": "H3667"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Cush",
+            "strong": "H3568"
+          },
+          ": ",
+          {
+            "text": "Seba",
+            "strong": "H5434"
+          },
+          ", ",
+          {
+            "text": "Havilah",
+            "strong": "H2341"
+          },
+          ", ",
+          {
+            "text": "Sabtah",
+            "strong": "H5454"
+          },
+          ", ",
+          {
+            "text": "Raamah",
+            "strong": "H7484"
+          },
+          ", ",
+          {
+            "text": "and Sabteca",
+            "strong": "H5455"
+          },
+          ". ",
+          {
+            "text": "And the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Raamah",
+            "strong": "H7484"
+          },
+          ": ",
+          {
+            "text": "Sheba",
+            "strong": "H7614"
+          },
+          " ",
+          {
+            "text": "and Dedan",
+            "strong": "H1719"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Cush",
+            "strong": "H3568"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Nimrod",
+            "strong": "H5248"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "began",
+            "strong": "H2490"
+          },
+          " ",
+          {
+            "text": "to be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a mighty one",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "on the earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a mighty",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "hunter",
+            "strong": "H6718"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "so",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "it is said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Like Nimrod",
+            "strong": "H5248"
+          },
+          ", ",
+          {
+            "text": "a mighty",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "hunter",
+            "strong": "H6718"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "His kingdom",
+            "strong": "H4467"
+          },
+          " ",
+          {
+            "text": "began",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "in Babylon",
+            "strong": "H894"
+          },
+          ", ",
+          {
+            "text": "Erech",
+            "strong": "H751"
+          },
+          ", ",
+          {
+            "text": "Accad",
+            "strong": "H390"
+          },
+          ", ",
+          {
+            "text": "and Calneh",
+            "strong": "H3641"
+          },
+          ", ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Shinar",
+            "strong": "H8152"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "From",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "he went forth",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "into Assyria",
+            "strong": "H804"
+          },
+          ", ",
+          {
+            "text": "where he built",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Nineveh",
+            "strong": "H5210"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Rehoboth-Ir",
+            "strong": "H7344"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5893"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Calah",
+            "strong": "H3625"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Resen",
+            "strong": "H7449"
+          },
+          ", ",
+          {
+            "text": "which is between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "Nineveh",
+            "strong": "H5210"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "and the great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of Calah",
+            "strong": "H3625"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Mizraim",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Ludites",
+            "strong": "H3866"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Anamites",
+            "strong": "H6047"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Lehabites",
+            "strong": "H3853"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Naphtuhites",
+            "strong": "H5320"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Pathrusites",
+            "strong": "H6625"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Casluhites",
+            "strong": "H3695"
+          },
+          " (",
+          {
+            "text": "from",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H3318"
+          },
+          "), ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Caphtorites",
+            "strong": "H3732"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "And Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Sidon",
+            "strong": "H6721"
+          },
+          " ",
+          {
+            "text": "his firstborn",
+            "strong": "H1060"
+          },
+          ", ",
+          {
+            "text": "and of",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Hittites",
+            "strong": "H2845"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Jebusites",
+            "strong": "H2983"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Amorites",
+            "strong": "H567"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Girgashites",
+            "strong": "H1622"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Hivites",
+            "strong": "H2340"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Arkites",
+            "strong": "H6208"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Sinites",
+            "strong": "H5513"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Arvadites",
+            "strong": "H721"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Zemarites",
+            "strong": "H6786"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the Hamathites",
+            "strong": "H2577"
+          },
+          ". ",
+          {
+            "text": "Later",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "the Canaanite",
+            "strong": "H3669"
+          },
+          " ",
+          {
+            "text": "clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "were scattered",
+            "strong": "H6327"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "and the borders",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3669"
+          },
+          " ",
+          {
+            "text": "extended from",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Sidon",
+            "strong": "H6721"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "toward Gerar",
+            "strong": "H1642"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "far as Gaza",
+            "strong": "H5804"
+          },
+          ", ",
+          {
+            "text": "and then",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "toward Sodom",
+            "strong": "H5467"
+          },
+          ", ",
+          {
+            "text": "Gomorrah",
+            "strong": "H6017"
+          },
+          ", ",
+          {
+            "text": "Admah",
+            "strong": "H126"
+          },
+          ", ",
+          {
+            "text": "and Zeboiim",
+            "strong": "H6636"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "far as Lasha",
+            "strong": "H3962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "These [are]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ham",
+            "strong": "H2526"
+          },
+          " ",
+          {
+            "text": "according to their clans",
+            "strong": "H4940"
+          },
+          ", ",
+          {
+            "text": "languages",
+            "strong": "H3956"
+          },
+          ", ",
+          {
+            "text": "lands",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and nations",
+            "strong": "H1471"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "And sons were also born",
+            "strong": "H3205"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "to Shem",
+            "strong": "H8035"
+          },
+          ", ",
+          {
+            "text": "the older",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "[of] Japheth",
+            "strong": "H3315"
+          },
+          "; ",
+          {
+            "text": "[Shem]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was the forefather",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Eber",
+            "strong": "H5677"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shem",
+            "strong": "H8035"
+          },
+          ": ",
+          {
+            "text": "Elam",
+            "strong": "H5867"
+          },
+          ", ",
+          {
+            "text": "Asshur",
+            "strong": "H804"
+          },
+          ", ",
+          {
+            "text": "Arphaxad",
+            "strong": "H775"
+          },
+          ", ",
+          {
+            "text": "Lud",
+            "strong": "H3865"
+          },
+          ", ",
+          {
+            "text": "and Aram",
+            "strong": "H758"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          ": ",
+          {
+            "text": "Uz",
+            "strong": "H5780"
+          },
+          ", ",
+          {
+            "text": "Hul",
+            "strong": "H2343"
+          },
+          ", ",
+          {
+            "text": "Gether",
+            "strong": "H1666"
+          },
+          ", ",
+          {
+            "text": "and Mash",
+            "strong": "H4851"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Arphaxad",
+            "strong": "H775"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Shelah",
+            "strong": "H7974"
+          },
+          ", ",
+          {
+            "text": "and Shelah",
+            "strong": "H7974"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Eber",
+            "strong": "H5677"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "were born",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "to Eber",
+            "strong": "H5677"
+          },
+          ": ",
+          {
+            "text": "One",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "was named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Peleg",
+            "strong": "H6389"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "in his days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "was divided",
+            "strong": "H6385"
+          },
+          ", ",
+          {
+            "text": "and his brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "was named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Joktan",
+            "strong": "H3355"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "And Joktan",
+            "strong": "H3355"
+          },
+          " ",
+          {
+            "text": "was the father of",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Almodad",
+            "strong": "H486"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Sheleph",
+            "strong": "H8026"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Hazarmaveth",
+            "strong": "H2700"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jerah",
+            "strong": "H3392"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Hadoram",
+            "strong": "H1913"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Uzal",
+            "strong": "H187"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Diklah",
+            "strong": "H1853"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Obal",
+            "strong": "H5745"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Abimael",
+            "strong": "H39"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Sheba",
+            "strong": "H7614"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ophir",
+            "strong": "H211"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Havilah",
+            "strong": "H2341"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Jobab",
+            "strong": "H3103"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "[were] sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Joktan",
+            "strong": "H3355"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Their territory",
+            "strong": "H4186"
+          },
+          " ",
+          {
+            "text": "extended from",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "Mesha",
+            "strong": "H4852"
+          },
+          " ",
+          {
+            "text": "to Sephar",
+            "strong": "H5611"
+          },
+          ", ",
+          {
+            "text": "in the eastern",
+            "strong": "H6924"
+          },
+          " ",
+          {
+            "text": "hill country",
+            "strong": "H2022"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shem",
+            "strong": "H8035"
+          },
+          ", ",
+          {
+            "text": "according to their clans",
+            "strong": "H4940"
+          },
+          ", ",
+          {
+            "text": "languages",
+            "strong": "H3956"
+          },
+          ", ",
+          {
+            "text": "lands",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and nations",
+            "strong": "H1471"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "All these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of Noah\u2019s",
+            "strong": "H5146"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "according to their generations",
+            "strong": "H8435"
+          },
+          " ",
+          {
+            "text": "and nations",
+            "strong": "H1471"
+          },
+          ". ",
+          {
+            "text": "From these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "spread out",
+            "strong": "H6504"
+          },
+          " ",
+          {
+            "text": "after",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "the flood",
+            "strong": "H3999"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

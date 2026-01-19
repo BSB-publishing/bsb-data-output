@@ -1,0 +1,977 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOB",
+    "name": "Job",
+    "number": 18
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "consigned to labor",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "H776"
+          },
+          "? ",
+          {
+            "text": "Are not his days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "like those",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of a hired hand",
+            "strong": "H7916"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Like a slave",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "he longs for",
+            "strong": "H7602"
+          },
+          " ",
+          {
+            "text": "shade",
+            "strong": "H6738"
+          },
+          "; ",
+          {
+            "text": "like a hireling",
+            "strong": "H7916"
+          },
+          " ",
+          {
+            "text": "he waits for",
+            "strong": "H6960"
+          },
+          " ",
+          {
+            "text": "his wages",
+            "strong": "H6467"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I am allotted",
+            "strong": "H5157"
+          },
+          " ",
+          {
+            "text": "months",
+            "strong": "H3391"
+          },
+          " ",
+          {
+            "text": "of futility",
+            "strong": "H7723"
+          },
+          ", ",
+          {
+            "text": "and nights",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "of misery",
+            "strong": "H5999"
+          },
+          " ",
+          {
+            "text": "are appointed",
+            "strong": "H4487"
+          },
+          " to me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I lie down",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "I think",
+            "strong": "H559"
+          },
+          ":\u2018",
+          {
+            "text": "When",
+            "strong": "H4970"
+          },
+          " ",
+          {
+            "text": "will I get up",
+            "strong": "H6965"
+          },
+          "?\u2019 ",
+          {
+            "text": "But the night",
+            "strong": "H6153"
+          },
+          " ",
+          {
+            "text": "drags on",
+            "strong": "H4058"
+          },
+          ", ",
+          {
+            "text": "and I toss and turn",
+            "strong": "H7646"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5076"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "dawn",
+            "strong": "H5399"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "My flesh",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "is clothed",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "with worms",
+            "strong": "H7415"
+          },
+          " ",
+          {
+            "text": "and encrusted",
+            "strong": "H1487"
+          },
+          " ",
+          {
+            "text": "with dirt",
+            "strong": "H6083"
+          },
+          "; ",
+          {
+            "text": "my skin",
+            "strong": "H5785"
+          },
+          " ",
+          {
+            "text": "is cracked",
+            "strong": "H7280"
+          },
+          " ",
+          {
+            "text": "and festering",
+            "strong": "H3988"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "My days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "are swifter",
+            "strong": "H7043"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "a weaver\u2019s shuttle",
+            "strong": "H708"
+          },
+          "; ",
+          {
+            "text": "they come to an end",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H657"
+          },
+          " ",
+          {
+            "text": "hope",
+            "strong": "H8615"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my life",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "is but a breath",
+            "strong": "H7307"
+          },
+          ". ",
+          {
+            "text": "My eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "happiness",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The eye",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "that beholds me",
+            "strong": "H7210"
+          },
+          " ",
+          {
+            "text": "will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer see me",
+            "strong": "H7789"
+          },
+          ". ",
+          {
+            "text": "You will look",
+            "strong": "H5869"
+          },
+          " for me, ",
+          {
+            "text": "but I will be no more",
+            "strong": "H369"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "As a cloud",
+            "strong": "H6051"
+          },
+          " ",
+          {
+            "text": "vanishes",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "and is gone",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "he who goes down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to Sheol",
+            "strong": "H7585"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "come back up",
+            "strong": "H5927"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He never",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "returns",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to his house",
+            "strong": "H1004"
+          },
+          "; ",
+          {
+            "text": "his place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "remembers him",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "H5750"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "restrain",
+            "strong": "H2820"
+          },
+          " ",
+          {
+            "text": "my mouth",
+            "strong": "H6310"
+          },
+          "; ",
+          {
+            "text": "I will speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "in the anguish",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "of my spirit",
+            "strong": "H7307"
+          },
+          "; ",
+          {
+            "text": "I will complain",
+            "strong": "H7878"
+          },
+          " ",
+          {
+            "text": "in the bitterness",
+            "strong": "H4751"
+          },
+          " ",
+          {
+            "text": "of my soul",
+            "strong": "H5315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Am I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "the monster of the deep",
+            "strong": "H8577"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You must keep me under",
+            "strong": "H7760"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "guard",
+            "strong": "H4929"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I think",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "my bed",
+            "strong": "H6210"
+          },
+          " ",
+          {
+            "text": "will comfort me",
+            "strong": "H5162"
+          },
+          " ",
+          {
+            "text": "and my couch",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "will ease",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "my complaint",
+            "strong": "H7879"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "then You frighten me",
+            "strong": "H2865"
+          },
+          " ",
+          {
+            "text": "with dreams",
+            "strong": "H2472"
+          },
+          " ",
+          {
+            "text": "and terrify me",
+            "strong": "H1204"
+          },
+          " ",
+          {
+            "text": "with visions",
+            "strong": "H2384"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "so that I",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "would prefer",
+            "strong": "H977"
+          },
+          " ",
+          {
+            "text": "strangling",
+            "strong": "H4267"
+          },
+          " ",
+          {
+            "text": "and death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "over my life in this body",
+            "strong": "H6106"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "I loathe [my life]",
+            "strong": "H3988"
+          },
+          "! ",
+          {
+            "text": "I would not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "live",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          ". ",
+          {
+            "text": "Leave me alone",
+            "strong": "H2308"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my days [are]",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "[but] a breath",
+            "strong": "H1892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "is man",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You should exalt him",
+            "strong": "H1431"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You should set",
+            "strong": "H7896"
+          },
+          " ",
+          {
+            "text": "Your heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "upon him",
+            "strong": "H413"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "that You attend to him",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "every morning",
+            "strong": "H1242"
+          },
+          ", ",
+          {
+            "text": "[and] test him",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "every moment",
+            "strong": "H7281"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Will You never",
+            "strong": "H4100"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "look away",
+            "strong": "H8159"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "leave me alone",
+            "strong": "H7503"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "swallow",
+            "strong": "H1104"
+          },
+          " ",
+          {
+            "text": "my spittle",
+            "strong": "H7536"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "If I have sinned",
+            "strong": "H2398"
+          },
+          ", ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "have I done",
+            "strong": "H6466"
+          },
+          " to You, ",
+          {
+            "text": "O watcher",
+            "strong": "H5341"
+          },
+          " ",
+          {
+            "text": "of mankind",
+            "strong": "H120"
+          },
+          "? ",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "have You made me",
+            "strong": "H7760"
+          },
+          " Your ",
+          {
+            "text": "target",
+            "strong": "H4645"
+          },
+          ", ",
+          {
+            "text": "so that I am",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a burden",
+            "strong": "H4853"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H5921"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do You not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "pardon",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "my transgression",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "and take away",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "my iniquity",
+            "strong": "H5771"
+          },
+          "? ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "soon",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "I will lie down",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "in the dust",
+            "strong": "H6083"
+          },
+          "; ",
+          {
+            "text": "You will seek me",
+            "strong": "H7836"
+          },
+          ", ",
+          {
+            "text": "but I will be no more",
+            "strong": "H369"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

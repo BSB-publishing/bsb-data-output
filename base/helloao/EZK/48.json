@@ -1,0 +1,2746 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZK",
+    "name": "Ezekiel",
+    "number": 26
+  },
+  "chapter": {
+    "number": 48,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Now these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the tribes",
+            "strong": "H7626"
+          },
+          ": ",
+          {
+            "text": "At the northern",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "frontier",
+            "strong": "H7097"
+          },
+          ", ",
+          {
+            "text": "Dan",
+            "strong": "H1835"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of Hethlon",
+            "strong": "H2855"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Lebo-hamath",
+            "strong": "H2574"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2704"
+          },
+          " ",
+          {
+            "text": "and running on to Hazar-enan",
+            "strong": "H2704"
+          },
+          " ",
+          {
+            "text": "on the border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Damascus",
+            "strong": "H1834"
+          },
+          " ",
+          {
+            "text": "with Hamath",
+            "strong": "H2574"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "to the north",
+            "strong": "H6828"
+          },
+          ", ",
+          {
+            "text": "and extending from the east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to the west side",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Asher",
+            "strong": "H836"
+          },
+          " ",
+          {
+            "text": "[will have] one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Dan",
+            "strong": "H1835"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Naphtali",
+            "strong": "H5321"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Asher",
+            "strong": "H836"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Manasseh",
+            "strong": "H4519"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Naphtali",
+            "strong": "H5321"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H4519"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Reuben",
+            "strong": "H7205"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Reuben",
+            "strong": "H7205"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are to set apart",
+            "strong": "H7311"
+          },
+          ". ",
+          {
+            "text": "It will be 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          ", ",
+          {
+            "text": "and the length",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "of a",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "tribal portion",
+            "strong": "H2506"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          ". ",
+          {
+            "text": "In the center",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the sanctuary",
+            "strong": "H4720"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "The special portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you set apart",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "[shall be] 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "long",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "and 10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "This will be",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "for the priests",
+            "strong": "H3548"
+          },
+          ". ",
+          {
+            "text": "It will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "25,000 cubits long",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the north side",
+            "strong": "H6828"
+          },
+          ", ",
+          {
+            "text": "10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          " ",
+          {
+            "text": "on the west side",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          " ",
+          {
+            "text": "on the east side",
+            "strong": "H6921"
+          },
+          ", ",
+          {
+            "text": "and 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "long",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "on the south [side]",
+            "strong": "H5045"
+          },
+          ". ",
+          {
+            "text": "In the center",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the sanctuary",
+            "strong": "H4720"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "It will be for the consecrated",
+            "strong": "H6942"
+          },
+          " ",
+          {
+            "text": "priests",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "the descendants",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zadok",
+            "strong": "H6659"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "kept",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "My charge",
+            "strong": "H4931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "go astray",
+            "strong": "H8582"
+          },
+          " ",
+          {
+            "text": "as the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "[did]",
+            "strong": "H8582"
+          },
+          " ",
+          {
+            "text": "when the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "went astray",
+            "strong": "H8582"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "It will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a special portion",
+            "strong": "H8642"
+          },
+          " for them ",
+          {
+            "text": "set apart",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "from the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "a most holy portion",
+            "strong": "H6944"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "adjacent to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of the Levites",
+            "strong": "H3881"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Bordering",
+            "strong": "H5980"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of the priests",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "[shall have an area] 25,000",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "[cubits] long",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "and 10,000 cubits",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          ". ",
+          {
+            "text": "The whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "length",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "[will be] 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": "and the width",
+            "strong": "H7341"
+          },
+          " ",
+          {
+            "text": "10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "They must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sell",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "or exchange",
+            "strong": "H4171"
+          },
+          " ",
+          {
+            "text": "any of it",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "and they must",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "transfer",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "this best [part]",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it is holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The remaining area",
+            "strong": "H3498"
+          },
+          ", ",
+          {
+            "text": "5,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and 25,000 [cubits long]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": "will be for common use",
+            "strong": "H2455"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "by the city",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "for houses",
+            "strong": "H4186"
+          },
+          ", ",
+          {
+            "text": "and for pastureland",
+            "strong": "H4054"
+          },
+          ". ",
+          {
+            "text": "The city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in the center of it",
+            "strong": "H8432"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "and will have these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "measurements",
+            "strong": "H4060"
+          },
+          ": ",
+          {
+            "text": "4,500 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the north",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "4,500 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the south",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "4,500 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "and 4,500 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the west",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "The pastureland",
+            "strong": "H4054"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "will extend",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "250 [cubits]",
+            "strong": "H2572"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "to the north",
+            "strong": "H6828"
+          },
+          ", ",
+          {
+            "text": "250 [cubits]",
+            "strong": "H2572"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "to the south",
+            "strong": "H5045"
+          },
+          ", ",
+          {
+            "text": "250 [cubits]",
+            "strong": "H2572"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "to the east",
+            "strong": "H6921"
+          },
+          ", ",
+          {
+            "text": "and 250 [cubits]",
+            "strong": "H2572"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "to the west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "The remainder",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "of the length",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5980"
+          },
+          " ",
+          {
+            "text": "the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "and running",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "adjacent to",
+            "strong": "H5980"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H6944"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "will be 10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the east side",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "and 10,000 [cubits]",
+            "strong": "H6235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "on the west side",
+            "strong": "H3220"
+          },
+          ". ",
+          {
+            "text": "Its produce",
+            "strong": "H8393"
+          },
+          " ",
+          {
+            "text": "will supply",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "for the workers",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "The workers",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "who cultivate it",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "will come from all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the tribes",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "The entire",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "[will be] a square",
+            "strong": "H7243"
+          },
+          ", ",
+          {
+            "text": "25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "by 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ". ",
+          {
+            "text": "You are to set apart",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          ", ",
+          {
+            "text": "along with",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "The remaining area",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "on both sides",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "of the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "and of the property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "will belong to the prince",
+            "strong": "H5387"
+          },
+          ". ",
+          {
+            "text": "He",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "will own the land adjacent to",
+            "strong": "H5980"
+          },
+          " ",
+          {
+            "text": "the [tribal] portions",
+            "strong": "H2506"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "extending [eastward]",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "from the 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "of the [holy] district",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "toward",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the eastern",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "[and] westward",
+            "strong": "H3220"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "from the 25,000 [cubits]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "to the western",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          ". ",
+          {
+            "text": "And in the center of them",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "and the sanctuary",
+            "strong": "H4720"
+          },
+          " ",
+          {
+            "text": "of the temple",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "So the Levitical",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "and the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "[will lie] in the center",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "of the area",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "belonging",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to the prince",
+            "strong": "H5387"
+          },
+          "\u2014 ",
+          {
+            "text": "the area between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the borders",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "Benjamin",
+            "strong": "H1144"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5387"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "As for the rest",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "of the tribes",
+            "strong": "H7626"
+          },
+          ": ",
+          {
+            "text": "Benjamin",
+            "strong": "H1144"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "extending from the east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west side",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Simeon",
+            "strong": "H8095"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Benjamin",
+            "strong": "H1144"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Issachar",
+            "strong": "H3485"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Simeon",
+            "strong": "H8095"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Zebulun",
+            "strong": "H2074"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Issachar",
+            "strong": "H3485"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "[And] Gad",
+            "strong": "H1410"
+          },
+          " ",
+          {
+            "text": "will have one portion",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "bordering",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Zebulun",
+            "strong": "H2074"
+          },
+          " ",
+          {
+            "text": "from east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "The southern",
+            "strong": "H5045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8486"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Gad",
+            "strong": "H1410"
+          },
+          " ",
+          {
+            "text": "will run",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from Tamar",
+            "strong": "H8559"
+          },
+          " ",
+          {
+            "text": "to the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of Meribath-kadesh",
+            "strong": "H4809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6946"
+          },
+          ", ",
+          {
+            "text": "then along the Brook [of Egypt]",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "and out to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you are to allot",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to the tribes",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "and these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "will be their portions",
+            "strong": "H4256"
+          },
+          ",\u201d ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "\u201c",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "will be the exits",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          ": ",
+          {
+            "text": "Beginning on the north",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "which will be",
+            "strong": "H4060"
+          },
+          " ",
+          {
+            "text": "4,500 [cubits long]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "the gates",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "will be named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "after the tribes",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ". ",
+          {
+            "text": "On the north side",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "[there will be] three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "gates",
+            "strong": "H8179"
+          },
+          ": ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Reuben",
+            "strong": "H7205"
+          },
+          ",",
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "and the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Levi",
+            "strong": "H3881"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "On",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "which will be 4,500 [cubits long]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "there will be three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "gates",
+            "strong": "H8179"
+          },
+          ": ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Joseph",
+            "strong": "H3130"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Benjamin",
+            "strong": "H1144"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "and the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Dan",
+            "strong": "H1835"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "On the south",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "which will be",
+            "strong": "H4060"
+          },
+          " ",
+          {
+            "text": "4,500 [cubits long]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": "there will be three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "gates",
+            "strong": "H8179"
+          },
+          ": ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Simeon",
+            "strong": "H8095"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Issachar",
+            "strong": "H3485"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "and the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Zebulun",
+            "strong": "H2074"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "And on the west",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6285"
+          },
+          ", ",
+          {
+            "text": "which will be 4,500 [cubits long]",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": "there will be three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "gates",
+            "strong": "H8179"
+          },
+          ": ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Gad",
+            "strong": "H1410"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Asher",
+            "strong": "H836"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "and the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of Naphtali",
+            "strong": "H5321"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "The perimeter",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "[of the city will be] 18,000 [cubits]",
+            "strong": "H8083"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          ", ",
+          {
+            "text": "and from [that] day on",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the city [will be]",
+            "strong": "H5892"
+          },
+          ": ",
+          {
+            "text": "THE LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "[IS] THERE",
+            "strong": "H8033"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

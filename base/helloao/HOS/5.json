@@ -1,0 +1,977 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "HOS",
+    "name": "Hosea",
+    "number": 28
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          ", ",
+          {
+            "text": "O priests",
+            "strong": "H3548"
+          },
+          "! ",
+          {
+            "text": "Take heed",
+            "strong": "H7181"
+          },
+          ", ",
+          {
+            "text": "O house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "! ",
+          {
+            "text": "Give ear",
+            "strong": "H238"
+          },
+          ", ",
+          {
+            "text": "O royal",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          "! ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "this judgment",
+            "strong": "H4941"
+          },
+          " is against you ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a snare",
+            "strong": "H6341"
+          },
+          " ",
+          {
+            "text": "at Mizpah",
+            "strong": "H4709"
+          },
+          ", ",
+          {
+            "text": "a net",
+            "strong": "H7568"
+          },
+          " ",
+          {
+            "text": "spread out",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Tabor",
+            "strong": "H8396"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The rebels",
+            "strong": "H7846"
+          },
+          " ",
+          {
+            "text": "are deep",
+            "strong": "H6009"
+          },
+          " ",
+          {
+            "text": "in slaughter",
+            "strong": "H7819"
+          },
+          "; ",
+          {
+            "text": "but I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will chastise them",
+            "strong": "H4148"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "know all about",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "Ephraim",
+            "strong": "H669"
+          },
+          ", ",
+          {
+            "text": "and Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hidden",
+            "strong": "H3582"
+          },
+          " ",
+          {
+            "text": "from Me",
+            "strong": "H4480"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "O Ephraim",
+            "strong": "H669"
+          },
+          ", ",
+          {
+            "text": "you have turned to prostitution",
+            "strong": "H2181"
+          },
+          "; ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "is defiled",
+            "strong": "H2930"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Their deeds",
+            "strong": "H4611"
+          },
+          " ",
+          {
+            "text": "do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "permit them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "their God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of prostitution",
+            "strong": "H2183"
+          },
+          " ",
+          {
+            "text": "is within them",
+            "strong": "H7130"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and they do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Israel\u2019s",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "arrogance",
+            "strong": "H1347"
+          },
+          " ",
+          {
+            "text": "testifies",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "against them",
+            "strong": "H6440"
+          },
+          "; ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "stumble",
+            "strong": "H3782"
+          },
+          " ",
+          {
+            "text": "in their iniquity",
+            "strong": "H5771"
+          },
+          "; ",
+          {
+            "text": "even",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "stumbles",
+            "strong": "H3782"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "They go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with their flocks",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "and herds",
+            "strong": "H1241"
+          },
+          " ",
+          {
+            "text": "to seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "but they do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "find Him",
+            "strong": "H4672"
+          },
+          "; ",
+          {
+            "text": "He has withdrawn Himself",
+            "strong": "H2502"
+          },
+          " from them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "They have been unfaithful",
+            "strong": "H898"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they have borne",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "illegitimate",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "children",
+            "strong": "H1121"
+          },
+          ". ",
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "the New Moon",
+            "strong": "H2320"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "will devour them",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "along with their land",
+            "strong": "H2506"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Blow",
+            "strong": "H8628"
+          },
+          " ",
+          {
+            "text": "the ram\u2019s horn",
+            "strong": "H7782"
+          },
+          " ",
+          {
+            "text": "in Gibeah",
+            "strong": "H1390"
+          },
+          ", ",
+          {
+            "text": "the trumpet",
+            "strong": "H2689"
+          },
+          " ",
+          {
+            "text": "in Ramah",
+            "strong": "H7414"
+          },
+          "; ",
+          {
+            "text": "raise the battle cry",
+            "strong": "H7321"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1007"
+          },
+          " ",
+          {
+            "text": "in Beth-aven",
+            "strong": "H1007"
+          },
+          ": ",
+          {
+            "text": "Lead on",
+            "strong": "H310"
+          },
+          ", ",
+          {
+            "text": "O Benjamin",
+            "strong": "H1144"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "laid waste",
+            "strong": "H8047"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of rebuke",
+            "strong": "H8433"
+          },
+          ". ",
+          {
+            "text": "Among the tribes",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "I proclaim",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what is certain",
+            "strong": "H539"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "The princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "are like those",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "who move",
+            "strong": "H5253"
+          },
+          " ",
+          {
+            "text": "boundary stones",
+            "strong": "H1366"
+          },
+          "; ",
+          {
+            "text": "I will pour out",
+            "strong": "H8210"
+          },
+          " ",
+          {
+            "text": "My fury",
+            "strong": "H5678"
+          },
+          " ",
+          {
+            "text": "upon them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "like water",
+            "strong": "H4325"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "is oppressed",
+            "strong": "H6231"
+          },
+          ", ",
+          {
+            "text": "crushed",
+            "strong": "H7533"
+          },
+          " ",
+          {
+            "text": "in judgment",
+            "strong": "H4941"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he is determined",
+            "strong": "H2974"
+          },
+          " ",
+          {
+            "text": "to follow",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "worthless idols",
+            "strong": "H6673"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "So I am",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "like a moth",
+            "strong": "H6211"
+          },
+          " ",
+          {
+            "text": "to Ephraim",
+            "strong": "H669"
+          },
+          ", ",
+          {
+            "text": "and like decay",
+            "strong": "H7538"
+          },
+          " ",
+          {
+            "text": "to the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "When Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "his sickness",
+            "strong": "H2483"
+          },
+          " ",
+          {
+            "text": "and Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his wound",
+            "strong": "H4205"
+          },
+          ", ",
+          {
+            "text": "then Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Assyria",
+            "strong": "H804"
+          },
+          " ",
+          {
+            "text": "and sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the great",
+            "strong": "H3377"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          ". ",
+          {
+            "text": "But he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "cure",
+            "strong": "H7495"
+          },
+          " you ",
+          {
+            "text": "[or]",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "heal",
+            "strong": "H1455"
+          },
+          " . . . ",
+          {
+            "text": "your wound",
+            "strong": "H4205"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am like a lion",
+            "strong": "H7826"
+          },
+          " ",
+          {
+            "text": "to Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "and like a young lion",
+            "strong": "H3715"
+          },
+          " ",
+          {
+            "text": "to the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ". ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "[even] I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "will tear them to pieces",
+            "strong": "H2963"
+          },
+          " ",
+          {
+            "text": "and then go away",
+            "strong": "H1980"
+          },
+          ". ",
+          {
+            "text": "I will carry them off",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "[where] no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "can rescue them",
+            "strong": "H5337"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Then I will return",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "My place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they admit their guilt",
+            "strong": "H816"
+          },
+          " ",
+          {
+            "text": "and seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "My face",
+            "strong": "H6440"
+          },
+          "; ",
+          {
+            "text": "in their affliction",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "they will earnestly seek Me",
+            "strong": "H7836"
+          },
+          " . . ..\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

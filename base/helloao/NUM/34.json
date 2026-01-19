@@ -1,0 +1,1620 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "NUM",
+    "name": "Numbers",
+    "number": 4
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Command",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and say",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to them",
+            "strong": "H413"
+          },
+          ": ",
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "enter",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "will be allotted",
+            "strong": "H5307"
+          },
+          " to you ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5159"
+          },
+          {
+            "text": ". . .",
+            "strong": "H776"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "with these boundaries",
+            "strong": "H1367"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Your ",
+          {
+            "text": "southern",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H6285"
+          },
+          " ",
+          {
+            "text": "will extend",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Zin",
+            "strong": "H6790"
+          },
+          " ",
+          {
+            "text": "along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the border",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          ". ",
+          {
+            "text": "On the east",
+            "strong": "H6924"
+          },
+          ", ",
+          {
+            "text": "your southern",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will run",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from the end",
+            "strong": "H7097"
+          },
+          " ",
+          {
+            "text": "of the Salt",
+            "strong": "H4417"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "cross",
+            "strong": "H5437"
+          },
+          " - ",
+          {
+            "text": "south",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "of the Ascent",
+            "strong": "H4610"
+          },
+          " ",
+          {
+            "text": "of Akrabbim",
+            "strong": "H4610"
+          },
+          ", ",
+          {
+            "text": "continue",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "to Zin",
+            "strong": "H6790"
+          },
+          ", ",
+          {
+            "text": "and go",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "south",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6947"
+          },
+          " ",
+          {
+            "text": "of Kadesh-barnea",
+            "strong": "H6947"
+          },
+          ". ",
+          {
+            "text": "Then it will go on",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2692"
+          },
+          " ",
+          {
+            "text": "to Hazar-addar",
+            "strong": "H2692"
+          },
+          " ",
+          {
+            "text": "and proceed",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "to Azmon",
+            "strong": "H6111"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "where [it]",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will turn",
+            "strong": "H5437"
+          },
+          " ",
+          {
+            "text": "from Azmon",
+            "strong": "H6111"
+          },
+          ", ",
+          {
+            "text": "join the Brook",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          ", ",
+          {
+            "text": "and end",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "at the Sea",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Your ",
+          {
+            "text": "western",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the coastline",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of the Great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          "; ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "boundary",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "on the west",
+            "strong": "H3220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H2088"
+          },
+          " Your ",
+          {
+            "text": "northern",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will run",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the Great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "directly",
+            "strong": "H8376"
+          },
+          " ",
+          {
+            "text": "to Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Hor",
+            "strong": "H2023"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "and from Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Hor",
+            "strong": "H2023"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8376"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Lebo-hamath",
+            "strong": "H2574"
+          },
+          ", ",
+          {
+            "text": "[then]",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "extend",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "to Zedad",
+            "strong": "H6657"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "continue",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to Ziphron",
+            "strong": "H2202"
+          },
+          ", ",
+          {
+            "text": "and end",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2704"
+          },
+          " ",
+          {
+            "text": "at Hazar-enan",
+            "strong": "H2704"
+          },
+          ". ",
+          {
+            "text": "This",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "boundary",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "on the north",
+            "strong": "H6828"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And your eastern",
+            "strong": "H6924"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2704"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will run straight",
+            "strong": "H183"
+          },
+          " from ",
+          {
+            "text": "Hazar-enan",
+            "strong": "H2704"
+          },
+          " ",
+          {
+            "text": "to Shepham",
+            "strong": "H8221"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "[then]",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "go down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "from Shepham",
+            "strong": "H8221"
+          },
+          " ",
+          {
+            "text": "to Riblah",
+            "strong": "H7247"
+          },
+          " ",
+          {
+            "text": "on the east side",
+            "strong": "H6924"
+          },
+          " ",
+          {
+            "text": "of Ain",
+            "strong": "H5871"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "and continue along",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4229"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the slopes",
+            "strong": "H3802"
+          },
+          " ",
+          {
+            "text": "east",
+            "strong": "H6924"
+          },
+          " ",
+          {
+            "text": "of the Sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "of Chinnereth",
+            "strong": "H3672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Then the border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "will go down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "along the Jordan",
+            "strong": "H3383"
+          },
+          " ",
+          {
+            "text": "and end",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8444"
+          },
+          " ",
+          {
+            "text": "at the Salt",
+            "strong": "H4417"
+          },
+          " ",
+          {
+            "text": "Sea",
+            "strong": "H3220"
+          },
+          ". ",
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "defined by its borders",
+            "strong": "H1367"
+          },
+          " ",
+          {
+            "text": "on all sides",
+            "strong": "H5439"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "{Apportion} this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "by lot",
+            "strong": "H1486"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5157"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has commanded that",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "it be given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to the nine",
+            "strong": "H8672"
+          },
+          " ",
+          {
+            "text": "and a half",
+            "strong": "H2677"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "tribes",
+            "strong": "H4294"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "the tribes",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of the Reubenites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7206"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "[and]",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "Gadites",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1425"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "along with the half-tribe",
+            "strong": "H2677"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H4519"
+          },
+          ", ",
+          {
+            "text": "have already received",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "their inheritance",
+            "strong": "H5159"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "These two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "and a half",
+            "strong": "H2677"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "tribes",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "have received",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "their inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "across",
+            "strong": "H5676"
+          },
+          " ",
+          {
+            "text": "the Jordan",
+            "strong": "H3383"
+          },
+          " ",
+          {
+            "text": "from Jericho",
+            "strong": "H3405"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H6924"
+          },
+          " ",
+          {
+            "text": "toward the sunrise",
+            "strong": "H4217"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "\u201c",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "are to assign the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5157"
+          },
+          " for you: ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "and Joshua",
+            "strong": "H3091"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Nun",
+            "strong": "H5126"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Appoint",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from each",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "to distribute",
+            "strong": "H5157"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are their names",
+            "strong": "H8034"
+          },
+          {
+            "text": ". . .",
+            "strong": "H582"
+          },
+          ": ",
+          {
+            "text": "Caleb",
+            "strong": "H3612"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jephunneh",
+            "strong": "H3312"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Shemuel",
+            "strong": "H8050"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ammihud",
+            "strong": "H5989"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Simeon",
+            "strong": "H8095"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Elidad",
+            "strong": "H449"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Chislon",
+            "strong": "H3692"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Benjamin",
+            "strong": "H1144"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Bukki",
+            "strong": "H1231"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jogli",
+            "strong": "H3020"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Dan",
+            "strong": "H1835"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Hanniel",
+            "strong": "H2592"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ephod",
+            "strong": "H641"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4519"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Joseph",
+            "strong": "H3130"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Kemuel",
+            "strong": "H7055"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shiphtan",
+            "strong": "H8204"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Eli-zaphan",
+            "strong": "H469"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Parnach",
+            "strong": "H6535"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zebulun",
+            "strong": "H2074"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Paltiel",
+            "strong": "H6409"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Azzan",
+            "strong": "H5821"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Issachar",
+            "strong": "H3485"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Ahihud",
+            "strong": "H282"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shelomi",
+            "strong": "H8015"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Asher",
+            "strong": "H836"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "and Pedahel",
+            "strong": "H6300"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ammihud",
+            "strong": "H5989"
+          },
+          ", ",
+          {
+            "text": "a leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Naphtali",
+            "strong": "H5321"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the ones whom",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "to apportion the inheritance",
+            "strong": "H5157"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

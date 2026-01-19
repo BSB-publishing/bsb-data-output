@@ -1,0 +1,994 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EST",
+    "name": "Esther",
+    "number": 17
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "So the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and Haman",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to dine",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          " ",
+          {
+            "text": "the queen",
+            "strong": "H4436"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "and as they drank",
+            "strong": "H4960"
+          },
+          " ",
+          {
+            "text": "their wine",
+            "strong": "H3196"
+          },
+          " ",
+          {
+            "text": "on that second",
+            "strong": "H8145"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "once more",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H635"
+          },
+          ", \u201c",
+          {
+            "text": "Queen",
+            "strong": "H4436"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          ", ",
+          {
+            "text": "what [is]",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "your petition",
+            "strong": "H7596"
+          },
+          "? ",
+          {
+            "text": "It will be given",
+            "strong": "H5414"
+          },
+          " to you. ",
+          {
+            "text": "What [is]",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "your request",
+            "strong": "H1246"
+          },
+          "? ",
+          {
+            "text": "Even up to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "half",
+            "strong": "H2677"
+          },
+          " ",
+          {
+            "text": "the kingdom",
+            "strong": "H4438"
+          },
+          ", ",
+          {
+            "text": "it will be fulfilled",
+            "strong": "H6213"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Queen",
+            "strong": "H4436"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H6030"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H2580"
+          },
+          " ",
+          {
+            "text": "in your sight",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "and if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "it pleases",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "grant",
+            "strong": "H5414"
+          },
+          " me ",
+          {
+            "text": "my life",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "as my petition",
+            "strong": "H7596"
+          },
+          ", ",
+          {
+            "text": "and [the lives of] my people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "as my request",
+            "strong": "H1246"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "and I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "have been sold out",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "to destruction",
+            "strong": "H8045"
+          },
+          ", ",
+          {
+            "text": "death",
+            "strong": "H2026"
+          },
+          ", ",
+          {
+            "text": "and annihilation",
+            "strong": "H6"
+          },
+          ". ",
+          {
+            "text": "If",
+            "strong": "H432"
+          },
+          " ",
+          {
+            "text": "we had merely been sold",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "as menservants",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "and maidservants",
+            "strong": "H8198"
+          },
+          ", ",
+          {
+            "text": "I would have remained silent",
+            "strong": "H2790"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "such distress",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "would justify",
+            "strong": "H7737"
+          },
+          " ",
+          {
+            "text": "burdening",
+            "strong": "H5143"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Xerxes",
+            "strong": "H325"
+          },
+          " ",
+          {
+            "text": "spoke up",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "and asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Queen",
+            "strong": "H4436"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          ", \u201c",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "is this",
+            "strong": "H2088"
+          },
+          ", ",
+          {
+            "text": "and where",
+            "strong": "H335"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is the one",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "would",
+            "strong": "H4390"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "devise",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "such a scheme?",
+            "strong": "H3651"
+          },
+          "\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          {
+            "text": ". . .",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "The adversary",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "and enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "is this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "wicked man",
+            "strong": "H7451"
+          },
+          " \u2014 ",
+          {
+            "text": "Haman",
+            "strong": "H2001"
+          },
+          "!\u201d ",
+          {
+            "text": "And Haman",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "stood in terror",
+            "strong": "H1204"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and queen",
+            "strong": "H4436"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "In his fury",
+            "strong": "H2534"
+          },
+          ", ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "arose",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "from drinking",
+            "strong": "H4960"
+          },
+          " ",
+          {
+            "text": "his wine",
+            "strong": "H3196"
+          },
+          " ",
+          {
+            "text": "and went to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the palace",
+            "strong": "H1055"
+          },
+          " ",
+          {
+            "text": "garden",
+            "strong": "H1594"
+          },
+          ", ",
+          {
+            "text": "while Haman",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "stayed behind",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "to beg",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "Queen",
+            "strong": "H4436"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his life",
+            "strong": "H5315"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he realized",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "was planning",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "a terrible fate",
+            "strong": "H7451"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "for him",
+            "strong": "H413"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Just as the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "from the palace",
+            "strong": "H1055"
+          },
+          " ",
+          {
+            "text": "garden",
+            "strong": "H1594"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the banquet hall",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4960"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3196"
+          },
+          ", ",
+          {
+            "text": "Haman",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "was falling",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the couch",
+            "strong": "H4296"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Esther",
+            "strong": "H635"
+          },
+          " ",
+          {
+            "text": "[was reclining]",
+            "strong": "H5921"
+          },
+          ". ",
+          {
+            "text": "The king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "exclaimed",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Would he actually",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "assault",
+            "strong": "H3533"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the queen",
+            "strong": "H4436"
+          },
+          " ",
+          {
+            "text": "while",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "I am in the palace",
+            "strong": "H1004"
+          },
+          "?\u201d ",
+          {
+            "text": "As soon as the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "had left",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "the king\u2019s",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "mouth",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "they covered",
+            "strong": "H2645"
+          },
+          " ",
+          {
+            "text": "Haman\u2019s",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "face",
+            "strong": "H6440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then Harbonah",
+            "strong": "H2726"
+          },
+          ", ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the eunuchs",
+            "strong": "H5631"
+          },
+          " ",
+          {
+            "text": "attending",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ": \u201c",
+          {
+            "text": "There",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "is a gallows",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "cubits",
+            "strong": "H520"
+          },
+          " ",
+          {
+            "text": "high",
+            "strong": "H1364"
+          },
+          " ",
+          {
+            "text": "at Haman\u2019s",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          ". ",
+          {
+            "text": "[He]",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "had it built",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for Mordecai",
+            "strong": "H4782"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "gave the report",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "that saved",
+            "strong": "H2896"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5975"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "Hang him",
+            "strong": "H8518"
+          },
+          " ",
+          {
+            "text": "on it",
+            "strong": "H5921"
+          },
+          "!\u201d ",
+          {
+            "text": "declared",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "So they hanged",
+            "strong": "H8518"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Haman",
+            "strong": "H2001"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the gallows",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he had prepared",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "for Mordecai",
+            "strong": "H4782"
+          },
+          ". ",
+          {
+            "text": "Then the fury",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "subsided",
+            "strong": "H7918"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

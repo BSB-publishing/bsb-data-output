@@ -1,0 +1,1804 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 51,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Listen",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "to Me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "you who pursue",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "righteousness",
+            "strong": "H6664"
+          },
+          ", ",
+          {
+            "text": "you who seek",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ": ",
+          {
+            "text": "Look",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the rock",
+            "strong": "H6697"
+          },
+          " ",
+          {
+            "text": "from which you were cut",
+            "strong": "H2672"
+          },
+          ", ",
+          {
+            "text": "and to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the quarry",
+            "strong": "H4718"
+          },
+          {
+            "text": ". . .",
+            "strong": "H953"
+          },
+          " ",
+          {
+            "text": "from which you were hewn",
+            "strong": "H5365"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Look",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "your father",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "and to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "who gave you birth",
+            "strong": "H2342"
+          },
+          ". ",
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I called him",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "he was but one",
+            "strong": "H259"
+          },
+          "; ",
+          {
+            "text": "then I blessed him",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "and multiplied him",
+            "strong": "H7235"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will comfort",
+            "strong": "H5162"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "and will look with compassion",
+            "strong": "H5162"
+          },
+          " ",
+          {
+            "text": "on all her",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "ruins",
+            "strong": "H2723"
+          },
+          "; ",
+          {
+            "text": "He will make",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "her wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "like Eden",
+            "strong": "H5731"
+          },
+          " ",
+          {
+            "text": "and her desert",
+            "strong": "H6160"
+          },
+          " ",
+          {
+            "text": "like the garden",
+            "strong": "H1588"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "Joy",
+            "strong": "H8342"
+          },
+          " ",
+          {
+            "text": "and gladness",
+            "strong": "H8057"
+          },
+          " ",
+          {
+            "text": "will be found",
+            "strong": "H4672"
+          },
+          " in her, ",
+          {
+            "text": "thanksgiving",
+            "strong": "H8426"
+          },
+          " ",
+          {
+            "text": "and melodious",
+            "strong": "H2172"
+          },
+          " ",
+          {
+            "text": "song",
+            "strong": "H6963"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Pay attention",
+            "strong": "H7181"
+          },
+          " ",
+          {
+            "text": "to Me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "My people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and listen",
+            "strong": "H238"
+          },
+          " ",
+          {
+            "text": "to Me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "My nation",
+            "strong": "H3816"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a law",
+            "strong": "H8451"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "will go out from Me",
+            "strong": "H3318"
+          },
+          ", ",
+          {
+            "text": "and My justice [will become]",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "a light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "to the nations",
+            "strong": "H5971"
+          },
+          "; ",
+          {
+            "text": "I will bring it about quickly",
+            "strong": "H7280"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "My righteousness",
+            "strong": "H6664"
+          },
+          " ",
+          {
+            "text": "draws near",
+            "strong": "H7138"
+          },
+          ", ",
+          {
+            "text": "My salvation",
+            "strong": "H3468"
+          },
+          " ",
+          {
+            "text": "is on the way",
+            "strong": "H3318"
+          },
+          ", ",
+          {
+            "text": "and My arms",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "will bring justice",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "to the nations",
+            "strong": "H5971"
+          },
+          ". ",
+          {
+            "text": "The islands",
+            "strong": "H339"
+          },
+          " ",
+          {
+            "text": "will look",
+            "strong": "H6960"
+          },
+          " ",
+          {
+            "text": "for Me",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and wait in hope",
+            "strong": "H3176"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "My arm",
+            "strong": "H2220"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Lift up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "your eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "to the heavens",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "and look",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "below",
+            "strong": "H8478"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "will vanish",
+            "strong": "H4414"
+          },
+          " ",
+          {
+            "text": "like smoke",
+            "strong": "H6227"
+          },
+          ", ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "will wear out",
+            "strong": "H1086"
+          },
+          " ",
+          {
+            "text": "like a garment",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and its people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "will die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "like [gnats]",
+            "strong": "H3644"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H3654"
+          },
+          " ",
+          {
+            "text": "But My salvation",
+            "strong": "H3444"
+          },
+          " ",
+          {
+            "text": "will last forever",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5769"
+          },
+          ", ",
+          {
+            "text": "and My righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "fail",
+            "strong": "H2865"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Listen",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "to Me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "you who know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what is right",
+            "strong": "H6664"
+          },
+          ", ",
+          {
+            "text": "you people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "with My law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "in your hearts",
+            "strong": "H3820"
+          },
+          ": ",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "fear",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "the scorn",
+            "strong": "H2781"
+          },
+          " ",
+          {
+            "text": "of men",
+            "strong": "H582"
+          },
+          "; ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be broken",
+            "strong": "H2865"
+          },
+          " ",
+          {
+            "text": "by their insults",
+            "strong": "H1421"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the moth",
+            "strong": "H6211"
+          },
+          " ",
+          {
+            "text": "will devour them",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "like a garment",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and the worm",
+            "strong": "H5580"
+          },
+          " ",
+          {
+            "text": "will eat them",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "like wool",
+            "strong": "H6785"
+          },
+          ". ",
+          {
+            "text": "But My righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "will last forever",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5769"
+          },
+          ", ",
+          {
+            "text": "My salvation",
+            "strong": "H3444"
+          },
+          " ",
+          {
+            "text": "through all generations",
+            "strong": "H1755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1755"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Awake",
+            "strong": "H5782"
+          },
+          ", ",
+          {
+            "text": "awake",
+            "strong": "H5782"
+          },
+          ", ",
+          {
+            "text": "put on",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "strength",
+            "strong": "H5797"
+          },
+          ", ",
+          {
+            "text": "O arm",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "Wake up",
+            "strong": "H5782"
+          },
+          " ",
+          {
+            "text": "as in days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "past",
+            "strong": "H6924"
+          },
+          ", ",
+          {
+            "text": "as in generations",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "of old",
+            "strong": "H5769"
+          },
+          ". ",
+          {
+            "text": "Was it not",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "who cut Rahab",
+            "strong": "H7294"
+          },
+          " ",
+          {
+            "text": "to pieces",
+            "strong": "H2672"
+          },
+          ", ",
+          {
+            "text": "who pierced through",
+            "strong": "H2490"
+          },
+          " ",
+          {
+            "text": "the dragon",
+            "strong": "H8577"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Was it not",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "who dried up",
+            "strong": "H2717"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of the great",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "deep",
+            "strong": "H8415"
+          },
+          ", ",
+          {
+            "text": "who made",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "a road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "in the depths",
+            "strong": "H4615"
+          },
+          " ",
+          {
+            "text": "of the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "for the redeemed",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "to cross over",
+            "strong": "H5674"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "So the redeemed",
+            "strong": "H6299"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "and enter",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "with singing",
+            "strong": "H7440"
+          },
+          ", ",
+          {
+            "text": "crowned",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "with everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "joy",
+            "strong": "H8057"
+          },
+          ". ",
+          {
+            "text": "Gladness",
+            "strong": "H8342"
+          },
+          " ",
+          {
+            "text": "and joy",
+            "strong": "H8057"
+          },
+          " ",
+          {
+            "text": "will overtake them",
+            "strong": "H5381"
+          },
+          ", ",
+          {
+            "text": "and sorrow",
+            "strong": "H3015"
+          },
+          " ",
+          {
+            "text": "and sighing",
+            "strong": "H585"
+          },
+          " ",
+          {
+            "text": "will flee",
+            "strong": "H5127"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          ", ",
+          {
+            "text": "even I",
+            "strong": "H595"
+          },
+          ", ",
+          {
+            "text": "am He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "who comforts you",
+            "strong": "H5162"
+          },
+          ". ",
+          {
+            "text": "Why",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "should you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "be afraid",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "of mortal",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "of a son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "who withers",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "like grass",
+            "strong": "H2682"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "But you have forgotten",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "your Maker",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "who stretched out",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and laid the foundations",
+            "strong": "H3245"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "You live in terror",
+            "strong": "H6342"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "all day long",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the fury",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "of the oppressor",
+            "strong": "H6693"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is bent",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "on destruction",
+            "strong": "H7843"
+          },
+          ". ",
+          {
+            "text": "But where",
+            "strong": "H346"
+          },
+          " ",
+          {
+            "text": "is the fury",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "of the oppressor",
+            "strong": "H6693"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "The captive",
+            "strong": "H6808"
+          },
+          " ",
+          {
+            "text": "will soon",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "be freed",
+            "strong": "H6605"
+          },
+          "; ",
+          {
+            "text": "he will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "in the dungeon",
+            "strong": "H7845"
+          },
+          ", ",
+          {
+            "text": "and his bread",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be lacking",
+            "strong": "H2637"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "For I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "who stirs up",
+            "strong": "H7280"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "so that its waves",
+            "strong": "H1530"
+          },
+          " ",
+          {
+            "text": "roar",
+            "strong": "H1993"
+          },
+          "\u2014 ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "[is] His name",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "I have put",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "My words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "in your mouth",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "and covered you",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "with the shadow",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "of My hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "to establish",
+            "strong": "H5193"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "to found",
+            "strong": "H3245"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and to say",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to Zion",
+            "strong": "H6726"
+          },
+          ", \u2018",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are My people",
+            "strong": "H5971"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Awake",
+            "strong": "H5782"
+          },
+          ", ",
+          {
+            "text": "awake",
+            "strong": "H5782"
+          },
+          "! ",
+          {
+            "text": "Rise up",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "O Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "you who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "have drunk",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "from the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the cup",
+            "strong": "H3563"
+          },
+          " ",
+          {
+            "text": "of His fury",
+            "strong": "H2534"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          "; ",
+          {
+            "text": "you who have drained",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "the goblet",
+            "strong": "H6907"
+          },
+          " ",
+          {
+            "text": "to the dregs",
+            "strong": "H4680"
+          },
+          " \u2014 ",
+          {
+            "text": "the cup",
+            "strong": "H3563"
+          },
+          " ",
+          {
+            "text": "that makes men stagger",
+            "strong": "H8653"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "she bore",
+            "strong": "H3205"
+          },
+          ", ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one to guide",
+            "strong": "H5095"
+          },
+          " her; ",
+          {
+            "text": "among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "she brought up",
+            "strong": "H1431"
+          },
+          ", ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one to take",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "her hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H2007"
+          },
+          " ",
+          {
+            "text": "pairs",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "have befallen",
+            "strong": "H7122"
+          },
+          " you: ",
+          {
+            "text": "devastation",
+            "strong": "H7701"
+          },
+          " ",
+          {
+            "text": "and destruction",
+            "strong": "H7667"
+          },
+          ", ",
+          {
+            "text": "famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "and sword",
+            "strong": "H2719"
+          },
+          ". ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "will grieve for you",
+            "strong": "H5110"
+          },
+          "? ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can comfort you",
+            "strong": "H5162"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Your sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "have fainted",
+            "strong": "H5968"
+          },
+          "; ",
+          {
+            "text": "they lie",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "at the head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "street",
+            "strong": "H2351"
+          },
+          ", ",
+          {
+            "text": "like an antelope",
+            "strong": "H8377"
+          },
+          " ",
+          {
+            "text": "in a net",
+            "strong": "H4364"
+          },
+          ". ",
+          {
+            "text": "They are full",
+            "strong": "H4392"
+          },
+          " ",
+          {
+            "text": "of the wrath",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the rebuke",
+            "strong": "H1606"
+          },
+          " ",
+          {
+            "text": "of your God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          ", ",
+          {
+            "text": "you afflicted one",
+            "strong": "H6041"
+          },
+          ", ",
+          {
+            "text": "drunken",
+            "strong": "H7937"
+          },
+          ", ",
+          {
+            "text": "but not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "with wine",
+            "strong": "H3196"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Thus",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "your Lord",
+            "strong": "H113"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "even your God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "who defends",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "His people",
+            "strong": "H5971"
+          },
+          ":\u201c",
+          {
+            "text": "See",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I have removed",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "from your hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the cup",
+            "strong": "H3563"
+          },
+          " ",
+          {
+            "text": "of staggering",
+            "strong": "H8653"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ". ",
+          {
+            "text": "From that goblet",
+            "strong": "H6907"
+          },
+          ", ",
+          {
+            "text": "the cup",
+            "strong": "H3563"
+          },
+          " ",
+          {
+            "text": "of My fury",
+            "strong": "H2534"
+          },
+          ", ",
+          {
+            "text": "you will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "I will place it",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "in the hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of your tormentors",
+            "strong": "H3013"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H5315"
+          },
+          ": \u2018",
+          {
+            "text": "Lie down",
+            "strong": "H7812"
+          },
+          ", ",
+          {
+            "text": "so we can walk over you",
+            "strong": "H5674"
+          },
+          ",\u2019 ",
+          {
+            "text": "so that you made",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "your back",
+            "strong": "H1460"
+          },
+          " ",
+          {
+            "text": "like the ground",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "like a street",
+            "strong": "H2351"
+          },
+          " ",
+          {
+            "text": "to be traversed",
+            "strong": "H5674"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

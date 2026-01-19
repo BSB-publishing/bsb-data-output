@@ -1,0 +1,2334 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "In the beginning",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "created",
+            "strong": "H1254"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Now the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "formless",
+            "strong": "H8414"
+          },
+          " ",
+          {
+            "text": "and void",
+            "strong": "H922"
+          },
+          ", ",
+          {
+            "text": "and darkness",
+            "strong": "H2822"
+          },
+          " ",
+          {
+            "text": "was over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the surface",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the deep",
+            "strong": "H8415"
+          },
+          ". ",
+          {
+            "text": "And the Spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "was hovering",
+            "strong": "H7363"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the surface",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the waters",
+            "strong": "H4325"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let there be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H216"
+          },
+          ",\u201d ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H216"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "[was] good",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "and [He]",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "separated",
+            "strong": "H914"
+          },
+          " ",
+          {
+            "text": "the light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H996"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the darkness",
+            "strong": "H2822"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the light",
+            "strong": "H216"
+          },
+          " \u201c",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ",\u201d ",
+          {
+            "text": "and the darkness",
+            "strong": "H2822"
+          },
+          " ",
+          {
+            "text": "He called",
+            "strong": "H7121"
+          },
+          " \u201c",
+          {
+            "text": "night",
+            "strong": "H3915"
+          },
+          ".\u201d ",
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the first",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let there be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "separate",
+            "strong": "H914"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "from the waters",
+            "strong": "H4325"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "and separated",
+            "strong": "H914"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "beneath",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7549"
+          },
+          ". ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the expanse",
+            "strong": "H7549"
+          },
+          " \u201c",
+          {
+            "text": "sky",
+            "strong": "H8064"
+          },
+          ".\u201d ",
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the second",
+            "strong": "H8145"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the sky",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "be gathered",
+            "strong": "H6960"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          ", ",
+          {
+            "text": "so that the dry [land]",
+            "strong": "H3004"
+          },
+          " ",
+          {
+            "text": "may appear",
+            "strong": "H7200"
+          },
+          ".\u201d ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the dry [land]",
+            "strong": "H3004"
+          },
+          " \u201c",
+          {
+            "text": "earth",
+            "strong": "H776"
+          },
+          ",\u201d ",
+          {
+            "text": "and the gathering",
+            "strong": "H4723"
+          },
+          " ",
+          {
+            "text": "of waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "He called",
+            "strong": "H7121"
+          },
+          " \u201c",
+          {
+            "text": "seas",
+            "strong": "H3220"
+          },
+          ".\u201d ",
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[it was] good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "bring forth",
+            "strong": "H1876"
+          },
+          " ",
+          {
+            "text": "vegetation",
+            "strong": "H1877"
+          },
+          ": ",
+          {
+            "text": "seed-bearing",
+            "strong": "H2232"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "plants",
+            "strong": "H6212"
+          },
+          " ",
+          {
+            "text": "and fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "trees",
+            "strong": "H6086"
+          },
+          ", ",
+          {
+            "text": "each bearing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "with seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "according to its kind",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " - ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H776"
+          },
+          ".\u201d ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "The earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "produced",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "vegetation",
+            "strong": "H1877"
+          },
+          ": ",
+          {
+            "text": "seed-bearing",
+            "strong": "H2232"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "plants",
+            "strong": "H6212"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          " ",
+          {
+            "text": "and trees",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "bearing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "with seed",
+            "strong": "H2233"
+          },
+          " . . . ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ". ",
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it was good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let there be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "lights",
+            "strong": "H3974"
+          },
+          " ",
+          {
+            "text": "in the expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "of the sky",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "to distinguish",
+            "strong": "H914"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the night",
+            "strong": "H3915"
+          },
+          ", ",
+          {
+            "text": "and let them be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "signs to mark",
+            "strong": "H226"
+          },
+          " ",
+          {
+            "text": "[the] seasons",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "and days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and years",
+            "strong": "H8141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "And let them serve",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "as lights",
+            "strong": "H3974"
+          },
+          " ",
+          {
+            "text": "in the expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "of the sky",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "to shine",
+            "strong": "H215"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ".\u201d ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "lights",
+            "strong": "H3974"
+          },
+          ": ",
+          {
+            "text": "the greater",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H3974"
+          },
+          " ",
+          {
+            "text": "to rule",
+            "strong": "H4475"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the lesser",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H3974"
+          },
+          " ",
+          {
+            "text": "to rule",
+            "strong": "H4475"
+          },
+          " ",
+          {
+            "text": "the night",
+            "strong": "H3915"
+          },
+          ". ",
+          {
+            "text": "And [He made]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the stars {as well}",
+            "strong": "H3556"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "set",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "[these lights]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in the expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "of the sky",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "to shine",
+            "strong": "H215"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "to preside over",
+            "strong": "H4910"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and the night",
+            "strong": "H3915"
+          },
+          ", ",
+          {
+            "text": "and to separate",
+            "strong": "H914"
+          },
+          " ",
+          {
+            "text": "the light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H996"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the darkness",
+            "strong": "H2822"
+          },
+          ". ",
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[it was] good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the fourth",
+            "strong": "H7243"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "teem",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "with living",
+            "strong": "H5315"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "creatures",
+            "strong": "H8318"
+          },
+          ", ",
+          {
+            "text": "and let birds",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "fly",
+            "strong": "H5774"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the open",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "expanse",
+            "strong": "H7549"
+          },
+          " ",
+          {
+            "text": "of the sky",
+            "strong": "H8064"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "created",
+            "strong": "H1254"
+          },
+          " ",
+          {
+            "text": "the great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "sea creatures",
+            "strong": "H8577"
+          },
+          " ",
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "living",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "thing",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "that moves",
+            "strong": "H7430"
+          },
+          ", ",
+          {
+            "text": "[with] which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "teemed",
+            "strong": "H8317"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "winged",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "bird",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "after its kind",
+            "strong": "H4327"
+          },
+          ". ",
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[it was] good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Be fruitful",
+            "strong": "H6509"
+          },
+          " ",
+          {
+            "text": "and multiply",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "and fill",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of the seas",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "and let birds",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "multiply",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "on the earth",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the fifth",
+            "strong": "H2549"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "bring forth",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "living",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "creatures",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ": ",
+          {
+            "text": "livestock",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "land crawlers",
+            "strong": "H7431"
+          },
+          ", ",
+          {
+            "text": "and beasts",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ".\u201d ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the beasts",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the livestock",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "according to their kinds",
+            "strong": "H4327"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that crawls",
+            "strong": "H7431"
+          },
+          " ",
+          {
+            "text": "upon the earth",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "according to its kind",
+            "strong": "H4327"
+          },
+          ". ",
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[it was] good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Let Us make",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "in Our image",
+            "strong": "H6754"
+          },
+          ", ",
+          {
+            "text": "after Our likeness",
+            "strong": "H1823"
+          },
+          ", ",
+          {
+            "text": "to rule",
+            "strong": "H7287"
+          },
+          " ",
+          {
+            "text": "over the fish",
+            "strong": "H1710"
+          },
+          " ",
+          {
+            "text": "of the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "and the birds",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "of the air",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "over the livestock",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "and over all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth itself",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H7431"
+          },
+          " ",
+          {
+            "text": "that crawls",
+            "strong": "H7430"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "So God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "created",
+            "strong": "H1254"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "in His [own] image",
+            "strong": "H6754"
+          },
+          "; ",
+          {
+            "text": "in the image",
+            "strong": "H6754"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "He created",
+            "strong": "H1254"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          "; ",
+          {
+            "text": "male",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "and female",
+            "strong": "H5347"
+          },
+          " ",
+          {
+            "text": "He created",
+            "strong": "H1254"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " to them, \u201c",
+          {
+            "text": "Be fruitful",
+            "strong": "H6509"
+          },
+          " ",
+          {
+            "text": "and multiply",
+            "strong": "H7235"
+          },
+          ", ",
+          {
+            "text": "and fill",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and subdue it",
+            "strong": "H3533"
+          },
+          "; ",
+          {
+            "text": "rule",
+            "strong": "H7287"
+          },
+          " ",
+          {
+            "text": "over the fish",
+            "strong": "H1710"
+          },
+          " ",
+          {
+            "text": "of the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "and the birds",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "of the air",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "that crawls",
+            "strong": "H7430"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I have given",
+            "strong": "H5414"
+          },
+          " you ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2232"
+          },
+          " ",
+          {
+            "text": "seed-bearing",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "plant",
+            "strong": "H6212"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "contains",
+            "strong": "H2232"
+          },
+          " . . . ",
+          {
+            "text": "-",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "seed",
+            "strong": "H2233"
+          },
+          ". ",
+          {
+            "text": "They will be",
+            "strong": "H1961"
+          },
+          " yours ",
+          {
+            "text": "for food",
+            "strong": "H402"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "And to every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "beast",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "bird",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "of the air",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature that crawls",
+            "strong": "H7430"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " \u2014 ",
+          {
+            "text": "everything that has",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the breath",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of life",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " in it \u2014 ",
+          {
+            "text": "[I have given] every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "green",
+            "strong": "H3418"
+          },
+          " ",
+          {
+            "text": "plant",
+            "strong": "H6212"
+          },
+          " ",
+          {
+            "text": "for food",
+            "strong": "H402"
+          },
+          ".\u201d ",
+          {
+            "text": "And it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "looked upon",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He had made",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "and indeed",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "[it was] very",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          ". ",
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "and there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " \u2014 ",
+          {
+            "text": "the sixth",
+            "strong": "H8345"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

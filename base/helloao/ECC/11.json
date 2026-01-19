@@ -1,0 +1,791 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ECC",
+    "name": "Ecclesiastes",
+    "number": 21
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Cast",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "your bread",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "after many",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "you will find it [again]",
+            "strong": "H4672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Divide",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "your portion",
+            "strong": "H2506"
+          },
+          " ",
+          {
+            "text": "among seven",
+            "strong": "H7651"
+          },
+          ", ",
+          {
+            "text": "or even",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "eight",
+            "strong": "H8083"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "disaster",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "may befall",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "the clouds",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "are full",
+            "strong": "H4390"
+          },
+          ", ",
+          {
+            "text": "they will pour out",
+            "strong": "H7324"
+          },
+          " ",
+          {
+            "text": "rain",
+            "strong": "H1653"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "whether",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "a tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "to the south",
+            "strong": "H1864"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "to the north",
+            "strong": "H6828"
+          },
+          ", ",
+          {
+            "text": "in the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where [it]",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H5307"
+          },
+          ", ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "it will lie",
+            "strong": "H1933"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "He who watches",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "will fail",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to sow",
+            "strong": "H2232"
+          },
+          ", ",
+          {
+            "text": "and he who observes",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the clouds",
+            "strong": "H5645"
+          },
+          " ",
+          {
+            "text": "will fail",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to reap",
+            "strong": "H7114"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "As",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you do not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "the path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the wind",
+            "strong": "H7307"
+          },
+          ", ",
+          {
+            "text": "or how the bones [are formed]",
+            "strong": "H6106"
+          },
+          " ",
+          {
+            "text": "in a mother\u2019s",
+            "strong": "H4392"
+          },
+          " ",
+          {
+            "text": "womb",
+            "strong": "H990"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3602"
+          },
+          " ",
+          {
+            "text": "you cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "understand",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the work",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the Maker",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "of all things",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Sow",
+            "strong": "H2232"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "in the morning",
+            "strong": "H1242"
+          },
+          ", ",
+          {
+            "text": "and do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "rest",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "your hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "in the evening",
+            "strong": "H6153"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you do not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "H335"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "will succeed",
+            "strong": "H3787"
+          },
+          ", ",
+          {
+            "text": "whether this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H2088"
+          },
+          ", ",
+          {
+            "text": "or if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "both",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "will equally",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "prosper",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "is sweet",
+            "strong": "H4966"
+          },
+          ", ",
+          {
+            "text": "and it pleases",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "the eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "to see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the sun",
+            "strong": "H8121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "lives",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          ", ",
+          {
+            "text": "let him rejoice",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "in them all",
+            "strong": "H3605"
+          },
+          ". ",
+          {
+            "text": "But let him remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of darkness",
+            "strong": "H2822"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7235"
+          },
+          ". ",
+          {
+            "text": "Everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "to come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "is futile",
+            "strong": "H1892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Rejoice",
+            "strong": "H8055"
+          },
+          ", ",
+          {
+            "text": "O young man",
+            "strong": "H970"
+          },
+          ", ",
+          {
+            "text": "while you are young",
+            "strong": "H3208"
+          },
+          ", ",
+          {
+            "text": "and let your heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "be glad",
+            "strong": "H3190"
+          },
+          " ",
+          {
+            "text": "in the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of your youth",
+            "strong": "H979"
+          },
+          ". ",
+          {
+            "text": "Walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of your heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "and in the sight",
+            "strong": "H4758"
+          },
+          " ",
+          {
+            "text": "of your eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "but know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these [things]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "will bring you",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to judgment",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "So banish",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "sorrow",
+            "strong": "H3708"
+          },
+          " ",
+          {
+            "text": "from your heart",
+            "strong": "H3820"
+          },
+          ", ",
+          {
+            "text": "and cast off",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "pain",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "from your body",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "youth",
+            "strong": "H3208"
+          },
+          " ",
+          {
+            "text": "and vigor",
+            "strong": "H7839"
+          },
+          " ",
+          {
+            "text": "are fleeting",
+            "strong": "H1892"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

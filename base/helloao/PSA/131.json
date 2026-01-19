@@ -1,0 +1,119 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 131,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Surely",
+            "strong": "H518"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "I have stilled",
+            "strong": "H7737"
+          },
+          " ",
+          {
+            "text": "and quieted",
+            "strong": "H1826"
+          },
+          " ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          "; ",
+          {
+            "text": "like a weaned child",
+            "strong": "H1580"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "with his mother",
+            "strong": "H517"
+          },
+          ", ",
+          {
+            "text": "like a weaned child",
+            "strong": "H1580"
+          },
+          " ",
+          {
+            "text": "is my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "within me",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "O Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "put your hope",
+            "strong": "H3176"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "both now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "and forevermore",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

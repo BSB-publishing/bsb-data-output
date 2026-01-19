@@ -1,0 +1,2439 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ROM",
+    "name": "Romans",
+    "number": 45
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "You",
+            "strong": "G1510"
+          },
+          ", ",
+          {
+            "text": "therefore",
+            "strong": "G1352"
+          },
+          ", ",
+          {
+            "text": "have no excuse",
+            "strong": "G379"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G5599"
+          },
+          " ",
+          {
+            "text": "[you]",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "pass judgment [on another]",
+            "strong": "G2919"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "whatever grounds",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "you judge",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "other",
+            "strong": "G2087"
+          },
+          ", ",
+          {
+            "text": "you are condemning",
+            "strong": "G2632"
+          },
+          " ",
+          {
+            "text": "yourself",
+            "strong": "G4572"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "[you who]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "pass judgment",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "G4238"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "same things",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "we know",
+            "strong": "G1492"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "G2917"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "G4238"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "such things",
+            "strong": "G5108"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "based on",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "truth",
+            "strong": "G225"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "[So when]",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[you]",
+            "strong": "G3588"
+          },
+          ", ",
+          {
+            "text": "O",
+            "strong": "G5599"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "G444"
+          },
+          ", ",
+          {
+            "text": "pass judgment on",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "[others]",
+            "strong": "G3588"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "yet",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "the same things",
+            "strong": "G5108"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4238"
+          },
+          ", ",
+          {
+            "text": "do you think",
+            "strong": "G3049"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "will escape",
+            "strong": "G1628"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "G2917"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Or",
+            "strong": "G2228"
+          },
+          " ",
+          {
+            "text": "do you disregard",
+            "strong": "G2706"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "riches",
+            "strong": "G4149"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "kindness",
+            "strong": "G5544"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "tolerance",
+            "strong": "G463"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "patience",
+            "strong": "G3115"
+          },
+          ", ",
+          {
+            "text": "not realizing",
+            "strong": "G50"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "kindness",
+            "strong": "G5543"
+          },
+          " ",
+          {
+            "text": "leads",
+            "strong": "G71"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "repentance",
+            "strong": "G3341"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hard",
+            "strong": "G4643"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "unrepentant",
+            "strong": "G279"
+          },
+          " ",
+          {
+            "text": "heart",
+            "strong": "G2588"
+          },
+          ", ",
+          {
+            "text": "you are storing up",
+            "strong": "G2343"
+          },
+          " ",
+          {
+            "text": "wrath",
+            "strong": "G3709"
+          },
+          " ",
+          {
+            "text": "against yourself",
+            "strong": "G4572"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "of wrath",
+            "strong": "G3709"
+          },
+          ", ",
+          {
+            "text": "[when]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "righteous judgment",
+            "strong": "G1341"
+          },
+          " ",
+          {
+            "text": "will be revealed",
+            "strong": "G602"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "[God]",
+            "strong": "G3739"
+          },
+          " \u201c",
+          {
+            "text": "will repay",
+            "strong": "G591"
+          },
+          " ",
+          {
+            "text": "each one",
+            "strong": "G1538"
+          },
+          " ",
+          {
+            "text": "according to",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "deeds",
+            "strong": "G2041"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "To those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "perseverance",
+            "strong": "G5281"
+          },
+          " ",
+          {
+            "text": "in doing",
+            "strong": "G2041"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "G18"
+          },
+          " ",
+          {
+            "text": "seek",
+            "strong": "G2212"
+          },
+          " ",
+          {
+            "text": "glory",
+            "strong": "G1391"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "honor",
+            "strong": "G5092"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "immortality",
+            "strong": "G861"
+          },
+          ", ",
+          {
+            "text": "[He will give] eternal",
+            "strong": "G166"
+          },
+          " ",
+          {
+            "text": "life",
+            "strong": "G2222"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "for those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "[are] self-seeking",
+            "strong": "G2052"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "who reject",
+            "strong": "G544"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "truth",
+            "strong": "G225"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "follow",
+            "strong": "G3982"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "wickedness",
+            "strong": "G93"
+          },
+          ", ",
+          {
+            "text": "[there will be] wrath",
+            "strong": "G3709"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "anger",
+            "strong": "G2372"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "[There will be] trouble",
+            "strong": "G2347"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "distress",
+            "strong": "G4730"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "human",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "being",
+            "strong": "G5590"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "G2716"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "G2556"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "first",
+            "strong": "G4412"
+          },
+          " ",
+          {
+            "text": "for the Jew",
+            "strong": "G2453"
+          },
+          ", ",
+          {
+            "text": "then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "for the Greek",
+            "strong": "G1672"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "glory",
+            "strong": "G1391"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "honor",
+            "strong": "G5092"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "peace",
+            "strong": "G1515"
+          },
+          " ",
+          {
+            "text": "for everyone",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "G2038"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "G18"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "first",
+            "strong": "G2453"
+          },
+          " ",
+          {
+            "text": "for the Jew",
+            "strong": "G4412"
+          },
+          ", ",
+          {
+            "text": "then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "for the Greek",
+            "strong": "G1672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3844"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "does not show",
+            "strong": "G1510"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "favoritism",
+            "strong": "G4382"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "All who",
+            "strong": "G3745"
+          },
+          " ",
+          {
+            "text": "sin",
+            "strong": "G264"
+          },
+          " ",
+          {
+            "text": "apart from the law",
+            "strong": "G460"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "will also perish",
+            "strong": "G622"
+          },
+          " ",
+          {
+            "text": "apart from the law",
+            "strong": "G460"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "all who",
+            "strong": "G3745"
+          },
+          " ",
+          {
+            "text": "sin",
+            "strong": "G264"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "will be judged",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "For [it is]",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hearers",
+            "strong": "G202"
+          },
+          " ",
+          {
+            "text": "of [the] law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "[who are] righteous",
+            "strong": "G1342"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "G3844"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ", ",
+          {
+            "text": "but [it is]",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "doers",
+            "strong": "G4163"
+          },
+          " ",
+          {
+            "text": "of [the] law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "[who] will be declared righteous",
+            "strong": "G1344"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Indeed",
+            "strong": "G1063"
+          },
+          ", ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "Gentiles",
+            "strong": "G1484"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "do not have",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "do",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "by nature",
+            "strong": "G5449"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law [requires]",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "they are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "to themselves",
+            "strong": "G1438"
+          },
+          ", ",
+          {
+            "text": "[even though] they",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "do not have",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "[So] they",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "show [that]",
+            "strong": "G1731"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "work",
+            "strong": "G2041"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "is written",
+            "strong": "G1123"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hearts",
+            "strong": "G2588"
+          },
+          ", ",
+          {
+            "text": "their",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "consciences",
+            "strong": "G4893"
+          },
+          " ",
+          {
+            "text": "also",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "bearing witness",
+            "strong": "G4828"
+          },
+          ", ",
+          {
+            "text": "[and] their",
+            "strong": "G240"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "thoughts",
+            "strong": "G3053"
+          },
+          " ",
+          {
+            "text": "either",
+            "strong": "G3342"
+          },
+          " ",
+          {
+            "text": "accusing",
+            "strong": "G2723"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "G2228"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "defending [them]",
+            "strong": "G626"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "on",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "G3753"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "will judge",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "men\u2019s",
+            "strong": "G444"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "secrets",
+            "strong": "G2927"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          ", ",
+          {
+            "text": "as proclaimed by",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "gospel",
+            "strong": "G2098"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "G1487"
+          },
+          " ",
+          {
+            "text": "you call [yourself]",
+            "strong": "G2028"
+          },
+          " ",
+          {
+            "text": "a Jew",
+            "strong": "G2453"
+          },
+          "; ",
+          {
+            "text": "[if you]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "rely on",
+            "strong": "G1879"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "boast",
+            "strong": "G2744"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "[if you]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "[His]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "will",
+            "strong": "G2307"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "approve",
+            "strong": "G1381"
+          },
+          " ",
+          {
+            "text": "of what",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "is superior",
+            "strong": "G1308"
+          },
+          " ",
+          {
+            "text": "because you are instructed",
+            "strong": "G2727"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "[if you]",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "are convinced [that]",
+            "strong": "G3982"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4572"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a guide",
+            "strong": "G3595"
+          },
+          " ",
+          {
+            "text": "for [the] blind",
+            "strong": "G5185"
+          },
+          ", ",
+          {
+            "text": "a light",
+            "strong": "G5457"
+          },
+          " ",
+          {
+            "text": "for those",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "darkness",
+            "strong": "G4655"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "an instructor",
+            "strong": "G3810"
+          },
+          " ",
+          {
+            "text": "of [the] foolish",
+            "strong": "G878"
+          },
+          ", ",
+          {
+            "text": "a teacher",
+            "strong": "G1320"
+          },
+          " ",
+          {
+            "text": "of infants",
+            "strong": "G3516"
+          },
+          ", ",
+          {
+            "text": "[because] you have",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "embodiment",
+            "strong": "G3446"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of knowledge",
+            "strong": "G1108"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "truth",
+            "strong": "G225"
+          },
+          " \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "{you,} then",
+            "strong": "G3767"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "teach",
+            "strong": "G1321"
+          },
+          " ",
+          {
+            "text": "others",
+            "strong": "G2087"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "do you not teach",
+            "strong": "G1321"
+          },
+          " ",
+          {
+            "text": "yourself",
+            "strong": "G4572"
+          },
+          "? ",
+          {
+            "text": "You who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "preach",
+            "strong": "G2784"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "stealing",
+            "strong": "G2813"
+          },
+          ", ",
+          {
+            "text": "do you steal",
+            "strong": "G2813"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "You who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "forbid",
+            "strong": "G3004"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "adultery",
+            "strong": "G3431"
+          },
+          ", ",
+          {
+            "text": "do you commit adultery",
+            "strong": "G3431"
+          },
+          "? ",
+          {
+            "text": "You who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "abhor",
+            "strong": "G948"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "idols",
+            "strong": "G1497"
+          },
+          ", ",
+          {
+            "text": "do you rob temples",
+            "strong": "G2416"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "You who",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "boast",
+            "strong": "G2744"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "do you dishonor",
+            "strong": "G818"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "breaking",
+            "strong": "G3847"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "As",
+            "strong": "G2531"
+          },
+          " ",
+          {
+            "text": "it is written",
+            "strong": "G1125"
+          },
+          ": \u201c",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "G3686"
+          },
+          " ",
+          {
+            "text": "is blasphemed",
+            "strong": "G987"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Gentiles",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "because of",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "Circumcision",
+            "strong": "G4061"
+          },
+          " ",
+          {
+            "text": "has value",
+            "strong": "G5623"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "you observe",
+            "strong": "G4238"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "break",
+            "strong": "G3848"
+          },
+          " ",
+          {
+            "text": "[the] law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "circumcision",
+            "strong": "G4061"
+          },
+          " ",
+          {
+            "text": "has become",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "uncircumcision",
+            "strong": "G203"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "If",
+            "strong": "G1437"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "a man who is not circumcised",
+            "strong": "G203"
+          },
+          " ",
+          {
+            "text": "keeps",
+            "strong": "G5442"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "requirements",
+            "strong": "G1345"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "{will} not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "uncircumcision",
+            "strong": "G203"
+          },
+          " ",
+          {
+            "text": "be regarded",
+            "strong": "G3049"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "circumcision",
+            "strong": "G4061"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "The [one who is]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "physically",
+            "strong": "G5449"
+          },
+          " ",
+          {
+            "text": "uncircumcised",
+            "strong": "G203"
+          },
+          " ",
+          {
+            "text": "[yet] keeps",
+            "strong": "G5055"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          " ",
+          {
+            "text": "will condemn",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          ", ",
+          {
+            "text": "[even though you have]",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "[the] written code",
+            "strong": "G1121"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "circumcision",
+            "strong": "G4061"
+          },
+          ", ",
+          {
+            "text": "[are] a lawbreaker",
+            "strong": "G3848"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3551"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "A [man]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "a Jew",
+            "strong": "G2453"
+          },
+          " ",
+          {
+            "text": "[ because he is one ]",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "outwardly",
+            "strong": "G5318"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "G3761"
+          },
+          " ",
+          {
+            "text": "[is] circumcision",
+            "strong": "G4061"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "[ only ] outward",
+            "strong": "G5318"
+          },
+          " ",
+          {
+            "text": "[and]",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "physical",
+            "strong": "G4561"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "No",
+            "strong": "G235"
+          },
+          ", ",
+          {
+            "text": "a man [is]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "a Jew",
+            "strong": "G2453"
+          },
+          " ",
+          {
+            "text": "[ because he is one ]",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "inwardly",
+            "strong": "G2927"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "circumcision [is a matter]",
+            "strong": "G4061"
+          },
+          " ",
+          {
+            "text": "of the heart",
+            "strong": "G2588"
+          },
+          ", ",
+          {
+            "text": "by",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Spirit",
+            "strong": "G4151"
+          },
+          ", ",
+          {
+            "text": "not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "by the written code",
+            "strong": "G1121"
+          },
+          ". ",
+          {
+            "text": "[Such a man\u2019s]",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "praise",
+            "strong": "G1868"
+          },
+          " ",
+          {
+            "text": "[does] not [come]",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "G444"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

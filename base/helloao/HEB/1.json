@@ -1,0 +1,1381 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "HEB",
+    "name": "Hebrews",
+    "number": 58
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "{On many} past",
+            "strong": "G3819"
+          },
+          " ",
+          {
+            "text": "occasions",
+            "strong": "G4181"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "in many different ways",
+            "strong": "G4187"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "to [our]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fathers",
+            "strong": "G3962"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "prophets",
+            "strong": "G4396"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "But in",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "last",
+            "strong": "G2078"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "G2250"
+          },
+          " ",
+          {
+            "text": "He has spoken",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "to us",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[His] Son",
+            "strong": "G5207"
+          },
+          ", ",
+          {
+            "text": "whom",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "He appointed",
+            "strong": "G5087"
+          },
+          " ",
+          {
+            "text": "heir",
+            "strong": "G2818"
+          },
+          " ",
+          {
+            "text": "of all things",
+            "strong": "G3956"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "He made",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "universe",
+            "strong": "G165"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "[The Son]",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "[the] radiance",
+            "strong": "G541"
+          },
+          " ",
+          {
+            "text": "of [God\u2019s]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "glory",
+            "strong": "G1391"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[the] exact representation",
+            "strong": "G5481"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "nature",
+            "strong": "G5287"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "upholding",
+            "strong": "G5342"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "all things",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "powerful",
+            "strong": "G1411"
+          },
+          " ",
+          {
+            "text": "word",
+            "strong": "G4487"
+          },
+          ". ",
+          {
+            "text": "[After]",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "He had provided",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "purification",
+            "strong": "G2512"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "for sins",
+            "strong": "G266"
+          },
+          ", ",
+          {
+            "text": "He sat down",
+            "strong": "G2523"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] right hand",
+            "strong": "G1188"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Majesty",
+            "strong": "G3172"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "high",
+            "strong": "G5308"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "[So] He became",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "as far",
+            "strong": "G5118"
+          },
+          " ",
+          {
+            "text": "superior",
+            "strong": "G2909"
+          },
+          " ",
+          {
+            "text": "to the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "G3745"
+          },
+          " ",
+          {
+            "text": "[the] name",
+            "strong": "G3686"
+          },
+          " ",
+          {
+            "text": "He has inherited",
+            "strong": "G2816"
+          },
+          " ",
+          {
+            "text": "[is] excellent",
+            "strong": "G1313"
+          },
+          " ",
+          {
+            "text": "beyond",
+            "strong": "G3844"
+          },
+          " ",
+          {
+            "text": "theirs",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "to which",
+            "strong": "G5101"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G4218"
+          },
+          " ",
+          {
+            "text": "did [God] ever say",
+            "strong": "G2036"
+          },
+          ":\u201c",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          "; ",
+          {
+            "text": "today",
+            "strong": "G4594"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "have become Your Father",
+            "strong": "G1080"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          "\u201d? ",
+          {
+            "text": "[Or]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "G3825"
+          },
+          ":\u201c",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Father",
+            "strong": "G3962"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Son",
+            "strong": "G5207"
+          },
+          "\u201d?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "G3825"
+          },
+          ", ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "[God] brings",
+            "strong": "G1521"
+          },
+          " ",
+          {
+            "text": "[His]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "firstborn",
+            "strong": "G4416"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "world",
+            "strong": "G3625"
+          },
+          ", ",
+          {
+            "text": "He says",
+            "strong": "G3004"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          "\u201c",
+          {
+            "text": "{Let} all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "God\u2019s",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "worship",
+            "strong": "G4352"
+          },
+          " ",
+          {
+            "text": "Him",
+            "strong": "G846"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G2532"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "He says",
+            "strong": "G3004"
+          },
+          ":\u201c",
+          {
+            "text": "He",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "makes",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "winds",
+            "strong": "G4151"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "His",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "servants",
+            "strong": "G3011"
+          },
+          " ",
+          {
+            "text": "flames",
+            "strong": "G5395"
+          },
+          " ",
+          {
+            "text": "of fire",
+            "strong": "G4442"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Son [He says]",
+            "strong": "G5207"
+          },
+          ":\u201c",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "throne",
+            "strong": "G2362"
+          },
+          ", ",
+          {
+            "text": "O",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ", ",
+          {
+            "text": "[endures] forever",
+            "strong": "G1519"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G165"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "and ever",
+            "strong": "G165"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G4464"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "justice [is]",
+            "strong": "G2118"
+          },
+          " ",
+          {
+            "text": "the scepter",
+            "strong": "G4464"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "G932"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "You have loved",
+            "strong": "G25"
+          },
+          " ",
+          {
+            "text": "righteousness",
+            "strong": "G1343"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "hated",
+            "strong": "G3404"
+          },
+          " ",
+          {
+            "text": "wickedness",
+            "strong": "G458"
+          },
+          "; ",
+          {
+            "text": "therefore",
+            "strong": "G1223"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ", ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ", ",
+          {
+            "text": "has anointed",
+            "strong": "G5548"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "above",
+            "strong": "G3844"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "companions",
+            "strong": "G3353"
+          },
+          " ",
+          {
+            "text": "with [the] oil",
+            "strong": "G1637"
+          },
+          " ",
+          {
+            "text": "of joy",
+            "strong": "G20"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And",
+            "strong": "G2532"
+          },
+          ":\u201c",
+          {
+            "text": "In",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "[the] beginning",
+            "strong": "G746"
+          },
+          ", ",
+          {
+            "text": "O Lord",
+            "strong": "G2962"
+          },
+          ", ",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "laid the foundations",
+            "strong": "G2311"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "G1093"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "heavens",
+            "strong": "G3772"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "[the] work",
+            "strong": "G2041"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "hands",
+            "strong": "G5495"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "They",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "will perish",
+            "strong": "G622"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "remain",
+            "strong": "G1265"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "they will all wear out",
+            "strong": "G3822"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "a garment",
+            "strong": "G2440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "You will roll them up",
+            "strong": "G1667"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "G5616"
+          },
+          " ",
+          {
+            "text": "a robe",
+            "strong": "G4018"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "a garment",
+            "strong": "G2440"
+          },
+          " ",
+          {
+            "text": "they will be changed",
+            "strong": "G236"
+          },
+          "; ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "remain",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "same",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "G2094"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "will never end",
+            "strong": "G1587"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Yet",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "which",
+            "strong": "G5101"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G4218"
+          },
+          " ",
+          {
+            "text": "did [God] ever say",
+            "strong": "G2046"
+          },
+          ":\u201c",
+          {
+            "text": "Sit",
+            "strong": "G2521"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "My",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "right hand",
+            "strong": "G1188"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          {
+            "text": ". . .",
+            "strong": "G302"
+          },
+          " ",
+          {
+            "text": "I make",
+            "strong": "G5087"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "enemies",
+            "strong": "G2190"
+          },
+          " ",
+          {
+            "text": "a footstool",
+            "strong": "G5286"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "feet",
+            "strong": "G4228"
+          },
+          "\u201d?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3780"
+          },
+          " ",
+          {
+            "text": "[the angels]",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "ministering",
+            "strong": "G3010"
+          },
+          " ",
+          {
+            "text": "spirits",
+            "strong": "G4151"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "G649"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "to serve",
+            "strong": "G1248"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "will",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "inherit",
+            "strong": "G2816"
+          },
+          " ",
+          {
+            "text": "salvation",
+            "strong": "G4991"
+          },
+          "?"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,2657 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 47,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "So Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and told",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ": \u201c",
+          {
+            "text": "My father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and my brothers",
+            "strong": "H251"
+          },
+          ", ",
+          {
+            "text": "with their flocks",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "and herds",
+            "strong": "H1241"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "they own",
+            "strong": "H834"
+          },
+          ", ",
+          {
+            "text": "have come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "from the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "and are now",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "in Goshen",
+            "strong": "H1657"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H7097"
+          },
+          " ",
+          {
+            "text": "And he chose",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "five",
+            "strong": "H2568"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "his brothers",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "and presented them",
+            "strong": "H3322"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "\u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "is your occupation",
+            "strong": "H4639"
+          },
+          "?\u201d ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "[Joseph\u2019s] brothers",
+            "strong": "H251"
+          },
+          ".\u201c",
+          {
+            "text": "Your servants",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "are shepherds",
+            "strong": "H7462"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6629"
+          },
+          ",\u201d ",
+          {
+            "text": "they replied",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6547"
+          },
+          ", \u201c",
+          {
+            "text": "both",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "we",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "our fathers",
+            "strong": "H1"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Then they said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          ", \u201c",
+          {
+            "text": "We have come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to live in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "for a time",
+            "strong": "H1481"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "pasture",
+            "strong": "H4829"
+          },
+          " ",
+          {
+            "text": "for the flocks",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "of your servants",
+            "strong": "H5650"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "since",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "has been severe",
+            "strong": "H3515"
+          },
+          ". ",
+          {
+            "text": "So now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "allow your servants",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "to settle",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Goshen",
+            "strong": "H1657"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "Now that your father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and brothers",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "have come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "is before you",
+            "strong": "H6440"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "settle",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and brothers",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "in the best",
+            "strong": "H4315"
+          },
+          " ",
+          {
+            "text": "part of the land",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "They may dwell",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Goshen",
+            "strong": "H1657"
+          },
+          ". ",
+          {
+            "text": "And if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "you know of",
+            "strong": "H3045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "any talented",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "men among them",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "put them",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "in charge of",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "my own livestock",
+            "strong": "H4735"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Then Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "brought in",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "and presented him",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          ", ",
+          {
+            "text": "and Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u201c",
+          {
+            "text": "How many",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "have you lived",
+            "strong": "H2416"
+          },
+          "?\u201d ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3290"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "\u201c",
+          {
+            "text": "My travels",
+            "strong": "H4033"
+          },
+          " ",
+          {
+            "text": "[have lasted] 130",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          ",\u201d ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6547"
+          },
+          ". \u201c",
+          {
+            "text": "My years",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "have been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "few",
+            "strong": "H4592"
+          },
+          " ",
+          {
+            "text": "and hard",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and they have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "matched",
+            "strong": "H5381"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the years",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the travels",
+            "strong": "H4033"
+          },
+          " ",
+          {
+            "text": "of my fathers",
+            "strong": "H1"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Then Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "and departed",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from [his]",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "presence",
+            "strong": "H6440"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "So Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "settled",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and brothers",
+            "strong": "H251"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " and gave them ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "in the best",
+            "strong": "H4315"
+          },
+          " ",
+          {
+            "text": "part of the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "the district",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Rameses",
+            "strong": "H7486"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "had commanded",
+            "strong": "H6680"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Joseph also",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "provided",
+            "strong": "H3557"
+          },
+          " ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "household",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "with food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "[their] families",
+            "strong": "H2945"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "There was no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "food, however",
+            "strong": "H3899"
+          },
+          ", ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that region",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "was so",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "severe",
+            "strong": "H3515"
+          },
+          "; ",
+          {
+            "text": "the lands",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "had been exhausted",
+            "strong": "H3856"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the famine",
+            "strong": "H7458"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "collected",
+            "strong": "H3950"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to be found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "and the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "in exchange for the grain",
+            "strong": "H7668"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "were buying",
+            "strong": "H7666"
+          },
+          ", ",
+          {
+            "text": "and he",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "brought",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "into Pharaoh\u2019s",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "palace",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "When the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "from the lands",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "was gone",
+            "strong": "H8552"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the Egyptians",
+            "strong": "H4713"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Give",
+            "strong": "H3051"
+          },
+          " us ",
+          {
+            "text": "food",
+            "strong": "H3899"
+          },
+          ". ",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should we die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "before your eyes",
+            "strong": "H5048"
+          },
+          "? ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "our funds",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "have run out",
+            "strong": "H656"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u201c",
+          {
+            "text": "Then bring me",
+            "strong": "H3051"
+          },
+          " ",
+          {
+            "text": "your livestock",
+            "strong": "H4735"
+          },
+          ",\u201d ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          ". \u201c",
+          {
+            "text": "Since",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "is gone",
+            "strong": "H656"
+          },
+          ", ",
+          {
+            "text": "I will sell",
+            "strong": "H5414"
+          },
+          " you food ",
+          {
+            "text": "in exchange for your livestock",
+            "strong": "H4735"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "So they brought",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their livestock",
+            "strong": "H4735"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          ", ",
+          {
+            "text": "and he",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "gave",
+            "strong": "H5414"
+          },
+          " them ",
+          {
+            "text": "food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "in exchange for their horses",
+            "strong": "H5483"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H4735"
+          },
+          " ",
+          {
+            "text": "their flocks",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4735"
+          },
+          " ",
+          {
+            "text": "and herds",
+            "strong": "H1241"
+          },
+          ", ",
+          {
+            "text": "and their donkeys",
+            "strong": "H2543"
+          },
+          ". ",
+          {
+            "text": "Throughout that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "he provided them",
+            "strong": "H5095"
+          },
+          " ",
+          {
+            "text": "with food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "in exchange for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "their livestock",
+            "strong": "H4735"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "When that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "was over",
+            "strong": "H8552"
+          },
+          ", ",
+          {
+            "text": "they came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the second",
+            "strong": "H8145"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "We cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hide",
+            "strong": "H3582"
+          },
+          " ",
+          {
+            "text": "from our lord",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "our money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "is gone",
+            "strong": "H8552"
+          },
+          " ",
+          {
+            "text": "and all our livestock",
+            "strong": "H4735"
+          },
+          {
+            "text": ". . .",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "belongs to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "[you]",
+            "strong": "H113"
+          },
+          ". ",
+          {
+            "text": "There is nothing",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "our lord",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "except",
+            "strong": "H1115"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "our bodies",
+            "strong": "H1472"
+          },
+          " ",
+          {
+            "text": "and our land",
+            "strong": "H127"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should we perish",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "before your eyes",
+            "strong": "H5869"
+          },
+          "\u2014 ",
+          {
+            "text": "we",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "our land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "as well",
+            "strong": "H1571"
+          },
+          "? ",
+          {
+            "text": "Purchase",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "our land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "in exchange for food",
+            "strong": "H3899"
+          },
+          ". ",
+          {
+            "text": "Then we",
+            "strong": "H587"
+          },
+          ", ",
+          {
+            "text": "along with our land",
+            "strong": "H127"
+          },
+          ", ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "slaves",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "to Pharaoh",
+            "strong": "H6547"
+          },
+          ". ",
+          {
+            "text": "Give us",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "that we may live",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "and that the land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "may not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "become desolate",
+            "strong": "H3456"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "So Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "acquired",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "for Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "in Egypt",
+            "strong": "H4714"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the Egyptians",
+            "strong": "H4713"
+          },
+          ", ",
+          {
+            "text": "one and all",
+            "strong": "H376"
+          },
+          ", ",
+          {
+            "text": "sold",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "their fields",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "was so severe",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "upon them",
+            "strong": "H5921"
+          },
+          ". ",
+          {
+            "text": "The land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "became Pharaoh\u2019s",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6547"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Joseph reduced",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "to servitude",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "from one end",
+            "strong": "H7097"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the other",
+            "strong": "H7097"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "However",
+            "strong": "H7535"
+          },
+          ", ",
+          {
+            "text": "he did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "acquire",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "the priests\u2019 portion",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H127"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it had been given to them by Pharaoh",
+            "strong": "H6547"
+          },
+          ". ",
+          {
+            "text": "They ate",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the rations that",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2706"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3548"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "supplied",
+            "strong": "H5414"
+          },
+          "; ",
+          {
+            "text": "so",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "they did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sell",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their land",
+            "strong": "H127"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Then Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          ", \u201c",
+          {
+            "text": "Now that",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "I have acquired",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you and your land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "for Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "this day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "here",
+            "strong": "H1887"
+          },
+          " ",
+          {
+            "text": "is seed",
+            "strong": "H2233"
+          },
+          " for you ",
+          {
+            "text": "to sow",
+            "strong": "H2232"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H127"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "At harvest time",
+            "strong": "H8393"
+          },
+          ", ",
+          {
+            "text": "you are to give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "a fifth",
+            "strong": "H2549"
+          },
+          " ",
+          {
+            "text": "of it to Pharaoh",
+            "strong": "H6547"
+          },
+          ", ",
+          {
+            "text": "and four-fifths",
+            "strong": "H702"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " yours ",
+          {
+            "text": "as seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "for the field",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "and food for yourselves",
+            "strong": "H400"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and your households",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "and children",
+            "strong": "H2945"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "\u201c",
+          {
+            "text": "You have saved our lives",
+            "strong": "H2421"
+          },
+          ",\u201d ",
+          {
+            "text": "they said",
+            "strong": "H559"
+          },
+          ". \u201c",
+          {
+            "text": "We have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H2580"
+          },
+          " ",
+          {
+            "text": "in our lord\u2019s",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "and we will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Pharaoh\u2019s",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "servants",
+            "strong": "H5650"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "So Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "established",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "a law",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "that a fifth",
+            "strong": "H2569"
+          },
+          " ",
+          {
+            "text": "of the produce belongs to Pharaoh",
+            "strong": "H6547"
+          },
+          ", ",
+          {
+            "text": "and it is in effect",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "to this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ". ",
+          {
+            "text": "Only",
+            "strong": "H7535"
+          },
+          " ",
+          {
+            "text": "the priests\u2019",
+            "strong": "H3548"
+          },
+          {
+            "text": ". . .",
+            "strong": "H905"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "belong to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Now the Israelites",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "settled",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          ", ",
+          {
+            "text": "in the region",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Goshen",
+            "strong": "H1657"
+          },
+          ". ",
+          {
+            "text": "They acquired property",
+            "strong": "H270"
+          },
+          " there ",
+          {
+            "text": "and became fruitful",
+            "strong": "H6509"
+          },
+          " ",
+          {
+            "text": "and increased greatly",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "in number",
+            "strong": "H7235"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "And Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "lived",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "seventeen",
+            "strong": "H6240"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          ", ",
+          {
+            "text": "and the length of his life",
+            "strong": "H8141"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "147",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7651"
+          },
+          {
+            "text": ". . .",
+            "strong": "H705"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "When the time",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "drew near",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "for Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "to die",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "he called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "his son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          " to him, \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "I have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H2580"
+          },
+          " ",
+          {
+            "text": "in your eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "put",
+            "strong": "H7760"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "your hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "my thigh",
+            "strong": "H3409"
+          },
+          " ",
+          {
+            "text": "and promise to show",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H5978"
+          },
+          " ",
+          {
+            "text": "kindness",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "and faithfulness",
+            "strong": "H571"
+          },
+          ". ",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "bury me",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "in Egypt",
+            "strong": "H4714"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "but when I lie down",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "my fathers",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "carry me",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "out of Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "and bury me",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H6900"
+          },
+          ".\u201d ",
+          {
+            "text": "Joseph answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "will do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as you have requested",
+            "strong": "H1697"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "\u201c",
+          {
+            "text": "Swear",
+            "strong": "H7650"
+          },
+          " to me,\u201d ",
+          {
+            "text": "Jacob said",
+            "strong": "H559"
+          },
+          ". ",
+          {
+            "text": "So Joseph swore",
+            "strong": "H7650"
+          },
+          " to him, ",
+          {
+            "text": "and Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "bowed [in worship]",
+            "strong": "H7812"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of his bed",
+            "strong": "H4296"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

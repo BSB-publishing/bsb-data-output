@@ -1,0 +1,472 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 137,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "By",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the rivers",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "we sat",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "wept",
+            "strong": "H1058"
+          },
+          " ",
+          {
+            "text": "when we remembered",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "There on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the willows",
+            "strong": "H6155"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "we hung",
+            "strong": "H8518"
+          },
+          " ",
+          {
+            "text": "our harps",
+            "strong": "H3658"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "our captors",
+            "strong": "H7617"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "requested",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "a song",
+            "strong": "H7892"
+          },
+          "; ",
+          {
+            "text": "our tormentors demanded",
+            "strong": "H8437"
+          },
+          " ",
+          {
+            "text": "songs of joy",
+            "strong": "H8057"
+          },
+          ":\u201c",
+          {
+            "text": "Sing",
+            "strong": "H7891"
+          },
+          " us ",
+          {
+            "text": "a song",
+            "strong": "H7892"
+          },
+          " ",
+          {
+            "text": "of Zion",
+            "strong": "H6726"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "How",
+            "strong": "H349"
+          },
+          " ",
+          {
+            "text": "can we sing",
+            "strong": "H7891"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "a song",
+            "strong": "H7892"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a foreign",
+            "strong": "H5236"
+          },
+          " ",
+          {
+            "text": "land",
+            "strong": "H127"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I forget you",
+            "strong": "H7911"
+          },
+          ", ",
+          {
+            "text": "O Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "may my right hand",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "cease to function",
+            "strong": "H7911"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "May my tongue",
+            "strong": "H3956"
+          },
+          " ",
+          {
+            "text": "cling",
+            "strong": "H1692"
+          },
+          " ",
+          {
+            "text": "to the roof of my mouth",
+            "strong": "H2441"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "remember you",
+            "strong": "H2142"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "exalt",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my greatest",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "joy",
+            "strong": "H8057"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Remember",
+            "strong": "H2142"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "Jerusalem [fell]",
+            "strong": "H3389"
+          },
+          ":\u201c",
+          {
+            "text": "Destroy it",
+            "strong": "H6168"
+          },
+          ",\u201d ",
+          {
+            "text": "they said",
+            "strong": "H559"
+          },
+          ",\u201c",
+          {
+            "text": "tear it down",
+            "strong": "H6168"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "its foundations",
+            "strong": "H3247"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "O Daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          ", ",
+          {
+            "text": "doomed to destruction",
+            "strong": "H7703"
+          },
+          ", ",
+          {
+            "text": "blessed",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "is he who repays",
+            "strong": "H7999"
+          },
+          " you ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H1576"
+          },
+          " ",
+          {
+            "text": "you have done",
+            "strong": "H1580"
+          },
+          " to us."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Blessed is",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "he who seizes",
+            "strong": "H270"
+          },
+          " ",
+          {
+            "text": "your infants",
+            "strong": "H5768"
+          },
+          " ",
+          {
+            "text": "and dashes",
+            "strong": "H5310"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the rocks",
+            "strong": "H5553"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

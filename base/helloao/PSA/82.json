@@ -1,0 +1,319 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 82,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "How long",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4970"
+          },
+          " ",
+          {
+            "text": "will you judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "unjustly",
+            "strong": "H5766"
+          },
+          " ",
+          {
+            "text": "and show partiality",
+            "strong": "H6440"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "to the wicked",
+            "strong": "H7563"
+          },
+          "? ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Defend the cause",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "of the weak",
+            "strong": "H1800"
+          },
+          " ",
+          {
+            "text": "and fatherless",
+            "strong": "H3490"
+          },
+          "; ",
+          {
+            "text": "uphold the rights",
+            "strong": "H6663"
+          },
+          " ",
+          {
+            "text": "of the afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "and oppressed",
+            "strong": "H7326"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Rescue",
+            "strong": "H6403"
+          },
+          " ",
+          {
+            "text": "the weak",
+            "strong": "H1800"
+          },
+          " ",
+          {
+            "text": "and needy",
+            "strong": "H34"
+          },
+          "; ",
+          {
+            "text": "save them",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "They do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "or understand",
+            "strong": "H995"
+          },
+          "; ",
+          {
+            "text": "they wander",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the darkness",
+            "strong": "H2825"
+          },
+          "; ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the foundations",
+            "strong": "H4144"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "are shaken",
+            "strong": "H4131"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "have said",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are gods",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "you are all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Most High",
+            "strong": "H5945"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H403"
+          },
+          " ",
+          {
+            "text": "like mortals",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "you will die",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "and like",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "rulers",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "you will fall",
+            "strong": "H5307"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Arise",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "are Your",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "inheritance",
+            "strong": "H5157"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

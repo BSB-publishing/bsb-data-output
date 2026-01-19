@@ -1,0 +1,2693 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2KI",
+    "name": "2 Kings",
+    "number": 12
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "had said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "he had restored to life",
+            "strong": "H2421"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " \u201c",
+          {
+            "text": "Arise",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "and your household",
+            "strong": "H1004"
+          },
+          "; ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and live as a foreigner",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "wherever",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you can",
+            "strong": "H1481"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has decreed that",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "a seven-year",
+            "strong": "H7651"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "famine",
+            "strong": "H7458"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So the woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "had proceeded",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "to do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "had instructed",
+            "strong": "H1697"
+          },
+          ". ",
+          {
+            "text": "And she",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "and her household",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "lived as foreigners",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "for seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "At the end",
+            "strong": "H7097"
+          },
+          " ",
+          {
+            "text": "of seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          ", ",
+          {
+            "text": "when the woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "from the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          ", ",
+          {
+            "text": "she went",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "to appeal",
+            "strong": "H6817"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "her house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "her land",
+            "strong": "H7704"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Now the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "had been speaking",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Gehazi",
+            "strong": "H1522"
+          },
+          ", ",
+          {
+            "text": "the servant",
+            "strong": "H5288"
+          },
+          " ",
+          {
+            "text": "of the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "relate",
+            "strong": "H5608"
+          },
+          " to me ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the great things",
+            "strong": "H1419"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "has done",
+            "strong": "H6213"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Gehazi",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was telling",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "how",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Elisha had brought the dead",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "back to life",
+            "strong": "H2421"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Just then",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "the woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "[Elisha] had revived",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "came to appeal",
+            "strong": "H6817"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "her land",
+            "strong": "H7704"
+          },
+          ". ",
+          {
+            "text": "So Gehazi",
+            "strong": "H1522"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "My lord",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the woman",
+            "strong": "H802"
+          },
+          ", ",
+          {
+            "text": "and this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "is the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "restored to life",
+            "strong": "H2421"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "When the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "the woman",
+            "strong": "H802"
+          },
+          ", ",
+          {
+            "text": "she confirmed it",
+            "strong": "H5608"
+          },
+          " -. ",
+          {
+            "text": "So the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "appointed",
+            "strong": "H5414"
+          },
+          " for her ",
+          {
+            "text": "an",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "officer",
+            "strong": "H5631"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Restore",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that [was]",
+            "strong": "H834"
+          },
+          " hers, ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "along with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the proceeds",
+            "strong": "H8393"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "from the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "that she left",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the country",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "H6258"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Then Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Damascus",
+            "strong": "H1834"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "while Ben-hadad",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "was sick",
+            "strong": "H2470"
+          },
+          ", ",
+          {
+            "text": "and the king was told",
+            "strong": "H5046"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "The man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "has come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H2008"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "So the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Hazael",
+            "strong": "H2371"
+          },
+          ", \u201c",
+          {
+            "text": "Take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a gift",
+            "strong": "H4503"
+          },
+          " ",
+          {
+            "text": "in your hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to meet",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and inquire",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "through him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Will I recover",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "from this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "illness",
+            "strong": "H2483"
+          },
+          "?\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "So Hazael",
+            "strong": "H2371"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to meet Elisha",
+            "strong": "H7122"
+          },
+          ", ",
+          {
+            "text": "taking",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "a gift",
+            "strong": "H4503"
+          },
+          " ",
+          {
+            "text": "of forty",
+            "strong": "H705"
+          },
+          " ",
+          {
+            "text": "camel loads",
+            "strong": "H4853"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1581"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "good thing",
+            "strong": "H2898"
+          },
+          " ",
+          {
+            "text": "from Damascus",
+            "strong": "H1834"
+          },
+          ". ",
+          {
+            "text": "And he went in",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before him",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Your son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "Ben-hadad",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "has sent me",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "to ask",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Will I recover",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "from this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "illness",
+            "strong": "H2483"
+          },
+          "?\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and tell him",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " \u2018",
+          {
+            "text": "You will surely recover",
+            "strong": "H2421"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2421"
+          },
+          ".\u2019 ",
+          {
+            "text": "But the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has shown me",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "in fact he will die",
+            "strong": "H4191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4191"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "[Elisha] fixed",
+            "strong": "H5975"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his gaze",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "steadily",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "[on him] until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "Hazael became uncomfortable",
+            "strong": "H954"
+          },
+          ". ",
+          {
+            "text": "Then the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "began to weep",
+            "strong": "H1058"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "Why",
+            "strong": "H4069"
+          },
+          " ",
+          {
+            "text": "is my lord",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "weeping",
+            "strong": "H1058"
+          },
+          "?\u201d ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Hazael",
+            "strong": "H2371"
+          },
+          ".\u201c",
+          {
+            "text": "Because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "you will do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "to the Israelites",
+            "strong": "H3478"
+          },
+          ",\u201d ",
+          {
+            "text": "[Elisha] replied",
+            "strong": "H559"
+          },
+          ". \u201c",
+          {
+            "text": "You will set",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "to their fortresses",
+            "strong": "H4013"
+          },
+          ", ",
+          {
+            "text": "kill",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "their young men",
+            "strong": "H970"
+          },
+          " ",
+          {
+            "text": "with the sword",
+            "strong": "H2719"
+          },
+          ", ",
+          {
+            "text": "dash their little ones",
+            "strong": "H5768"
+          },
+          " ",
+          {
+            "text": "to pieces",
+            "strong": "H7376"
+          },
+          ", ",
+          {
+            "text": "and rip open",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "their pregnant women",
+            "strong": "H2030"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "\u201c",
+          {
+            "text": "But",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "how {could}",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "your servant",
+            "strong": "H5650"
+          },
+          ", ",
+          {
+            "text": "a mere dog",
+            "strong": "H3611"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "such",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "a monstrous",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "thing",
+            "strong": "H1697"
+          },
+          "?\u201d ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Hazael",
+            "strong": "H2371"
+          },
+          ". ",
+          {
+            "text": "And Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has shown me",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that you [will be]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Aram",
+            "strong": "H758"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "So Hazael left",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his master",
+            "strong": "H113"
+          },
+          ", ",
+          {
+            "text": "who asked",
+            "strong": "H559"
+          },
+          " him, \u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "did Elisha",
+            "strong": "H477"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H559"
+          },
+          " to you?\u201d ",
+          {
+            "text": "And he replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "He told me",
+            "strong": "H559"
+          },
+          " [that] ",
+          {
+            "text": "you would surely recover",
+            "strong": "H2421"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2421"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the next day",
+            "strong": "H4283"
+          },
+          " ",
+          {
+            "text": "Hazael took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a thick cloth",
+            "strong": "H4346"
+          },
+          ", ",
+          {
+            "text": "dipped",
+            "strong": "H2881"
+          },
+          " ",
+          {
+            "text": "it in water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "and spread",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "it over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the king\u2019s face",
+            "strong": "H6440"
+          },
+          ". ",
+          {
+            "text": "So Ben-hadad died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "and Hazael",
+            "strong": "H2371"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "In the fifth",
+            "strong": "H2568"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the reign",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Joram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "over Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "Jehoram",
+            "strong": "H3088"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoshaphat",
+            "strong": "H3092"
+          },
+          " ",
+          {
+            "text": "succeeded his father",
+            "strong": "H4427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3092"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "as king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "[Jehoram] was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "thirty-two",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "years old",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "when he became king",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "and he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "eight",
+            "strong": "H8083"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "And [Jehoram] walked",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "just as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "had done",
+            "strong": "H6213"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he married",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "a daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "and did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "in the sight",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Yet for the sake",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "of His servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "was unwilling",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H14"
+          },
+          " ",
+          {
+            "text": "to destroy",
+            "strong": "H7843"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "since",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He had promised",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to maintain",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "a lamp",
+            "strong": "H5216"
+          },
+          " for David ",
+          {
+            "text": "[and] his descendants",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "In the days [of Jehoram]",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "rebelled",
+            "strong": "H6586"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and appointed",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "their own",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "So Jehoram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "crossed over",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "to Zair",
+            "strong": "H6811"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his chariots",
+            "strong": "H7393"
+          },
+          ". ",
+          {
+            "text": "When the Edomites",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "surrounded",
+            "strong": "H5437"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his chariot",
+            "strong": "H7393"
+          },
+          " ",
+          {
+            "text": "commanders",
+            "strong": "H8269"
+          },
+          ", ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "rose up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and attacked",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "by night",
+            "strong": "H3915"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "His troops, however",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "fled",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "to their homes",
+            "strong": "H168"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "So to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "has been in rebellion",
+            "strong": "H6586"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the hand of",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          ". ",
+          {
+            "text": "Likewise",
+            "strong": "H227"
+          },
+          ", ",
+          {
+            "text": "Libnah",
+            "strong": "H3841"
+          },
+          " ",
+          {
+            "text": "rebelled",
+            "strong": "H6586"
+          },
+          " ",
+          {
+            "text": "at the same",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "As for the rest",
+            "strong": "H3499"
+          },
+          " ",
+          {
+            "text": "of the acts",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of Jehoram",
+            "strong": "H3141"
+          },
+          ", ",
+          {
+            "text": "along with all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his accomplishments",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "are they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the Chronicles",
+            "strong": "H1697"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of the Kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "And Jehoram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "rested",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "his fathers",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and was buried",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "[them]",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "in the City",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ". ",
+          {
+            "text": "And his son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Ahaziah",
+            "strong": "H274"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "In the twelfth",
+            "strong": "H8147"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the reign",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Joram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "over Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "Ahaziah",
+            "strong": "H274"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoram",
+            "strong": "H3088"
+          },
+          " ",
+          {
+            "text": "became king",
+            "strong": "H4427"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Ahaziah",
+            "strong": "H274"
+          },
+          " ",
+          {
+            "text": "[was] twenty-two",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "years old",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "when he became king",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "and he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          ". ",
+          {
+            "text": "His mother\u2019s",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "was Athaliah",
+            "strong": "H6271"
+          },
+          ", ",
+          {
+            "text": "the granddaughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Omri",
+            "strong": "H6018"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "And [Ahaziah] walked",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "and did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "in the sight",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "like the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was a son-in-law",
+            "strong": "H2860"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Then Ahaziah went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          " ",
+          {
+            "text": "to fight",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Hazael",
+            "strong": "H2371"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "at Ramoth-gilead",
+            "strong": "H7418"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1568"
+          },
+          ", ",
+          {
+            "text": "and the Arameans",
+            "strong": "H761"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "wounded",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "H3141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "So King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to Jezreel",
+            "strong": "H3157"
+          },
+          " ",
+          {
+            "text": "to recover",
+            "strong": "H7495"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the wounds",
+            "strong": "H4347"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the Arameans",
+            "strong": "H761"
+          },
+          " ",
+          {
+            "text": "had inflicted on him",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "at Ramah",
+            "strong": "H7414"
+          },
+          " ",
+          {
+            "text": "when he fought",
+            "strong": "H3898"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Hazael",
+            "strong": "H2371"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          ". ",
+          {
+            "text": "Then Ahaziah",
+            "strong": "H274"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jehoram",
+            "strong": "H3088"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "went down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to Jezreel",
+            "strong": "H3157"
+          },
+          " ",
+          {
+            "text": "to visit",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Joram",
+            "strong": "H3141"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahab",
+            "strong": "H256"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[Joram]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "had been wounded",
+            "strong": "H2470"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

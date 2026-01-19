@@ -1,0 +1,116 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 117,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Praise",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "all you",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          "! ",
+          {
+            "text": "Extol Him",
+            "strong": "H7623"
+          },
+          ", ",
+          {
+            "text": "all you",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "peoples",
+            "strong": "H523"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "great is",
+            "strong": "H1396"
+          },
+          " ",
+          {
+            "text": "His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "toward us",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "and the faithfulness",
+            "strong": "H571"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "endures forever",
+            "strong": "H5769"
+          },
+          ". ",
+          {
+            "text": "Hallelujah",
+            "strong": "H1984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3050"
+          },
+          "!"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

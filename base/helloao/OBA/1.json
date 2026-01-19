@@ -1,0 +1,1563 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "OBA",
+    "name": "Obadiah",
+    "number": 31
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[This is] the vision",
+            "strong": "H2377"
+          },
+          " ",
+          {
+            "text": "of Obadiah",
+            "strong": "H5662"
+          },
+          ": ",
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "about Edom",
+            "strong": "H123"
+          },
+          " \u2014 ",
+          {
+            "text": "We have heard",
+            "strong": "H8085"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "a message",
+            "strong": "H8052"
+          },
+          " ",
+          {
+            "text": "from the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "an envoy",
+            "strong": "H6735"
+          },
+          " ",
+          {
+            "text": "has been sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "among the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "[to say,] \u201cRise up",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "and let us go",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "to battle",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "against her",
+            "strong": "H5921"
+          },
+          "!\u201d\u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I will make you",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "small",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "among the nations",
+            "strong": "H1471"
+          },
+          "; ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will be deeply",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "despised",
+            "strong": "H959"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "The pride",
+            "strong": "H2087"
+          },
+          " ",
+          {
+            "text": "of your heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "has deceived you",
+            "strong": "H5377"
+          },
+          ", ",
+          {
+            "text": "O dwellers",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "in the clefts",
+            "strong": "H2288"
+          },
+          " ",
+          {
+            "text": "of the rocks",
+            "strong": "H5553"
+          },
+          " ",
+          {
+            "text": "whose habitation is",
+            "strong": "H7675"
+          },
+          " ",
+          {
+            "text": "the heights",
+            "strong": "H4791"
+          },
+          ", ",
+          {
+            "text": "who say",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "in your heart",
+            "strong": "H3820"
+          },
+          ",\u2018",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can bring me down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to the ground",
+            "strong": "H776"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Though",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "you soar",
+            "strong": "H1361"
+          },
+          " ",
+          {
+            "text": "like the eagle",
+            "strong": "H5404"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "and make",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "your nest",
+            "strong": "H7064"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "the stars",
+            "strong": "H3556"
+          },
+          ", ",
+          {
+            "text": "even from there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "I will bring you down",
+            "strong": "H3381"
+          },
+          ",\u201d ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "\u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "thieves",
+            "strong": "H1590"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " to you, ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "robbers",
+            "strong": "H7703"
+          },
+          " ",
+          {
+            "text": "by night",
+            "strong": "H3915"
+          },
+          " \u2014 ",
+          {
+            "text": "oh, how",
+            "strong": "H349"
+          },
+          " ",
+          {
+            "text": "you will be ruined",
+            "strong": "H1820"
+          },
+          " \u2014 ",
+          {
+            "text": "would they not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "steal",
+            "strong": "H1589"
+          },
+          " ",
+          {
+            "text": "[only] what they wanted",
+            "strong": "H1767"
+          },
+          "? ",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "grape gatherers",
+            "strong": "H1219"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " to you, ",
+          {
+            "text": "would they not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "leave",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "[some] gleanings",
+            "strong": "H5955"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "But how",
+            "strong": "H349"
+          },
+          " ",
+          {
+            "text": "Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "will be pillaged",
+            "strong": "H2664"
+          },
+          ", ",
+          {
+            "text": "his hidden treasures",
+            "strong": "H4710"
+          },
+          " ",
+          {
+            "text": "sought out",
+            "strong": "H1158"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "allied with you",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "will drive",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "you to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the border",
+            "strong": "H1366"
+          },
+          "; ",
+          {
+            "text": "the men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "at peace with you",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "will deceive",
+            "strong": "H5377"
+          },
+          " ",
+          {
+            "text": "and overpower",
+            "strong": "H3201"
+          },
+          " you. ",
+          {
+            "text": "[Those who eat] your bread",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "will set",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "a trap",
+            "strong": "H4204"
+          },
+          " ",
+          {
+            "text": "for you",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "without your",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "awareness",
+            "strong": "H8394"
+          },
+          " of it."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "In that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "will I not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "destroy",
+            "strong": "H6"
+          },
+          " ",
+          {
+            "text": "the wise [men]",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "and the men of understanding",
+            "strong": "H8394"
+          },
+          " ",
+          {
+            "text": "in the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then your mighty men",
+            "strong": "H1368"
+          },
+          ", ",
+          {
+            "text": "O Teman",
+            "strong": "H8487"
+          },
+          ", ",
+          {
+            "text": "will be terrified",
+            "strong": "H2865"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "everyone",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "in the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "will be cut down",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "in the slaughter",
+            "strong": "H6993"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Because of the violence",
+            "strong": "H2555"
+          },
+          " ",
+          {
+            "text": "against your brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "you will be covered",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "with shame",
+            "strong": "H955"
+          },
+          " ",
+          {
+            "text": "and cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "On the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "you stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "aloof",
+            "strong": "H5048"
+          },
+          " ",
+          {
+            "text": "while",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "strangers",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "carried off",
+            "strong": "H7617"
+          },
+          " ",
+          {
+            "text": "his wealth",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "and foreigners",
+            "strong": "H5237"
+          },
+          " ",
+          {
+            "text": "entered",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "his gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "and cast",
+            "strong": "H3032"
+          },
+          " ",
+          {
+            "text": "lots",
+            "strong": "H1486"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "were just like one",
+            "strong": "H259"
+          },
+          " of them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "But you should not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "gloat",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "in that day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "your brother\u2019s",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of misfortune",
+            "strong": "H5235"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "rejoice",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "over the people",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their destruction",
+            "strong": "H6"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "boast proudly",
+            "strong": "H1431"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their distress",
+            "strong": "H6869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "You should not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "enter",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "the gate",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "of My people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their disaster",
+            "strong": "H343"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "gloat",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "their affliction",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their disaster",
+            "strong": "H343"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "loot",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "their wealth",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their disaster",
+            "strong": "H343"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Nor should you",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the crossroads",
+            "strong": "H6563"
+          },
+          " ",
+          {
+            "text": "to cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their fugitives",
+            "strong": "H6412"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "deliver up",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "their survivors",
+            "strong": "H8300"
+          },
+          " ",
+          {
+            "text": "in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of their distress",
+            "strong": "H6869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the Day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is near",
+            "strong": "H7138"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          ". ",
+          {
+            "text": "As",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you have done",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "it will be done",
+            "strong": "H6213"
+          },
+          " to you; ",
+          {
+            "text": "your recompense",
+            "strong": "H1576"
+          },
+          " ",
+          {
+            "text": "will return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "upon your own head",
+            "strong": "H7218"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you drank",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "My holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "so all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "will drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "continually",
+            "strong": "H8548"
+          },
+          ". ",
+          {
+            "text": "They will drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "and gulp [it] down",
+            "strong": "H3886"
+          },
+          "; ",
+          {
+            "text": "they will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "as if they had never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "existed",
+            "strong": "H1961"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But on Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "there will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "deliverance",
+            "strong": "H6413"
+          },
+          ", ",
+          {
+            "text": "and it will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "holy",
+            "strong": "H6944"
+          },
+          ", ",
+          {
+            "text": "and the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "will reclaim",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "their possession",
+            "strong": "H4180"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Then the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a blazing fire",
+            "strong": "H784"
+          },
+          ", ",
+          {
+            "text": "and the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "a burning flame",
+            "strong": "H3852"
+          },
+          "; ",
+          {
+            "text": "but the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "will be stubble",
+            "strong": "H7179"
+          },
+          " \u2014 ",
+          {
+            "text": "Jacob will set it ablaze",
+            "strong": "H1814"
+          },
+          " ",
+          {
+            "text": "and consume it",
+            "strong": "H398"
+          },
+          ". ",
+          {
+            "text": "Therefore no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "survivor",
+            "strong": "H8300"
+          },
+          " ",
+          {
+            "text": "will remain",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ".\u201d ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has spoken",
+            "strong": "H1696"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Those from the Negev",
+            "strong": "H5045"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "will possess",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          "; ",
+          {
+            "text": "those from the foothills",
+            "strong": "H8219"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[will possess the land] of the Philistines",
+            "strong": "H6430"
+          },
+          ". ",
+          {
+            "text": "They will occupy",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the fields",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "and Samaria",
+            "strong": "H8111"
+          },
+          ", ",
+          {
+            "text": "and Benjamin [will possess]",
+            "strong": "H1144"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Gilead",
+            "strong": "H1568"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And the exiles",
+            "strong": "H1546"
+          },
+          " ",
+          {
+            "text": "of this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "host",
+            "strong": "H2426"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Israelites",
+            "strong": "H3478"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "[will possess the land] of the Canaanites",
+            "strong": "H3669"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "far as Zarephath",
+            "strong": "H6886"
+          },
+          "; ",
+          {
+            "text": "and the exiles",
+            "strong": "H1546"
+          },
+          " ",
+          {
+            "text": "from Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "are in Sepharad",
+            "strong": "H5614"
+          },
+          " ",
+          {
+            "text": "will possess",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of the Negev",
+            "strong": "H5045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "The deliverers",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "will ascend",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "to rule over",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ". ",
+          {
+            "text": "And the kingdom",
+            "strong": "H4410"
+          },
+          " ",
+          {
+            "text": "will belong to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

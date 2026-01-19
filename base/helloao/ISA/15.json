@@ -1,0 +1,682 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[This is] the burden",
+            "strong": "H4853"
+          },
+          " ",
+          {
+            "text": "against Moab",
+            "strong": "H4124"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Ar",
+            "strong": "H6144"
+          },
+          " ",
+          {
+            "text": "in Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "is ruined",
+            "strong": "H7703"
+          },
+          ", ",
+          {
+            "text": "destroyed",
+            "strong": "H1820"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "in a night",
+            "strong": "H3915"
+          },
+          "! ",
+          {
+            "text": "Kir",
+            "strong": "H7024"
+          },
+          " ",
+          {
+            "text": "in Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "is devastated",
+            "strong": "H7703"
+          },
+          ", ",
+          {
+            "text": "destroyed",
+            "strong": "H1820"
+          },
+          " ",
+          {
+            "text": "in a night",
+            "strong": "H3915"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Dibon",
+            "strong": "H1769"
+          },
+          " ",
+          {
+            "text": "goes up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to its temple",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "to weep",
+            "strong": "H1065"
+          },
+          " ",
+          {
+            "text": "at its high places",
+            "strong": "H1116"
+          },
+          ". ",
+          {
+            "text": "Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "wails",
+            "strong": "H3213"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Nebo",
+            "strong": "H5015"
+          },
+          ", ",
+          {
+            "text": "as well as over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Medeba",
+            "strong": "H4311"
+          },
+          ". ",
+          {
+            "text": "Every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "is shaved",
+            "strong": "H7144"
+          },
+          ", ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "beard",
+            "strong": "H2206"
+          },
+          " ",
+          {
+            "text": "is cut off",
+            "strong": "H1639"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "In its streets",
+            "strong": "H2351"
+          },
+          " ",
+          {
+            "text": "they wear",
+            "strong": "H2296"
+          },
+          " ",
+          {
+            "text": "sackcloth",
+            "strong": "H8242"
+          },
+          "; ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the rooftops",
+            "strong": "H1406"
+          },
+          " ",
+          {
+            "text": "and in the public squares",
+            "strong": "H7339"
+          },
+          " ",
+          {
+            "text": "they all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "wail",
+            "strong": "H3213"
+          },
+          ", ",
+          {
+            "text": "falling down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "weeping",
+            "strong": "H1065"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Heshbon",
+            "strong": "H2809"
+          },
+          " ",
+          {
+            "text": "and Elealeh",
+            "strong": "H500"
+          },
+          " ",
+          {
+            "text": "cry out",
+            "strong": "H2199"
+          },
+          "; ",
+          {
+            "text": "their voices",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "are heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "as far as",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "Jahaz",
+            "strong": "H3096"
+          },
+          ". ",
+          {
+            "text": "Therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the soldiers",
+            "strong": "H2502"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "cry out",
+            "strong": "H7321"
+          },
+          "; ",
+          {
+            "text": "their souls",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "tremble",
+            "strong": "H3415"
+          },
+          " within."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "My heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "cries out",
+            "strong": "H2199"
+          },
+          " ",
+          {
+            "text": "over Moab",
+            "strong": "H4124"
+          },
+          "; ",
+          {
+            "text": "her fugitives",
+            "strong": "H1281"
+          },
+          " ",
+          {
+            "text": "flee as",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "far as Zoar",
+            "strong": "H6820"
+          },
+          ", ",
+          {
+            "text": "as far as Eglath-shelishiyah",
+            "strong": "H5697"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7992"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "With weeping",
+            "strong": "H1065"
+          },
+          " ",
+          {
+            "text": "they ascend",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the slope",
+            "strong": "H4608"
+          },
+          " ",
+          {
+            "text": "of Luhith",
+            "strong": "H3872"
+          },
+          "; ",
+          {
+            "text": "they lament",
+            "strong": "H5782"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2201"
+          },
+          " ",
+          {
+            "text": "their destruction",
+            "strong": "H7667"
+          },
+          " ",
+          {
+            "text": "on the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to Horonaim",
+            "strong": "H2773"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "The waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of Nimrim",
+            "strong": "H5249"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "dried up",
+            "strong": "H4923"
+          },
+          ", ",
+          {
+            "text": "[and] the grass",
+            "strong": "H2682"
+          },
+          " ",
+          {
+            "text": "is withered",
+            "strong": "H3001"
+          },
+          "; ",
+          {
+            "text": "the vegetation",
+            "strong": "H1877"
+          },
+          " ",
+          {
+            "text": "is gone",
+            "strong": "H3615"
+          },
+          ", ",
+          {
+            "text": "[and] the greenery",
+            "strong": "H3418"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "H3808"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "they carry",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "their wealth",
+            "strong": "H3502"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "and belongings",
+            "strong": "H6486"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Brook",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "of the Willows",
+            "strong": "H6155"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "their outcry",
+            "strong": "H2201"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "echoes",
+            "strong": "H5362"
+          },
+          " ",
+          {
+            "text": "to the border",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "Their wailing",
+            "strong": "H3215"
+          },
+          " ",
+          {
+            "text": "reaches Eglaim",
+            "strong": "H97"
+          },
+          "; ",
+          {
+            "text": "[it is heard]",
+            "strong": "H3215"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H879"
+          },
+          " ",
+          {
+            "text": "in Beer-elim",
+            "strong": "H879"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "The waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of Dimon",
+            "strong": "H1775"
+          },
+          " ",
+          {
+            "text": "are full of",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "blood",
+            "strong": "H1818"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "but",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will bring",
+            "strong": "H7896"
+          },
+          " ",
+          {
+            "text": "more",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Dimon",
+            "strong": "H1775"
+          },
+          " \u2014 ",
+          {
+            "text": "a lion",
+            "strong": "H738"
+          },
+          " ",
+          {
+            "text": "upon the fugitives",
+            "strong": "H6413"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "and upon the remnant",
+            "strong": "H7611"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H127"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

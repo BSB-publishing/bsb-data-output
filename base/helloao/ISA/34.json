@@ -1,0 +1,1179 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Come near",
+            "strong": "H7126"
+          },
+          ", ",
+          {
+            "text": "O nations",
+            "strong": "H1471"
+          },
+          ", ",
+          {
+            "text": "to listen",
+            "strong": "H8085"
+          },
+          "; ",
+          {
+            "text": "pay attention",
+            "strong": "H7181"
+          },
+          ", ",
+          {
+            "text": "O peoples",
+            "strong": "H3816"
+          },
+          ". ",
+          {
+            "text": "Let the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "and all that fills it",
+            "strong": "H4393"
+          },
+          ", ",
+          {
+            "text": "the world",
+            "strong": "H8398"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that springs from it",
+            "strong": "H6631"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is angry",
+            "strong": "H7110"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "and furious",
+            "strong": "H2534"
+          },
+          " ",
+          {
+            "text": "with all their armies",
+            "strong": "H6635"
+          },
+          ". ",
+          {
+            "text": "He will devote them to destruction",
+            "strong": "H2763"
+          },
+          "; ",
+          {
+            "text": "He will give them over",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to slaughter",
+            "strong": "H2874"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Their slain",
+            "strong": "H2491"
+          },
+          " ",
+          {
+            "text": "will be left unburied",
+            "strong": "H7993"
+          },
+          ", ",
+          {
+            "text": "and the stench",
+            "strong": "H889"
+          },
+          " ",
+          {
+            "text": "of their corpses",
+            "strong": "H6297"
+          },
+          " ",
+          {
+            "text": "will rise",
+            "strong": "H5927"
+          },
+          "; ",
+          {
+            "text": "the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "will flow",
+            "strong": "H4549"
+          },
+          " ",
+          {
+            "text": "with their blood",
+            "strong": "H1818"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the stars",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "will be dissolved",
+            "strong": "H4743"
+          },
+          ". ",
+          {
+            "text": "The skies",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "will be rolled up",
+            "strong": "H1556"
+          },
+          " ",
+          {
+            "text": "like a scroll",
+            "strong": "H5612"
+          },
+          ", ",
+          {
+            "text": "and all their stars",
+            "strong": "H6635"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "H5034"
+          },
+          " ",
+          {
+            "text": "like withered",
+            "strong": "H5034"
+          },
+          " ",
+          {
+            "text": "leaves",
+            "strong": "H5929"
+          },
+          " ",
+          {
+            "text": "from the vine",
+            "strong": "H1612"
+          },
+          ", ",
+          {
+            "text": "like foliage",
+            "strong": "H5034"
+          },
+          " ",
+          {
+            "text": "from the fig tree",
+            "strong": "H8384"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "My sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "has drunk its fill",
+            "strong": "H7301"
+          },
+          " ",
+          {
+            "text": "in the heavens",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "then",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "it will come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Edom",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "I have devoted",
+            "strong": "H2764"
+          },
+          " ",
+          {
+            "text": "to destruction",
+            "strong": "H4639"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is bathed",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "in blood",
+            "strong": "H1818"
+          },
+          ". ",
+          {
+            "text": "It drips",
+            "strong": "H1878"
+          },
+          " ",
+          {
+            "text": "with fat",
+            "strong": "H2459"
+          },
+          " \u2014 ",
+          {
+            "text": "with the blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "of lambs",
+            "strong": "H3733"
+          },
+          " ",
+          {
+            "text": "and goats",
+            "strong": "H6260"
+          },
+          ", ",
+          {
+            "text": "with the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "of the kidneys",
+            "strong": "H3629"
+          },
+          " ",
+          {
+            "text": "of rams",
+            "strong": "H352"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has a sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "in Bozrah",
+            "strong": "H1224"
+          },
+          ", ",
+          {
+            "text": "a great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "slaughter",
+            "strong": "H2874"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And the wild oxen",
+            "strong": "H7214"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H5973"
+          },
+          ", ",
+          {
+            "text": "the young bulls",
+            "strong": "H6499"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the strong [ones]",
+            "strong": "H47"
+          },
+          ". ",
+          {
+            "text": "Their land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "will be drenched",
+            "strong": "H7301"
+          },
+          " ",
+          {
+            "text": "with blood",
+            "strong": "H1818"
+          },
+          ", ",
+          {
+            "text": "and their soil",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "will be soaked",
+            "strong": "H1878"
+          },
+          " ",
+          {
+            "text": "with fat",
+            "strong": "H2459"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has a day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of vengeance",
+            "strong": "H5359"
+          },
+          ", ",
+          {
+            "text": "a year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of recompense",
+            "strong": "H7966"
+          },
+          " ",
+          {
+            "text": "for the cause",
+            "strong": "H7379"
+          },
+          " ",
+          {
+            "text": "of Zion",
+            "strong": "H6726"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "[Edom\u2019s] streams",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "will be turned",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "to tar",
+            "strong": "H2203"
+          },
+          ", ",
+          {
+            "text": "and her soil",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "to sulfur",
+            "strong": "H1614"
+          },
+          "; ",
+          {
+            "text": "her land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "will become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a blazing",
+            "strong": "H1197"
+          },
+          " ",
+          {
+            "text": "pitch",
+            "strong": "H2203"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "It will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be quenched",
+            "strong": "H3518"
+          },
+          "\u2014 ",
+          {
+            "text": "day",
+            "strong": "H3119"
+          },
+          " ",
+          {
+            "text": "or night",
+            "strong": "H3915"
+          },
+          ". ",
+          {
+            "text": "Its smoke",
+            "strong": "H6227"
+          },
+          " ",
+          {
+            "text": "will ascend",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          ". ",
+          {
+            "text": "From generation",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "to generation",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "it will lie desolate",
+            "strong": "H2717"
+          },
+          "; ",
+          {
+            "text": "no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "will ever again",
+            "strong": "H5331"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "pass",
+            "strong": "H5674"
+          },
+          " through it."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "The desert owl",
+            "strong": "H6893"
+          },
+          " ",
+          {
+            "text": "and screech owl",
+            "strong": "H7090"
+          },
+          " ",
+          {
+            "text": "will possess it",
+            "strong": "H3423"
+          },
+          ", ",
+          {
+            "text": "and the great owl",
+            "strong": "H3244"
+          },
+          " ",
+          {
+            "text": "and raven",
+            "strong": "H6158"
+          },
+          " ",
+          {
+            "text": "will dwell",
+            "strong": "H7931"
+          },
+          " in it. ",
+          {
+            "text": "The LORD will stretch out",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "over [Edom]",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a measuring line",
+            "strong": "H6957"
+          },
+          " ",
+          {
+            "text": "of chaos",
+            "strong": "H8414"
+          },
+          " ",
+          {
+            "text": "and a plumb line",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "of destruction",
+            "strong": "H922"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "No",
+            "strong": "H369"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "nobles",
+            "strong": "H2715"
+          },
+          " ",
+          {
+            "text": "will be left to proclaim",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "a king",
+            "strong": "H4410"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "her princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "will come",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to nothing",
+            "strong": "H657"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Her towers",
+            "strong": "H759"
+          },
+          " ",
+          {
+            "text": "will be overgrown",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "with thorns",
+            "strong": "H5518"
+          },
+          ", ",
+          {
+            "text": "her fortresses",
+            "strong": "H4013"
+          },
+          " ",
+          {
+            "text": "with thistles",
+            "strong": "H7057"
+          },
+          " ",
+          {
+            "text": "and briers",
+            "strong": "H2336"
+          },
+          ". ",
+          {
+            "text": "She will become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a haunt",
+            "strong": "H5116"
+          },
+          " ",
+          {
+            "text": "for jackals",
+            "strong": "H8577"
+          },
+          ", ",
+          {
+            "text": "an abode",
+            "strong": "H2681"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "for ostriches",
+            "strong": "H3284"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "The desert creatures",
+            "strong": "H6728"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "will meet",
+            "strong": "H6298"
+          },
+          " ",
+          {
+            "text": "with hyenas",
+            "strong": "H338"
+          },
+          ", ",
+          {
+            "text": "and one wild goat",
+            "strong": "H8163"
+          },
+          " ",
+          {
+            "text": "will call",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "H7453"
+          },
+          ". ",
+          {
+            "text": "vvv",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "There",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "the night creature",
+            "strong": "H3917"
+          },
+          " ",
+          {
+            "text": "will settle",
+            "strong": "H7280"
+          },
+          " ",
+          {
+            "text": "and find",
+            "strong": "H4672"
+          },
+          " her ",
+          {
+            "text": "place of repose",
+            "strong": "H4494"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "There",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "the owl will",
+            "strong": "H7091"
+          },
+          " ",
+          {
+            "text": "make her nest",
+            "strong": "H7077"
+          },
+          "; ",
+          {
+            "text": "she will lay",
+            "strong": "H4422"
+          },
+          " ",
+          {
+            "text": "and hatch her eggs",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "and gather",
+            "strong": "H1716"
+          },
+          " ",
+          {
+            "text": "her brood under her shadow",
+            "strong": "H6738"
+          },
+          ". ",
+          {
+            "text": "Even",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "the birds of prey",
+            "strong": "H1772"
+          },
+          " ",
+          {
+            "text": "will gather",
+            "strong": "H6908"
+          },
+          ", ",
+          {
+            "text": "each",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "with its mate",
+            "strong": "H7468"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Search",
+            "strong": "H1875"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "and read",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the scroll",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ": ",
+          {
+            "text": "Not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " of these ",
+          {
+            "text": "will go missing",
+            "strong": "H5737"
+          },
+          ", ",
+          {
+            "text": "not one",
+            "strong": "H802"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "will lack",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "her mate",
+            "strong": "H7468"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "has ordered",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "it by His mouth",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "and He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "will gather them",
+            "strong": "H6908"
+          },
+          " ",
+          {
+            "text": "by His Spirit",
+            "strong": "H7307"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "has allotted",
+            "strong": "H5307"
+          },
+          " their ",
+          {
+            "text": "portion",
+            "strong": "H1486"
+          },
+          "; ",
+          {
+            "text": "His hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "has distributed",
+            "strong": "H2505"
+          },
+          " it ",
+          {
+            "text": "by measure",
+            "strong": "H6957"
+          },
+          ". ",
+          {
+            "text": "They will possess",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "it forever",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5769"
+          },
+          "; ",
+          {
+            "text": "they will dwell",
+            "strong": "H7931"
+          },
+          " in it ",
+          {
+            "text": "from generation",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "to generation",
+            "strong": "H1755"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

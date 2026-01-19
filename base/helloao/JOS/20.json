@@ -1,0 +1,896 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOS",
+    "name": "Joshua",
+    "number": 6
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Joshua",
+            "strong": "H3091"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Tell",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to designate",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of refuge",
+            "strong": "H4733"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I instructed",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "you through",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "so that anyone",
+            "strong": "H7523"
+          },
+          " ",
+          {
+            "text": "who kills",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "unintentionally",
+            "strong": "H7684"
+          },
+          " ",
+          {
+            "text": "or accidentally",
+            "strong": "H1097"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "may flee",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ". ",
+          {
+            "text": "These will be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "refuge",
+            "strong": "H4733"
+          },
+          " ",
+          {
+            "text": "from the avenger",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "of blood",
+            "strong": "H1818"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "When someone flees",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "of these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "cities",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "stands",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "at the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "of the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "gate",
+            "strong": "H8179"
+          },
+          ", ",
+          {
+            "text": "and states",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "his case",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "before [its] elders",
+            "strong": "H2205"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "they are to bring",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "into the city",
+            "strong": "H5892"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and give",
+            "strong": "H5414"
+          },
+          " him ",
+          {
+            "text": "a place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "to live",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "among them",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Now if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the avenger",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "of blood",
+            "strong": "H1818"
+          },
+          {
+            "text": ". . .",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "pursues him",
+            "strong": "H7291"
+          },
+          ", ",
+          {
+            "text": "they must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "surrender",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "the manslayer",
+            "strong": "H7523"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "into his hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[that man] killed",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his neighbor",
+            "strong": "H7453"
+          },
+          " ",
+          {
+            "text": "accidentally",
+            "strong": "H1097"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8543"
+          },
+          " ",
+          {
+            "text": "prior",
+            "strong": "H8032"
+          },
+          " ",
+          {
+            "text": "malice",
+            "strong": "H8130"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "He is to stay",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "he stands",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "trial",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the assembly",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "and until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "of the high",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "serving",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "at that",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H3117"
+          },
+          ". ",
+          {
+            "text": "Then",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "the manslayer",
+            "strong": "H7523"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "may return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to his own home",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "from which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he fled",
+            "strong": "H5127"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "So they set apart",
+            "strong": "H6942"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Kedesh",
+            "strong": "H6943"
+          },
+          " ",
+          {
+            "text": "in Galilee",
+            "strong": "H1551"
+          },
+          " ",
+          {
+            "text": "in the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Naphtali",
+            "strong": "H5321"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "Shechem",
+            "strong": "H7927"
+          },
+          " ",
+          {
+            "text": "in the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7153"
+          },
+          " ",
+          {
+            "text": "and Kiriath-arba",
+            "strong": "H7153"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "Hebron",
+            "strong": "H2275"
+          },
+          ") ",
+          {
+            "text": "in the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "And beyond",
+            "strong": "H5676"
+          },
+          " ",
+          {
+            "text": "the Jordan",
+            "strong": "H3383"
+          },
+          ", ",
+          {
+            "text": "east",
+            "strong": "H4217"
+          },
+          " ",
+          {
+            "text": "of Jericho",
+            "strong": "H3405"
+          },
+          ", ",
+          {
+            "text": "they designated",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Bezer",
+            "strong": "H1221"
+          },
+          " ",
+          {
+            "text": "on the wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "plateau",
+            "strong": "H4334"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Reuben",
+            "strong": "H7205"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ramoth",
+            "strong": "H7216"
+          },
+          " ",
+          {
+            "text": "in Gilead",
+            "strong": "H1568"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Gad",
+            "strong": "H1410"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Golan",
+            "strong": "H1474"
+          },
+          " ",
+          {
+            "text": "in Bashan",
+            "strong": "H1316"
+          },
+          " ",
+          {
+            "text": "from the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H4519"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "appointed",
+            "strong": "H4152"
+          },
+          " ",
+          {
+            "text": "for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and foreigners",
+            "strong": "H1616"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "among them",
+            "strong": "H8432"
+          },
+          ", ",
+          {
+            "text": "so that anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who kills",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "a person",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "unintentionally",
+            "strong": "H7684"
+          },
+          " ",
+          {
+            "text": "may flee",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "by the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the avenger",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "of blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "prior",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "to standing [trial]",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the assembly",
+            "strong": "H5712"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

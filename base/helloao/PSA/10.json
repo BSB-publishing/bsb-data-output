@@ -1,0 +1,924 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "do You stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "far off",
+            "strong": "H7350"
+          },
+          "? ",
+          {
+            "text": "Why do You hide",
+            "strong": "H5956"
+          },
+          " ",
+          {
+            "text": "in times",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "of trouble",
+            "strong": "H6869"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "In pride",
+            "strong": "H1346"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "pursue",
+            "strong": "H1814"
+          },
+          " ",
+          {
+            "text": "the needy",
+            "strong": "H6041"
+          },
+          "; ",
+          {
+            "text": "let them be caught",
+            "strong": "H8610"
+          },
+          " ",
+          {
+            "text": "in the schemes",
+            "strong": "H4209"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2098"
+          },
+          " ",
+          {
+            "text": "they devise",
+            "strong": "H2803"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the wicked man",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "boasts",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the cravings",
+            "strong": "H8378"
+          },
+          " ",
+          {
+            "text": "of his heart",
+            "strong": "H5315"
+          },
+          "; ",
+          {
+            "text": "he blesses",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the greedy",
+            "strong": "H1214"
+          },
+          " ",
+          {
+            "text": "and reviles",
+            "strong": "H5006"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "In his pride",
+            "strong": "H1363"
+          },
+          {
+            "text": ". . .",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "the wicked [man]",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "seek [Him]",
+            "strong": "H1875"
+          },
+          "; ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his schemes",
+            "strong": "H4209"
+          },
+          " ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "He is secure",
+            "strong": "H2342"
+          },
+          " ",
+          {
+            "text": "in his ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "at all times",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6256"
+          },
+          "; ",
+          {
+            "text": "Your lofty",
+            "strong": "H4791"
+          },
+          " ",
+          {
+            "text": "judgments",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "are far from him",
+            "strong": "H5048"
+          },
+          "; ",
+          {
+            "text": "he sneers",
+            "strong": "H6315"
+          },
+          " at ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his foes",
+            "strong": "H6887"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "He says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to himself",
+            "strong": "H3820"
+          },
+          ", \u201c",
+          {
+            "text": "I will not",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "be moved",
+            "strong": "H4131"
+          },
+          "; ",
+          {
+            "text": "from age",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "to age",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I am free",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of distress",
+            "strong": "H7451"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "His mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "is full of",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "cursing",
+            "strong": "H423"
+          },
+          ", ",
+          {
+            "text": "deceit",
+            "strong": "H4820"
+          },
+          ", ",
+          {
+            "text": "and violence",
+            "strong": "H8496"
+          },
+          "; ",
+          {
+            "text": "trouble",
+            "strong": "H5999"
+          },
+          " ",
+          {
+            "text": "and malice",
+            "strong": "H205"
+          },
+          " ",
+          {
+            "text": "are under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "his tongue",
+            "strong": "H3956"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "He lies",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in wait",
+            "strong": "H3993"
+          },
+          " ",
+          {
+            "text": "near the villages",
+            "strong": "H2691"
+          },
+          "; ",
+          {
+            "text": "in ambush",
+            "strong": "H4565"
+          },
+          " ",
+          {
+            "text": "he slays",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "the innocent",
+            "strong": "H5355"
+          },
+          "; ",
+          {
+            "text": "his eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "watch in stealth",
+            "strong": "H6845"
+          },
+          " ",
+          {
+            "text": "for the helpless",
+            "strong": "H2489"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He lies in wait",
+            "strong": "H693"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4565"
+          },
+          " ",
+          {
+            "text": "like a lion",
+            "strong": "H738"
+          },
+          " ",
+          {
+            "text": "in a thicket",
+            "strong": "H5520"
+          },
+          "; ",
+          {
+            "text": "he lurks",
+            "strong": "H693"
+          },
+          " ",
+          {
+            "text": "to seize",
+            "strong": "H2414"
+          },
+          " ",
+          {
+            "text": "the oppressed",
+            "strong": "H6041"
+          },
+          "; ",
+          {
+            "text": "he catches",
+            "strong": "H2414"
+          },
+          " ",
+          {
+            "text": "the lowly",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "in his net",
+            "strong": "H4900"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7568"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "They are crushed",
+            "strong": "H1794"
+          },
+          " ",
+          {
+            "text": "and beaten down",
+            "strong": "H7817"
+          },
+          "; ",
+          {
+            "text": "the helpless",
+            "strong": "H2489"
+          },
+          " ",
+          {
+            "text": "fall prey",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "to his strength",
+            "strong": "H6099"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "He says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to himself",
+            "strong": "H3820"
+          },
+          ", \u201c",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "has forgotten",
+            "strong": "H7911"
+          },
+          "; ",
+          {
+            "text": "He hides",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "His face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and never",
+            "strong": "H1077"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "sees",
+            "strong": "H7200"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Arise",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          "! ",
+          {
+            "text": "Lift up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "Your hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H410"
+          },
+          "! ",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "forget",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "the helpless",
+            "strong": "H6041"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "has the wicked man",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "renounced",
+            "strong": "H5006"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          "? ",
+          {
+            "text": "He says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to himself",
+            "strong": "H3820"
+          },
+          ", \u201c",
+          {
+            "text": "You will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "call [me] to account",
+            "strong": "H1875"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have regarded",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "trouble",
+            "strong": "H5999"
+          },
+          " ",
+          {
+            "text": "and grief",
+            "strong": "H3708"
+          },
+          "; ",
+          {
+            "text": "You see",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "to repay [it]",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "by Your hand",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "The victim",
+            "strong": "H2489"
+          },
+          " ",
+          {
+            "text": "entrusts himself",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H5921"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the helper",
+            "strong": "H5826"
+          },
+          " ",
+          {
+            "text": "of the fatherless",
+            "strong": "H3490"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Break",
+            "strong": "H7665"
+          },
+          " ",
+          {
+            "text": "the arm",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "and evildoer",
+            "strong": "H7451"
+          },
+          "; ",
+          {
+            "text": "call him to account",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "for his wickedness",
+            "strong": "H7562"
+          },
+          " ",
+          {
+            "text": "until none is left",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "to be found",
+            "strong": "H4672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "and ever",
+            "strong": "H5703"
+          },
+          "; ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "perish",
+            "strong": "H6"
+          },
+          " ",
+          {
+            "text": "from His land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "You have heard",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the desire",
+            "strong": "H8378"
+          },
+          " ",
+          {
+            "text": "of the humble",
+            "strong": "H6035"
+          },
+          "; ",
+          {
+            "text": "You will strengthen",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "their hearts",
+            "strong": "H3820"
+          },
+          ". ",
+          {
+            "text": "You will incline",
+            "strong": "H7181"
+          },
+          " ",
+          {
+            "text": "Your ear",
+            "strong": "H241"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "to vindicate",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "the fatherless",
+            "strong": "H3490"
+          },
+          " ",
+          {
+            "text": "and oppressed",
+            "strong": "H1790"
+          },
+          ", ",
+          {
+            "text": "that the men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "may strike terror",
+            "strong": "H6206"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "H1077"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

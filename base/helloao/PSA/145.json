@@ -1,0 +1,855 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 145,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "I will bless You",
+            "strong": "H1288"
+          },
+          ", ",
+          {
+            "text": "and I will praise",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "Your name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "and ever",
+            "strong": "H5703"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "[is] the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "and greatly",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "to be praised",
+            "strong": "H1984"
+          },
+          "; ",
+          {
+            "text": "His greatness",
+            "strong": "H1420"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "[is] unsearchable",
+            "strong": "H2714"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "One generation",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "will commend",
+            "strong": "H7623"
+          },
+          " ",
+          {
+            "text": "Your works",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "to the next",
+            "strong": "H1755"
+          },
+          ", ",
+          {
+            "text": "and will proclaim",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "Your mighty acts",
+            "strong": "H1369"
+          },
+          "\u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "the glorious",
+            "strong": "H3519"
+          },
+          " ",
+          {
+            "text": "splendor",
+            "strong": "H1926"
+          },
+          " ",
+          {
+            "text": "of Your majesty",
+            "strong": "H1935"
+          },
+          ". ",
+          {
+            "text": "And I will meditate",
+            "strong": "H7878"
+          },
+          " ",
+          {
+            "text": "on Your wondrous",
+            "strong": "H6381"
+          },
+          " ",
+          {
+            "text": "works",
+            "strong": "H1697"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "They will proclaim",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the power",
+            "strong": "H5807"
+          },
+          " ",
+          {
+            "text": "of Your awesome deeds",
+            "strong": "H3372"
+          },
+          ", ",
+          {
+            "text": "and I will declare",
+            "strong": "H5608"
+          },
+          " ",
+          {
+            "text": "Your greatness",
+            "strong": "H1420"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "They will extol",
+            "strong": "H5042"
+          },
+          " ",
+          {
+            "text": "the fame",
+            "strong": "H2143"
+          },
+          " ",
+          {
+            "text": "of Your abundant",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "goodness",
+            "strong": "H2898"
+          },
+          " ",
+          {
+            "text": "and sing joyfully of",
+            "strong": "H7442"
+          },
+          " ",
+          {
+            "text": "Your righteousness",
+            "strong": "H6666"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is gracious",
+            "strong": "H2587"
+          },
+          " ",
+          {
+            "text": "and compassionate",
+            "strong": "H7349"
+          },
+          ", ",
+          {
+            "text": "slow",
+            "strong": "H750"
+          },
+          " ",
+          {
+            "text": "to anger",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "and abounding",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "in loving devotion",
+            "strong": "H2617"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "to all",
+            "strong": "H3605"
+          },
+          "; ",
+          {
+            "text": "His compassion",
+            "strong": "H7356"
+          },
+          " ",
+          {
+            "text": "rests on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "He has made",
+            "strong": "H4639"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "You have made",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "will give You thanks",
+            "strong": "H3034"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "and Your saints",
+            "strong": "H2623"
+          },
+          " ",
+          {
+            "text": "will bless You",
+            "strong": "H1288"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "They will tell",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "of the glory",
+            "strong": "H3519"
+          },
+          " ",
+          {
+            "text": "of Your kingdom",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "and speak of",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "Your might",
+            "strong": "H1369"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "to make known",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "to men",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "Your mighty acts",
+            "strong": "H1369"
+          },
+          " ",
+          {
+            "text": "and the glorious",
+            "strong": "H3519"
+          },
+          " ",
+          {
+            "text": "splendor",
+            "strong": "H1926"
+          },
+          " ",
+          {
+            "text": "of Your kingdom",
+            "strong": "H4438"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Your kingdom",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "is an everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "kingdom",
+            "strong": "H4438"
+          },
+          ", ",
+          {
+            "text": "and Your dominion",
+            "strong": "H4475"
+          },
+          " ",
+          {
+            "text": "[endures] through all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "generations",
+            "strong": "H1755"
+          },
+          ". ",
+          {
+            "text": "The LORD is faithful in all His words",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "and kind in all His actions",
+            "strong": "H1755"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "upholds",
+            "strong": "H5564"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who fall",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "and lifts up",
+            "strong": "H2210"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who are bowed down",
+            "strong": "H3721"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "look",
+            "strong": "H7663"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "and You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "give",
+            "strong": "H5414"
+          },
+          " . . . ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their food",
+            "strong": "H400"
+          },
+          " ",
+          {
+            "text": "in season",
+            "strong": "H6256"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "You open",
+            "strong": "H6605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Your hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "and satisfy",
+            "strong": "H7646"
+          },
+          " ",
+          {
+            "text": "the desire",
+            "strong": "H7522"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "living thing",
+            "strong": "H2416"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "and kind",
+            "strong": "H2623"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His deeds",
+            "strong": "H4639"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is near",
+            "strong": "H7138"
+          },
+          " ",
+          {
+            "text": "to all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who call on Him",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "to all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "call out to Him",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "in truth",
+            "strong": "H571"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "He fulfills",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the desires",
+            "strong": "H7522"
+          },
+          " ",
+          {
+            "text": "of those who fear Him",
+            "strong": "H3373"
+          },
+          "; ",
+          {
+            "text": "He hears",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "their cry",
+            "strong": "H7775"
+          },
+          " ",
+          {
+            "text": "and saves them",
+            "strong": "H3467"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "preserves",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who love Him",
+            "strong": "H157"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "He will destroy",
+            "strong": "H8045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "My mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "will declare",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "the praise",
+            "strong": "H8416"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "let every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "creature",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "His holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "and ever",
+            "strong": "H5703"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

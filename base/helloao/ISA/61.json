@@ -1,0 +1,883 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 61,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "The Spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "is on Me",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "has anointed Me",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "to preach good news",
+            "strong": "H1319"
+          },
+          " ",
+          {
+            "text": "to the poor",
+            "strong": "H6035"
+          },
+          ". ",
+          {
+            "text": "He has sent Me",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "to bind up",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "the brokenhearted",
+            "strong": "H7665"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3820"
+          },
+          ", ",
+          {
+            "text": "to proclaim",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "liberty",
+            "strong": "H1865"
+          },
+          " ",
+          {
+            "text": "to the captives",
+            "strong": "H7617"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6495"
+          },
+          " ",
+          {
+            "text": "and freedom",
+            "strong": "H6495"
+          },
+          " ",
+          {
+            "text": "to the prisoners",
+            "strong": "H631"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "to proclaim",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the LORD\u2019s",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H7522"
+          },
+          " ",
+          {
+            "text": "and the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of our God\u2019s",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "vengeance",
+            "strong": "H5359"
+          },
+          ", ",
+          {
+            "text": "to comfort",
+            "strong": "H5162"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who mourn",
+            "strong": "H57"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "to console",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "the mourners",
+            "strong": "H57"
+          },
+          " ",
+          {
+            "text": "in Zion",
+            "strong": "H6726"
+          },
+          " \u2014 ",
+          {
+            "text": "to give",
+            "strong": "H5414"
+          },
+          " them ",
+          {
+            "text": "a crown of beauty",
+            "strong": "H6287"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "ashes",
+            "strong": "H665"
+          },
+          ", ",
+          {
+            "text": "the oil",
+            "strong": "H8081"
+          },
+          " ",
+          {
+            "text": "of joy",
+            "strong": "H8342"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "mourning",
+            "strong": "H60"
+          },
+          ", ",
+          {
+            "text": "and a garment",
+            "strong": "H4594"
+          },
+          " ",
+          {
+            "text": "of praise",
+            "strong": "H8416"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "a spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of despair",
+            "strong": "H3544"
+          },
+          ". ",
+          {
+            "text": "So they will be called",
+            "strong": "H7121"
+          },
+          " . . . ",
+          {
+            "text": "oaks",
+            "strong": "H352"
+          },
+          " ",
+          {
+            "text": "of righteousness",
+            "strong": "H6664"
+          },
+          ", ",
+          {
+            "text": "the planting",
+            "strong": "H4302"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "that He may be glorified",
+            "strong": "H6286"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "They will rebuild",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "the ancient",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "ruins",
+            "strong": "H2723"
+          },
+          "; ",
+          {
+            "text": "they will restore",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "the places long",
+            "strong": "H7223"
+          },
+          " ",
+          {
+            "text": "devastated",
+            "strong": "H8074"
+          },
+          "; ",
+          {
+            "text": "they will renew",
+            "strong": "H2318"
+          },
+          " ",
+          {
+            "text": "the ruined",
+            "strong": "H2721"
+          },
+          " ",
+          {
+            "text": "cities",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "the desolations",
+            "strong": "H8074"
+          },
+          " ",
+          {
+            "text": "of many",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "generations",
+            "strong": "H1755"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Strangers",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "will stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "and feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "your flocks",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "and foreigners",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5236"
+          },
+          " ",
+          {
+            "text": "will be your plowmen",
+            "strong": "H406"
+          },
+          " ",
+          {
+            "text": "and vinedressers",
+            "strong": "H3755"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "But you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will be called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "the priests",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "they will speak",
+            "strong": "H559"
+          },
+          " of you ",
+          {
+            "text": "as ministers",
+            "strong": "H8334"
+          },
+          " ",
+          {
+            "text": "of our God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "you will feed on",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the wealth",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "of nations",
+            "strong": "H1471"
+          },
+          ", ",
+          {
+            "text": "and you will boast",
+            "strong": "H3235"
+          },
+          " ",
+          {
+            "text": "in their riches",
+            "strong": "H3519"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Instead",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "of shame",
+            "strong": "H1322"
+          },
+          ", ",
+          {
+            "text": "[My people will have a] double portion",
+            "strong": "H4932"
+          },
+          ", ",
+          {
+            "text": "and [instead of] humiliation",
+            "strong": "H3639"
+          },
+          ", ",
+          {
+            "text": "they will rejoice",
+            "strong": "H7442"
+          },
+          " ",
+          {
+            "text": "in their share",
+            "strong": "H2506"
+          },
+          "; ",
+          {
+            "text": "and so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "they will inherit",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "a double portion",
+            "strong": "H4932"
+          },
+          " ",
+          {
+            "text": "in their land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "and everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "joy",
+            "strong": "H8057"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " theirs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "love",
+            "strong": "H157"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          "; ",
+          {
+            "text": "I hate",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "robbery",
+            "strong": "H1498"
+          },
+          " ",
+          {
+            "text": "and iniquity",
+            "strong": "H5766"
+          },
+          "; ",
+          {
+            "text": "in My faithfulness",
+            "strong": "H571"
+          },
+          " ",
+          {
+            "text": "I will give them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "their recompense",
+            "strong": "H6468"
+          },
+          " ",
+          {
+            "text": "and make",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "an everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "covenant",
+            "strong": "H1285"
+          },
+          " with them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Their descendants",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "will be known",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "among the nations",
+            "strong": "H1471"
+          },
+          ", ",
+          {
+            "text": "and their offspring",
+            "strong": "H6631"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H5971"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who see them",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "will acknowledge",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "are a people",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has blessed",
+            "strong": "H1288"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "I will rejoice greatly",
+            "strong": "H7797"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7797"
+          },
+          " ",
+          {
+            "text": "in the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "will exult",
+            "strong": "H1523"
+          },
+          " ",
+          {
+            "text": "in my God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He has clothed me",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "with garments",
+            "strong": "H899"
+          },
+          " ",
+          {
+            "text": "of salvation",
+            "strong": "H3468"
+          },
+          " ",
+          {
+            "text": "and wrapped me",
+            "strong": "H3271"
+          },
+          " ",
+          {
+            "text": "in a robe",
+            "strong": "H4598"
+          },
+          " ",
+          {
+            "text": "of righteousness",
+            "strong": "H6666"
+          },
+          ", ",
+          {
+            "text": "as a bridegroom",
+            "strong": "H2860"
+          },
+          " ",
+          {
+            "text": "wears a priestly",
+            "strong": "H3547"
+          },
+          " ",
+          {
+            "text": "headdress",
+            "strong": "H6287"
+          },
+          ", ",
+          {
+            "text": "as a bride",
+            "strong": "H3618"
+          },
+          " ",
+          {
+            "text": "adorns herself",
+            "strong": "H5710"
+          },
+          " ",
+          {
+            "text": "with her jewels",
+            "strong": "H3627"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "as the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "brings forth",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "its growth",
+            "strong": "H6780"
+          },
+          ", ",
+          {
+            "text": "and as a garden",
+            "strong": "H1593"
+          },
+          " ",
+          {
+            "text": "enables seed",
+            "strong": "H2221"
+          },
+          " ",
+          {
+            "text": "to spring up",
+            "strong": "H6779"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "will cause righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "and praise",
+            "strong": "H8416"
+          },
+          " ",
+          {
+            "text": "to spring up",
+            "strong": "H6779"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H5048"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

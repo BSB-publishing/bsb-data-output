@@ -1,0 +1,2356 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "appeared",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "to [Abraham]",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "by the Oaks",
+            "strong": "H436"
+          },
+          " ",
+          {
+            "text": "of Mamre",
+            "strong": "H4471"
+          },
+          " ",
+          {
+            "text": "in the heat",
+            "strong": "H2527"
+          },
+          " ",
+          {
+            "text": "of the day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "while he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was sitting",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "at the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "of his tent",
+            "strong": "H168"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And [Abraham] looked up",
+            "strong": "H5375"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "and saw",
+            "strong": "H7200"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "nearby",
+            "strong": "H5921"
+          },
+          ". ",
+          {
+            "text": "When he saw them",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "he ran from",
+            "strong": "H7323"
+          },
+          " ",
+          {
+            "text": "the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "of his tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "to meet them",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "and bowed low",
+            "strong": "H7812"
+          },
+          " ",
+          {
+            "text": "to the ground",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "\u201c",
+          {
+            "text": "My lord",
+            "strong": "H113"
+          },
+          ",\u201d ",
+          {
+            "text": "said [Abraham]",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H2580"
+          },
+          " ",
+          {
+            "text": "in your sight",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "pass",
+            "strong": "H5674"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "your servant {by}",
+            "strong": "H5650"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Let a little",
+            "strong": "H4592"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "be brought",
+            "strong": "H3947"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "that you may wash",
+            "strong": "H7364"
+          },
+          " ",
+          {
+            "text": "your feet",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "and rest",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "yourselves under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the tree",
+            "strong": "H6086"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "And I will bring",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a bit",
+            "strong": "H6595"
+          },
+          " ",
+          {
+            "text": "of bread",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "so that you may refresh",
+            "strong": "H5582"
+          },
+          " ",
+          {
+            "text": "yourselves",
+            "strong": "H3820"
+          },
+          ". ",
+          {
+            "text": "This is why",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "you have passed",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "your servant\u2019s way",
+            "strong": "H5650"
+          },
+          ". ",
+          {
+            "text": "After that",
+            "strong": "H310"
+          },
+          ", ",
+          {
+            "text": "you may continue on your way",
+            "strong": "H5674"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "Yes",
+            "strong": "H3651"
+          },
+          ",\u201d ",
+          {
+            "text": "they replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "you may do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you have said",
+            "strong": "H1696"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "So Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "hurried",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "into the tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Sarah",
+            "strong": "H8283"
+          },
+          ", \u201c",
+          {
+            "text": "Quick! Prepare",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "seahs",
+            "strong": "H5429"
+          },
+          " ",
+          {
+            "text": "of fine",
+            "strong": "H5560"
+          },
+          " ",
+          {
+            "text": "flour",
+            "strong": "H7058"
+          },
+          ", ",
+          {
+            "text": "knead it",
+            "strong": "H3888"
+          },
+          ", ",
+          {
+            "text": "and bake",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "some bread",
+            "strong": "H5692"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Meanwhile, Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "ran",
+            "strong": "H7323"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the herd",
+            "strong": "H1241"
+          },
+          ", ",
+          {
+            "text": "selected",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a tender",
+            "strong": "H7390"
+          },
+          " ",
+          {
+            "text": "and choice",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "calf",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1241"
+          },
+          ", ",
+          {
+            "text": "and gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "it to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a servant",
+            "strong": "H5288"
+          },
+          ", ",
+          {
+            "text": "who hurried",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "to prepare",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then Abraham brought",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "curds",
+            "strong": "H2529"
+          },
+          " ",
+          {
+            "text": "and milk",
+            "strong": "H2461"
+          },
+          " ",
+          {
+            "text": "and the calf",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1241"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "had been prepared",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "and he set them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "before the men",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "by them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "as they ate",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "\u201c",
+          {
+            "text": "Where",
+            "strong": "H346"
+          },
+          " ",
+          {
+            "text": "is your wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Sarah",
+            "strong": "H8283"
+          },
+          "?\u201d ",
+          {
+            "text": "they asked",
+            "strong": "H559"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          "\u201c",
+          {
+            "text": "There",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "in the tent",
+            "strong": "H168"
+          },
+          ",\u201d ",
+          {
+            "text": "he replied",
+            "strong": "H559"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Then the LORD said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "I will surely return",
+            "strong": "H7725"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "at this time next year",
+            "strong": "H6256"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "and your wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "will have a son",
+            "strong": "H1121"
+          },
+          "!\u201d ",
+          {
+            "text": "Now Sarah",
+            "strong": "H8283"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was behind him",
+            "strong": "H310"
+          },
+          ", ",
+          {
+            "text": "listening",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "at the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the tent",
+            "strong": "H168"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "and Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "were already old",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "and well along",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "in years",
+            "strong": "H3117"
+          },
+          "; ",
+          {
+            "text": "Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "had passed",
+            "strong": "H2308"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the age of childbearing",
+            "strong": "H734"
+          },
+          {
+            "text": ". . .",
+            "strong": "H802"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "So [she]",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "laughed",
+            "strong": "H6711"
+          },
+          " ",
+          {
+            "text": "to herself",
+            "strong": "H7130"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "After",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "I am worn out",
+            "strong": "H1086"
+          },
+          " ",
+          {
+            "text": "and my master",
+            "strong": "H113"
+          },
+          " ",
+          {
+            "text": "is old",
+            "strong": "H2204"
+          },
+          ", ",
+          {
+            "text": "will I now have",
+            "strong": "H1961"
+          },
+          " . . . ",
+          {
+            "text": "this pleasure",
+            "strong": "H5730"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          ", \u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "did Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "laugh",
+            "strong": "H6711"
+          },
+          " ",
+          {
+            "text": "and say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Can I really",
+            "strong": "H637"
+          },
+          {
+            "text": ". . .",
+            "strong": "H552"
+          },
+          " ",
+          {
+            "text": "bear a child",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "when I am",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H2204"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Is anything",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "too difficult",
+            "strong": "H6381"
+          },
+          " ",
+          {
+            "text": "for the LORD",
+            "strong": "H3068"
+          },
+          "? ",
+          {
+            "text": "At the appointed time",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "I will return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          " \u2014 ",
+          {
+            "text": "in about a year",
+            "strong": "H6256"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2416"
+          },
+          " \u2014 ",
+          {
+            "text": "and Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "will have a son",
+            "strong": "H1121"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "But Sarah",
+            "strong": "H8283"
+          },
+          " ",
+          {
+            "text": "was afraid",
+            "strong": "H3372"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "she denied it",
+            "strong": "H3584"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": "\u201cI did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "laugh",
+            "strong": "H6711"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "No",
+            "strong": "H3808"
+          },
+          ",\u201d ",
+          {
+            "text": "replied [the LORD]",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "but",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you did laugh",
+            "strong": "H6711"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "When [the men] got up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "to leave",
+            "strong": "H8033"
+          },
+          ", ",
+          {
+            "text": "[they]",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "looked out",
+            "strong": "H8259"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Sodom",
+            "strong": "H5467"
+          },
+          ", ",
+          {
+            "text": "and Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "walked along",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "to see them off",
+            "strong": "H7971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Shall I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "hide",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "from Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am about to do",
+            "strong": "H6213"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "will surely become",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "and powerful",
+            "strong": "H6099"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          ", and through him ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "{will} be blessed",
+            "strong": "H1288"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I have chosen",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H4616"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he will command",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his household",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "after him",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "to keep",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "by doing",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "what is right",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "and just",
+            "strong": "H4941"
+          },
+          ", ",
+          {
+            "text": "in order that",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "may bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He has promised",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "The outcry",
+            "strong": "H2201"
+          },
+          " ",
+          {
+            "text": "against Sodom",
+            "strong": "H5467"
+          },
+          " ",
+          {
+            "text": "and Gomorrah",
+            "strong": "H6017"
+          },
+          " ",
+          {
+            "text": "is great",
+            "strong": "H7231"
+          },
+          ". ",
+          {
+            "text": "Because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "their sin",
+            "strong": "H2403"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "is so",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "grievous",
+            "strong": "H3513"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "I will go down",
+            "strong": "H3381"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "to see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "if their actions",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "fully",
+            "strong": "H3617"
+          },
+          " ",
+          {
+            "text": "justify the outcry",
+            "strong": "H6818"
+          },
+          " ",
+          {
+            "text": "that has reached",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "Me",
+            "strong": "H413"
+          },
+          ". ",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          ", ",
+          {
+            "text": "I will find out",
+            "strong": "H3045"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "And the [two] men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H6437"
+          },
+          " ",
+          {
+            "text": "away",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "toward Sodom",
+            "strong": "H5467"
+          },
+          ", ",
+          {
+            "text": "but Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "remained",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "stepped forward",
+            "strong": "H5066"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Will You really",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "sweep away",
+            "strong": "H5595"
+          },
+          " ",
+          {
+            "text": "the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "What if",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "there are",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "righteous ones",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          "? ",
+          {
+            "text": "Will You really",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "sweep it away",
+            "strong": "H5595"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "spare",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "for the sake of",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "the fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "righteous ones",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "are there",
+            "strong": "H7130"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Far be it",
+            "strong": "H2486"
+          },
+          " from You ",
+          {
+            "text": "to do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "such",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "a thing",
+            "strong": "H1697"
+          },
+          " \u2014 ",
+          {
+            "text": "to kill",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          ", ",
+          {
+            "text": "so that the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "and the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "are treated alike",
+            "strong": "H1961"
+          },
+          ". ",
+          {
+            "text": "Far be it",
+            "strong": "H2486"
+          },
+          " from You! ",
+          {
+            "text": "Will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the Judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "what is right",
+            "strong": "H4941"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "So the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "righteous ones",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "within",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of Sodom",
+            "strong": "H5467"
+          },
+          ", ",
+          {
+            "text": "on their account",
+            "strong": "H5668"
+          },
+          " ",
+          {
+            "text": "I will spare",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Then Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          ", \u201c",
+          {
+            "text": "Now that",
+            "strong": "H2009"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "I have ventured",
+            "strong": "H2974"
+          },
+          " ",
+          {
+            "text": "to speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          "\u2014 ",
+          {
+            "text": "though I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am but dust",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "and ashes",
+            "strong": "H665"
+          },
+          "\u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "suppose",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "the fifty",
+            "strong": "H2572"
+          },
+          " ",
+          {
+            "text": "righteous ones",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "lack",
+            "strong": "H2637"
+          },
+          " ",
+          {
+            "text": "five",
+            "strong": "H2568"
+          },
+          ". ",
+          {
+            "text": "Will You destroy",
+            "strong": "H7843"
+          },
+          " ",
+          {
+            "text": "the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "for the lack of five",
+            "strong": "H2568"
+          },
+          "?\u201d ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "He replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "forty-five",
+            "strong": "H705"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2568"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "destroy [it]",
+            "strong": "H7843"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Once again",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "[Abraham] spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to [the LORD]",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Suppose",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "forty",
+            "strong": "H705"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "are found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          "?\u201d ",
+          {
+            "text": "He answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "On account",
+            "strong": "H5668"
+          },
+          " ",
+          {
+            "text": "of the forty",
+            "strong": "H705"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "do it",
+            "strong": "H6213"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Then [Abraham] said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "May the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H408"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "be angry",
+            "strong": "H2734"
+          },
+          ", ",
+          {
+            "text": "but let me speak [further]",
+            "strong": "H1696"
+          },
+          ". ",
+          {
+            "text": "Suppose",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "thirty",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "are found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          "?\u201d ",
+          {
+            "text": "He replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "thirty",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "do it",
+            "strong": "H6213"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "And [Abraham] said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Now that",
+            "strong": "H2009"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "I have ventured",
+            "strong": "H2974"
+          },
+          " ",
+          {
+            "text": "to speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          ", ",
+          {
+            "text": "suppose",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "twenty",
+            "strong": "H6242"
+          },
+          " ",
+          {
+            "text": "are found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          "?\u201d ",
+          {
+            "text": "He answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "On account",
+            "strong": "H5668"
+          },
+          " ",
+          {
+            "text": "of the twenty",
+            "strong": "H6242"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "destroy [it]",
+            "strong": "H7843"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Finally, [Abraham] said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "May the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H408"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "be angry",
+            "strong": "H2734"
+          },
+          ", ",
+          {
+            "text": "but let me speak",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "once more",
+            "strong": "H6471"
+          },
+          ". ",
+          {
+            "text": "Suppose",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "ten",
+            "strong": "H6235"
+          },
+          " ",
+          {
+            "text": "are found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          "?\u201d ",
+          {
+            "text": "And He answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "On account",
+            "strong": "H5668"
+          },
+          " ",
+          {
+            "text": "of the ten",
+            "strong": "H6235"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "destroy [it]",
+            "strong": "H7843"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had finished",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "speaking",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          ", ",
+          {
+            "text": "He departed",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "and Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "home",
+            "strong": "H4725"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

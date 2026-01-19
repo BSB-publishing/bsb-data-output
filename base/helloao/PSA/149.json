@@ -1,0 +1,382 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 149,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Hallelujah",
+            "strong": "H1984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3050"
+          },
+          "! ",
+          {
+            "text": "Sing",
+            "strong": "H7891"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "a new",
+            "strong": "H2319"
+          },
+          " ",
+          {
+            "text": "song",
+            "strong": "H7892"
+          },
+          " \u2014 ",
+          {
+            "text": "His praise",
+            "strong": "H8416"
+          },
+          " ",
+          {
+            "text": "in the assembly",
+            "strong": "H6951"
+          },
+          " ",
+          {
+            "text": "of the godly",
+            "strong": "H2623"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Let Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "rejoice",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "in their Maker",
+            "strong": "H6213"
+          },
+          "; ",
+          {
+            "text": "let the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "rejoice",
+            "strong": "H1523"
+          },
+          " ",
+          {
+            "text": "in their King",
+            "strong": "H4428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Let them praise",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "His name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "with dancing",
+            "strong": "H4234"
+          },
+          ", ",
+          {
+            "text": "and make music",
+            "strong": "H2167"
+          },
+          " to Him ",
+          {
+            "text": "with tambourine",
+            "strong": "H8596"
+          },
+          " ",
+          {
+            "text": "and harp",
+            "strong": "H3658"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "takes pleasure",
+            "strong": "H7521"
+          },
+          " ",
+          {
+            "text": "in His people",
+            "strong": "H5971"
+          },
+          "; ",
+          {
+            "text": "He adorns",
+            "strong": "H6286"
+          },
+          " ",
+          {
+            "text": "the afflicted",
+            "strong": "H6035"
+          },
+          " ",
+          {
+            "text": "with salvation",
+            "strong": "H3444"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Let the saints",
+            "strong": "H2623"
+          },
+          " ",
+          {
+            "text": "exult",
+            "strong": "H5937"
+          },
+          " ",
+          {
+            "text": "in glory",
+            "strong": "H3519"
+          },
+          "; ",
+          {
+            "text": "let them shout for joy",
+            "strong": "H7442"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their beds",
+            "strong": "H4904"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "May the high praises",
+            "strong": "H7318"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "be in their mouths",
+            "strong": "H1627"
+          },
+          ", ",
+          {
+            "text": "and a double-edged",
+            "strong": "H6366"
+          },
+          " ",
+          {
+            "text": "sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "in their hands",
+            "strong": "H3027"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "to inflict",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "vengeance",
+            "strong": "H5360"
+          },
+          " ",
+          {
+            "text": "on the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "and punishment",
+            "strong": "H8433"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H523"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "to bind",
+            "strong": "H631"
+          },
+          " ",
+          {
+            "text": "their kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "with chains",
+            "strong": "H2131"
+          },
+          " ",
+          {
+            "text": "and their nobles",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "with shackles",
+            "strong": "H3525"
+          },
+          " ",
+          {
+            "text": "of iron",
+            "strong": "H1270"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "to execute",
+            "strong": "H6213"
+          },
+          " - ",
+          {
+            "text": "the judgment",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "written [against them]",
+            "strong": "H3789"
+          },
+          ". ",
+          {
+            "text": "This",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "honor",
+            "strong": "H1926"
+          },
+          " ",
+          {
+            "text": "is for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His saints",
+            "strong": "H2623"
+          },
+          ". ",
+          {
+            "text": "Hallelujah",
+            "strong": "H1984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3050"
+          },
+          "!"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

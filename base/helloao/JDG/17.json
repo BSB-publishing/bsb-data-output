@@ -1,0 +1,989 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JDG",
+    "name": "Judges",
+    "number": 7
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Micah",
+            "strong": "H4321"
+          },
+          " ",
+          {
+            "text": "from the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to his mother",
+            "strong": "H517"
+          },
+          ", \u201c",
+          {
+            "text": "The eleven",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "hundred [shekels]",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were taken",
+            "strong": "H3947"
+          },
+          " from you ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "about which I heard",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "utter",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "a curse",
+            "strong": "H422"
+          },
+          "\u2014 ",
+          {
+            "text": "I have",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "the silver {here}",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H854"
+          },
+          "; ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "took it",
+            "strong": "H3947"
+          },
+          ".\u201d ",
+          {
+            "text": "Then his mother",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Blessed be",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "my son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "by the LORD",
+            "strong": "H3068"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And when he had returned",
+            "strong": "H7725"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the eleven",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "hundred",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "[shekels] of silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to his mother",
+            "strong": "H517"
+          },
+          ", ",
+          {
+            "text": "[she]",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "I wholly dedicate",
+            "strong": "H6942"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6942"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "for my son\u2019s benefit",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "to make",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "a graven image",
+            "strong": "H6459"
+          },
+          " ",
+          {
+            "text": "and a molten idol",
+            "strong": "H4541"
+          },
+          ". ",
+          {
+            "text": "Therefore I will now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "return it",
+            "strong": "H7725"
+          },
+          " to you.\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "So he returned",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to his mother",
+            "strong": "H517"
+          },
+          ", ",
+          {
+            "text": "and she",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "two hundred [shekels]",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "and gave them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to a silversmith",
+            "strong": "H6884"
+          },
+          ", ",
+          {
+            "text": "who made them",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "into a graven image",
+            "strong": "H6459"
+          },
+          " ",
+          {
+            "text": "and a molten idol",
+            "strong": "H4541"
+          },
+          ". ",
+          {
+            "text": "And they were placed",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Micah",
+            "strong": "H4321"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Now this man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "Micah",
+            "strong": "H4318"
+          },
+          " had ",
+          {
+            "text": "a shrine",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "and he made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "an ephod",
+            "strong": "H646"
+          },
+          " ",
+          {
+            "text": "and some household idols",
+            "strong": "H8655"
+          },
+          ", ",
+          {
+            "text": "and ordained",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "of his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "[as]",
+            "strong": "H1961"
+          },
+          " his ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "In those",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "there was no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          "; ",
+          {
+            "text": "everyone",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "did [what was]",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "right",
+            "strong": "H3477"
+          },
+          " ",
+          {
+            "text": "in his own eyes",
+            "strong": "H5869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a young",
+            "strong": "H5288"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "Levite",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "from Bethlehem",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "in Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "had been residing",
+            "strong": "H1481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "within the clan",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "This man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "of Bethlehem",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "in Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "to settle",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he could find [a place]",
+            "strong": "H4672"
+          },
+          ". ",
+          {
+            "text": "And as he traveled",
+            "strong": "H6213"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1870"
+          },
+          ", ",
+          {
+            "text": "he came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "Micah\u2019s",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "in the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of Ephraim",
+            "strong": "H669"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "\u201c",
+          {
+            "text": "Where",
+            "strong": "H370"
+          },
+          " ",
+          {
+            "text": "are you from",
+            "strong": "H935"
+          },
+          "?\u201d ",
+          {
+            "text": "Micah",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          " him.\u201c",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am a Levite",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "from Bethlehem",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "in Judah",
+            "strong": "H3063"
+          },
+          ",\u201d ",
+          {
+            "text": "he replied",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "and I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "am on my way",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to settle",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "wherever",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I can find a place",
+            "strong": "H4672"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "\u201c",
+          {
+            "text": "Stay",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5978"
+          },
+          ",\u201d ",
+          {
+            "text": "Micah",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " to him, \u201c",
+          {
+            "text": "and be",
+            "strong": "H1961"
+          },
+          " my ",
+          {
+            "text": "father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "and priest",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "will give",
+            "strong": "H5414"
+          },
+          " you ",
+          {
+            "text": "ten [shekels]",
+            "strong": "H6235"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "per year",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "a suit",
+            "strong": "H6187"
+          },
+          " ",
+          {
+            "text": "of clothes",
+            "strong": "H899"
+          },
+          ", ",
+          {
+            "text": "and your provisions",
+            "strong": "H4241"
+          },
+          ".\u201d ",
+          {
+            "text": "So the Levite",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "went in",
+            "strong": "H1980"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "and agreed",
+            "strong": "H2974"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "to stay",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H376"
+          },
+          ", ",
+          {
+            "text": "and the young man",
+            "strong": "H5288"
+          },
+          " ",
+          {
+            "text": "became",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like a",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " to Micah."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Micah",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "ordained",
+            "strong": "H4390"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "the Levite",
+            "strong": "H3881"
+          },
+          ", ",
+          {
+            "text": "and the young man",
+            "strong": "H5288"
+          },
+          " ",
+          {
+            "text": "became",
+            "strong": "H1961"
+          },
+          " his ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "and lived",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in [his]",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Then Micah",
+            "strong": "H4318"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "I know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will be good",
+            "strong": "H3190"
+          },
+          " to me, ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a Levite",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "has become",
+            "strong": "H1961"
+          },
+          " my ",
+          {
+            "text": "priest",
+            "strong": "H3548"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

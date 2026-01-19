@@ -1,0 +1,2096 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZR",
+    "name": "Ezra",
+    "number": 15
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "When the enemies",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and Benjamin",
+            "strong": "H1144"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the exiles",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1473"
+          },
+          " ",
+          {
+            "text": "were building",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "a temple",
+            "strong": "H1964"
+          },
+          " ",
+          {
+            "text": "for the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "they approached",
+            "strong": "H5066"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Zerubbabel",
+            "strong": "H2216"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and the heads",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the families",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          " . . ., \u201c",
+          {
+            "text": "Let us build",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          ", like you, ",
+          {
+            "text": "we seek",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "and have been sacrificing",
+            "strong": "H2076"
+          },
+          " ",
+          {
+            "text": "to Him since",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the time",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of King",
+            "strong": "H4428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H634"
+          },
+          " ",
+          {
+            "text": "Esar-haddon",
+            "strong": "H634"
+          },
+          " ",
+          {
+            "text": "of Assyria",
+            "strong": "H804"
+          },
+          ", ",
+          {
+            "text": "who brought",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H6311"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "But Zerubbabel",
+            "strong": "H2216"
+          },
+          ", ",
+          {
+            "text": "Jeshua",
+            "strong": "H3442"
+          },
+          ", ",
+          {
+            "text": "and the other",
+            "strong": "H7605"
+          },
+          " ",
+          {
+            "text": "heads",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the families",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " -, \u201c",
+          {
+            "text": "You have no",
+            "strong": "H3808"
+          },
+          " part with us ",
+          {
+            "text": "in building",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "a house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "for our God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "since",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "we",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "alone",
+            "strong": "H3162"
+          },
+          " ",
+          {
+            "text": "must build",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "it for the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Cyrus",
+            "strong": "H3566"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6539"
+          },
+          " ",
+          {
+            "text": "has commanded us",
+            "strong": "H6680"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "set out to discourage",
+            "strong": "H7503"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and make them afraid",
+            "strong": "H1089"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to build",
+            "strong": "H1129"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "They hired",
+            "strong": "H7936"
+          },
+          " ",
+          {
+            "text": "counselors",
+            "strong": "H3289"
+          },
+          " ",
+          {
+            "text": "against them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "to frustrate",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "their plans",
+            "strong": "H6098"
+          },
+          " ",
+          {
+            "text": "throughout",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the reign",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of Cyrus",
+            "strong": "H3566"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6539"
+          },
+          " ",
+          {
+            "text": "and down to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the reign",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "of Darius",
+            "strong": "H1867"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6539"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "At the beginning",
+            "strong": "H8462"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "of the reign",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "of Xerxes",
+            "strong": "H325"
+          },
+          ", ",
+          {
+            "text": "an accusation",
+            "strong": "H7855"
+          },
+          " ",
+          {
+            "text": "was lodged",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and Jerusalem",
+            "strong": "H3389"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And in the days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of Artaxerxes [king]",
+            "strong": "H783"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6539"
+          },
+          ", ",
+          {
+            "text": "Bishlam",
+            "strong": "H1312"
+          },
+          ", ",
+          {
+            "text": "Mithredath",
+            "strong": "H4990"
+          },
+          ", ",
+          {
+            "text": "Tabeel",
+            "strong": "H2870"
+          },
+          ", ",
+          {
+            "text": "and the rest of",
+            "strong": "H7605"
+          },
+          " ",
+          {
+            "text": "his associates",
+            "strong": "H3674"
+          },
+          " ",
+          {
+            "text": "wrote [a letter]",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H3791"
+          },
+          " ",
+          {
+            "text": "[It]",
+            "strong": "H5406"
+          },
+          " ",
+          {
+            "text": "was written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "in Aramaic",
+            "strong": "H762"
+          },
+          " ",
+          {
+            "text": "and then translated",
+            "strong": "H8638"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H762"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Rehum",
+            "strong": "H7348"
+          },
+          " ",
+          {
+            "text": "the commander",
+            "strong": "H1169"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "and Shimshai",
+            "strong": "H8124"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          " ",
+          {
+            "text": "wrote",
+            "strong": "H3790"
+          },
+          " ",
+          {
+            "text": "[the]",
+            "strong": "H2298"
+          },
+          " ",
+          {
+            "text": "letter",
+            "strong": "H104"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "to King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          " ",
+          {
+            "text": "as follows",
+            "strong": "H3660"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "From Rehum",
+            "strong": "H7348"
+          },
+          " ",
+          {
+            "text": "the commander",
+            "strong": "H1169"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2942"
+          },
+          ", ",
+          {
+            "text": "Shimshai",
+            "strong": "H8124"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          ", ",
+          {
+            "text": "and the rest",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "of their associates",
+            "strong": "H3675"
+          },
+          "\u2014 ",
+          {
+            "text": "the judges",
+            "strong": "H1784"
+          },
+          " ",
+          {
+            "text": "and officials",
+            "strong": "H671"
+          },
+          " ",
+          {
+            "text": "over Tripolis",
+            "strong": "H2967"
+          },
+          ", ",
+          {
+            "text": "Persia",
+            "strong": "H670"
+          },
+          ", ",
+          {
+            "text": "Erech",
+            "strong": "H756"
+          },
+          " ",
+          {
+            "text": "and Babylon",
+            "strong": "H896"
+          },
+          ", ",
+          {
+            "text": "the Elamites",
+            "strong": "H5962"
+          },
+          " ",
+          {
+            "text": "of Susa",
+            "strong": "H7801"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "and the rest",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "of the peoples",
+            "strong": "H524"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the great",
+            "strong": "H7229"
+          },
+          " ",
+          {
+            "text": "and honorable",
+            "strong": "H3358"
+          },
+          " ",
+          {
+            "text": "Ashurbanipal",
+            "strong": "H620"
+          },
+          " ",
+          {
+            "text": "deported",
+            "strong": "H1541"
+          },
+          " ",
+          {
+            "text": "and settled",
+            "strong": "H3488"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1994"
+          },
+          " ",
+          {
+            "text": "in the cities",
+            "strong": "H7149"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Samaria",
+            "strong": "H8115"
+          },
+          " ",
+          {
+            "text": "and elsewhere",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3706"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "(",
+          {
+            "text": "This",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "is the text",
+            "strong": "H6573"
+          },
+          " ",
+          {
+            "text": "of the letter",
+            "strong": "H104"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "they sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H5922"
+          },
+          ".) ",
+          {
+            "text": "To",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          ", ",
+          {
+            "text": "From your servants",
+            "strong": "H5649"
+          },
+          ", ",
+          {
+            "text": "the men",
+            "strong": "H606"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3706"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Let it be",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "known",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "to the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the Jews",
+            "strong": "H3062"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H5559"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H3890"
+          },
+          " ",
+          {
+            "text": "to us",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "have returned",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "to Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "and are rebuilding",
+            "strong": "H1124"
+          },
+          " ",
+          {
+            "text": "that rebellious",
+            "strong": "H4779"
+          },
+          " ",
+          {
+            "text": "and wicked",
+            "strong": "H873"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          ". ",
+          {
+            "text": "They are restoring",
+            "strong": "H3635"
+          },
+          " ",
+          {
+            "text": "[its] walls",
+            "strong": "H7792"
+          },
+          " ",
+          {
+            "text": "and repairing",
+            "strong": "H2338"
+          },
+          " ",
+          {
+            "text": "its foundations",
+            "strong": "H787"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Let it now",
+            "strong": "H3705"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "known",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "to the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1791"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          " ",
+          {
+            "text": "is rebuilt",
+            "strong": "H1124"
+          },
+          " ",
+          {
+            "text": "and its walls",
+            "strong": "H7792"
+          },
+          " ",
+          {
+            "text": "are restored",
+            "strong": "H3635"
+          },
+          ", ",
+          {
+            "text": "they will not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "pay",
+            "strong": "H5415"
+          },
+          " ",
+          {
+            "text": "tribute",
+            "strong": "H4061"
+          },
+          ", ",
+          {
+            "text": "duty",
+            "strong": "H1093"
+          },
+          ", ",
+          {
+            "text": "or toll",
+            "strong": "H1983"
+          },
+          ", ",
+          {
+            "text": "and the royal",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "treasury",
+            "strong": "H674"
+          },
+          " ",
+          {
+            "text": "will suffer",
+            "strong": "H5142"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H3705"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4416"
+          },
+          " ",
+          {
+            "text": "we are in the service",
+            "strong": "H4415"
+          },
+          " ",
+          {
+            "text": "of the palace",
+            "strong": "H1965"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "and it is not fitting",
+            "strong": "H749"
+          },
+          " for us ",
+          {
+            "text": "to allow",
+            "strong": "H2370"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "to be dishonored",
+            "strong": "H6173"
+          },
+          ", ",
+          {
+            "text": "we have sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "to inform",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "a search should be made",
+            "strong": "H1240"
+          },
+          " ",
+          {
+            "text": "of the record",
+            "strong": "H1799"
+          },
+          " ",
+          {
+            "text": "books",
+            "strong": "H5609"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "your fathers",
+            "strong": "H2"
+          },
+          ". ",
+          {
+            "text": "[In these]",
+            "strong": "H1799"
+          },
+          " ",
+          {
+            "text": "books",
+            "strong": "H5609"
+          },
+          " ",
+          {
+            "text": "you will discover",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "and verify",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H7149"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1791"
+          },
+          " ",
+          {
+            "text": "is a rebellious",
+            "strong": "H4779"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          ", ",
+          {
+            "text": "harmful",
+            "strong": "H5142"
+          },
+          " ",
+          {
+            "text": "to kings",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "and provinces",
+            "strong": "H4083"
+          },
+          ", ",
+          {
+            "text": "inciting",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "sedition",
+            "strong": "H849"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "ancient",
+            "strong": "H5957"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H3118"
+          },
+          ". ",
+          {
+            "text": "That is why",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1791"
+          },
+          " ",
+          {
+            "text": "was destroyed",
+            "strong": "H2718"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "We",
+            "strong": "H586"
+          },
+          " ",
+          {
+            "text": "advise",
+            "strong": "H3046"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H1791"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          " ",
+          {
+            "text": "is rebuilt",
+            "strong": "H1124"
+          },
+          " ",
+          {
+            "text": "and its walls",
+            "strong": "H7792"
+          },
+          " ",
+          {
+            "text": "are restored",
+            "strong": "H3635"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "you will have",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3809"
+          },
+          " - ",
+          {
+            "text": "dominion",
+            "strong": "H2508"
+          },
+          " ",
+          {
+            "text": "west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "[Then] the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "this reply",
+            "strong": "H6600"
+          },
+          ": ",
+          {
+            "text": "To",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "Rehum",
+            "strong": "H7348"
+          },
+          " ",
+          {
+            "text": "the commander",
+            "strong": "H1169"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2942"
+          },
+          ", ",
+          {
+            "text": "Shimshai",
+            "strong": "H8124"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          ", ",
+          {
+            "text": "and the rest",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "of your associates",
+            "strong": "H3675"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "living",
+            "strong": "H3488"
+          },
+          " ",
+          {
+            "text": "in Samaria",
+            "strong": "H8115"
+          },
+          " ",
+          {
+            "text": "and elsewhere",
+            "strong": "H7606"
+          },
+          " ",
+          {
+            "text": "in the region west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          ": ",
+          {
+            "text": "Greetings",
+            "strong": "H8001"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H3706"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "The letter",
+            "strong": "H5407"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "has been translated",
+            "strong": "H6568"
+          },
+          " ",
+          {
+            "text": "and read",
+            "strong": "H7123"
+          },
+          " ",
+          {
+            "text": "in my presence",
+            "strong": "H6925"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "I issued",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "a decree",
+            "strong": "H2942"
+          },
+          ", ",
+          {
+            "text": "and a search was conducted",
+            "strong": "H1240"
+          },
+          ". ",
+          {
+            "text": "It was discovered",
+            "strong": "H7912"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H1791"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          " ",
+          {
+            "text": "has revolted",
+            "strong": "H5376"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "from ancient",
+            "strong": "H5957"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H3118"
+          },
+          ", ",
+          {
+            "text": "engaging in rebellion",
+            "strong": "H4776"
+          },
+          " ",
+          {
+            "text": "and sedition",
+            "strong": "H849"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5648"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And mighty",
+            "strong": "H8624"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "have ruled over",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "and exercised authority",
+            "strong": "H7990"
+          },
+          " ",
+          {
+            "text": "over the whole",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "region west",
+            "strong": "H5675"
+          },
+          " ",
+          {
+            "text": "of the Euphrates",
+            "strong": "H5103"
+          },
+          "; ",
+          {
+            "text": "and tribute",
+            "strong": "H4061"
+          },
+          ", ",
+          {
+            "text": "duty",
+            "strong": "H1093"
+          },
+          ", ",
+          {
+            "text": "and toll",
+            "strong": "H1983"
+          },
+          " ",
+          {
+            "text": "were paid",
+            "strong": "H3052"
+          },
+          " to them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Now, therefore",
+            "strong": "H3705"
+          },
+          ", ",
+          {
+            "text": "issue",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "an order",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "for these",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "to stop",
+            "strong": "H989"
+          },
+          ", ",
+          {
+            "text": "so that this",
+            "strong": "H1791"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7149"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "be rebuilt",
+            "strong": "H1124"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "so order",
+            "strong": "H2942"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7761"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "See that you",
+            "strong": "H2095"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "do not neglect",
+            "strong": "H7960"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5648"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "this matter",
+            "strong": "H1836"
+          },
+          ". ",
+          {
+            "text": "Why",
+            "strong": "H4101"
+          },
+          " ",
+          {
+            "text": "allow this threat",
+            "strong": "H2257"
+          },
+          " ",
+          {
+            "text": "to increase",
+            "strong": "H7680"
+          },
+          " ",
+          {
+            "text": "and the royal",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "interests to suffer",
+            "strong": "H5142"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "When",
+            "strong": "H116"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the text",
+            "strong": "H6573"
+          },
+          " ",
+          {
+            "text": "of the letter",
+            "strong": "H5407"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "from King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Artaxerxes",
+            "strong": "H783"
+          },
+          " ",
+          {
+            "text": "was read",
+            "strong": "H7123"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "Rehum",
+            "strong": "H7348"
+          },
+          ", ",
+          {
+            "text": "Shimshai",
+            "strong": "H8124"
+          },
+          " ",
+          {
+            "text": "the scribe",
+            "strong": "H5613"
+          },
+          ", ",
+          {
+            "text": "and their associates",
+            "strong": "H3675"
+          },
+          ", ",
+          {
+            "text": "they went",
+            "strong": "H236"
+          },
+          " ",
+          {
+            "text": "immediately",
+            "strong": "H924"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the Jews",
+            "strong": "H3062"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "and forcibly",
+            "strong": "H153"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2429"
+          },
+          " ",
+          {
+            "text": "stopped",
+            "strong": "H989"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H1994"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Thus",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the construction",
+            "strong": "H5673"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3390"
+          },
+          " ",
+          {
+            "text": "ceased",
+            "strong": "H989"
+          },
+          ", ",
+          {
+            "text": "and it remained",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "at a standstill",
+            "strong": "H989"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5705"
+          },
+          " ",
+          {
+            "text": "the second",
+            "strong": "H8648"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8140"
+          },
+          " ",
+          {
+            "text": "of the reign",
+            "strong": "H4437"
+          },
+          " ",
+          {
+            "text": "of Darius",
+            "strong": "H1868"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "of Persia",
+            "strong": "H6540"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

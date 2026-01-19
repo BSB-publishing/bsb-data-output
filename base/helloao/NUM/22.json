@@ -1,0 +1,3418 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "NUM",
+    "name": "Numbers",
+    "number": 4
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "traveled on",
+            "strong": "H5265"
+          },
+          " ",
+          {
+            "text": "and camped",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "in the plains",
+            "strong": "H6160"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "near the Jordan",
+            "strong": "H3383"
+          },
+          ", ",
+          {
+            "text": "across from",
+            "strong": "H5676"
+          },
+          " ",
+          {
+            "text": "Jericho",
+            "strong": "H3405"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Now Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zippor",
+            "strong": "H6834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "had done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "to the Amorites",
+            "strong": "H567"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "and Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "was terrified",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "were numerous",
+            "strong": "H7227"
+          },
+          ". ",
+          {
+            "text": "Indeed, Moab",
+            "strong": "H4124"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "dreaded",
+            "strong": "H6973"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "So the Moabites",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Midian",
+            "strong": "H4080"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H6258"
+          },
+          " \u201c",
+          {
+            "text": "This horde",
+            "strong": "H6951"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "will devour",
+            "strong": "H3897"
+          },
+          " ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "around us",
+            "strong": "H5439"
+          },
+          ", ",
+          {
+            "text": "as an ox",
+            "strong": "H7794"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "licks up",
+            "strong": "H3897"
+          },
+          " ",
+          {
+            "text": "the grass",
+            "strong": "H3418"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          ".\u201d ",
+          {
+            "text": "Since Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zippor",
+            "strong": "H6834"
+          },
+          " ",
+          {
+            "text": "was king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "at that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "he sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "messengers",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "to {summon}",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Beor",
+            "strong": "H1160"
+          },
+          " ",
+          {
+            "text": "at Pethor",
+            "strong": "H6604"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is by",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Euphrates",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of his people",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          ".\u201c",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "has come out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          ",\u201d ",
+          {
+            "text": "said Balak",
+            "strong": "H7121"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "-",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "They cover",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "and have settled",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "next to me",
+            "strong": "H4136"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "So please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "and put a curse",
+            "strong": "H779"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "on this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "are too mighty",
+            "strong": "H6099"
+          },
+          " ",
+          {
+            "text": "for me",
+            "strong": "H4480"
+          },
+          ". ",
+          {
+            "text": "Perhaps I may",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "be able",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "to defeat",
+            "strong": "H5221"
+          },
+          " them ",
+          {
+            "text": "and drive them out",
+            "strong": "H1644"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "that those",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "are blessed",
+            "strong": "H1288"
+          },
+          ", ",
+          {
+            "text": "and those",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you curse",
+            "strong": "H779"
+          },
+          " ",
+          {
+            "text": "are cursed",
+            "strong": "H779"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "and Midian",
+            "strong": "H4080"
+          },
+          " ",
+          {
+            "text": "departed",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with the fees for divination",
+            "strong": "H7081"
+          },
+          " ",
+          {
+            "text": "in hand",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "They came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and relayed",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of Balak",
+            "strong": "H1111"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u201c",
+          {
+            "text": "Spend",
+            "strong": "H3885"
+          },
+          " ",
+          {
+            "text": "the night",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H6311"
+          },
+          ",\u201d ",
+          {
+            "text": "[Balaam] replied",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "and I will give",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you the answer",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "speaks",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ".\u201d ",
+          {
+            "text": "So the princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "stayed",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and asked",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "are these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ", \u201c",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zippor",
+            "strong": "H6834"
+          },
+          ", ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          ", ",
+          {
+            "text": "sent me",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "this message",
+            "strong": "H413"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "\u2018",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "a people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "has come out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          ", ",
+          {
+            "text": "and they cover",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and put a curse",
+            "strong": "H6895"
+          },
+          " ",
+          {
+            "text": "on them",
+            "strong": "H853"
+          },
+          " for me. ",
+          {
+            "text": "Perhaps I may",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "be able",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "to fight",
+            "strong": "H3898"
+          },
+          " against them ",
+          {
+            "text": "and drive them away",
+            "strong": "H1644"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "But God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          ", \u201c",
+          {
+            "text": "Do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H5973"
+          },
+          ". ",
+          {
+            "text": "You are not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to curse",
+            "strong": "H779"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "this people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "are blessed",
+            "strong": "H1288"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "So Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "got up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "the next morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balak\u2019s",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "princes",
+            "strong": "H8269"
+          },
+          ", \u201c",
+          {
+            "text": "Go back",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "your homeland",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has refused",
+            "strong": "H3985"
+          },
+          " ",
+          {
+            "text": "to let me",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "And the princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "arose",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "returned",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          ", ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "refused",
+            "strong": "H3985"
+          },
+          " ",
+          {
+            "text": "to come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with us",
+            "strong": "H5973"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Then Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "other",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "princes",
+            "strong": "H8269"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "more numerous",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "and more distinguished",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "than the [first messengers]",
+            "strong": "H428"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "They came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zippor",
+            "strong": "H6834"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "let nothing",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "hinder",
+            "strong": "H4513"
+          },
+          " ",
+          {
+            "text": "you from coming",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will honor you",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "richly",
+            "strong": "H3966"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3513"
+          },
+          " ",
+          {
+            "text": "and do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "whatever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you say",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ". ",
+          {
+            "text": "So please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and put a curse",
+            "strong": "H6895"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "on this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people for me",
+            "strong": "H5971"
+          },
+          "!\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "But Balaam",
+            "strong": "H1109"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the servants",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "of Balak",
+            "strong": "H1111"
+          },
+          ", \u201c",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "were to give",
+            "strong": "H5414"
+          },
+          " me ",
+          {
+            "text": "his house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "full",
+            "strong": "H4393"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H2091"
+          },
+          ", ",
+          {
+            "text": "I could",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "anything small",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "to go beyond",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the command",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "So now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "stay",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "overnight",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "as the others did",
+            "strong": "H1571"
+          },
+          {
+            "text": ". . .",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "that I may find out",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "else",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has to tell me",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "That night",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Since",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "these men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "have come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to summon",
+            "strong": "H7121"
+          },
+          " you, ",
+          {
+            "text": "get up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with them",
+            "strong": "H854"
+          },
+          ", ",
+          {
+            "text": "but you must only",
+            "strong": "H389"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I tell you",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "So in the morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "got up",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "saddled",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his donkey",
+            "strong": "H860"
+          },
+          ", ",
+          {
+            "text": "and went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Then God\u2019s",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "anger",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "was kindled",
+            "strong": "H2734"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was going along",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "and the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "stood",
+            "strong": "H3320"
+          },
+          " ",
+          {
+            "text": "in the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to oppose",
+            "strong": "H7854"
+          },
+          " him. ",
+          {
+            "text": "Balaam",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was riding",
+            "strong": "H7392"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his donkey",
+            "strong": "H860"
+          },
+          ", ",
+          {
+            "text": "and his two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "servants",
+            "strong": "H5288"
+          },
+          " ",
+          {
+            "text": "were with him",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "When the donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "in the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "with a drawn",
+            "strong": "H8025"
+          },
+          " ",
+          {
+            "text": "sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "in his hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "she",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "off",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "into a field",
+            "strong": "H7704"
+          },
+          ". ",
+          {
+            "text": "So Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "beat",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "to return her",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "to the path",
+            "strong": "H1870"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Then the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "in a narrow passage",
+            "strong": "H4934"
+          },
+          " ",
+          {
+            "text": "between two vineyards",
+            "strong": "H3754"
+          },
+          ", ",
+          {
+            "text": "with walls",
+            "strong": "H1447"
+          },
+          " ",
+          {
+            "text": "on either side",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1447"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "And the donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "and pressed herself",
+            "strong": "H3905"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the wall",
+            "strong": "H7023"
+          },
+          ", ",
+          {
+            "text": "crushing",
+            "strong": "H3905"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Balaam\u2019s",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "foot",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H7023"
+          },
+          ". ",
+          {
+            "text": "So he beat her",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "once again",
+            "strong": "H3254"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "And the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "moved",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "on ahead",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "and stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "in a narrow",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "there was no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "room",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to turn",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "to the right",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "or left",
+            "strong": "H8040"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "When the donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "she lay down",
+            "strong": "H7257"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          ", ",
+          {
+            "text": "and [he]",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "became furious",
+            "strong": "H2734"
+          },
+          {
+            "text": ". . .",
+            "strong": "H639"
+          },
+          " ",
+          {
+            "text": "and beat",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[her]",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "with his staff",
+            "strong": "H4731"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "opened",
+            "strong": "H6605"
+          },
+          " ",
+          {
+            "text": "the donkey\u2019s",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "mouth",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "and she said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to Balaam",
+            "strong": "H1109"
+          },
+          ", \u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "have I done",
+            "strong": "H6213"
+          },
+          " to you ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have beaten me",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H7272"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the donkey",
+            "strong": "H860"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " \u201c",
+          {
+            "text": "You have made a fool",
+            "strong": "H5953"
+          },
+          " of me! ",
+          {
+            "text": "If",
+            "strong": "H3863"
+          },
+          " ",
+          {
+            "text": "I had",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "a sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "in my hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I would kill you",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "right now",
+            "strong": "H6258"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "But the donkey",
+            "strong": "H860"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to Balaam",
+            "strong": "H1109"
+          },
+          ", \u201c",
+          {
+            "text": "Am I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you have ridden",
+            "strong": "H7392"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all your life",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "until today",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          "? ",
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "Have I ever treated",
+            "strong": "H6213"
+          },
+          " you ",
+          {
+            "text": "this way",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H5532"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5532"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "No",
+            "strong": "H3808"
+          },
+          ",\u201d ",
+          {
+            "text": "he replied",
+            "strong": "H559"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "opened",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "Balaam\u2019s",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "and he saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "in the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "with a drawn",
+            "strong": "H8025"
+          },
+          " ",
+          {
+            "text": "sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "in his hand",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "And Balaam bowed low",
+            "strong": "H7812"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6915"
+          },
+          " ",
+          {
+            "text": "and fell facedown",
+            "strong": "H639"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "The angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "asked him",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "Why",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "have you beaten",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H7272"
+          },
+          "? ",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "have come out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to oppose you",
+            "strong": "H7854"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "your way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "is perverse",
+            "strong": "H3399"
+          },
+          " ",
+          {
+            "text": "before me",
+            "strong": "H5048"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "The donkey",
+            "strong": "H860"
+          },
+          " ",
+          {
+            "text": "saw me",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and turned away",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H7272"
+          },
+          ". ",
+          {
+            "text": "If she had not",
+            "strong": "H194"
+          },
+          " ",
+          {
+            "text": "turned away",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "then by now",
+            "strong": "H6258"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I would surely have killed",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and {let} her",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "live",
+            "strong": "H2421"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "\u201c",
+          {
+            "text": "I have sinned",
+            "strong": "H2398"
+          },
+          ",\u201d ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", \u201c",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "realize",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "were standing",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "in the road",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to confront me",
+            "strong": "H7122"
+          },
+          ". ",
+          {
+            "text": "And now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "this is displeasing",
+            "strong": "H7489"
+          },
+          " ",
+          {
+            "text": "in your sight",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "I will go back",
+            "strong": "H7725"
+          },
+          " [home].\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "But the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          ", \u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the men",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "but you are to speak",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "only",
+            "strong": "H657"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I tell you",
+            "strong": "H1696"
+          },
+          ".\u201d ",
+          {
+            "text": "So Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of Balak",
+            "strong": "H1111"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "When Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "was coming",
+            "strong": "H935"
+          },
+          ", ",
+          {
+            "text": "he went out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to meet him",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Moabite",
+            "strong": "H4124"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Arnon",
+            "strong": "H769"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "border",
+            "strong": "H1366"
+          },
+          ", ",
+          {
+            "text": "at the edge",
+            "strong": "H7097"
+          },
+          " ",
+          {
+            "text": "of his territory",
+            "strong": "H1366"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "And [he]",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          ", \u201c",
+          {
+            "text": "Did I not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "send you an urgent summons",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7121"
+          },
+          " . . .? ",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "did you not come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          "? ",
+          {
+            "text": "Am I really",
+            "strong": "H552"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "able",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "to reward you richly",
+            "strong": "H3513"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "\u201c",
+          {
+            "text": "See",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I have come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "H413"
+          },
+          ",\u201d ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1111"
+          },
+          ", \u201c",
+          {
+            "text": "-",
+            "strong": "H6258"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "but can",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "I say",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "just anything",
+            "strong": "H3972"
+          },
+          "? ",
+          {
+            "text": "I must speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "only the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "puts",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "in my mouth",
+            "strong": "H6310"
+          },
+          ".\u201d ",
+          {
+            "text": "-",
+            "strong": "H853"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "So Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "accompanied",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          ", ",
+          {
+            "text": "and they came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H7155"
+          },
+          " ",
+          {
+            "text": "to Kiriath-huzoth",
+            "strong": "H7155"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "sacrificed",
+            "strong": "H2076"
+          },
+          " ",
+          {
+            "text": "cattle",
+            "strong": "H1241"
+          },
+          " ",
+          {
+            "text": "and sheep",
+            "strong": "H6629"
+          },
+          ", ",
+          {
+            "text": "and he gave [portions]",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "to Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and the princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were with him",
+            "strong": "H854"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "The next morning",
+            "strong": "H1242"
+          },
+          ", ",
+          {
+            "text": "Balak",
+            "strong": "H1111"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "Balaam",
+            "strong": "H1109"
+          },
+          " ",
+          {
+            "text": "and brought him",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "up to",
+            "strong": "H1120"
+          },
+          " ",
+          {
+            "text": "Bamoth-baal",
+            "strong": "H1168"
+          },
+          ". ",
+          {
+            "text": "From there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "he could see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the outskirts of the camp",
+            "strong": "H7097"
+          },
+          " ",
+          {
+            "text": "of the people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

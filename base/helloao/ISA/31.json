@@ -1,0 +1,829 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Woe",
+            "strong": "H1945"
+          },
+          " ",
+          {
+            "text": "to those who go down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "for help",
+            "strong": "H5833"
+          },
+          ", ",
+          {
+            "text": "who rely",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "horses",
+            "strong": "H5483"
+          },
+          ", ",
+          {
+            "text": "who trust",
+            "strong": "H982"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their abundance",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "of chariots",
+            "strong": "H7393"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "and in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "their multitude",
+            "strong": "H3966"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6105"
+          },
+          " ",
+          {
+            "text": "of horsemen",
+            "strong": "H6571"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "They do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "look",
+            "strong": "H8159"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Holy",
+            "strong": "H6918"
+          },
+          " ",
+          {
+            "text": "One of Israel",
+            "strong": "H3478"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "they do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "seek",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Yet",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "He too",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "[is] wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "and brings",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "disaster",
+            "strong": "H7451"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "He does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "call back",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "His words",
+            "strong": "H1697"
+          },
+          ". ",
+          {
+            "text": "He will rise up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7489"
+          },
+          " ",
+          {
+            "text": "and against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the allies",
+            "strong": "H5833"
+          },
+          " ",
+          {
+            "text": "of evildoers",
+            "strong": "H6466"
+          },
+          {
+            "text": ". . .",
+            "strong": "H205"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "But the Egyptians",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "are men",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          "; ",
+          {
+            "text": "their horses",
+            "strong": "H5483"
+          },
+          " ",
+          {
+            "text": "are flesh",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "spirit",
+            "strong": "H7307"
+          },
+          ". ",
+          {
+            "text": "When the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "stretches out",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "His hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "the helper",
+            "strong": "H5826"
+          },
+          " ",
+          {
+            "text": "will stumble",
+            "strong": "H3782"
+          },
+          ", ",
+          {
+            "text": "and the one he helps",
+            "strong": "H5826"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "H5307"
+          },
+          "; ",
+          {
+            "text": "both",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "will perish",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H3162"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ":\u201c",
+          {
+            "text": "Like",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "a lion",
+            "strong": "H738"
+          },
+          " ",
+          {
+            "text": "roaring",
+            "strong": "H1897"
+          },
+          " ",
+          {
+            "text": "or a young lion",
+            "strong": "H3715"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its prey",
+            "strong": "H2964"
+          },
+          " \u2014 ",
+          {
+            "text": "and though",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "a band",
+            "strong": "H4393"
+          },
+          " ",
+          {
+            "text": "of shepherds",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "is called out",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "against it",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "it is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "terrified",
+            "strong": "H2865"
+          },
+          " ",
+          {
+            "text": "by their shouting",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "or subdued",
+            "strong": "H6031"
+          },
+          " ",
+          {
+            "text": "by their clamor",
+            "strong": "H1995"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " \u2014 ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "will come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to do battle",
+            "strong": "H6633"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "[and]",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its heights",
+            "strong": "H1389"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Like birds",
+            "strong": "H6833"
+          },
+          " ",
+          {
+            "text": "hovering overhead",
+            "strong": "H5774"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "will protect",
+            "strong": "H1598"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          ". ",
+          {
+            "text": "He will shield it",
+            "strong": "H1598"
+          },
+          " ",
+          {
+            "text": "and deliver it",
+            "strong": "H5337"
+          },
+          "; ",
+          {
+            "text": "He will pass over it",
+            "strong": "H6452"
+          },
+          " ",
+          {
+            "text": "and preserve it",
+            "strong": "H4422"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to the One",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "against whom you have so blatantly",
+            "strong": "H6009"
+          },
+          " ",
+          {
+            "text": "rebelled",
+            "strong": "H5627"
+          },
+          ", ",
+          {
+            "text": "O children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "on that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "every one",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of you will reject",
+            "strong": "H3988"
+          },
+          " ",
+          {
+            "text": "the idols",
+            "strong": "H457"
+          },
+          " ",
+          {
+            "text": "of silver",
+            "strong": "H3701"
+          },
+          {
+            "text": ". . .",
+            "strong": "H457"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " your own ",
+          {
+            "text": "hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "have sinfully",
+            "strong": "H2399"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H6213"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u201c",
+          {
+            "text": "Then Assyria",
+            "strong": "H804"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "H5307"
+          },
+          ", ",
+          {
+            "text": "but not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "by the sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H376"
+          },
+          "; ",
+          {
+            "text": "a sword",
+            "strong": "H2719"
+          },
+          " ",
+          {
+            "text": "will devour them",
+            "strong": "H398"
+          },
+          ", ",
+          {
+            "text": "but not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "one made by mortals",
+            "strong": "H120"
+          },
+          ". ",
+          {
+            "text": "They will flee",
+            "strong": "H5127"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the sword",
+            "strong": "H2719"
+          },
+          ", ",
+          {
+            "text": "and their young men",
+            "strong": "H970"
+          },
+          " ",
+          {
+            "text": "will be put",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to forced labor",
+            "strong": "H4522"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Their rock",
+            "strong": "H5553"
+          },
+          " ",
+          {
+            "text": "will pass away",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "for fear",
+            "strong": "H4032"
+          },
+          ", ",
+          {
+            "text": "and their princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "will panic",
+            "strong": "H2865"
+          },
+          " ",
+          {
+            "text": "at [the sight of] the battle standard",
+            "strong": "H5251"
+          },
+          ",\u201d ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H217"
+          },
+          " ",
+          {
+            "text": "is in Zion",
+            "strong": "H6726"
+          },
+          ", ",
+          {
+            "text": "whose furnace",
+            "strong": "H8574"
+          },
+          " ",
+          {
+            "text": "is in Jerusalem",
+            "strong": "H3389"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

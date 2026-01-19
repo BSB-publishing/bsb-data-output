@@ -1,0 +1,1375 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PRO",
+    "name": "Proverbs",
+    "number": 20
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "The proverbs",
+            "strong": "H4912"
+          },
+          " ",
+          {
+            "text": "of Solomon",
+            "strong": "H8010"
+          },
+          ": ",
+          {
+            "text": "A wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "brings joy",
+            "strong": "H8055"
+          },
+          " ",
+          {
+            "text": "to his father",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "but a foolish",
+            "strong": "H3684"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "grief",
+            "strong": "H8424"
+          },
+          " ",
+          {
+            "text": "to his mother",
+            "strong": "H517"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ill-gotten",
+            "strong": "H7562"
+          },
+          " ",
+          {
+            "text": "treasures",
+            "strong": "H214"
+          },
+          " ",
+          {
+            "text": "profit",
+            "strong": "H3276"
+          },
+          " ",
+          {
+            "text": "nothing",
+            "strong": "H3808"
+          },
+          ", ",
+          {
+            "text": "but righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "brings deliverance",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "from death",
+            "strong": "H4194"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "let the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "go hungry",
+            "strong": "H7456"
+          },
+          ", ",
+          {
+            "text": "but He denies",
+            "strong": "H1920"
+          },
+          " ",
+          {
+            "text": "the craving",
+            "strong": "H1942"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Idle",
+            "strong": "H7423"
+          },
+          " ",
+          {
+            "text": "hands",
+            "strong": "H3709"
+          },
+          " ",
+          {
+            "text": "make",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "one poor",
+            "strong": "H7326"
+          },
+          ", ",
+          {
+            "text": "but diligent",
+            "strong": "H2742"
+          },
+          " ",
+          {
+            "text": "hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "bring wealth",
+            "strong": "H6238"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "He who gathers",
+            "strong": "H103"
+          },
+          " ",
+          {
+            "text": "in summer",
+            "strong": "H7019"
+          },
+          " ",
+          {
+            "text": "[is] a wise",
+            "strong": "H7919"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "[but] he who sleeps",
+            "strong": "H7290"
+          },
+          " ",
+          {
+            "text": "during harvest",
+            "strong": "H7105"
+          },
+          " ",
+          {
+            "text": "is a disgraceful",
+            "strong": "H954"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Blessings",
+            "strong": "H1293"
+          },
+          " ",
+          {
+            "text": "are on the head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "but the mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "conceals",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "violence",
+            "strong": "H2555"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The memory",
+            "strong": "H2143"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "is a blessing",
+            "strong": "H1293"
+          },
+          ", ",
+          {
+            "text": "but the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will rot",
+            "strong": "H7537"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "A wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "will receive",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "commandments",
+            "strong": "H4687"
+          },
+          ", ",
+          {
+            "text": "but foolish",
+            "strong": "H191"
+          },
+          " ",
+          {
+            "text": "lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "will come to ruin",
+            "strong": "H3832"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He who walks",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in integrity",
+            "strong": "H8537"
+          },
+          " ",
+          {
+            "text": "walks",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "securely",
+            "strong": "H983"
+          },
+          ", ",
+          {
+            "text": "but he who perverts",
+            "strong": "H6140"
+          },
+          " ",
+          {
+            "text": "his ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "will be found out",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He who winks",
+            "strong": "H7169"
+          },
+          " ",
+          {
+            "text": "the eye",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "causes",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "grief",
+            "strong": "H6094"
+          },
+          ", ",
+          {
+            "text": "and foolish",
+            "strong": "H191"
+          },
+          " ",
+          {
+            "text": "lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "will come to ruin",
+            "strong": "H3832"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "The mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "is a fountain",
+            "strong": "H4726"
+          },
+          " ",
+          {
+            "text": "of life",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "but the mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "conceals",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "violence",
+            "strong": "H2555"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Hatred",
+            "strong": "H8135"
+          },
+          " ",
+          {
+            "text": "stirs up",
+            "strong": "H5782"
+          },
+          " ",
+          {
+            "text": "dissension",
+            "strong": "H4090"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "but love",
+            "strong": "H160"
+          },
+          " ",
+          {
+            "text": "covers",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "transgressions",
+            "strong": "H6588"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "is found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "on the lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "of the discerning",
+            "strong": "H995"
+          },
+          ", ",
+          {
+            "text": "but a rod",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "is for the back",
+            "strong": "H1460"
+          },
+          " ",
+          {
+            "text": "of him who lacks",
+            "strong": "H2638"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "The wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "store up",
+            "strong": "H6845"
+          },
+          " ",
+          {
+            "text": "knowledge",
+            "strong": "H1847"
+          },
+          ", ",
+          {
+            "text": "but the mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the fool",
+            "strong": "H191"
+          },
+          " ",
+          {
+            "text": "invites",
+            "strong": "H7138"
+          },
+          " ",
+          {
+            "text": "destruction",
+            "strong": "H4288"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The wealth",
+            "strong": "H1952"
+          },
+          " ",
+          {
+            "text": "of the rich man",
+            "strong": "H6223"
+          },
+          " ",
+          {
+            "text": "is his fortified",
+            "strong": "H5797"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "H7151"
+          },
+          ", ",
+          {
+            "text": "but poverty",
+            "strong": "H7389"
+          },
+          " ",
+          {
+            "text": "is the ruin",
+            "strong": "H4288"
+          },
+          " ",
+          {
+            "text": "of the poor",
+            "strong": "H1800"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "The labor",
+            "strong": "H6468"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "leads to life",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "[but] the gain",
+            "strong": "H8393"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "[brings] punishment",
+            "strong": "H2403"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Whoever heeds",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "instruction",
+            "strong": "H4148"
+          },
+          " ",
+          {
+            "text": "is on the path",
+            "strong": "H734"
+          },
+          " ",
+          {
+            "text": "to life",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "but he who ignores",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "reproof",
+            "strong": "H8433"
+          },
+          " ",
+          {
+            "text": "goes astray",
+            "strong": "H8582"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "The one who conceals",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "hatred",
+            "strong": "H8135"
+          },
+          " ",
+          {
+            "text": "has lying",
+            "strong": "H8267"
+          },
+          " ",
+          {
+            "text": "lips",
+            "strong": "H8193"
+          },
+          ", ",
+          {
+            "text": "and whoever spreads",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "slander",
+            "strong": "H1681"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is a fool",
+            "strong": "H3684"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "When words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "are many",
+            "strong": "H7230"
+          },
+          ", ",
+          {
+            "text": "sin",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "is unavoidable",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2308"
+          },
+          ", ",
+          {
+            "text": "but he who restrains",
+            "strong": "H2820"
+          },
+          " ",
+          {
+            "text": "his lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "is wise",
+            "strong": "H7919"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "The tongue",
+            "strong": "H3956"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "[is] choice",
+            "strong": "H977"
+          },
+          " ",
+          {
+            "text": "silver",
+            "strong": "H3701"
+          },
+          ", ",
+          {
+            "text": "[but] the heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "[has] little worth",
+            "strong": "H4592"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "The lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "feed",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7227"
+          },
+          ", ",
+          {
+            "text": "but fools",
+            "strong": "H191"
+          },
+          " ",
+          {
+            "text": "die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "for lack",
+            "strong": "H2638"
+          },
+          " ",
+          {
+            "text": "of judgment",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "The blessing",
+            "strong": "H1293"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "enriches",
+            "strong": "H6238"
+          },
+          ", ",
+          {
+            "text": "and He adds",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sorrow",
+            "strong": "H6089"
+          },
+          " ",
+          {
+            "text": "to it",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "The fool",
+            "strong": "H3684"
+          },
+          " ",
+          {
+            "text": "delights",
+            "strong": "H7814"
+          },
+          " ",
+          {
+            "text": "in shameful",
+            "strong": "H2154"
+          },
+          " ",
+          {
+            "text": "conduct",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "but a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "of understanding",
+            "strong": "H8394"
+          },
+          " ",
+          {
+            "text": "has wisdom",
+            "strong": "H2451"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "What the wicked [man]",
+            "strong": "H7563"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "dreads",
+            "strong": "H4034"
+          },
+          " ",
+          {
+            "text": "will overtake him",
+            "strong": "H935"
+          },
+          ", ",
+          {
+            "text": "but the desire",
+            "strong": "H8378"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "will be granted",
+            "strong": "H5414"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "When the whirlwind",
+            "strong": "H5492"
+          },
+          " ",
+          {
+            "text": "passes",
+            "strong": "H5674"
+          },
+          ", ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "are no more",
+            "strong": "H369"
+          },
+          ", ",
+          {
+            "text": "but the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "are secure",
+            "strong": "H3247"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Like vinegar",
+            "strong": "H2558"
+          },
+          " ",
+          {
+            "text": "to the teeth",
+            "strong": "H8127"
+          },
+          " ",
+          {
+            "text": "and smoke",
+            "strong": "H6227"
+          },
+          " ",
+          {
+            "text": "to the eyes",
+            "strong": "H5869"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "[is] the slacker",
+            "strong": "H6102"
+          },
+          " ",
+          {
+            "text": "to those who send him",
+            "strong": "H7971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "The fear",
+            "strong": "H3374"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "prolongs",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "life",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "but the years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will be cut short",
+            "strong": "H7114"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "The hope",
+            "strong": "H8431"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "is joy",
+            "strong": "H8057"
+          },
+          ", ",
+          {
+            "text": "but the expectations",
+            "strong": "H8615"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will perish",
+            "strong": "H6"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "The way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is a refuge",
+            "strong": "H4581"
+          },
+          " ",
+          {
+            "text": "to the upright",
+            "strong": "H8537"
+          },
+          ", ",
+          {
+            "text": "but destruction",
+            "strong": "H4288"
+          },
+          " ",
+          {
+            "text": "[awaits] those who do",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H205"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "The righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H5769"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "be shaken",
+            "strong": "H4131"
+          },
+          ", ",
+          {
+            "text": "but the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "inhabit",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "The mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "brings forth",
+            "strong": "H5107"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          ", ",
+          {
+            "text": "but a perverse",
+            "strong": "H8419"
+          },
+          " ",
+          {
+            "text": "tongue",
+            "strong": "H3956"
+          },
+          " ",
+          {
+            "text": "will be cut out",
+            "strong": "H3772"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "The lips",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what is fitting",
+            "strong": "H7522"
+          },
+          ", ",
+          {
+            "text": "but the mouth",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "is perverse",
+            "strong": "H8419"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 103,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "O my soul",
+            "strong": "H5315"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "forget",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His kind deeds",
+            "strong": "H1576"
+          },
+          " \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He who forgives",
+            "strong": "H5545"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "your iniquities",
+            "strong": "H5771"
+          },
+          " ",
+          {
+            "text": "and heals",
+            "strong": "H7495"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "your diseases",
+            "strong": "H8463"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "who redeems",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "your life",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "from the Pit",
+            "strong": "H7845"
+          },
+          " ",
+          {
+            "text": "[and] crowns",
+            "strong": "H5849"
+          },
+          " ",
+          {
+            "text": "you with loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "and compassion",
+            "strong": "H7356"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "who satisfies you",
+            "strong": "H7646"
+          },
+          " ",
+          {
+            "text": "with good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "things",
+            "strong": "H5716"
+          },
+          ", ",
+          {
+            "text": "so that your youth",
+            "strong": "H5271"
+          },
+          " ",
+          {
+            "text": "is renewed",
+            "strong": "H2318"
+          },
+          " ",
+          {
+            "text": "like the eagle\u2019s",
+            "strong": "H5404"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "executes",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "and justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "for all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the oppressed",
+            "strong": "H6231"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He made known",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "His ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "His deeds",
+            "strong": "H5949"
+          },
+          " ",
+          {
+            "text": "to the people",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "is compassionate",
+            "strong": "H7349"
+          },
+          " ",
+          {
+            "text": "and gracious",
+            "strong": "H2587"
+          },
+          ", ",
+          {
+            "text": "slow",
+            "strong": "H750"
+          },
+          " ",
+          {
+            "text": "to anger",
+            "strong": "H639"
+          },
+          ", ",
+          {
+            "text": "abounding",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "in loving devotion",
+            "strong": "H2617"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "always",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "accuse us",
+            "strong": "H7378"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "harbor [His anger]",
+            "strong": "H5201"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He has not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "dealt",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "with us",
+            "strong": "H3808"
+          },
+          " according to ",
+          {
+            "text": "our sins",
+            "strong": "H2399"
+          },
+          " ",
+          {
+            "text": "or repaid us",
+            "strong": "H1580"
+          },
+          " ",
+          {
+            "text": "according to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "our iniquities",
+            "strong": "H5771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "as high",
+            "strong": "H1361"
+          },
+          " ",
+          {
+            "text": "as the heavens",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "are above",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "so great",
+            "strong": "H1396"
+          },
+          " ",
+          {
+            "text": "is His loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "those who fear Him",
+            "strong": "H3373"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "As far",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "as the east",
+            "strong": "H4217"
+          },
+          " ",
+          {
+            "text": "is from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the west",
+            "strong": "H4628"
+          },
+          ", ",
+          {
+            "text": "so far has He removed",
+            "strong": "H7368"
+          },
+          " ",
+          {
+            "text": "our transgressions from us",
+            "strong": "H6588"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "As a father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "has compassion",
+            "strong": "H7355"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his children",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "so the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has compassion",
+            "strong": "H7355"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "those who fear Him",
+            "strong": "H3373"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "our frame",
+            "strong": "H3336"
+          },
+          "; ",
+          {
+            "text": "He is mindful",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "we",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "are dust",
+            "strong": "H6083"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "As for man",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "his days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "are like grass",
+            "strong": "H2682"
+          },
+          "\u2014 ",
+          {
+            "text": "he blooms",
+            "strong": "H6692"
+          },
+          " ",
+          {
+            "text": "like a flower",
+            "strong": "H6731"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "when",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "passes",
+            "strong": "H5674"
+          },
+          " over, ",
+          {
+            "text": "it vanishes",
+            "strong": "H369"
+          },
+          ", ",
+          {
+            "text": "and its place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "remembers it",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "more",
+            "strong": "H5750"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But from everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "the loving devotion",
+            "strong": "H2617"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "extends to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "those who fear Him",
+            "strong": "H3373"
+          },
+          ", ",
+          {
+            "text": "and His righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "to their children\u2019s",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "children",
+            "strong": "H1121"
+          },
+          " \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "to those who keep",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "His covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "and remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "to obey",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "His precepts",
+            "strong": "H6490"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has established",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "His throne",
+            "strong": "H3678"
+          },
+          " ",
+          {
+            "text": "in heaven",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "and His kingdom",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "rules",
+            "strong": "H4910"
+          },
+          " ",
+          {
+            "text": "over all",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "all His angels",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "mighty",
+            "strong": "H1368"
+          },
+          " ",
+          {
+            "text": "in strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "who carry out",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "His word",
+            "strong": "H1697"
+          },
+          ", ",
+          {
+            "text": "who hearken",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "to the voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of His command",
+            "strong": "H1697"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His hosts",
+            "strong": "H6635"
+          },
+          ", ",
+          {
+            "text": "you servants",
+            "strong": "H8334"
+          },
+          " ",
+          {
+            "text": "who do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "His will",
+            "strong": "H7522"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "His works",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "places",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "of His dominion",
+            "strong": "H4475"
+          },
+          ". ",
+          {
+            "text": "Bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "O my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          "!"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

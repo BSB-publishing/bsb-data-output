@@ -1,0 +1,2299 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ROM",
+    "name": "Romans",
+    "number": 45
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "I commend",
+            "strong": "G4921"
+          },
+          " ",
+          {
+            "text": "to you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "our",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sister",
+            "strong": "G79"
+          },
+          " ",
+          {
+            "text": "Phoebe",
+            "strong": "G5402"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "a servant",
+            "strong": "G1249"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "church",
+            "strong": "G1577"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Cenchrea",
+            "strong": "G2747"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G2443"
+          },
+          " ",
+          {
+            "text": "Welcome",
+            "strong": "G4327"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "in a manner worthy",
+            "strong": "G516"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of [the] saints",
+            "strong": "G40"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "assist",
+            "strong": "G3936"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "G3739"
+          },
+          {
+            "text": ". . .",
+            "strong": "G302"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4229"
+          },
+          " ",
+          {
+            "text": "she may need",
+            "strong": "G5535"
+          },
+          " ",
+          {
+            "text": "from you",
+            "strong": "G4771"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "she",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "has been",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "a great help",
+            "strong": "G4368"
+          },
+          " ",
+          {
+            "text": "to many [people]",
+            "strong": "G4183"
+          },
+          ", ",
+          {
+            "text": "including",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Prisca",
+            "strong": "G4251"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Aquila",
+            "strong": "G207"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow workers",
+            "strong": "G4904"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "who",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "have risked",
+            "strong": "G5294"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "[lives]",
+            "strong": "G5137"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G5228"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G5590"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "Not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "only",
+            "strong": "G3441"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "but",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "churches",
+            "strong": "G1577"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Gentiles",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "are grateful [to them]",
+            "strong": "G2168"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "[Greet also]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "church",
+            "strong": "G1577"
+          },
+          " ",
+          {
+            "text": "[that meets] at",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "G3624"
+          },
+          ". ",
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "beloved",
+            "strong": "G27"
+          },
+          " ",
+          {
+            "text": "Epenetus",
+            "strong": "G1866"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "the first [convert]",
+            "strong": "G536"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "in [the province of] Asia",
+            "strong": "G773"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Mary",
+            "strong": "G3137"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "has worked",
+            "strong": "G2872"
+          },
+          " ",
+          {
+            "text": "very hard",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Andronicus",
+            "strong": "G408"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Junia",
+            "strong": "G2458"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow countrymen",
+            "strong": "G4773"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "fellow prisoners",
+            "strong": "G4869"
+          },
+          ". ",
+          {
+            "text": "[They]",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "outstanding",
+            "strong": "G1978"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "apostles",
+            "strong": "G652"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[they]",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "G4253"
+          },
+          " ",
+          {
+            "text": "I [was]",
+            "strong": "G1473"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Ampliatus",
+            "strong": "G291"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "beloved",
+            "strong": "G27"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Urbanus",
+            "strong": "G3773"
+          },
+          ", ",
+          {
+            "text": "our",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow worker",
+            "strong": "G4904"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "beloved",
+            "strong": "G27"
+          },
+          " ",
+          {
+            "text": "Stachys",
+            "strong": "G4720"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Apelles",
+            "strong": "G559"
+          },
+          ", ",
+          {
+            "text": "who [is]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "approved",
+            "strong": "G1384"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ". ",
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "belong to",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "the [household]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Aristobulus",
+            "strong": "G711"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Herodion",
+            "strong": "G2267"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow countryman",
+            "strong": "G4773"
+          },
+          ". ",
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "those",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "the [household]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Narcissus",
+            "strong": "G3488"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Tryphena",
+            "strong": "G5170"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Tryphosa",
+            "strong": "G5173"
+          },
+          ", ",
+          {
+            "text": "[ women ] who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "have worked hard",
+            "strong": "G2872"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          ". ",
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "[my]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "beloved",
+            "strong": "G27"
+          },
+          " ",
+          {
+            "text": "Persis",
+            "strong": "G4069"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "has worked",
+            "strong": "G2872"
+          },
+          " ",
+          {
+            "text": "very hard",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Rufus",
+            "strong": "G4504"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "chosen",
+            "strong": "G1588"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mother",
+            "strong": "G3384"
+          },
+          ", ",
+          {
+            "text": "[who has been a mother] to me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "as well",
+            "strong": "G2532"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Asyncritus",
+            "strong": "G799"
+          },
+          ", ",
+          {
+            "text": "Phlegon",
+            "strong": "G5393"
+          },
+          ", ",
+          {
+            "text": "Hermes",
+            "strong": "G2060"
+          },
+          ", ",
+          {
+            "text": "Patrobas",
+            "strong": "G3969"
+          },
+          ", ",
+          {
+            "text": "Hermas",
+            "strong": "G2057"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "G80"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G4862"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "Philologus",
+            "strong": "G5378"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Julia",
+            "strong": "G2456"
+          },
+          ", ",
+          {
+            "text": "Nereus",
+            "strong": "G3517"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "his",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sister",
+            "strong": "G79"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Olympas",
+            "strong": "G3652"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "saints",
+            "strong": "G40"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G4862"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "one another",
+            "strong": "G240"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "a holy",
+            "strong": "G40"
+          },
+          " ",
+          {
+            "text": "kiss",
+            "strong": "G5370"
+          },
+          ". ",
+          {
+            "text": "All",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "churches",
+            "strong": "G1577"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "send you greetings",
+            "strong": "G782"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "I urge",
+            "strong": "G3870"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "brothers",
+            "strong": "G80"
+          },
+          ", ",
+          {
+            "text": "to watch out for",
+            "strong": "G4648"
+          },
+          " ",
+          {
+            "text": "those who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "create",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "divisions",
+            "strong": "G1370"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "obstacles [that are]",
+            "strong": "G4625"
+          },
+          " ",
+          {
+            "text": "contrary to",
+            "strong": "G3844"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "teaching",
+            "strong": "G1322"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "have learned",
+            "strong": "G3129"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Turn away",
+            "strong": "G1578"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "such people",
+            "strong": "G5108"
+          },
+          " ",
+          {
+            "text": "{are} not",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "serving",
+            "strong": "G1398"
+          },
+          " ",
+          {
+            "text": "our",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G235"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "[own]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "appetites",
+            "strong": "G2836"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "By",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "smooth talk",
+            "strong": "G5542"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "flattery",
+            "strong": "G2129"
+          },
+          " ",
+          {
+            "text": "they deceive",
+            "strong": "G1818"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hearts",
+            "strong": "G2588"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "naive",
+            "strong": "G172"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Everyone",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "[has heard]",
+            "strong": "G864"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "about your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "obedience",
+            "strong": "G5218"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "I rejoice",
+            "strong": "G5463"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ". ",
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "I want",
+            "strong": "G2309"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "to be",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "wise",
+            "strong": "G4680"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "what [is]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "G18"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "innocent",
+            "strong": "G185"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "what [is]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "G2556"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of peace",
+            "strong": "G1515"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G5034"
+          },
+          " ",
+          {
+            "text": "will soon crush",
+            "strong": "G4937"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Satan",
+            "strong": "G4567"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "feet",
+            "strong": "G4228"
+          },
+          ". ",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "grace",
+            "strong": "G5485"
+          },
+          " ",
+          {
+            "text": "of our",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          " ",
+          {
+            "text": "[be] with",
+            "strong": "G3326"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Timothy",
+            "strong": "G5095"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow worker",
+            "strong": "G4904"
+          },
+          ", ",
+          {
+            "text": "sends you greetings",
+            "strong": "G782"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "as do",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Lucius",
+            "strong": "G3066"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Jason",
+            "strong": "G2394"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Sosipater",
+            "strong": "G4989"
+          },
+          ", ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "fellow countrymen",
+            "strong": "G4773"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          ", ",
+          {
+            "text": "Tertius",
+            "strong": "G5060"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "wrote down",
+            "strong": "G1125"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "letter",
+            "strong": "G1992"
+          },
+          ", ",
+          {
+            "text": "greet",
+            "strong": "G782"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "[the] Lord",
+            "strong": "G2962"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Gaius",
+            "strong": "G1050"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "has hosted",
+            "strong": "G3581"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3650"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "church",
+            "strong": "G1577"
+          },
+          ", ",
+          {
+            "text": "sends you greetings",
+            "strong": "G782"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          ". ",
+          {
+            "text": "Erastus",
+            "strong": "G2037"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "city",
+            "strong": "G4172"
+          },
+          " ",
+          {
+            "text": "treasurer",
+            "strong": "G3623"
+          },
+          ", ",
+          {
+            "text": "sends you greetings",
+            "strong": "G782"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "[as does]",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "[our]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "brother",
+            "strong": "G80"
+          },
+          " ",
+          {
+            "text": "Quartus",
+            "strong": "G2890"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "to Him who",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "is able",
+            "strong": "G1410"
+          },
+          " ",
+          {
+            "text": "to strengthen",
+            "strong": "G4741"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "my",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "gospel",
+            "strong": "G2098"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "by the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "proclamation",
+            "strong": "G2782"
+          },
+          " ",
+          {
+            "text": "of Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          ", ",
+          {
+            "text": "according to",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "[the] revelation",
+            "strong": "G602"
+          },
+          " ",
+          {
+            "text": "of [the] mystery",
+            "strong": "G3466"
+          },
+          " ",
+          {
+            "text": "concealed",
+            "strong": "G4601"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G5550"
+          },
+          " ",
+          {
+            "text": "for ages past",
+            "strong": "G166"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "G3568"
+          },
+          " ",
+          {
+            "text": "revealed",
+            "strong": "G5319"
+          },
+          " ",
+          {
+            "text": "[and] made known",
+            "strong": "G1107"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "the writings",
+            "strong": "G1124"
+          },
+          " ",
+          {
+            "text": "of the prophets",
+            "strong": "G4397"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "[the] command",
+            "strong": "G2003"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "eternal",
+            "strong": "G166"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          ", ",
+          {
+            "text": "in order to lead",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "G1484"
+          },
+          " ",
+          {
+            "text": "to the",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "obedience",
+            "strong": "G5218"
+          },
+          " ",
+          {
+            "text": "[that comes from] faith",
+            "strong": "G4102"
+          },
+          " \u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "[to the] only",
+            "strong": "G3441"
+          },
+          " ",
+          {
+            "text": "wise",
+            "strong": "G4680"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "[be]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "glory",
+            "strong": "G1391"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "G165"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G165"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "Jesus",
+            "strong": "G2424"
+          },
+          " ",
+          {
+            "text": "Christ",
+            "strong": "G5547"
+          },
+          "! ",
+          {
+            "text": "Amen",
+            "strong": "G281"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

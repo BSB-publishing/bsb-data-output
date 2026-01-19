@@ -1,0 +1,2037 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZK",
+    "name": "Ezekiel",
+    "number": 26
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "pose",
+            "strong": "H2330"
+          },
+          " ",
+          {
+            "text": "a riddle",
+            "strong": "H2420"
+          },
+          "; ",
+          {
+            "text": "speak a parable",
+            "strong": "H4911"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4912"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "and tell them that",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u2018",
+          {
+            "text": "A great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "eagle",
+            "strong": "H5404"
+          },
+          " ",
+          {
+            "text": "with great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "wings",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "and long",
+            "strong": "H750"
+          },
+          " ",
+          {
+            "text": "pinions",
+            "strong": "H83"
+          },
+          ", ",
+          {
+            "text": "full",
+            "strong": "H4392"
+          },
+          " ",
+          {
+            "text": "of feathers",
+            "strong": "H5133"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "of many colors",
+            "strong": "H7553"
+          },
+          ", ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Lebanon",
+            "strong": "H3844"
+          },
+          " ",
+          {
+            "text": "and took away",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the top",
+            "strong": "H6788"
+          },
+          " ",
+          {
+            "text": "of the cedar",
+            "strong": "H730"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "He plucked off",
+            "strong": "H6998"
+          },
+          " ",
+          {
+            "text": "its topmost",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "shoot",
+            "strong": "H3242"
+          },
+          ", ",
+          {
+            "text": "carried it",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of merchants",
+            "strong": "H3667"
+          },
+          ", ",
+          {
+            "text": "and planted",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "it in a city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of traders",
+            "strong": "H7402"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "He took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "some of the seed",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and planted",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "it in fertile",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "soil",
+            "strong": "H7704"
+          },
+          "; ",
+          {
+            "text": "he placed [it]",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "abundant",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "[and] set it out",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "like a willow",
+            "strong": "H6851"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "It sprouted",
+            "strong": "H6779"
+          },
+          " ",
+          {
+            "text": "and became",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a spreading",
+            "strong": "H5628"
+          },
+          " ",
+          {
+            "text": "vine",
+            "strong": "H1612"
+          },
+          ", ",
+          {
+            "text": "low",
+            "strong": "H8217"
+          },
+          " ",
+          {
+            "text": "in height",
+            "strong": "H6967"
+          },
+          ", ",
+          {
+            "text": "with branches",
+            "strong": "H1808"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H6437"
+          },
+          " ",
+          {
+            "text": "toward him",
+            "strong": "H413"
+          },
+          "; ",
+          {
+            "text": "yet its roots",
+            "strong": "H8328"
+          },
+          " ",
+          {
+            "text": "remained",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "where it stood",
+            "strong": "H8478"
+          },
+          ". ",
+          {
+            "text": "So it became",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a vine",
+            "strong": "H1612"
+          },
+          " ",
+          {
+            "text": "and yielded",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "branches",
+            "strong": "H905"
+          },
+          " ",
+          {
+            "text": "and sent out",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "shoots",
+            "strong": "H6288"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "But there was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "eagle",
+            "strong": "H5404"
+          },
+          " ",
+          {
+            "text": "with great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "wings",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "and many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "feathers",
+            "strong": "H5133"
+          },
+          ". ",
+          {
+            "text": "And behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "vine",
+            "strong": "H1612"
+          },
+          " ",
+          {
+            "text": "bent",
+            "strong": "H3719"
+          },
+          " ",
+          {
+            "text": "its roots",
+            "strong": "H8328"
+          },
+          " ",
+          {
+            "text": "toward him",
+            "strong": "H5921"
+          },
+          ". ",
+          {
+            "text": "It stretched out",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "its branches",
+            "strong": "H1808"
+          },
+          " to him ",
+          {
+            "text": "from its planting",
+            "strong": "H4302"
+          },
+          " ",
+          {
+            "text": "bed",
+            "strong": "H6170"
+          },
+          ", ",
+          {
+            "text": "so that he might water it",
+            "strong": "H8248"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "It",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "had been planted",
+            "strong": "H8362"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "soil",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "abundant",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "in order to yield",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "branches",
+            "strong": "H6057"
+          },
+          " ",
+          {
+            "text": "and bear",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "and become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a splendid",
+            "strong": "H155"
+          },
+          " ",
+          {
+            "text": "vine",
+            "strong": "H1612"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "So you are to tell them",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "that this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u2018",
+          {
+            "text": "Will it flourish",
+            "strong": "H6743"
+          },
+          "? ",
+          {
+            "text": "Will it not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "be uprooted",
+            "strong": "H5423"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H8328"
+          },
+          " ",
+          {
+            "text": "and stripped",
+            "strong": "H7082"
+          },
+          " ",
+          {
+            "text": "of its fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "so that it shrivels",
+            "strong": "H3001"
+          },
+          "? ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "its foliage",
+            "strong": "H2965"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6780"
+          },
+          " ",
+          {
+            "text": "will wither",
+            "strong": "H3001"
+          },
+          "! ",
+          {
+            "text": "It will not take",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "a strong",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "arm",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "or many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "to pull",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "it up",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "by its roots",
+            "strong": "H8328"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "Even if it is transplanted",
+            "strong": "H8362"
+          },
+          ", ",
+          {
+            "text": "will it flourish",
+            "strong": "H6743"
+          },
+          "? ",
+          {
+            "text": "Will it not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "completely wither",
+            "strong": "H3001"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3001"
+          },
+          " ",
+          {
+            "text": "when the east",
+            "strong": "H6921"
+          },
+          " ",
+          {
+            "text": "wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "strikes",
+            "strong": "H5060"
+          },
+          "? ",
+          {
+            "text": "It will wither",
+            "strong": "H3001"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the bed",
+            "strong": "H6170"
+          },
+          " ",
+          {
+            "text": "where it sprouted",
+            "strong": "H6780"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Then the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "Now",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "say to",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "this rebellious",
+            "strong": "H4805"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          ": \u2018",
+          {
+            "text": "Do you not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "these [things] [mean]",
+            "strong": "H428"
+          },
+          "?\u2019 ",
+          {
+            "text": "Tell [them]",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "carried off",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "its king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and officials",
+            "strong": "H8269"
+          },
+          ", ",
+          {
+            "text": "and brought them back",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "H894"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "He took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a member of the royal",
+            "strong": "H4410"
+          },
+          " ",
+          {
+            "text": "family",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "and made",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          ", ",
+          {
+            "text": "putting",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "under oath",
+            "strong": "H423"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Then he carried away",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "the leading men",
+            "strong": "H352"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "so that the kingdom",
+            "strong": "H4467"
+          },
+          " ",
+          {
+            "text": "would be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "brought low",
+            "strong": "H8217"
+          },
+          ", ",
+          {
+            "text": "unable",
+            "strong": "H1115"
+          },
+          " ",
+          {
+            "text": "to lift itself up",
+            "strong": "H5375"
+          },
+          ", ",
+          {
+            "text": "surviving [only]",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "by keeping",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his covenant",
+            "strong": "H1285"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "But this [king] rebelled",
+            "strong": "H4775"
+          },
+          " against [Babylon] ",
+          {
+            "text": "by sending",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "his envoys",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "to Egypt",
+            "strong": "H4714"
+          },
+          " ",
+          {
+            "text": "to ask for",
+            "strong": "H5414"
+          },
+          " - ",
+          {
+            "text": "horses",
+            "strong": "H5483"
+          },
+          " ",
+          {
+            "text": "and a large",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "army",
+            "strong": "H5971"
+          },
+          ". ",
+          {
+            "text": "Will he flourish",
+            "strong": "H6743"
+          },
+          "? ",
+          {
+            "text": "Will the one who does",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "such",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "things escape",
+            "strong": "H4422"
+          },
+          "? ",
+          {
+            "text": "Can he break",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "and yet escape",
+            "strong": "H4422"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u2018",
+          {
+            "text": "As surely as",
+            "strong": "H518"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "live",
+            "strong": "H2416"
+          },
+          ",\u2019 ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          ", \u2018",
+          {
+            "text": "he will die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "Babylon",
+            "strong": "H894"
+          },
+          ", ",
+          {
+            "text": "in the land",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "who enthroned him",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "oath",
+            "strong": "H423"
+          },
+          " ",
+          {
+            "text": "he despised",
+            "strong": "H959"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and whose",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "covenant",
+            "strong": "H1285"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "he broke",
+            "strong": "H6565"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Pharaoh",
+            "strong": "H6547"
+          },
+          " ",
+          {
+            "text": "with [his] mighty",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "and vast",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "horde",
+            "strong": "H6951"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "help",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in battle",
+            "strong": "H4421"
+          },
+          ", ",
+          {
+            "text": "when ramps",
+            "strong": "H5550"
+          },
+          " ",
+          {
+            "text": "are built",
+            "strong": "H8210"
+          },
+          " ",
+          {
+            "text": "and siege walls",
+            "strong": "H1785"
+          },
+          " ",
+          {
+            "text": "constructed",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "to destroy",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "lives",
+            "strong": "H5315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "He despised",
+            "strong": "H959"
+          },
+          " ",
+          {
+            "text": "the oath",
+            "strong": "H423"
+          },
+          " ",
+          {
+            "text": "by breaking",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "the covenant",
+            "strong": "H1285"
+          },
+          ". ",
+          {
+            "text": "Seeing that",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "he gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "his hand in pledge",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "yet did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these [things]",
+            "strong": "H428"
+          },
+          ", ",
+          {
+            "text": "he will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "escape",
+            "strong": "H4422"
+          },
+          "!\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "As",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "surely as",
+            "strong": "H518"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "I live",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "I will bring down",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "upon his head",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "My oath",
+            "strong": "H423"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he despised",
+            "strong": "H959"
+          },
+          " ",
+          {
+            "text": "and My covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he broke",
+            "strong": "H6331"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "I will spread",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "My net",
+            "strong": "H7568"
+          },
+          " ",
+          {
+            "text": "over him",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "and catch him",
+            "strong": "H8610"
+          },
+          " ",
+          {
+            "text": "in My snare",
+            "strong": "H4686"
+          },
+          ". ",
+          {
+            "text": "I will bring him",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Babylon",
+            "strong": "H894"
+          },
+          " ",
+          {
+            "text": "and execute judgment",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "upon him",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "for the treason",
+            "strong": "H4603"
+          },
+          {
+            "text": ". . .",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he committed",
+            "strong": "H4604"
+          },
+          " against Me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his choice",
+            "strong": "H4015"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "troops",
+            "strong": "H102"
+          },
+          " ",
+          {
+            "text": "will fall",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "by the sword",
+            "strong": "H2719"
+          },
+          ", ",
+          {
+            "text": "and those who survive",
+            "strong": "H7604"
+          },
+          " ",
+          {
+            "text": "will be scattered",
+            "strong": "H6566"
+          },
+          " ",
+          {
+            "text": "to every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "wind",
+            "strong": "H7307"
+          },
+          ". ",
+          {
+            "text": "Then you will know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "have spoken",
+            "strong": "H1696"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u2018",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will take a shoot",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "from the lofty",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "top",
+            "strong": "H6788"
+          },
+          " ",
+          {
+            "text": "of the cedar",
+            "strong": "H730"
+          },
+          ", ",
+          {
+            "text": "and I will set [it] out",
+            "strong": "H5414"
+          },
+          ". ",
+          {
+            "text": "I will pluck",
+            "strong": "H6998"
+          },
+          " ",
+          {
+            "text": "a tender sprig",
+            "strong": "H7390"
+          },
+          " ",
+          {
+            "text": "from its topmost",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "shoots",
+            "strong": "H3127"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will plant it",
+            "strong": "H8362"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a high",
+            "strong": "H1364"
+          },
+          " ",
+          {
+            "text": "and lofty",
+            "strong": "H8524"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "I will plant it",
+            "strong": "H8362"
+          },
+          " ",
+          {
+            "text": "on the mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "heights",
+            "strong": "H4791"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "so that it will bear",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "branches",
+            "strong": "H6057"
+          },
+          "; ",
+          {
+            "text": "it will yield",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "and become",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a majestic",
+            "strong": "H117"
+          },
+          " ",
+          {
+            "text": "cedar",
+            "strong": "H730"
+          },
+          ". ",
+          {
+            "text": "Birds",
+            "strong": "H6833"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "kind",
+            "strong": "H3671"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "will nest",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "under it",
+            "strong": "H8478"
+          },
+          ", ",
+          {
+            "text": "taking shelter",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "in the shade",
+            "strong": "H6738"
+          },
+          " ",
+          {
+            "text": "of its branches",
+            "strong": "H1808"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Then all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the trees",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "will know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "I bring",
+            "strong": "H8213"
+          },
+          " ",
+          {
+            "text": "the tall",
+            "strong": "H1364"
+          },
+          " ",
+          {
+            "text": "tree {down}",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "and make the low",
+            "strong": "H8217"
+          },
+          " ",
+          {
+            "text": "tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "tall",
+            "strong": "H1361"
+          },
+          ". ",
+          {
+            "text": "I dry up",
+            "strong": "H3001"
+          },
+          " ",
+          {
+            "text": "the green",
+            "strong": "H3892"
+          },
+          " ",
+          {
+            "text": "tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "and make the withered",
+            "strong": "H3002"
+          },
+          " ",
+          {
+            "text": "tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "flourish",
+            "strong": "H6524"
+          },
+          ". ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "have spoken",
+            "strong": "H1696"
+          },
+          ", ",
+          {
+            "text": "and I have done [it]",
+            "strong": "H6213"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

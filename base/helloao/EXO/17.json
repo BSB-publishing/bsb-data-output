@@ -1,0 +1,1308 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EXO",
+    "name": "Exodus",
+    "number": 2
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "H5265"
+          },
+          " ",
+          {
+            "text": "the Desert",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Sin",
+            "strong": "H5512"
+          },
+          ", ",
+          {
+            "text": "moving from place to place",
+            "strong": "H4550"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "commanded",
+            "strong": "H6310"
+          },
+          ". ",
+          {
+            "text": "They camped",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "at Rephidim",
+            "strong": "H7508"
+          },
+          ", ",
+          {
+            "text": "but there was no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "for the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "to drink",
+            "strong": "H8354"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "contended",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Give",
+            "strong": "H5414"
+          },
+          " us ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "to drink",
+            "strong": "H8354"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do you contend",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5978"
+          },
+          "?\u201d ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          ". \u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do you test",
+            "strong": "H5254"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "But the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "thirsted",
+            "strong": "H6770"
+          },
+          " ",
+          {
+            "text": "for water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ", ",
+          {
+            "text": "and they grumbled",
+            "strong": "H3885"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ": \u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "have you brought us",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "out of Egypt",
+            "strong": "H4714"
+          },
+          " \u2014 ",
+          {
+            "text": "to make",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "us",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "our children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and livestock",
+            "strong": "H4735"
+          },
+          " ",
+          {
+            "text": "{die} of thirst",
+            "strong": "H6772"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Then Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "cried out",
+            "strong": "H6817"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should I do",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "with these",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          "? ",
+          {
+            "text": "A little more",
+            "strong": "H5750"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4592"
+          },
+          " ",
+          {
+            "text": "and they will stone me",
+            "strong": "H5619"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "Walk on",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "ahead of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "and take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "some of the elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H854"
+          },
+          ". ",
+          {
+            "text": "Take along",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "in your hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "the staff",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "with which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "you struck",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Nile",
+            "strong": "H2975"
+          },
+          ", ",
+          {
+            "text": "and go",
+            "strong": "H1980"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I will stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "by the rock",
+            "strong": "H6697"
+          },
+          " ",
+          {
+            "text": "at Horeb",
+            "strong": "H2722"
+          },
+          ". ",
+          {
+            "text": "And when you strike",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the rock",
+            "strong": "H6697"
+          },
+          ", ",
+          {
+            "text": "water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "will come out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "of it",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "for the people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "to drink",
+            "strong": "H8354"
+          },
+          ".\u201d ",
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "in the sight",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He named",
+            "strong": "H7121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "Massah",
+            "strong": "H4532"
+          },
+          " ",
+          {
+            "text": "and Meribah",
+            "strong": "H4809"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "quarreled",
+            "strong": "H7379"
+          },
+          ", ",
+          {
+            "text": "and because",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "they tested",
+            "strong": "H5254"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Is",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "among us",
+            "strong": "H7130"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H369"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "After this, the Amalekites",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and attacked",
+            "strong": "H3898"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "at Rephidim",
+            "strong": "H7508"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Joshua",
+            "strong": "H3091"
+          },
+          ", \u201c",
+          {
+            "text": "Choose",
+            "strong": "H977"
+          },
+          " vvv ",
+          {
+            "text": "some of our men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "and go out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to fight",
+            "strong": "H3898"
+          },
+          " ",
+          {
+            "text": "the Amalekites",
+            "strong": "H6002"
+          },
+          ". ",
+          {
+            "text": "Tomorrow",
+            "strong": "H4279"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "will stand",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the hilltop",
+            "strong": "H7218"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1389"
+          },
+          " ",
+          {
+            "text": "with the staff",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "in my hand",
+            "strong": "H3027"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Joshua",
+            "strong": "H3091"
+          },
+          " ",
+          {
+            "text": "did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "had instructed",
+            "strong": "H559"
+          },
+          " him ",
+          {
+            "text": "and fought",
+            "strong": "H3898"
+          },
+          " ",
+          {
+            "text": "against the Amalekites",
+            "strong": "H6002"
+          },
+          ", ",
+          {
+            "text": "while Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          ", ",
+          {
+            "text": "and Hur",
+            "strong": "H2354"
+          },
+          " ",
+          {
+            "text": "went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to the top",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the hill",
+            "strong": "H1389"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "As long as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "held up",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "his hands",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "prevailed",
+            "strong": "H1396"
+          },
+          "; ",
+          {
+            "text": "but when",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he lowered",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "[them]",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "Amalek",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "prevailed",
+            "strong": "H1396"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "When Moses\u2019",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "grew heavy",
+            "strong": "H3515"
+          },
+          ", ",
+          {
+            "text": "they took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "a stone",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "and put",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "it under him",
+            "strong": "H8478"
+          },
+          ", ",
+          {
+            "text": "and he sat",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "on it",
+            "strong": "H5921"
+          },
+          ". ",
+          {
+            "text": "Then Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and Hur",
+            "strong": "H2354"
+          },
+          " ",
+          {
+            "text": "held",
+            "strong": "H8551"
+          },
+          " ",
+          {
+            "text": "his hands up",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "one",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "on each",
+            "strong": "H259"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H259"
+          },
+          ", ",
+          {
+            "text": "so that his hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "remained",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "steady",
+            "strong": "H530"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the sun",
+            "strong": "H8121"
+          },
+          " ",
+          {
+            "text": "went down",
+            "strong": "H935"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "So Joshua",
+            "strong": "H3091"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "overwhelmed",
+            "strong": "H2522"
+          },
+          " ",
+          {
+            "text": "Amalek",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and his army",
+            "strong": "H5971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "with the sword",
+            "strong": "H2719"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "Write this",
+            "strong": "H3789"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "on a scroll",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "as a reminder",
+            "strong": "H2146"
+          },
+          " ",
+          {
+            "text": "and recite",
+            "strong": "H7760"
+          },
+          {
+            "text": ". . .",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "it to Joshua",
+            "strong": "H3091"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will utterly blot out",
+            "strong": "H4229"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4229"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the memory",
+            "strong": "H2143"
+          },
+          " ",
+          {
+            "text": "of Amalek",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "from under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "And Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "built",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "an altar",
+            "strong": "H4196"
+          },
+          " ",
+          {
+            "text": "and named",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "Is My Banner",
+            "strong": "H5251"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u201c",
+          {
+            "text": "Indeed",
+            "strong": "H3588"
+          },
+          ",\u201d ",
+          {
+            "text": "he said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "a hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "was lifted up toward",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the throne",
+            "strong": "H3676"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3050"
+          },
+          ". ",
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will war",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "against Amalek",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "from generation",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "to generation",
+            "strong": "H1755"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

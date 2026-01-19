@@ -1,0 +1,3508 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ACT",
+    "name": "Acts",
+    "number": 44
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "looked directly",
+            "strong": "G816"
+          },
+          " ",
+          {
+            "text": "at the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Sanhedrin",
+            "strong": "G4892"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G2036"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "G435"
+          },
+          " \u201c",
+          {
+            "text": "Brothers",
+            "strong": "G80"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "have conducted myself",
+            "strong": "G4176"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "before God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "G3956"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "G18"
+          },
+          " ",
+          {
+            "text": "conscience",
+            "strong": "G4893"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G891"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "G2250"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "At this",
+            "strong": "G1161"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "high priest",
+            "strong": "G749"
+          },
+          " ",
+          {
+            "text": "Ananias",
+            "strong": "G367"
+          },
+          " ",
+          {
+            "text": "ordered",
+            "strong": "G2004"
+          },
+          " ",
+          {
+            "text": "those",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "standing near",
+            "strong": "G3936"
+          },
+          " ",
+          {
+            "text": "[Paul]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "to strike",
+            "strong": "G5180"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "on the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "mouth",
+            "strong": "G4750"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G5119"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "G2036"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " \u201c",
+          {
+            "text": "God",
+            "strong": "G2316"
+          },
+          " ",
+          {
+            "text": "will",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "strike [you]",
+            "strong": "G5180"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "whitewashed",
+            "strong": "G2867"
+          },
+          " ",
+          {
+            "text": "wall",
+            "strong": "G5109"
+          },
+          "! ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "You",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "sit [here]",
+            "strong": "G2521"
+          },
+          " ",
+          {
+            "text": "to judge",
+            "strong": "G2919"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "according to",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "yet",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "you yourself violate the law",
+            "strong": "G3891"
+          },
+          " ",
+          {
+            "text": "by commanding",
+            "strong": "G2753"
+          },
+          " ",
+          {
+            "text": "that I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "be struck",
+            "strong": "G5180"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "But",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "those",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "standing nearby",
+            "strong": "G3936"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "G2036"
+          },
+          ", \u201c",
+          {
+            "text": "How dare you insult",
+            "strong": "G3058"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "high priest",
+            "strong": "G749"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "G2316"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "\u201c",
+          {
+            "text": "Brothers",
+            "strong": "G80"
+          },
+          ",\u201d ",
+          {
+            "text": "-",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "G5346"
+          },
+          ", \u201c",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "I was not aware",
+            "strong": "G1492"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "he was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "[the] high priest",
+            "strong": "G749"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "it is written",
+            "strong": "G1125"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          ": \u2018",
+          {
+            "text": "vvv",
+            "strong": "G3756"
+          },
+          " ",
+          {
+            "text": "Do not speak",
+            "strong": "G2046"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "G2560"
+          },
+          " ",
+          {
+            "text": "[about the] ruler",
+            "strong": "G758"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "G2992"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          ", ",
+          {
+            "text": "knowing",
+            "strong": "G1097"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "some of them",
+            "strong": "G3313"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "Sadducees",
+            "strong": "G4523"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "others",
+            "strong": "G2087"
+          },
+          " ",
+          {
+            "text": "Pharisees",
+            "strong": "G5330"
+          },
+          ", ",
+          {
+            "text": "called out",
+            "strong": "G2896"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Sanhedrin",
+            "strong": "G4892"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "G435"
+          },
+          " \u201c",
+          {
+            "text": "Brothers",
+            "strong": "G80"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "am",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a Pharisee",
+            "strong": "G5330"
+          },
+          ", ",
+          {
+            "text": "[the] son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "of a Pharisee",
+            "strong": "G5330"
+          },
+          ". ",
+          {
+            "text": "[It is] because of",
+            "strong": "G4012"
+          },
+          " ",
+          {
+            "text": "[my] hope",
+            "strong": "G1680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "in the resurrection",
+            "strong": "G386"
+          },
+          " ",
+          {
+            "text": "of [the] dead",
+            "strong": "G3498"
+          },
+          " ",
+          {
+            "text": "[that] I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "am on trial",
+            "strong": "G2919"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "As soon as",
+            "strong": "G3778"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "had said [this]",
+            "strong": "G2980"
+          },
+          ", ",
+          {
+            "text": "a dispute",
+            "strong": "G4714"
+          },
+          " ",
+          {
+            "text": "broke out",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "between the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Pharisees",
+            "strong": "G5330"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Sadducees",
+            "strong": "G4523"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "assembly",
+            "strong": "G4128"
+          },
+          " ",
+          {
+            "text": "was divided",
+            "strong": "G4977"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "For",
+            "strong": "G1063"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "[the] Sadducees",
+            "strong": "G4523"
+          },
+          " ",
+          {
+            "text": "say [that]",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "there is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "neither",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "a resurrection",
+            "strong": "G386"
+          },
+          " ",
+          {
+            "text": "nor",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "angels",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "nor",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "spirits",
+            "strong": "G4151"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[the] Pharisees",
+            "strong": "G5330"
+          },
+          " ",
+          {
+            "text": "acknowledge",
+            "strong": "G3670"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "them all",
+            "strong": "G297"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "A great",
+            "strong": "G3173"
+          },
+          " ",
+          {
+            "text": "clamor",
+            "strong": "G2906"
+          },
+          " ",
+          {
+            "text": "arose",
+            "strong": "G1096"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "some",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "scribes",
+            "strong": "G1122"
+          },
+          " ",
+          {
+            "text": "from the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "party",
+            "strong": "G3313"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Pharisees",
+            "strong": "G5330"
+          },
+          " ",
+          {
+            "text": "got up",
+            "strong": "G450"
+          },
+          " ",
+          {
+            "text": "[and] contended sharply",
+            "strong": "G1264"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3004"
+          },
+          ", \u201c",
+          {
+            "text": "We find",
+            "strong": "G2147"
+          },
+          " ",
+          {
+            "text": "nothing",
+            "strong": "G3762"
+          },
+          " ",
+          {
+            "text": "wrong",
+            "strong": "G2556"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "G444"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "What if",
+            "strong": "G1487"
+          },
+          " ",
+          {
+            "text": "a spirit",
+            "strong": "G4151"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "G2228"
+          },
+          " ",
+          {
+            "text": "an angel",
+            "strong": "G32"
+          },
+          " ",
+          {
+            "text": "has spoken",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "G846"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[The] dispute",
+            "strong": "G4714"
+          },
+          " ",
+          {
+            "text": "grew",
+            "strong": "G1096"
+          },
+          " ",
+          {
+            "text": "so violent",
+            "strong": "G4183"
+          },
+          " ",
+          {
+            "text": "[that] the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          " ",
+          {
+            "text": "was afraid",
+            "strong": "G5399"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "would tear Paul to pieces",
+            "strong": "G1288"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3972"
+          },
+          ". ",
+          {
+            "text": "He ordered",
+            "strong": "G2753"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "soldiers",
+            "strong": "G4753"
+          },
+          " ",
+          {
+            "text": "to go down",
+            "strong": "G2597"
+          },
+          " ",
+          {
+            "text": "[and] remove him by force",
+            "strong": "G726"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1537"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3319"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "bring [him]",
+            "strong": "G71"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "barracks",
+            "strong": "G3925"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "following",
+            "strong": "G1966"
+          },
+          " ",
+          {
+            "text": "night",
+            "strong": "G3571"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Lord",
+            "strong": "G2962"
+          },
+          " ",
+          {
+            "text": "stood near",
+            "strong": "G2186"
+          },
+          " ",
+          {
+            "text": "[Paul]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G2036"
+          },
+          ", \u201c",
+          {
+            "text": "Take courage",
+            "strong": "G2293"
+          },
+          "! ",
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "As",
+            "strong": "G5613"
+          },
+          " ",
+          {
+            "text": "you have testified",
+            "strong": "G1263"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G4012"
+          },
+          " ",
+          {
+            "text": "Me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "G2419"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "G3779"
+          },
+          " ",
+          {
+            "text": "also",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "must",
+            "strong": "G1163"
+          },
+          " ",
+          {
+            "text": "testify",
+            "strong": "G3140"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "Rome",
+            "strong": "G4516"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "When daylight came",
+            "strong": "G1096"
+          },
+          {
+            "text": ". . .",
+            "strong": "G2250"
+          },
+          ", ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jews",
+            "strong": "G2453"
+          },
+          " ",
+          {
+            "text": "formed",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "a conspiracy",
+            "strong": "G4963"
+          },
+          " ",
+          {
+            "text": "and bound themselves with an oath",
+            "strong": "G332"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1438"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "G5315"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "drink",
+            "strong": "G4095"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "they had killed",
+            "strong": "G615"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "More than",
+            "strong": "G4119"
+          },
+          " ",
+          {
+            "text": "forty [of them]",
+            "strong": "G5062"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "involved",
+            "strong": "G4160"
+          },
+          " ",
+          {
+            "text": "in this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "plot",
+            "strong": "G4945"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "They",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "G4334"
+          },
+          " ",
+          {
+            "text": "to the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "chief priests",
+            "strong": "G749"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "elders",
+            "strong": "G4245"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G2036"
+          },
+          ", \u201c",
+          {
+            "text": "We have bound",
+            "strong": "G332"
+          },
+          " ",
+          {
+            "text": "ourselves",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "with a solemn oath",
+            "strong": "G331"
+          },
+          " ",
+          {
+            "text": "[not] to eat",
+            "strong": "G1089"
+          },
+          " ",
+          {
+            "text": "[anything]",
+            "strong": "G3367"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "we have killed",
+            "strong": "G615"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "G3568"
+          },
+          " ",
+          {
+            "text": "then",
+            "strong": "G3767"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G4862"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Sanhedrin",
+            "strong": "G4892"
+          },
+          " ",
+          {
+            "text": "petition",
+            "strong": "G1718"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G3704"
+          },
+          " ",
+          {
+            "text": "bring him down",
+            "strong": "G2609"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "on the pretext",
+            "strong": "G5613"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "of examining",
+            "strong": "G1231"
+          },
+          " ",
+          {
+            "text": "his case",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4012"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "more carefully",
+            "strong": "G199"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "We",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "ready",
+            "strong": "G2092"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "to kill",
+            "strong": "G337"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "on the way",
+            "strong": "G4253"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1448"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "But [when]",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "G5207"
+          },
+          " ",
+          {
+            "text": "of Paul\u2019s",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "sister",
+            "strong": "G79"
+          },
+          " ",
+          {
+            "text": "heard about",
+            "strong": "G191"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "plot",
+            "strong": "G1747"
+          },
+          ", ",
+          {
+            "text": "he went",
+            "strong": "G3854"
+          },
+          {
+            "text": ". . .",
+            "strong": "G2532"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1525"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "barracks",
+            "strong": "G3925"
+          },
+          " ",
+          {
+            "text": "[and] told",
+            "strong": "G518"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "G4341"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "G1520"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "centurions",
+            "strong": "G1543"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G5346"
+          },
+          ", \u201c",
+          {
+            "text": "Take",
+            "strong": "G520"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "young man",
+            "strong": "G3494"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "he has",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "something",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "to tell",
+            "strong": "G518"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "[the centurion]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "took him",
+            "strong": "G3880"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          {
+            "text": ". . .",
+            "strong": "G71"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "G5346"
+          },
+          ", \u201c",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "prisoner",
+            "strong": "G1198"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "G4341"
+          },
+          " ",
+          {
+            "text": "[and] asked",
+            "strong": "G2065"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "to bring",
+            "strong": "G71"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "young man",
+            "strong": "G3495"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ". ",
+          {
+            "text": "He has",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "something",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "to tell",
+            "strong": "G2980"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "G1949"
+          },
+          " ",
+          {
+            "text": "[the young man]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "by the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "hand",
+            "strong": "G5495"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "drew [him]",
+            "strong": "G402"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "aside",
+            "strong": "G2398"
+          },
+          ", ",
+          {
+            "text": "and asked",
+            "strong": "G4441"
+          },
+          ", \u201c",
+          {
+            "text": "What",
+            "strong": "G5101"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "do you need",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "to tell",
+            "strong": "G518"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "He answered",
+            "strong": "G2036"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G3754"
+          },
+          " \u201c",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jews",
+            "strong": "G2453"
+          },
+          " ",
+          {
+            "text": "have agreed",
+            "strong": "G4934"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "to ask",
+            "strong": "G2065"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G3704"
+          },
+          " ",
+          {
+            "text": "bring",
+            "strong": "G2609"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Sanhedrin",
+            "strong": "G4892"
+          },
+          " ",
+          {
+            "text": "tomorrow",
+            "strong": "G839"
+          },
+          " ",
+          {
+            "text": "on the pretext",
+            "strong": "G5613"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "of acquiring",
+            "strong": "G4441"
+          },
+          " ",
+          {
+            "text": "more information",
+            "strong": "G199"
+          },
+          {
+            "text": ". . .",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "G4012"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "{Do} not {let}",
+            "strong": "G3361"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "persuade",
+            "strong": "G3982"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "G1063"
+          },
+          " ",
+          {
+            "text": "more than",
+            "strong": "G4119"
+          },
+          " ",
+          {
+            "text": "forty",
+            "strong": "G5062"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1537"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "G435"
+          },
+          " ",
+          {
+            "text": "are waiting to ambush",
+            "strong": "G1748"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          ". ",
+          {
+            "text": "[They]",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "have bound themselves with an oath",
+            "strong": "G332"
+          },
+          {
+            "text": ". . .",
+            "strong": "G1438"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "G5315"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "G3383"
+          },
+          " ",
+          {
+            "text": "drink",
+            "strong": "G4095"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "G2193"
+          },
+          {
+            "text": ". . .",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "they have killed",
+            "strong": "G337"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "they are",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "ready",
+            "strong": "G2092"
+          },
+          " ",
+          {
+            "text": "now",
+            "strong": "G3568"
+          },
+          ", ",
+          {
+            "text": "awaiting",
+            "strong": "G4327"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "consent",
+            "strong": "G1860"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "commander",
+            "strong": "G5506"
+          },
+          " ",
+          {
+            "text": "dismissed",
+            "strong": "G630"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "young man",
+            "strong": "G3495"
+          },
+          " ",
+          {
+            "text": "and instructed [him]",
+            "strong": "G3853"
+          },
+          ", \u201c",
+          {
+            "text": "Do not tell",
+            "strong": "G1583"
+          },
+          " ",
+          {
+            "text": "[anyone]",
+            "strong": "G3367"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "you have reported",
+            "strong": "G1718"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "G1473"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "he called",
+            "strong": "G4341"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G5100"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "G1417"
+          },
+          " ",
+          {
+            "text": "of [his]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "centurions",
+            "strong": "G1543"
+          },
+          " ",
+          {
+            "text": "[and] said",
+            "strong": "G2036"
+          },
+          ", \u201c",
+          {
+            "text": "Prepare",
+            "strong": "G2090"
+          },
+          " ",
+          {
+            "text": "two hundred",
+            "strong": "G1250"
+          },
+          " ",
+          {
+            "text": "soldiers",
+            "strong": "G4757"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "seventy",
+            "strong": "G1440"
+          },
+          " ",
+          {
+            "text": "horsemen",
+            "strong": "G2460"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "two hundred",
+            "strong": "G1250"
+          },
+          " ",
+          {
+            "text": "spearmen",
+            "strong": "G1187"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G3704"
+          },
+          " ",
+          {
+            "text": "go",
+            "strong": "G4198"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G2193"
+          },
+          " ",
+          {
+            "text": "Caesarea",
+            "strong": "G2542"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "the third",
+            "strong": "G5154"
+          },
+          " ",
+          {
+            "text": "hour",
+            "strong": "G5610"
+          },
+          " ",
+          {
+            "text": "of the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "night",
+            "strong": "G3571"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "Provide",
+            "strong": "G3936"
+          },
+          " ",
+          {
+            "text": "mounts",
+            "strong": "G2934"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2443"
+          },
+          " ",
+          {
+            "text": "[for]",
+            "strong": "G1913"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "to take [him] safely",
+            "strong": "G1295"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Governor",
+            "strong": "G2232"
+          },
+          " ",
+          {
+            "text": "Felix",
+            "strong": "G5344"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "[And] he wrote",
+            "strong": "G1125"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "the following",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G5179"
+          },
+          " ",
+          {
+            "text": "letter",
+            "strong": "G1992"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Claudius",
+            "strong": "G2804"
+          },
+          " ",
+          {
+            "text": "Lysias",
+            "strong": "G3079"
+          },
+          ", ",
+          {
+            "text": "To",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "His Excellency",
+            "strong": "G2903"
+          },
+          ", ",
+          {
+            "text": "Governor",
+            "strong": "G2232"
+          },
+          " ",
+          {
+            "text": "Felix",
+            "strong": "G5344"
+          },
+          ": ",
+          {
+            "text": "Greetings",
+            "strong": "G5463"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "This",
+            "strong": "G3778"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "G435"
+          },
+          " ",
+          {
+            "text": "was seized",
+            "strong": "G4815"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Jews",
+            "strong": "G2453"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G5259"
+          },
+          " ",
+          {
+            "text": "they",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "were about",
+            "strong": "G3195"
+          },
+          " ",
+          {
+            "text": "to kill [him]",
+            "strong": "G337"
+          },
+          " ",
+          {
+            "text": "when I came",
+            "strong": "G2186"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G4862"
+          },
+          " ",
+          {
+            "text": "[my]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "troops",
+            "strong": "G4753"
+          },
+          " ",
+          {
+            "text": "to rescue [him]",
+            "strong": "G1807"
+          },
+          ". ",
+          {
+            "text": "For I had learned",
+            "strong": "G3129"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "he is",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a Roman citizen",
+            "strong": "G4514"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "and",
+            "strong": "G5037"
+          },
+          " ",
+          {
+            "text": "since I wanted",
+            "strong": "G1014"
+          },
+          " ",
+          {
+            "text": "to understand",
+            "strong": "G1921"
+          },
+          " ",
+          {
+            "text": "[their]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "charges",
+            "strong": "G156"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "[against]",
+            "strong": "G1458"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          ", ",
+          {
+            "text": "I brought [him] down",
+            "strong": "G2609"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Sanhedrin",
+            "strong": "G4892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G3739"
+          },
+          " ",
+          {
+            "text": "I found that",
+            "strong": "G2147"
+          },
+          " ",
+          {
+            "text": "the accusation",
+            "strong": "G1458"
+          },
+          " ",
+          {
+            "text": "involved",
+            "strong": "G4012"
+          },
+          " ",
+          {
+            "text": "questions",
+            "strong": "G2213"
+          },
+          " ",
+          {
+            "text": "[about]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "their [own]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "G3551"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "there was",
+            "strong": "G2192"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "G3367"
+          },
+          " ",
+          {
+            "text": "charge",
+            "strong": "G1462"
+          },
+          " ",
+          {
+            "text": "worthy",
+            "strong": "G514"
+          },
+          " ",
+          {
+            "text": "of death",
+            "strong": "G2288"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "G2228"
+          },
+          " ",
+          {
+            "text": "imprisonment",
+            "strong": "G1199"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "[When]",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "G1473"
+          },
+          " ",
+          {
+            "text": "was informed that",
+            "strong": "G3377"
+          },
+          " ",
+          {
+            "text": "there was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "a plot",
+            "strong": "G1917"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "G435"
+          },
+          ", ",
+          {
+            "text": "I sent [him]",
+            "strong": "G3992"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "at once",
+            "strong": "G1824"
+          },
+          ". ",
+          {
+            "text": "vvv",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "I also instructed",
+            "strong": "G3853"
+          },
+          " ",
+          {
+            "text": "[his]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "accusers",
+            "strong": "G2725"
+          },
+          " ",
+          {
+            "text": "to present",
+            "strong": "G3004"
+          },
+          " ",
+          {
+            "text": "[their case]",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "G4314"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "G1909"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "G4771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "So",
+            "strong": "G3767"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3303"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "soldiers",
+            "strong": "G4757"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G2596"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "followed their orders",
+            "strong": "G1299"
+          },
+          {
+            "text": ". . .",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "[and] brought",
+            "strong": "G353"
+          },
+          {
+            "text": ". . .",
+            "strong": "G71"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "G1223"
+          },
+          " ",
+          {
+            "text": "night",
+            "strong": "G3571"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Antipatris",
+            "strong": "G494"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "The",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "next day",
+            "strong": "G1887"
+          },
+          " ",
+          {
+            "text": "they returned",
+            "strong": "G5290"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "barracks",
+            "strong": "G3925"
+          },
+          " ",
+          {
+            "text": "[and] let",
+            "strong": "G1439"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "horsemen",
+            "strong": "G2460"
+          },
+          " ",
+          {
+            "text": "go on",
+            "strong": "G565"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "G4862"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "[When the horsemen]",
+            "strong": "G3748"
+          },
+          " ",
+          {
+            "text": "arrived",
+            "strong": "G1525"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1519"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Caesarea",
+            "strong": "G2542"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "they delivered",
+            "strong": "G325"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "letter",
+            "strong": "G1992"
+          },
+          " ",
+          {
+            "text": "to the",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "governor",
+            "strong": "G2232"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "presented",
+            "strong": "G3936"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Paul",
+            "strong": "G3972"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "G846"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "-",
+            "strong": "G1161"
+          },
+          " ",
+          {
+            "text": "[The governor] read [the letter]",
+            "strong": "G314"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "G1905"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "G4169"
+          },
+          " ",
+          {
+            "text": "province",
+            "strong": "G1885"
+          },
+          " ",
+          {
+            "text": "[Paul] was",
+            "strong": "G1510"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "G1537"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          " ",
+          {
+            "text": "Learning",
+            "strong": "G4441"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "G3754"
+          },
+          " ",
+          {
+            "text": "[he was] from",
+            "strong": "G575"
+          },
+          " ",
+          {
+            "text": "Cilicia",
+            "strong": "G2791"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "he said",
+            "strong": "G5346"
+          },
+          ", \u201c",
+          {
+            "text": "I will hear your case",
+            "strong": "G1251"
+          },
+          {
+            "text": ". . .",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "G3752"
+          },
+          " ",
+          {
+            "text": "your",
+            "strong": "G4771"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "accusers",
+            "strong": "G2725"
+          },
+          " ",
+          {
+            "text": "arrive",
+            "strong": "G3854"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G2532"
+          },
+          ".\u201d ",
+          {
+            "text": "Then he ordered that",
+            "strong": "G2753"
+          },
+          " ",
+          {
+            "text": "[Paul]",
+            "strong": "G846"
+          },
+          " ",
+          {
+            "text": "be kept under guard",
+            "strong": "G5442"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "G1722"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "G3588"
+          },
+          " ",
+          {
+            "text": "Herod\u2019s",
+            "strong": "G2264"
+          },
+          " ",
+          {
+            "text": "Praetorium",
+            "strong": "G4232"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

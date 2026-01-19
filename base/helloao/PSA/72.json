@@ -1,0 +1,884 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 72,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "May he judge",
+            "strong": "H1777"
+          },
+          " ",
+          {
+            "text": "Your people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "with righteousness",
+            "strong": "H6664"
+          },
+          " ",
+          {
+            "text": "and Your afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "with justice",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "May the mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "bring",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "peace",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "to the people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "and the hills",
+            "strong": "H1389"
+          },
+          " ",
+          {
+            "text": "[bring] righteousness",
+            "strong": "H6666"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "May he vindicate",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "the afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "among the people",
+            "strong": "H5971"
+          },
+          "; ",
+          {
+            "text": "may he save",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the needy",
+            "strong": "H34"
+          },
+          " ",
+          {
+            "text": "and crush",
+            "strong": "H1792"
+          },
+          " ",
+          {
+            "text": "the oppressor",
+            "strong": "H6231"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "May they fear him",
+            "strong": "H3372"
+          },
+          " ",
+          {
+            "text": "as long as",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "the sun [shines]",
+            "strong": "H8121"
+          },
+          ", ",
+          {
+            "text": "as long as",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the moon [remains]",
+            "strong": "H3394"
+          },
+          ", ",
+          {
+            "text": "through all",
+            "strong": "H1755"
+          },
+          " ",
+          {
+            "text": "generations",
+            "strong": "H1755"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "May he be like rain",
+            "strong": "H4306"
+          },
+          " ",
+          {
+            "text": "that falls",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "freshly cut grass",
+            "strong": "H1488"
+          },
+          ", ",
+          {
+            "text": "like spring showers",
+            "strong": "H7241"
+          },
+          " ",
+          {
+            "text": "that water",
+            "strong": "H2222"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "May the righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "flourish",
+            "strong": "H6524"
+          },
+          " ",
+          {
+            "text": "in his days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "and prosperity",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "abound",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the moon",
+            "strong": "H3394"
+          },
+          " ",
+          {
+            "text": "is no more",
+            "strong": "H1097"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "May he rule",
+            "strong": "H7287"
+          },
+          " ",
+          {
+            "text": "from sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "and from the [Euphrates]",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the ends",
+            "strong": "H657"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "May the nomads",
+            "strong": "H6728"
+          },
+          " ",
+          {
+            "text": "bow",
+            "strong": "H3766"
+          },
+          " ",
+          {
+            "text": "before him",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "and his enemies",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "lick",
+            "strong": "H3897"
+          },
+          " ",
+          {
+            "text": "the dust",
+            "strong": "H6083"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "May the kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Tarshish",
+            "strong": "H8659"
+          },
+          " ",
+          {
+            "text": "and distant shores",
+            "strong": "H339"
+          },
+          " ",
+          {
+            "text": "bring",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "tribute",
+            "strong": "H4503"
+          },
+          "; ",
+          {
+            "text": "may the kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Sheba",
+            "strong": "H7614"
+          },
+          " ",
+          {
+            "text": "and Seba",
+            "strong": "H5434"
+          },
+          " ",
+          {
+            "text": "offer",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "gifts",
+            "strong": "H814"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "May all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "bow down",
+            "strong": "H7812"
+          },
+          " to him ",
+          {
+            "text": "[and] all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "serve him",
+            "strong": "H5647"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he will deliver",
+            "strong": "H5337"
+          },
+          " ",
+          {
+            "text": "the needy",
+            "strong": "H34"
+          },
+          " ",
+          {
+            "text": "who cry out",
+            "strong": "H7768"
+          },
+          " ",
+          {
+            "text": "and the afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "who have no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "helper",
+            "strong": "H5826"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "He will take pity",
+            "strong": "H2347"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the poor",
+            "strong": "H1800"
+          },
+          " ",
+          {
+            "text": "and needy",
+            "strong": "H34"
+          },
+          " ",
+          {
+            "text": "and save",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "the lives",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of the oppressed",
+            "strong": "H34"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "He will redeem",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "from oppression",
+            "strong": "H8496"
+          },
+          " ",
+          {
+            "text": "and violence",
+            "strong": "H2555"
+          },
+          ", ",
+          {
+            "text": "for their blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "is precious",
+            "strong": "H3365"
+          },
+          " ",
+          {
+            "text": "in his sight",
+            "strong": "H5869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Long may he live",
+            "strong": "H2421"
+          },
+          "! ",
+          {
+            "text": "May gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "from Sheba",
+            "strong": "H7614"
+          },
+          " ",
+          {
+            "text": "be given",
+            "strong": "H5414"
+          },
+          " him. ",
+          {
+            "text": "May people ever",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "pray",
+            "strong": "H6419"
+          },
+          " ",
+          {
+            "text": "for him",
+            "strong": "H1157"
+          },
+          "; ",
+          {
+            "text": "may they bless him",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day long",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "May there be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an abundance",
+            "strong": "H6451"
+          },
+          " ",
+          {
+            "text": "of grain",
+            "strong": "H1250"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "may it sway",
+            "strong": "H7493"
+          },
+          " ",
+          {
+            "text": "atop",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "the hills",
+            "strong": "H2022"
+          },
+          ". ",
+          {
+            "text": "May its fruit trees",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "flourish",
+            "strong": "H6692"
+          },
+          " ",
+          {
+            "text": "like [the forests of] Lebanon",
+            "strong": "H3844"
+          },
+          ", ",
+          {
+            "text": "[the people] of its cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "like the grass",
+            "strong": "H6212"
+          },
+          " ",
+          {
+            "text": "of the field",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "May his name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "endure",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          "; ",
+          {
+            "text": "may his name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "continue",
+            "strong": "H5125"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "long as the sun [shines]",
+            "strong": "H8121"
+          },
+          ".In him ",
+          {
+            "text": "may all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "be blessed",
+            "strong": "H1288"
+          },
+          "; ",
+          {
+            "text": "may they call him blessed",
+            "strong": "H833"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Blessed be",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "who alone",
+            "strong": "H905"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "marvelous deeds",
+            "strong": "H6381"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "And blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "[be] His glorious",
+            "strong": "H3519"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          "; ",
+          {
+            "text": "may all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "be filled",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "with His glory",
+            "strong": "H3519"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Amen",
+            "strong": "H543"
+          },
+          " ",
+          {
+            "text": "and amen",
+            "strong": "H543"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Thus conclude",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "the prayers",
+            "strong": "H8605"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jesse",
+            "strong": "H3448"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

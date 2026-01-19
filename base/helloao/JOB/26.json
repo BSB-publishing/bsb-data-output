@@ -1,0 +1,595 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOB",
+    "name": "Job",
+    "number": 18
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then Job",
+            "strong": "H347"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H6030"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "How",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "you have helped",
+            "strong": "H5826"
+          },
+          " ",
+          {
+            "text": "the powerless",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "[and] saved",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "the arm",
+            "strong": "H2220"
+          },
+          " ",
+          {
+            "text": "that is feeble",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5797"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "How",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "you have counseled",
+            "strong": "H3289"
+          },
+          " ",
+          {
+            "text": "the unwise",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "[and] provided",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "fully sound",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "insight",
+            "strong": "H8454"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "To",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "have you uttered",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "these words",
+            "strong": "H4405"
+          },
+          "? ",
+          {
+            "text": "And whose",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "spirit",
+            "strong": "H5397"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "through you",
+            "strong": "H4480"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "The dead",
+            "strong": "H7496"
+          },
+          " ",
+          {
+            "text": "tremble",
+            "strong": "H2342"
+          },
+          " \u2014 ",
+          {
+            "text": "those beneath",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "and those who dwell in them",
+            "strong": "H7931"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Sheol",
+            "strong": "H7585"
+          },
+          " ",
+          {
+            "text": "is naked",
+            "strong": "H6174"
+          },
+          " ",
+          {
+            "text": "before [God]",
+            "strong": "H5048"
+          },
+          ", ",
+          {
+            "text": "and Abaddon",
+            "strong": "H11"
+          },
+          " ",
+          {
+            "text": "has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "covering",
+            "strong": "H3682"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "He stretches out",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "the north",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "empty space",
+            "strong": "H8414"
+          },
+          "; ",
+          {
+            "text": "He hangs",
+            "strong": "H8518"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "nothing",
+            "strong": "H1097"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4100"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "He wraps up",
+            "strong": "H6887"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "in His clouds",
+            "strong": "H5645"
+          },
+          ", ",
+          {
+            "text": "yet the clouds",
+            "strong": "H6051"
+          },
+          " ",
+          {
+            "text": "do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "burst",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "under their own weight",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He covers",
+            "strong": "H270"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the full moon",
+            "strong": "H3678"
+          },
+          ", ",
+          {
+            "text": "spreading",
+            "strong": "H6576"
+          },
+          " ",
+          {
+            "text": "over it",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "His cloud",
+            "strong": "H6051"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He has inscribed",
+            "strong": "H2328"
+          },
+          " ",
+          {
+            "text": "a horizon",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the boundary",
+            "strong": "H8503"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H216"
+          },
+          " ",
+          {
+            "text": "and darkness",
+            "strong": "H2822"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "The foundations",
+            "strong": "H5982"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "quake",
+            "strong": "H7322"
+          },
+          ", ",
+          {
+            "text": "astounded",
+            "strong": "H8539"
+          },
+          " ",
+          {
+            "text": "at His rebuke",
+            "strong": "H1606"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "By His power",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "He stirred",
+            "strong": "H7280"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          "; ",
+          {
+            "text": "by His understanding",
+            "strong": "H8394"
+          },
+          " ",
+          {
+            "text": "He shattered",
+            "strong": "H4272"
+          },
+          " ",
+          {
+            "text": "Rahab",
+            "strong": "H7294"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "By His breath",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "the skies",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "were cleared",
+            "strong": "H8235"
+          },
+          "; ",
+          {
+            "text": "His hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "pierced",
+            "strong": "H2490"
+          },
+          " ",
+          {
+            "text": "the fleeing",
+            "strong": "H1281"
+          },
+          " ",
+          {
+            "text": "serpent",
+            "strong": "H5175"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Indeed",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "these [are]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "but the fringes",
+            "strong": "H7098"
+          },
+          " ",
+          {
+            "text": "of His ways",
+            "strong": "H1870"
+          },
+          "; ",
+          {
+            "text": "how",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "faint",
+            "strong": "H8102"
+          },
+          " ",
+          {
+            "text": "is the whisper",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "we hear",
+            "strong": "H8085"
+          },
+          " of Him! ",
+          {
+            "text": "Who then",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can understand",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "the thunder",
+            "strong": "H7482"
+          },
+          " ",
+          {
+            "text": "of His power",
+            "strong": "H1369"
+          },
+          "?\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

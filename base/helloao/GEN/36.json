@@ -1,0 +1,2705 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 36,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "is the account",
+            "strong": "H8435"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "Edom)",
+            "strong": "H123"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his wives",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "from the daughters",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ": ",
+          {
+            "text": "Adah",
+            "strong": "H5711"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Elon",
+            "strong": "H356"
+          },
+          " ",
+          {
+            "text": "the Hittite",
+            "strong": "H2850"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Oholibamah",
+            "strong": "H173"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Anah",
+            "strong": "H6034"
+          },
+          " ",
+          {
+            "text": "and granddaughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Zibeon",
+            "strong": "H6649"
+          },
+          " ",
+          {
+            "text": "the Hivite",
+            "strong": "H2340"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Basemath",
+            "strong": "H1315"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Ishmael",
+            "strong": "H3458"
+          },
+          " ",
+          {
+            "text": "and sister",
+            "strong": "H269"
+          },
+          " ",
+          {
+            "text": "of Nebaioth",
+            "strong": "H5032"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "And Adah",
+            "strong": "H5711"
+          },
+          " ",
+          {
+            "text": "bore",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "Eliphaz",
+            "strong": "H464"
+          },
+          " ",
+          {
+            "text": "to Esau",
+            "strong": "H6215"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Basemath",
+            "strong": "H1315"
+          },
+          " ",
+          {
+            "text": "gave birth to",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Reuel",
+            "strong": "H7467"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "and Oholibamah",
+            "strong": "H173"
+          },
+          " ",
+          {
+            "text": "gave birth to",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jeush",
+            "strong": "H3274"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jalam",
+            "strong": "H3281"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Korah",
+            "strong": "H7141"
+          },
+          ". ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "[were] the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were born",
+            "strong": "H3205"
+          },
+          " to him ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Later, Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "his wives",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "daughters",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of his household",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "along with",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his livestock",
+            "strong": "H4735"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his [other] animals",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the property",
+            "strong": "H7075"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he had acquired",
+            "strong": "H7408"
+          },
+          " ",
+          {
+            "text": "in Canaan",
+            "strong": "H3667"
+          },
+          ", ",
+          {
+            "text": "and he moved",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "a land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "far away from",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "his brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "their possessions",
+            "strong": "H7399"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "too great",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "for them to dwell",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H3162"
+          },
+          "; ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "where they stayed",
+            "strong": "H4033"
+          },
+          " ",
+          {
+            "text": "could",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "support them",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of their livestock",
+            "strong": "H4735"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "So Esau",
+            "strong": "H6215"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "Edom",
+            "strong": "H123"
+          },
+          ") ",
+          {
+            "text": "settled",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in [the area of] Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Seir",
+            "strong": "H8165"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "is the account",
+            "strong": "H8435"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ", ",
+          {
+            "text": "the father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of the Edomites",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "in [the area of] Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Seir",
+            "strong": "H8165"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ": ",
+          {
+            "text": "Eliphaz",
+            "strong": "H464"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Adah",
+            "strong": "H5711"
+          },
+          ", ",
+          {
+            "text": "and Reuel",
+            "strong": "H7467"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Basemath",
+            "strong": "H1315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Eliphaz",
+            "strong": "H464"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Teman",
+            "strong": "H8487"
+          },
+          ", ",
+          {
+            "text": "Omar",
+            "strong": "H201"
+          },
+          ", ",
+          {
+            "text": "Zepho",
+            "strong": "H6825"
+          },
+          ", ",
+          {
+            "text": "Gatam",
+            "strong": "H1609"
+          },
+          ", ",
+          {
+            "text": "and Kenaz",
+            "strong": "H7073"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Additionally, Timna",
+            "strong": "H8555"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a concubine",
+            "strong": "H6370"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Eliphaz",
+            "strong": "H464"
+          },
+          ", ",
+          {
+            "text": "gave birth to",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "Amalek",
+            "strong": "H6002"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H464"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the grandsons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Adah",
+            "strong": "H5711"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "These [are]",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Reuel",
+            "strong": "H7467"
+          },
+          ": ",
+          {
+            "text": "Nahath",
+            "strong": "H5184"
+          },
+          ", ",
+          {
+            "text": "Zerah",
+            "strong": "H2226"
+          },
+          ", ",
+          {
+            "text": "Shammah",
+            "strong": "H8048"
+          },
+          ", ",
+          {
+            "text": "and Mizzah",
+            "strong": "H4199"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the grandsons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Basemath",
+            "strong": "H1315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Oholibamah",
+            "strong": "H173"
+          },
+          " (",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Anah",
+            "strong": "H6034"
+          },
+          " ",
+          {
+            "text": "and granddaughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Zibeon",
+            "strong": "H6649"
+          },
+          ") ",
+          {
+            "text": "whom she bore",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "to Esau",
+            "strong": "H6215"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jeush",
+            "strong": "H3274"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Jalam",
+            "strong": "H3281"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Korah",
+            "strong": "H7141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "among the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ". ",
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Eliphaz",
+            "strong": "H464"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          ": ",
+          {
+            "text": "Chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Teman",
+            "strong": "H8487"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Omar",
+            "strong": "H201"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Zepho",
+            "strong": "H6825"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Kenaz",
+            "strong": "H7073"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Korah",
+            "strong": "H7141"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Gatam",
+            "strong": "H1609"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "and Amalek",
+            "strong": "H6002"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "of Eliphaz",
+            "strong": "H464"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "[and] they",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the grandsons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Adah",
+            "strong": "H5711"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Reuel",
+            "strong": "H7467"
+          },
+          ": ",
+          {
+            "text": "Chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Nahath",
+            "strong": "H5184"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Zerah",
+            "strong": "H2226"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Shammah",
+            "strong": "H8048"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "and Mizzah",
+            "strong": "H4199"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "descended from Reuel",
+            "strong": "H7467"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "[and] they",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the grandsons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Basemath",
+            "strong": "H1315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Oholibamah",
+            "strong": "H173"
+          },
+          ": ",
+          {
+            "text": "Chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Jeush",
+            "strong": "H3266"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Jalam",
+            "strong": "H3281"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "and Korah",
+            "strong": "H7141"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "descended from Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "wife",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "Oholibamah",
+            "strong": "H173"
+          },
+          ", ",
+          {
+            "text": "the daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Anah",
+            "strong": "H6034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "All these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "Edom",
+            "strong": "H123"
+          },
+          "), ",
+          {
+            "text": "and they",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were their chiefs",
+            "strong": "H441"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Seir",
+            "strong": "H8165"
+          },
+          " ",
+          {
+            "text": "the Horite",
+            "strong": "H2752"
+          },
+          ", ",
+          {
+            "text": "who were living",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          ": ",
+          {
+            "text": "Lotan",
+            "strong": "H3877"
+          },
+          ", ",
+          {
+            "text": "Shobal",
+            "strong": "H7732"
+          },
+          ", ",
+          {
+            "text": "Zibeon",
+            "strong": "H6649"
+          },
+          ", ",
+          {
+            "text": "Anah",
+            "strong": "H6034"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Dishon",
+            "strong": "H1787"
+          },
+          ", ",
+          {
+            "text": "Ezer",
+            "strong": "H687"
+          },
+          ", ",
+          {
+            "text": "and Dishan",
+            "strong": "H1789"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "of the Horites",
+            "strong": "H2752"
+          },
+          ", ",
+          {
+            "text": "the descendants",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Seir",
+            "strong": "H8165"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Lotan",
+            "strong": "H3877"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Hori",
+            "strong": "H2753"
+          },
+          " ",
+          {
+            "text": "and Hemam",
+            "strong": "H1967"
+          },
+          ". ",
+          {
+            "text": "Timna",
+            "strong": "H8555"
+          },
+          " ",
+          {
+            "text": "was Lotan\u2019s",
+            "strong": "H3877"
+          },
+          " ",
+          {
+            "text": "sister",
+            "strong": "H269"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Shobal",
+            "strong": "H7732"
+          },
+          ": ",
+          {
+            "text": "Alvan",
+            "strong": "H5935"
+          },
+          ", ",
+          {
+            "text": "Manahath",
+            "strong": "H4506"
+          },
+          ", ",
+          {
+            "text": "Ebal",
+            "strong": "H5858"
+          },
+          ", ",
+          {
+            "text": "Shepho",
+            "strong": "H8195"
+          },
+          ", ",
+          {
+            "text": "and Onam",
+            "strong": "H208"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zibeon",
+            "strong": "H6649"
+          },
+          ": ",
+          {
+            "text": "Aiah",
+            "strong": "H345"
+          },
+          " ",
+          {
+            "text": "and Anah",
+            "strong": "H6034"
+          },
+          ". (",
+          {
+            "text": "This [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "[the] Anah",
+            "strong": "H6034"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the hot springs",
+            "strong": "H3222"
+          },
+          " ",
+          {
+            "text": "in the wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "as he was pasturing",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the donkeys",
+            "strong": "H2543"
+          },
+          " ",
+          {
+            "text": "of his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Zibeon",
+            "strong": "H6649"
+          },
+          ".)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Anah",
+            "strong": "H6034"
+          },
+          ": ",
+          {
+            "text": "Dishon",
+            "strong": "H1787"
+          },
+          " ",
+          {
+            "text": "and Oholibamah",
+            "strong": "H173"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Anah",
+            "strong": "H6034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Dishon",
+            "strong": "H1789"
+          },
+          ": ",
+          {
+            "text": "Hemdan",
+            "strong": "H2533"
+          },
+          ", ",
+          {
+            "text": "Eshban",
+            "strong": "H790"
+          },
+          ", ",
+          {
+            "text": "Ithran",
+            "strong": "H3506"
+          },
+          ", ",
+          {
+            "text": "and Cheran",
+            "strong": "H3763"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ezer",
+            "strong": "H687"
+          },
+          ": ",
+          {
+            "text": "Bilhan",
+            "strong": "H1092"
+          },
+          ", ",
+          {
+            "text": "Zaavan",
+            "strong": "H2190"
+          },
+          ", ",
+          {
+            "text": "and Akan",
+            "strong": "H6130"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Dishan",
+            "strong": "H1789"
+          },
+          ": ",
+          {
+            "text": "Uz",
+            "strong": "H5780"
+          },
+          " ",
+          {
+            "text": "and Aran",
+            "strong": "H765"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "of the Horites",
+            "strong": "H2752"
+          },
+          ": ",
+          {
+            "text": "Chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Lotan",
+            "strong": "H3877"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Shobal",
+            "strong": "H7732"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Zibeon",
+            "strong": "H6649"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Anah",
+            "strong": "H6034"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Dishon",
+            "strong": "H1787"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Ezer",
+            "strong": "H687"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "and Dishan",
+            "strong": "H1789"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "of the Horites",
+            "strong": "H2753"
+          },
+          ", ",
+          {
+            "text": "according to their divisions",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Seir",
+            "strong": "H8165"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "any king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "over the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Bela",
+            "strong": "H1106"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Beor",
+            "strong": "H1160"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in Edom",
+            "strong": "H123"
+          },
+          "; ",
+          {
+            "text": "the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of his city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "was Dinhabah",
+            "strong": "H1838"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "When Bela",
+            "strong": "H1106"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Jobab",
+            "strong": "H3103"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Zerah",
+            "strong": "H2226"
+          },
+          " ",
+          {
+            "text": "from Bozrah",
+            "strong": "H1224"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "When Jobab",
+            "strong": "H3103"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Husham",
+            "strong": "H2367"
+          },
+          " ",
+          {
+            "text": "from the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of the Temanites",
+            "strong": "H8489"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "When Husham",
+            "strong": "H2367"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Hadad",
+            "strong": "H1908"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Bedad",
+            "strong": "H911"
+          },
+          ", ",
+          {
+            "text": "who defeated",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Midian",
+            "strong": "H4080"
+          },
+          " ",
+          {
+            "text": "in the country",
+            "strong": "H7704"
+          },
+          " ",
+          {
+            "text": "of Moab",
+            "strong": "H4124"
+          },
+          ", ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          ". ",
+          {
+            "text": "And the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of his city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "was Avith",
+            "strong": "H5762"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "When Hadad",
+            "strong": "H1908"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Samlah",
+            "strong": "H8072"
+          },
+          " ",
+          {
+            "text": "from Masrekah",
+            "strong": "H4957"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "When Samlah",
+            "strong": "H8072"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Shaul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "from Rehoboth",
+            "strong": "H7344"
+          },
+          " ",
+          {
+            "text": "on the Euphrates",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "When Shaul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H1177"
+          },
+          " ",
+          {
+            "text": "Baal-hanan",
+            "strong": "H1177"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Achbor",
+            "strong": "H5907"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H1177"
+          },
+          " ",
+          {
+            "text": "When Baal-hanan",
+            "strong": "H1177"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Achbor",
+            "strong": "H5907"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          ", ",
+          {
+            "text": "Hadad",
+            "strong": "H1924"
+          },
+          " ",
+          {
+            "text": "reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "in his place",
+            "strong": "H8478"
+          },
+          ". ",
+          {
+            "text": "His city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "was named",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Pau",
+            "strong": "H6464"
+          },
+          ", ",
+          {
+            "text": "and his wife\u2019s",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "was Mehetabel",
+            "strong": "H4105"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Matred",
+            "strong": "H4308"
+          },
+          ", ",
+          {
+            "text": "the daughter",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H4314"
+          },
+          " ",
+          {
+            "text": "of Me-zahab",
+            "strong": "H4314"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of Esau\u2019s",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "chiefs",
+            "strong": "H441"
+          },
+          ", ",
+          {
+            "text": "according to their families",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "and regions",
+            "strong": "H4725"
+          },
+          ", ",
+          {
+            "text": "by their names",
+            "strong": "H8034"
+          },
+          ": ",
+          {
+            "text": "Chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Timna",
+            "strong": "H8555"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Alvah",
+            "strong": "H5933"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Jetheth",
+            "strong": "H3509"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Oholibamah",
+            "strong": "H173"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Elah",
+            "strong": "H425"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Pinon",
+            "strong": "H6373"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Kenaz",
+            "strong": "H7073"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Teman",
+            "strong": "H8487"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Mibzar",
+            "strong": "H4014"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "Magdiel",
+            "strong": "H4025"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "and Iram",
+            "strong": "H5902"
+          },
+          ". ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "[were] the chiefs",
+            "strong": "H441"
+          },
+          " ",
+          {
+            "text": "of Edom",
+            "strong": "H123"
+          },
+          ", ",
+          {
+            "text": "according to their settlements",
+            "strong": "H4186"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "they possessed",
+            "strong": "H272"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "was the father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of the Edomites",
+            "strong": "H123"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

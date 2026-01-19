@@ -1,0 +1,1078 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "HAB",
+    "name": "Habakkuk",
+    "number": 35
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "[This is] the burden",
+            "strong": "H4853"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Habakkuk",
+            "strong": "H2265"
+          },
+          " ",
+          {
+            "text": "the prophet",
+            "strong": "H5030"
+          },
+          " ",
+          {
+            "text": "received in a vision",
+            "strong": "H2372"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "How long",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H575"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "must I call for help",
+            "strong": "H7768"
+          },
+          " ",
+          {
+            "text": "but You do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "or cry out",
+            "strong": "H2199"
+          },
+          " ",
+          {
+            "text": "to You",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Violence",
+            "strong": "H2555"
+          },
+          "!\u201d ",
+          {
+            "text": "but You do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "save",
+            "strong": "H3467"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do You make me see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "iniquity",
+            "strong": "H205"
+          },
+          "? ",
+          {
+            "text": "Why do You tolerate",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "wrongdoing",
+            "strong": "H5999"
+          },
+          "? ",
+          {
+            "text": "Destruction",
+            "strong": "H7701"
+          },
+          " ",
+          {
+            "text": "and violence",
+            "strong": "H2555"
+          },
+          " ",
+          {
+            "text": "[are] before me",
+            "strong": "H5048"
+          },
+          ". ",
+          {
+            "text": "Strife",
+            "strong": "H7379"
+          },
+          " ",
+          {
+            "text": "is ongoing",
+            "strong": "H1961"
+          },
+          ", ",
+          {
+            "text": "and conflict",
+            "strong": "H4066"
+          },
+          " ",
+          {
+            "text": "abounds",
+            "strong": "H5375"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "is paralyzed",
+            "strong": "H6313"
+          },
+          ", ",
+          {
+            "text": "and justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "never",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "goes forth",
+            "strong": "H3318"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "hem in",
+            "strong": "H3803"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the righteous",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "perverted",
+            "strong": "H6127"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "\u201c",
+          {
+            "text": "Look",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "at the nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "and observe",
+            "strong": "H5027"
+          },
+          "\u2014 ",
+          {
+            "text": "be utterly astounded",
+            "strong": "H8539"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8539"
+          },
+          "! ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[I am] doing",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "a work",
+            "strong": "H6467"
+          },
+          " ",
+          {
+            "text": "in your days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "that you would never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "believe",
+            "strong": "H539"
+          },
+          " ",
+          {
+            "text": "even if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[someone] told you",
+            "strong": "H5608"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I am raising up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Chaldeans",
+            "strong": "H3778"
+          },
+          " \u2014 ",
+          {
+            "text": "that ruthless",
+            "strong": "H4751"
+          },
+          " ",
+          {
+            "text": "and impetuous",
+            "strong": "H4116"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "which marches",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "through the breadth",
+            "strong": "H4800"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "to seize",
+            "strong": "H3423"
+          },
+          " ",
+          {
+            "text": "dwellings",
+            "strong": "H4908"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " their own."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "They",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "are dreaded",
+            "strong": "H366"
+          },
+          " ",
+          {
+            "text": "and feared",
+            "strong": "H3372"
+          },
+          "; ",
+          {
+            "text": "from themselves",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "they derive",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "and sovereignty",
+            "strong": "H7613"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Their horses",
+            "strong": "H5483"
+          },
+          " ",
+          {
+            "text": "are swifter",
+            "strong": "H7043"
+          },
+          " ",
+          {
+            "text": "than leopards",
+            "strong": "H5246"
+          },
+          ", ",
+          {
+            "text": "fiercer",
+            "strong": "H2300"
+          },
+          " ",
+          {
+            "text": "than wolves",
+            "strong": "H2061"
+          },
+          " ",
+          {
+            "text": "of the night",
+            "strong": "H6153"
+          },
+          ". ",
+          {
+            "text": "Their horsemen",
+            "strong": "H6571"
+          },
+          " ",
+          {
+            "text": "charge ahead",
+            "strong": "H6335"
+          },
+          ", ",
+          {
+            "text": "and their cavalry",
+            "strong": "H6571"
+          },
+          " ",
+          {
+            "text": "comes",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "from afar",
+            "strong": "H7350"
+          },
+          ". ",
+          {
+            "text": "They fly",
+            "strong": "H5774"
+          },
+          " ",
+          {
+            "text": "like a vulture",
+            "strong": "H5404"
+          },
+          ", ",
+          {
+            "text": "swooping down",
+            "strong": "H2363"
+          },
+          " ",
+          {
+            "text": "to devour",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of them come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "bent",
+            "strong": "H4041"
+          },
+          " ",
+          {
+            "text": "on violence",
+            "strong": "H2555"
+          },
+          "; ",
+          {
+            "text": "their hordes",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "[advance like] the east [wind]",
+            "strong": "H6921"
+          },
+          "; ",
+          {
+            "text": "they gather",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "prisoners",
+            "strong": "H7628"
+          },
+          " ",
+          {
+            "text": "like sand",
+            "strong": "H2344"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "They",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "scoff at",
+            "strong": "H7046"
+          },
+          " ",
+          {
+            "text": "kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and {make} rulers",
+            "strong": "H7336"
+          },
+          " ",
+          {
+            "text": "an object of scorn",
+            "strong": "H4890"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "laugh",
+            "strong": "H7832"
+          },
+          " ",
+          {
+            "text": "at every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "fortress",
+            "strong": "H4013"
+          },
+          " ",
+          {
+            "text": "and build up",
+            "strong": "H6651"
+          },
+          " ",
+          {
+            "text": "siege ramps",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "to seize it",
+            "strong": "H3920"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "they sweep by",
+            "strong": "H2498"
+          },
+          " ",
+          {
+            "text": "like the wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "and pass through",
+            "strong": "H5674"
+          },
+          ". ",
+          {
+            "text": "They",
+            "strong": "H2098"
+          },
+          " ",
+          {
+            "text": "are guilty",
+            "strong": "H816"
+          },
+          "; ",
+          {
+            "text": "their own strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "is their god",
+            "strong": "H433"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Are You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "from everlasting",
+            "strong": "H6924"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "my Holy One",
+            "strong": "H6918"
+          },
+          "? ",
+          {
+            "text": "vvv",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "We will not die",
+            "strong": "H4191"
+          },
+          ". ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "You have appointed them",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "to execute judgment",
+            "strong": "H4941"
+          },
+          "; ",
+          {
+            "text": "O Rock",
+            "strong": "H6697"
+          },
+          ", ",
+          {
+            "text": "You have established them",
+            "strong": "H3245"
+          },
+          " ",
+          {
+            "text": "for correction",
+            "strong": "H3198"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Your eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "are too pure",
+            "strong": "H2890"
+          },
+          " ",
+          {
+            "text": "to look upon",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "and You cannot",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "tolerate",
+            "strong": "H5027"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "wrongdoing",
+            "strong": "H5999"
+          },
+          ". ",
+          {
+            "text": "So why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do You tolerate",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "the faithless",
+            "strong": "H898"
+          },
+          "? ",
+          {
+            "text": "Why are You silent",
+            "strong": "H2790"
+          },
+          " ",
+          {
+            "text": "while the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "swallow up",
+            "strong": "H1104"
+          },
+          " ",
+          {
+            "text": "those more righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "than themselves",
+            "strong": "H4480"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "You have made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "like the fish",
+            "strong": "H1709"
+          },
+          " ",
+          {
+            "text": "of the sea",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "like creeping things",
+            "strong": "H7431"
+          },
+          " ",
+          {
+            "text": "[that have] no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "ruler",
+            "strong": "H4910"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "[The foe] pulls all of them",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "with a hook",
+            "strong": "H2443"
+          },
+          "; ",
+          {
+            "text": "he catches them",
+            "strong": "H1641"
+          },
+          " ",
+          {
+            "text": "in his dragnet",
+            "strong": "H2764"
+          },
+          ", ",
+          {
+            "text": "and gathers them",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "in his fishing net",
+            "strong": "H4365"
+          },
+          "; ",
+          {
+            "text": "so",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "he rejoices gladly",
+            "strong": "H8055"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1523"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "he sacrifices",
+            "strong": "H2076"
+          },
+          " ",
+          {
+            "text": "to his dragnet",
+            "strong": "H2764"
+          },
+          " ",
+          {
+            "text": "and burns incense",
+            "strong": "H6999"
+          },
+          " ",
+          {
+            "text": "to his fishing net",
+            "strong": "H4365"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " by these things ",
+          {
+            "text": "his portion",
+            "strong": "H2506"
+          },
+          " ",
+          {
+            "text": "is sumptuous",
+            "strong": "H8082"
+          },
+          " ",
+          {
+            "text": "and his food",
+            "strong": "H3978"
+          },
+          " ",
+          {
+            "text": "is rich",
+            "strong": "H1277"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Will he",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "therefore",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "empty",
+            "strong": "H7324"
+          },
+          " ",
+          {
+            "text": "his net",
+            "strong": "H2764"
+          },
+          " ",
+          {
+            "text": "and continue",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "to slay",
+            "strong": "H2026"
+          },
+          " ",
+          {
+            "text": "nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "mercy",
+            "strong": "H2550"
+          },
+          "?"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

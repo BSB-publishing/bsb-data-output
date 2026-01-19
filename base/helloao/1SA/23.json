@@ -1,0 +1,2376 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "1SA",
+    "name": "1 Samuel",
+    "number": 9
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now it was reported",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "to David",
+            "strong": "H1732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Look",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "are fighting",
+            "strong": "H3898"
+          },
+          " ",
+          {
+            "text": "against Keilah",
+            "strong": "H7084"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "and looting",
+            "strong": "H8154"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the threshing floors",
+            "strong": "H1637"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "inquired",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Should I go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and attack",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "Philistines",
+            "strong": "H6430"
+          },
+          "?\u201d ",
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          ", \u201c",
+          {
+            "text": "Go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and attack",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "and save",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Keilah",
+            "strong": "H7084"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "But David\u2019s",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Look",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "we",
+            "strong": "H587"
+          },
+          " ",
+          {
+            "text": "are afraid",
+            "strong": "H3373"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H6311"
+          },
+          " ",
+          {
+            "text": "in Judah",
+            "strong": "H3063"
+          },
+          "; ",
+          {
+            "text": "how much more",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "we go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to Keilah",
+            "strong": "H7084"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the armies of",
+            "strong": "H4634"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Once again",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          ", ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "inquired",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "and the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "answered him",
+            "strong": "H6030"
+          },
+          ": \u201c",
+          {
+            "text": "Go",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "at once",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "to Keilah",
+            "strong": "H7084"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "will deliver",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "into your hand",
+            "strong": "H3027"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to Keilah",
+            "strong": "H7084"
+          },
+          ", ",
+          {
+            "text": "fought",
+            "strong": "H3898"
+          },
+          " ",
+          {
+            "text": "against the Philistines",
+            "strong": "H6430"
+          },
+          ", ",
+          {
+            "text": "and carried off",
+            "strong": "H5090"
+          },
+          " ",
+          {
+            "text": "their livestock",
+            "strong": "H4735"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "striking",
+            "strong": "H5221"
+          },
+          " them ",
+          {
+            "text": "with a mighty",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "blow",
+            "strong": "H4347"
+          },
+          ". ",
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "saved",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of Keilah",
+            "strong": "H7084"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "(",
+          {
+            "text": "Now",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Abiathar",
+            "strong": "H54"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Ahimelech",
+            "strong": "H288"
+          },
+          " ",
+          {
+            "text": "had brought",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "the ephod",
+            "strong": "H646"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "when he fled",
+            "strong": "H1272"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "at Keilah",
+            "strong": "H7084"
+          },
+          ".)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "When Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "was told",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "had gone",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to Keilah",
+            "strong": "H7084"
+          },
+          ", ",
+          {
+            "text": "he",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "has delivered",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "into my hand",
+            "strong": "H3027"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he has trapped himself",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "by entering",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "a town",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "with gates",
+            "strong": "H1817"
+          },
+          " ",
+          {
+            "text": "and bars",
+            "strong": "H1280"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Then Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "summoned",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his troops",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "to go",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to war",
+            "strong": "H4421"
+          },
+          " ",
+          {
+            "text": "at Keilah",
+            "strong": "H7084"
+          },
+          " ",
+          {
+            "text": "and besiege",
+            "strong": "H6696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "When David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "learned",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "was plotting",
+            "strong": "H2790"
+          },
+          " ",
+          {
+            "text": "evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "against him",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "he said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Abiathar",
+            "strong": "H54"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          ", \u201c",
+          {
+            "text": "Bring",
+            "strong": "H5066"
+          },
+          " ",
+          {
+            "text": "the ephod",
+            "strong": "H646"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "Your servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "has heard",
+            "strong": "H8085"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "intends",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "to come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Keilah",
+            "strong": "H7084"
+          },
+          " ",
+          {
+            "text": "and destroy",
+            "strong": "H7843"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "on my account",
+            "strong": "H5668"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Will the citizens",
+            "strong": "H1167"
+          },
+          " ",
+          {
+            "text": "of Keilah",
+            "strong": "H7084"
+          },
+          " ",
+          {
+            "text": "surrender me",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "into his hand",
+            "strong": "H3027"
+          },
+          "? ",
+          {
+            "text": "Will Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "come down",
+            "strong": "H3381"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Your servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "has heard",
+            "strong": "H8085"
+          },
+          "? ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "tell",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "Your servant",
+            "strong": "H5650"
+          },
+          ".\u201d\u201c",
+          {
+            "text": "He will",
+            "strong": "H3381"
+          },
+          ",\u201d ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "asked",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Will the citizens",
+            "strong": "H1167"
+          },
+          " ",
+          {
+            "text": "of Keilah",
+            "strong": "H7084"
+          },
+          " ",
+          {
+            "text": "surrender",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "my men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "into the hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of Saul",
+            "strong": "H7586"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "They will",
+            "strong": "H5462"
+          },
+          ",\u201d ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Then David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "about six",
+            "strong": "H8337"
+          },
+          " ",
+          {
+            "text": "hundred [strong]",
+            "strong": "H3967"
+          },
+          ", ",
+          {
+            "text": "set out",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "and departed",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from Keilah",
+            "strong": "H7084"
+          },
+          ", ",
+          {
+            "text": "moving from place to place",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1980"
+          },
+          ". ",
+          {
+            "text": "When Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "was told",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "had escaped",
+            "strong": "H4422"
+          },
+          " ",
+          {
+            "text": "from Keilah",
+            "strong": "H7084"
+          },
+          ", ",
+          {
+            "text": "he declined",
+            "strong": "H2308"
+          },
+          " ",
+          {
+            "text": "to go forth",
+            "strong": "H3318"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "stayed",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "strongholds",
+            "strong": "H4679"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "and in the hill country",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Ziph",
+            "strong": "H2128"
+          },
+          ". ",
+          {
+            "text": "Day",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "after day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "searched for him",
+            "strong": "H1245"
+          },
+          ", ",
+          {
+            "text": "but God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "would not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "deliver [David]",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into his hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "While David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "was in Horesh",
+            "strong": "H2793"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Ziph",
+            "strong": "H2128"
+          },
+          ", ",
+          {
+            "text": "he",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "had come out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "to take",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his life",
+            "strong": "H5315"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "Saul\u2019s",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Jonathan",
+            "strong": "H3083"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "in Horesh",
+            "strong": "H2793"
+          },
+          " ",
+          {
+            "text": "and strengthened",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "in God",
+            "strong": "H430"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " \u201c",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be afraid",
+            "strong": "H3372"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "my father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "lay a hand on",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "And you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will be king",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "and I will",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " your ",
+          {
+            "text": "second-in-command",
+            "strong": "H4932"
+          },
+          ". ",
+          {
+            "text": "Even",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "my father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "this is true",
+            "strong": "H3651"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "So the two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "of them made",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "remained",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in Horesh",
+            "strong": "H2793"
+          },
+          ", ",
+          {
+            "text": "while Jonathan",
+            "strong": "H3083"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "home",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Then the Ziphites",
+            "strong": "H2130"
+          },
+          " ",
+          {
+            "text": "came up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "at Gibeah",
+            "strong": "H1390"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "hiding",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "among us",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "in the strongholds",
+            "strong": "H4679"
+          },
+          " ",
+          {
+            "text": "at Horesh",
+            "strong": "H2793"
+          },
+          ", ",
+          {
+            "text": "on the hill",
+            "strong": "H1389"
+          },
+          " ",
+          {
+            "text": "of Hachilah",
+            "strong": "H2444"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "south",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "of Jeshimon",
+            "strong": "H3452"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4428"
+          },
+          ", ",
+          {
+            "text": "come down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "whenever",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "your soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "desires",
+            "strong": "H185"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3381"
+          },
+          ", and we will be responsible ",
+          {
+            "text": "for delivering him",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "into your hand",
+            "strong": "H3027"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4428"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "\u201c",
+          {
+            "text": "May you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "be blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "by the LORD",
+            "strong": "H3068"
+          },
+          ",\u201d ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          ", \u201c",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have had compassion",
+            "strong": "H2550"
+          },
+          " ",
+          {
+            "text": "on me",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Please",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and prepare",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "further",
+            "strong": "H5750"
+          },
+          ". ",
+          {
+            "text": "Investigate",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "and watch",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "carefully where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he goes",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7272"
+          },
+          " ",
+          {
+            "text": "and who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "has seen him",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I am told that",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is extremely cunning",
+            "strong": "H6191"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6191"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Observe",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and find out",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the places",
+            "strong": "H4224"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he hides",
+            "strong": "H2244"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "Then come back",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "certainty",
+            "strong": "H3559"
+          },
+          ", ",
+          {
+            "text": "and I will go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H854"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "he is",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "I will search him out",
+            "strong": "H2664"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the clans",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "So they set out",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to Ziph",
+            "strong": "H2128"
+          },
+          " ",
+          {
+            "text": "ahead of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          ". ",
+          {
+            "text": "Now David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "were in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Maon",
+            "strong": "H4584"
+          },
+          " ",
+          {
+            "text": "in the Arabah",
+            "strong": "H6160"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "south",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "of Jeshimon",
+            "strong": "H3452"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "and Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to seek [him]",
+            "strong": "H1245"
+          },
+          ". ",
+          {
+            "text": "When David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "was told about it",
+            "strong": "H5046"
+          },
+          ", ",
+          {
+            "text": "he went down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to the rock",
+            "strong": "H5553"
+          },
+          " ",
+          {
+            "text": "and stayed",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Maon",
+            "strong": "H4584"
+          },
+          ". ",
+          {
+            "text": "And when Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "heard of this",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "he pursued",
+            "strong": "H7291"
+          },
+          {
+            "text": ". . .",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H4057"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4584"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "was proceeding along",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6654"
+          },
+          " ",
+          {
+            "text": "of the mountain",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "and David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "along the other",
+            "strong": "H2088"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H6654"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Even though David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "was hurrying",
+            "strong": "H2648"
+          },
+          " ",
+          {
+            "text": "to get away",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7586"
+          },
+          ", ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "were closing",
+            "strong": "H5849"
+          },
+          " ",
+          {
+            "text": "in on",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "to capture them",
+            "strong": "H8610"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Then a messenger",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Saul",
+            "strong": "H7586"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Come",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "quickly",
+            "strong": "H4116"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "have raided",
+            "strong": "H6584"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "So Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "broke off",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "his pursuit",
+            "strong": "H7291"
+          },
+          {
+            "text": ". . .",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and went",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to meet",
+            "strong": "H7122"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          ". ",
+          {
+            "text": "That is why",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "is called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5555"
+          },
+          " ",
+          {
+            "text": "Sela-hammahlekoth",
+            "strong": "H5555"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "from there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "and lived",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the strongholds",
+            "strong": "H4679"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H5872"
+          },
+          " ",
+          {
+            "text": "of En-gedi",
+            "strong": "H5872"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

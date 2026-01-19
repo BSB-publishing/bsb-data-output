@@ -1,0 +1,912 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ISA",
+    "name": "Isaiah",
+    "number": 23
+  },
+  "chapter": {
+    "number": 50,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "This is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ":\u201c",
+          {
+            "text": "Where",
+            "strong": "H335"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "is your mother\u2019s",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "certificate",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of divorce",
+            "strong": "H3748"
+          },
+          " ",
+          {
+            "text": "with which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I sent her away",
+            "strong": "H7971"
+          },
+          "? ",
+          {
+            "text": "Or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "to which",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "of My creditors",
+            "strong": "H5383"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "did I sell you",
+            "strong": "H4376"
+          },
+          "? ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Look",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "you were sold",
+            "strong": "H4376"
+          },
+          " ",
+          {
+            "text": "for your iniquities",
+            "strong": "H5771"
+          },
+          ", ",
+          {
+            "text": "and for your transgressions",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "your mother",
+            "strong": "H517"
+          },
+          " ",
+          {
+            "text": "was sent away",
+            "strong": "H7971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4069"
+          },
+          " ",
+          {
+            "text": "was no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "one there",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "when I arrived",
+            "strong": "H935"
+          },
+          "? ",
+          {
+            "text": "Why did no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "answer",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "when I called",
+            "strong": "H7121"
+          },
+          "? ",
+          {
+            "text": "Is My hand",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "too short",
+            "strong": "H7114"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7114"
+          },
+          " ",
+          {
+            "text": "to redeem you",
+            "strong": "H6304"
+          },
+          "? ",
+          {
+            "text": "Or",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "do I lack",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "the strength",
+            "strong": "H3581"
+          },
+          " ",
+          {
+            "text": "to deliver you",
+            "strong": "H5337"
+          },
+          "? ",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "My rebuke",
+            "strong": "H1606"
+          },
+          " ",
+          {
+            "text": "dries up",
+            "strong": "H2717"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          "; ",
+          {
+            "text": "I turn the rivers",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "a desert",
+            "strong": "H4057"
+          },
+          "; ",
+          {
+            "text": "the fish",
+            "strong": "H1710"
+          },
+          " ",
+          {
+            "text": "rot",
+            "strong": "H887"
+          },
+          " ",
+          {
+            "text": "for lack",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "of water",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "and die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "of thirst",
+            "strong": "H6772"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "I clothe",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "in black",
+            "strong": "H6940"
+          },
+          " ",
+          {
+            "text": "and make",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "sackcloth",
+            "strong": "H8242"
+          },
+          " ",
+          {
+            "text": "their covering",
+            "strong": "H3682"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "has given",
+            "strong": "H5414"
+          },
+          " Me ",
+          {
+            "text": "the tongue",
+            "strong": "H3956"
+          },
+          " ",
+          {
+            "text": "of discipleship",
+            "strong": "H3928"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "to sustain",
+            "strong": "H5790"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the weary",
+            "strong": "H3287"
+          },
+          " ",
+          {
+            "text": "with a word",
+            "strong": "H1697"
+          },
+          ". ",
+          {
+            "text": "He awakens Me",
+            "strong": "H5782"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          " ",
+          {
+            "text": "by morning",
+            "strong": "H1242"
+          },
+          "; ",
+          {
+            "text": "He awakens",
+            "strong": "H5782"
+          },
+          " My ",
+          {
+            "text": "ear",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "to listen",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "as a disciple",
+            "strong": "H3928"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "The Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "has opened",
+            "strong": "H6605"
+          },
+          " My ",
+          {
+            "text": "ears",
+            "strong": "H241"
+          },
+          ", ",
+          {
+            "text": "and I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "have not been",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "rebellious",
+            "strong": "H4784"
+          },
+          ", ",
+          {
+            "text": "nor have I",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "turned",
+            "strong": "H5472"
+          },
+          " ",
+          {
+            "text": "back",
+            "strong": "H268"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "I offered",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "My back",
+            "strong": "H1460"
+          },
+          " ",
+          {
+            "text": "to those who struck Me",
+            "strong": "H5221"
+          },
+          ", ",
+          {
+            "text": "and My cheeks",
+            "strong": "H3895"
+          },
+          " ",
+          {
+            "text": "to those who tore out My beard",
+            "strong": "H4803"
+          },
+          ". ",
+          {
+            "text": "I did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "hide",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "My face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "from scorn",
+            "strong": "H3639"
+          },
+          " ",
+          {
+            "text": "and spittle",
+            "strong": "H7536"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Because the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "helps",
+            "strong": "H5826"
+          },
+          " Me, ",
+          {
+            "text": "-",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "been disgraced",
+            "strong": "H3637"
+          },
+          "; ",
+          {
+            "text": "therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I have set",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "My face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "like flint",
+            "strong": "H2496"
+          },
+          ", ",
+          {
+            "text": "and I know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be put to shame",
+            "strong": "H954"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The One who vindicates Me",
+            "strong": "H6663"
+          },
+          " ",
+          {
+            "text": "is near",
+            "strong": "H7138"
+          },
+          ". ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "will dare to contend",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "with Me",
+            "strong": "H854"
+          },
+          "? ",
+          {
+            "text": "Let us confront",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "each other",
+            "strong": "H3162"
+          },
+          "! ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1167"
+          },
+          " ",
+          {
+            "text": "has a case against Me",
+            "strong": "H4639"
+          },
+          "? ",
+          {
+            "text": "Let him approach",
+            "strong": "H5066"
+          },
+          " ",
+          {
+            "text": "Me",
+            "strong": "H413"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Surely",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "helps",
+            "strong": "H5826"
+          },
+          " Me. ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "is there",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "to condemn Me",
+            "strong": "H7561"
+          },
+          "? ",
+          {
+            "text": "See",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "they will all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "wear out",
+            "strong": "H1086"
+          },
+          " ",
+          {
+            "text": "like a garment",
+            "strong": "H899"
+          },
+          "; ",
+          {
+            "text": "the moths",
+            "strong": "H6211"
+          },
+          " ",
+          {
+            "text": "will devour them",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " among you ",
+          {
+            "text": "fears",
+            "strong": "H3373"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "[and] obeys",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "the voice",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of His Servant",
+            "strong": "H5650"
+          },
+          "? ",
+          {
+            "text": "Who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "among you walks",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in darkness",
+            "strong": "H2825"
+          },
+          " ",
+          {
+            "text": "and has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "light",
+            "strong": "H5051"
+          },
+          "? ",
+          {
+            "text": "Let him trust",
+            "strong": "H982"
+          },
+          " ",
+          {
+            "text": "in the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "let him lean",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "on his God",
+            "strong": "H430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "you who kindle",
+            "strong": "H6919"
+          },
+          " ",
+          {
+            "text": "a fire",
+            "strong": "H784"
+          },
+          ", ",
+          {
+            "text": "who array yourselves",
+            "strong": "H247"
+          },
+          " ",
+          {
+            "text": "with firebrands",
+            "strong": "H2131"
+          },
+          ", ",
+          {
+            "text": "walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the light",
+            "strong": "H217"
+          },
+          " ",
+          {
+            "text": "of your fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "and of the firebrands",
+            "strong": "H2131"
+          },
+          " ",
+          {
+            "text": "you have lit",
+            "strong": "H1197"
+          },
+          "! ",
+          {
+            "text": "This is what",
+            "strong": "H2063"
+          },
+          " you ",
+          {
+            "text": "will receive",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from My hand",
+            "strong": "H3027"
+          },
+          ": ",
+          {
+            "text": "You will lie down",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "in a place of torment",
+            "strong": "H4620"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

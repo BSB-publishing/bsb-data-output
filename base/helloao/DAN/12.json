@@ -1,0 +1,977 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "DAN",
+    "name": "Daniel",
+    "number": 27
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "At that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "Michael",
+            "strong": "H4317"
+          },
+          ", ",
+          {
+            "text": "the great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "prince",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "who stands watch",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "your people",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "will rise up",
+            "strong": "H5975"
+          },
+          ". ",
+          {
+            "text": "There will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "of distress",
+            "strong": "H6869"
+          },
+          ", ",
+          {
+            "text": "the likes of which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "will not have",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "occurred",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from the beginning",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "of nations",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          ". ",
+          {
+            "text": "But at that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "your people",
+            "strong": "H5971"
+          },
+          " \u2014 ",
+          {
+            "text": "everyone [whose name]",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "is found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "in the book",
+            "strong": "H5612"
+          },
+          " \u2014 ",
+          {
+            "text": "will be delivered",
+            "strong": "H4422"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "And many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "who sleep",
+            "strong": "H3463"
+          },
+          " ",
+          {
+            "text": "in the dust",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H127"
+          },
+          " ",
+          {
+            "text": "will awake",
+            "strong": "H6974"
+          },
+          ", ",
+          {
+            "text": "some",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "to everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "life",
+            "strong": "H2416"
+          },
+          ", ",
+          {
+            "text": "but others",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "to shame",
+            "strong": "H2781"
+          },
+          " ",
+          {
+            "text": "[and] everlasting",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "contempt",
+            "strong": "H1860"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then the wise",
+            "strong": "H7919"
+          },
+          " ",
+          {
+            "text": "will shine",
+            "strong": "H2094"
+          },
+          " ",
+          {
+            "text": "like the brightness",
+            "strong": "H2096"
+          },
+          " ",
+          {
+            "text": "of the heavens",
+            "strong": "H7549"
+          },
+          ", ",
+          {
+            "text": "and those who lead many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "to righteousness",
+            "strong": "H6663"
+          },
+          " ",
+          {
+            "text": "[will shine] like the stars",
+            "strong": "H3556"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "and ever",
+            "strong": "H5703"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "But you",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": "shut up",
+            "strong": "H5640"
+          },
+          " ",
+          {
+            "text": "these words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "and seal",
+            "strong": "H2856"
+          },
+          " ",
+          {
+            "text": "the book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "of the end",
+            "strong": "H7093"
+          },
+          ". ",
+          {
+            "text": "Many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "will roam to and fro",
+            "strong": "H7751"
+          },
+          ", ",
+          {
+            "text": "and knowledge",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "will increase",
+            "strong": "H7235"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then I",
+            "strong": "H589"
+          },
+          ", ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ", ",
+          {
+            "text": "looked",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and saw",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "others",
+            "strong": "H312"
+          },
+          " ",
+          {
+            "text": "standing",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H2008"
+          },
+          ", ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "on this bank",
+            "strong": "H8193"
+          },
+          " ",
+          {
+            "text": "of the river",
+            "strong": "H2975"
+          },
+          " ",
+          {
+            "text": "and one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "on the opposite",
+            "strong": "H2008"
+          },
+          " ",
+          {
+            "text": "bank",
+            "strong": "H8193"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2975"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "One of them said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "dressed",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "in linen",
+            "strong": "H906"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was above",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of the river",
+            "strong": "H2975"
+          },
+          ", \u201c",
+          {
+            "text": "How long",
+            "strong": "H4970"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the fulfillment",
+            "strong": "H7093"
+          },
+          " ",
+          {
+            "text": "of these wonders",
+            "strong": "H6382"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "dressed",
+            "strong": "H3847"
+          },
+          " ",
+          {
+            "text": "in linen",
+            "strong": "H906"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was above",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of the river",
+            "strong": "H2975"
+          },
+          ", ",
+          {
+            "text": "raised",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "his right hand",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "and his left hand",
+            "strong": "H8040"
+          },
+          " ",
+          {
+            "text": "toward",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          ", ",
+          {
+            "text": "and I heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "swear",
+            "strong": "H7650"
+          },
+          " ",
+          {
+            "text": "by Him who lives",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5769"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H3588"
+          },
+          ", \u201c",
+          {
+            "text": "It will be for a time",
+            "strong": "H4150"
+          },
+          ", ",
+          {
+            "text": "[and] times",
+            "strong": "H4150"
+          },
+          ", ",
+          {
+            "text": "and half a time",
+            "strong": "H2677"
+          },
+          ". ",
+          {
+            "text": "When the power",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "of the holy",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "has finally been",
+            "strong": "H3615"
+          },
+          " ",
+          {
+            "text": "shattered",
+            "strong": "H5310"
+          },
+          ", ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these things",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "will be completed",
+            "strong": "H3615"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "but I did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "understand",
+            "strong": "H995"
+          },
+          ". ",
+          {
+            "text": "So I asked",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "My lord",
+            "strong": "H113"
+          },
+          ", ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "will be the outcome",
+            "strong": "H319"
+          },
+          " ",
+          {
+            "text": "of these [things]",
+            "strong": "H428"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "\u201c",
+          {
+            "text": "Go on your way",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "Daniel",
+            "strong": "H1841"
+          },
+          ",\u201d ",
+          {
+            "text": "he replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "[are] closed up",
+            "strong": "H5640"
+          },
+          " ",
+          {
+            "text": "and sealed",
+            "strong": "H2856"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "of the end",
+            "strong": "H7093"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "will be purified",
+            "strong": "H1305"
+          },
+          ", ",
+          {
+            "text": "made spotless",
+            "strong": "H3835"
+          },
+          ", ",
+          {
+            "text": "and refined",
+            "strong": "H6884"
+          },
+          ", ",
+          {
+            "text": "but the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will continue to act wickedly",
+            "strong": "H7561"
+          },
+          ". ",
+          {
+            "text": "None",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will understand",
+            "strong": "H995"
+          },
+          ", ",
+          {
+            "text": "but the wise",
+            "strong": "H7919"
+          },
+          " ",
+          {
+            "text": "will understand",
+            "strong": "H995"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And from the time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "the daily [sacrifice]",
+            "strong": "H8548"
+          },
+          " ",
+          {
+            "text": "is abolished",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "and the abomination",
+            "strong": "H8251"
+          },
+          " ",
+          {
+            "text": "of desolation",
+            "strong": "H8074"
+          },
+          " ",
+          {
+            "text": "set up",
+            "strong": "H5414"
+          },
+          ", ",
+          {
+            "text": "there will be 1,290",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8673"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Blessed [is]",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "he who waits",
+            "strong": "H2442"
+          },
+          " ",
+          {
+            "text": "and reaches the end",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "of the 1,335",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7969"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2568"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "But as for you",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "go on your way",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "until the end",
+            "strong": "H7093"
+          },
+          ". ",
+          {
+            "text": "You will rest",
+            "strong": "H5117"
+          },
+          ", ",
+          {
+            "text": "and then you will arise",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "to your inheritance",
+            "strong": "H1486"
+          },
+          " ",
+          {
+            "text": "at the end",
+            "strong": "H7093"
+          },
+          " ",
+          {
+            "text": "of the days",
+            "strong": "H3117"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

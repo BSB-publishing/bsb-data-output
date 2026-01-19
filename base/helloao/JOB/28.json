@@ -1,0 +1,1205 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOB",
+    "name": "Job",
+    "number": 18
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Surely",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "there is",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "a mine",
+            "strong": "H4161"
+          },
+          " ",
+          {
+            "text": "for silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "and a place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "is refined",
+            "strong": "H2212"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Iron",
+            "strong": "H1270"
+          },
+          " ",
+          {
+            "text": "is taken",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "from the earth",
+            "strong": "H6083"
+          },
+          ", ",
+          {
+            "text": "and copper",
+            "strong": "H5154"
+          },
+          " ",
+          {
+            "text": "is smelted",
+            "strong": "H6694"
+          },
+          " ",
+          {
+            "text": "from ore",
+            "strong": "H68"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "[Man] puts",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "an end",
+            "strong": "H7093"
+          },
+          " ",
+          {
+            "text": "to the darkness",
+            "strong": "H2822"
+          },
+          "; ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "probes",
+            "strong": "H2713"
+          },
+          " ",
+          {
+            "text": "the farthest recesses",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8503"
+          },
+          " ",
+          {
+            "text": "for ore",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "in deepest darkness",
+            "strong": "H652"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6757"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Far from",
+            "strong": "H4480"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "human habitation",
+            "strong": "H1481"
+          },
+          " ",
+          {
+            "text": "he cuts",
+            "strong": "H6555"
+          },
+          " ",
+          {
+            "text": "a shaft",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "in places forgotten",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "by the foot of man",
+            "strong": "H7272"
+          },
+          ". ",
+          {
+            "text": "Far from men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "he dangles",
+            "strong": "H1809"
+          },
+          " ",
+          {
+            "text": "and sways",
+            "strong": "H5128"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "may come",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "but from below",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "it is transformed",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H3644"
+          },
+          " ",
+          {
+            "text": "by fire",
+            "strong": "H784"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Its rocks",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "are the source",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "of sapphires",
+            "strong": "H5601"
+          },
+          ", ",
+          {
+            "text": "containing flecks",
+            "strong": "H6083"
+          },
+          " ",
+          {
+            "text": "of gold",
+            "strong": "H2091"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "No",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "bird of prey",
+            "strong": "H5861"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that path",
+            "strong": "H5410"
+          },
+          "; ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "falcon\u2019s",
+            "strong": "H344"
+          },
+          " ",
+          {
+            "text": "eye",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "has seen it",
+            "strong": "H7805"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Proud beasts",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7830"
+          },
+          " ",
+          {
+            "text": "have never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "trodden it",
+            "strong": "H1869"
+          },
+          "; ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "lion",
+            "strong": "H7826"
+          },
+          " ",
+          {
+            "text": "has ever prowled",
+            "strong": "H5710"
+          },
+          " ",
+          {
+            "text": "over it",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "The miner strikes",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "the flint",
+            "strong": "H2496"
+          },
+          "; ",
+          {
+            "text": "he overturns",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "mountains",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "at their base",
+            "strong": "H8328"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He hews out",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "channels",
+            "strong": "H2975"
+          },
+          " ",
+          {
+            "text": "in the rocks",
+            "strong": "H6697"
+          },
+          ", ",
+          {
+            "text": "and his eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "spot",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "treasure",
+            "strong": "H3366"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "He stops up",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "the sources",
+            "strong": "H1065"
+          },
+          " ",
+          {
+            "text": "of the streams",
+            "strong": "H5104"
+          },
+          " ",
+          {
+            "text": "to bring",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "what is hidden",
+            "strong": "H8587"
+          },
+          " ",
+          {
+            "text": "to light",
+            "strong": "H216"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "But where",
+            "strong": "H370"
+          },
+          " ",
+          {
+            "text": "can wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "be found",
+            "strong": "H4672"
+          },
+          ", ",
+          {
+            "text": "and where",
+            "strong": "H335"
+          },
+          " ",
+          {
+            "text": "does understanding",
+            "strong": "H998"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "dwell",
+            "strong": "H4725"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "No",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "can know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "its value",
+            "strong": "H6187"
+          },
+          ", ",
+          {
+            "text": "nor",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "is it found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of the living",
+            "strong": "H2416"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "The ocean depths",
+            "strong": "H8415"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "It [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " in me,\u2019 ",
+          {
+            "text": "while the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "declares",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "[It is] not",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5978"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "It cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be bought",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "gold",
+            "strong": "H5458"
+          },
+          ", ",
+          {
+            "text": "nor [can]",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "its price",
+            "strong": "H4242"
+          },
+          " ",
+          {
+            "text": "be weighed out",
+            "strong": "H8254"
+          },
+          " ",
+          {
+            "text": "in silver",
+            "strong": "H3701"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "It cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be valued",
+            "strong": "H5541"
+          },
+          " ",
+          {
+            "text": "in the gold",
+            "strong": "H3800"
+          },
+          " ",
+          {
+            "text": "of Ophir",
+            "strong": "H211"
+          },
+          ", ",
+          {
+            "text": "in precious",
+            "strong": "H3368"
+          },
+          " ",
+          {
+            "text": "onyx",
+            "strong": "H7718"
+          },
+          " ",
+          {
+            "text": "or sapphire",
+            "strong": "H5601"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Neither",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "nor crystal",
+            "strong": "H2137"
+          },
+          " ",
+          {
+            "text": "can compare to it",
+            "strong": "H6186"
+          },
+          ", ",
+          {
+            "text": "nor jewels",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "of fine gold",
+            "strong": "H6337"
+          },
+          " ",
+          {
+            "text": "be exchanged for it",
+            "strong": "H8545"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Coral",
+            "strong": "H7215"
+          },
+          " ",
+          {
+            "text": "and quartz",
+            "strong": "H1378"
+          },
+          " ",
+          {
+            "text": "are unworthy",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of mention",
+            "strong": "H2142"
+          },
+          "; ",
+          {
+            "text": "the price",
+            "strong": "H4901"
+          },
+          " ",
+          {
+            "text": "of wisdom [is]",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "beyond rubies",
+            "strong": "H6443"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Topaz",
+            "strong": "H6357"
+          },
+          " ",
+          {
+            "text": "from Cush",
+            "strong": "H3568"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "compare to it",
+            "strong": "H6186"
+          },
+          ", ",
+          {
+            "text": "nor can it",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be valued",
+            "strong": "H5541"
+          },
+          " ",
+          {
+            "text": "in pure",
+            "strong": "H2889"
+          },
+          " ",
+          {
+            "text": "gold",
+            "strong": "H3800"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "From where",
+            "strong": "H370"
+          },
+          ", ",
+          {
+            "text": "then, does wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "come",
+            "strong": "H935"
+          },
+          ", ",
+          {
+            "text": "and where",
+            "strong": "H335"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "does understanding",
+            "strong": "H998"
+          },
+          " ",
+          {
+            "text": "dwell",
+            "strong": "H4725"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "It is hidden",
+            "strong": "H5956"
+          },
+          " ",
+          {
+            "text": "from the eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "living thing",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "and concealed",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "from the birds",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "of the air",
+            "strong": "H8064"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Abaddon",
+            "strong": "H11"
+          },
+          " ",
+          {
+            "text": "and Death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H559"
+          },
+          ",\u2018",
+          {
+            "text": "We have heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "a rumor about it",
+            "strong": "H8088"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H241"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "But God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "understands",
+            "strong": "H995"
+          },
+          " ",
+          {
+            "text": "its way",
+            "strong": "H1870"
+          },
+          ", ",
+          {
+            "text": "and He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "its place",
+            "strong": "H4725"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "looks",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "to the ends",
+            "strong": "H7098"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and sees",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the heavens",
+            "strong": "H8064"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "When God fixed",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "the weight",
+            "strong": "H4948"
+          },
+          " ",
+          {
+            "text": "of the wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8505"
+          },
+          " ",
+          {
+            "text": "and measured out",
+            "strong": "H4060"
+          },
+          " ",
+          {
+            "text": "the waters",
+            "strong": "H4325"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "when He set",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "a limit",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "for the rain",
+            "strong": "H4306"
+          },
+          " ",
+          {
+            "text": "and a path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "for the thunderbolt",
+            "strong": "H2385"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6963"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "then",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "He looked at [wisdom]",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "and appraised it",
+            "strong": "H5608"
+          },
+          "; ",
+          {
+            "text": "He established it",
+            "strong": "H3559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "and searched it out",
+            "strong": "H2713"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "And He said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to man",
+            "strong": "H120"
+          },
+          ", \u2018",
+          {
+            "text": "Behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "the fear",
+            "strong": "H3374"
+          },
+          " ",
+          {
+            "text": "of the Lord",
+            "strong": "H136"
+          },
+          ", ",
+          {
+            "text": "that [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          ", ",
+          {
+            "text": "and to turn away",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "from evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "[is] understanding",
+            "strong": "H998"
+          },
+          ".\u2019\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

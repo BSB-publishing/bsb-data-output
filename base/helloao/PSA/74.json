@@ -1,0 +1,1056 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 74,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "Your congregation",
+            "strong": "H5712"
+          },
+          ", ",
+          {
+            "text": "which You purchased",
+            "strong": "H7069"
+          },
+          " ",
+          {
+            "text": "long ago",
+            "strong": "H6924"
+          },
+          " ",
+          {
+            "text": "and redeemed",
+            "strong": "H1350"
+          },
+          " ",
+          {
+            "text": "as the tribe",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Your inheritance",
+            "strong": "H5159"
+          },
+          " \u2014 ",
+          {
+            "text": "Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Zion",
+            "strong": "H6726"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "where You dwell",
+            "strong": "H7931"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Turn",
+            "strong": "H7311"
+          },
+          " ",
+          {
+            "text": "Your steps",
+            "strong": "H6471"
+          },
+          " ",
+          {
+            "text": "to the everlasting",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "ruins",
+            "strong": "H4876"
+          },
+          ", ",
+          {
+            "text": "to everything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "in the sanctuary",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "the enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "has destroyed",
+            "strong": "H7489"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Your foes",
+            "strong": "H6887"
+          },
+          " ",
+          {
+            "text": "have roared",
+            "strong": "H7580"
+          },
+          " ",
+          {
+            "text": "within",
+            "strong": "H7130"
+          },
+          " ",
+          {
+            "text": "Your meeting place",
+            "strong": "H4150"
+          },
+          "; ",
+          {
+            "text": "they have unfurled",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "their banners",
+            "strong": "H226"
+          },
+          " ",
+          {
+            "text": "as signs",
+            "strong": "H226"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "like men",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "wielding",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "axes",
+            "strong": "H7134"
+          },
+          " ",
+          {
+            "text": "in a thicket",
+            "strong": "H5442"
+          },
+          " ",
+          {
+            "text": "of trees",
+            "strong": "H6086"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4605"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "and",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "smashing",
+            "strong": "H1986"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3162"
+          },
+          " ",
+          {
+            "text": "the carvings",
+            "strong": "H6603"
+          },
+          " ",
+          {
+            "text": "with hatchets",
+            "strong": "H3781"
+          },
+          " ",
+          {
+            "text": "and picks",
+            "strong": "H3597"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "They have burned",
+            "strong": "H7971"
+          },
+          {
+            "text": ". . .",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "Your sanctuary",
+            "strong": "H4720"
+          },
+          " ",
+          {
+            "text": "to the ground",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "they have defiled",
+            "strong": "H2490"
+          },
+          " ",
+          {
+            "text": "the dwelling place",
+            "strong": "H4908"
+          },
+          " ",
+          {
+            "text": "of Your Name",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "They said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "in their hearts",
+            "strong": "H3820"
+          },
+          ",\u201c",
+          {
+            "text": "We will crush them",
+            "strong": "H3238"
+          },
+          " ",
+          {
+            "text": "completely",
+            "strong": "H3162"
+          },
+          ".\u201d ",
+          {
+            "text": "They burned down",
+            "strong": "H8313"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "where God met us",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "There are no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "signs",
+            "strong": "H226"
+          },
+          " ",
+          {
+            "text": "for us to see",
+            "strong": "H7200"
+          },
+          ". ",
+          {
+            "text": "There is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "any prophet",
+            "strong": "H5030"
+          },
+          ". ",
+          {
+            "text": "And none",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of us",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "knows",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "how long",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "this will last",
+            "strong": "H4100"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "How long",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4970"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "will the enemy",
+            "strong": "H6862"
+          },
+          " ",
+          {
+            "text": "taunt You",
+            "strong": "H2778"
+          },
+          "? ",
+          {
+            "text": "Will the foe",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "revile",
+            "strong": "H5006"
+          },
+          " ",
+          {
+            "text": "Your name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5331"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do You withdraw",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "Your strong",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "right hand",
+            "strong": "H3225"
+          },
+          "? ",
+          {
+            "text": "Stretch it out",
+            "strong": "H7130"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "to destroy them",
+            "strong": "H3615"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Yet God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "[is] my King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "from ancient times",
+            "strong": "H6924"
+          },
+          ", ",
+          {
+            "text": "working",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "salvation",
+            "strong": "H3444"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H7130"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "divided",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H3220"
+          },
+          " ",
+          {
+            "text": "by Your strength",
+            "strong": "H5797"
+          },
+          "; ",
+          {
+            "text": "You smashed",
+            "strong": "H7665"
+          },
+          " ",
+          {
+            "text": "the heads",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the dragons",
+            "strong": "H8577"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the sea",
+            "strong": "H4325"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "crushed",
+            "strong": "H7533"
+          },
+          " ",
+          {
+            "text": "the heads",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of Leviathan",
+            "strong": "H3882"
+          },
+          "; ",
+          {
+            "text": "You fed him",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3978"
+          },
+          " ",
+          {
+            "text": "to the creatures",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "of the desert",
+            "strong": "H6728"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "broke open",
+            "strong": "H1234"
+          },
+          " ",
+          {
+            "text": "the fountain",
+            "strong": "H4599"
+          },
+          " ",
+          {
+            "text": "and the flood",
+            "strong": "H5158"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "dried up",
+            "strong": "H3001"
+          },
+          " ",
+          {
+            "text": "the ever-flowing",
+            "strong": "H386"
+          },
+          " ",
+          {
+            "text": "rivers",
+            "strong": "H5104"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "The day",
+            "strong": "H3117"
+          },
+          " is Yours, ",
+          {
+            "text": "and also",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "the night",
+            "strong": "H3915"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "established",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "the moon",
+            "strong": "H3974"
+          },
+          " ",
+          {
+            "text": "and the sun",
+            "strong": "H8121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "set",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the boundaries",
+            "strong": "H1367"
+          },
+          " ",
+          {
+            "text": "of the earth",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H3335"
+          },
+          " ",
+          {
+            "text": "the summer",
+            "strong": "H7019"
+          },
+          " ",
+          {
+            "text": "and winter",
+            "strong": "H2779"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "how",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "the enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "has mocked You",
+            "strong": "H2778"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "how a foolish",
+            "strong": "H5036"
+          },
+          " ",
+          {
+            "text": "people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "has spurned",
+            "strong": "H5006"
+          },
+          " ",
+          {
+            "text": "Your name",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "deliver",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "of Your dove",
+            "strong": "H8449"
+          },
+          " ",
+          {
+            "text": "to beasts",
+            "strong": "H2416"
+          },
+          "; ",
+          {
+            "text": "do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "forget",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "the lives",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "of Your afflicted",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5331"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Consider",
+            "strong": "H5027"
+          },
+          " ",
+          {
+            "text": "Your covenant",
+            "strong": "H1285"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "haunts",
+            "strong": "H5116"
+          },
+          " ",
+          {
+            "text": "of violence",
+            "strong": "H2555"
+          },
+          " ",
+          {
+            "text": "fill",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "the dark places",
+            "strong": "H4285"
+          },
+          " ",
+          {
+            "text": "of the land",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "let the oppressed",
+            "strong": "H1790"
+          },
+          " ",
+          {
+            "text": "retreat",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "in shame",
+            "strong": "H3637"
+          },
+          "; ",
+          {
+            "text": "may the poor",
+            "strong": "H6041"
+          },
+          " ",
+          {
+            "text": "and needy",
+            "strong": "H34"
+          },
+          " ",
+          {
+            "text": "praise",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "Your name",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Rise up",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "O God",
+            "strong": "H430"
+          },
+          "; ",
+          {
+            "text": "defend",
+            "strong": "H7378"
+          },
+          " ",
+          {
+            "text": "Your cause",
+            "strong": "H7379"
+          },
+          "! ",
+          {
+            "text": "Remember",
+            "strong": "H2142"
+          },
+          " ",
+          {
+            "text": "how",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the fool",
+            "strong": "H5036"
+          },
+          " ",
+          {
+            "text": "mocks You",
+            "strong": "H2781"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day long",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "disregard",
+            "strong": "H7911"
+          },
+          " ",
+          {
+            "text": "the clamor",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of Your adversaries",
+            "strong": "H6887"
+          },
+          ", ",
+          {
+            "text": "the uproar",
+            "strong": "H7588"
+          },
+          " ",
+          {
+            "text": "of Your enemies",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "that ascends",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "continually",
+            "strong": "H8548"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

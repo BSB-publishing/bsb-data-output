@@ -1,0 +1,970 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "AMO",
+    "name": "Amos",
+    "number": 30
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Woe",
+            "strong": "H1945"
+          },
+          " ",
+          {
+            "text": "to those at ease",
+            "strong": "H7600"
+          },
+          " ",
+          {
+            "text": "in Zion",
+            "strong": "H6726"
+          },
+          " ",
+          {
+            "text": "and those secure",
+            "strong": "H982"
+          },
+          " ",
+          {
+            "text": "on Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Samaria",
+            "strong": "H8111"
+          },
+          ", ",
+          {
+            "text": "the distinguished ones",
+            "strong": "H5344"
+          },
+          " ",
+          {
+            "text": "of the foremost",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          ",to whom ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "comes",
+            "strong": "H935"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Cross over",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "to Calneh",
+            "strong": "H3641"
+          },
+          " ",
+          {
+            "text": "and see",
+            "strong": "H7200"
+          },
+          "; ",
+          {
+            "text": "go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "from there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "to the great",
+            "strong": "H2579"
+          },
+          " ",
+          {
+            "text": "Hamath",
+            "strong": "H2579"
+          },
+          "; ",
+          {
+            "text": "then go down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to Gath",
+            "strong": "H1661"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          ". ",
+          {
+            "text": "Are you better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "kingdoms",
+            "strong": "H4467"
+          },
+          "? ",
+          {
+            "text": "Is their territory",
+            "strong": "H1366"
+          },
+          " ",
+          {
+            "text": "larger",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "than yours",
+            "strong": "H1366"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "You dismiss",
+            "strong": "H5077"
+          },
+          " ",
+          {
+            "text": "the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of calamity",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "and bring near",
+            "strong": "H5066"
+          },
+          " ",
+          {
+            "text": "a reign",
+            "strong": "H7675"
+          },
+          " ",
+          {
+            "text": "of violence",
+            "strong": "H2555"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "You lie",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "beds",
+            "strong": "H4296"
+          },
+          " ",
+          {
+            "text": "inlaid with ivory",
+            "strong": "H8127"
+          },
+          ", ",
+          {
+            "text": "and lounge",
+            "strong": "H5628"
+          },
+          " ",
+          {
+            "text": "upon",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "your couches",
+            "strong": "H6210"
+          },
+          ". ",
+          {
+            "text": "You dine on",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "lambs",
+            "strong": "H3733"
+          },
+          " ",
+          {
+            "text": "from the flock",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "and calves",
+            "strong": "H5695"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the stall",
+            "strong": "H4770"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "You improvise",
+            "strong": "H6527"
+          },
+          " ",
+          {
+            "text": "songs",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "on the harp",
+            "strong": "H5035"
+          },
+          " ",
+          {
+            "text": "like David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and invent",
+            "strong": "H2803"
+          },
+          " your own ",
+          {
+            "text": "musical",
+            "strong": "H7892"
+          },
+          " ",
+          {
+            "text": "instruments",
+            "strong": "H3627"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "You drink",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "wine",
+            "strong": "H3196"
+          },
+          " ",
+          {
+            "text": "by the bowlful",
+            "strong": "H4219"
+          },
+          " ",
+          {
+            "text": "and anoint yourselves",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "with the finest",
+            "strong": "H7225"
+          },
+          " ",
+          {
+            "text": "oils",
+            "strong": "H8081"
+          },
+          ", ",
+          {
+            "text": "but you fail to",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "grieve",
+            "strong": "H2470"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ruin",
+            "strong": "H7667"
+          },
+          " ",
+          {
+            "text": "of Joseph",
+            "strong": "H3130"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "you will now",
+            "strong": "H6258"
+          },
+          " ",
+          {
+            "text": "go into exile",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "as the first",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the captives",
+            "strong": "H1540"
+          },
+          ", ",
+          {
+            "text": "and your feasting",
+            "strong": "H4797"
+          },
+          " ",
+          {
+            "text": "and lounging",
+            "strong": "H5628"
+          },
+          " ",
+          {
+            "text": "will come to an end",
+            "strong": "H5493"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "has sworn",
+            "strong": "H7650"
+          },
+          " ",
+          {
+            "text": "by Himself",
+            "strong": "H5315"
+          },
+          "\u2014 ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ", ",
+          {
+            "text": "has declared",
+            "strong": "H5002"
+          },
+          ":\u201c",
+          {
+            "text": "I",
+            "strong": "H595"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "abhor",
+            "strong": "H8374"
+          },
+          " ",
+          {
+            "text": "Jacob\u2019s",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "pride",
+            "strong": "H1347"
+          },
+          " ",
+          {
+            "text": "and detest",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "his citadels",
+            "strong": "H759"
+          },
+          ", ",
+          {
+            "text": "so I will deliver up",
+            "strong": "H5462"
+          },
+          " ",
+          {
+            "text": "the city",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "and everything in it",
+            "strong": "H4393"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "And if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "there are",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "ten",
+            "strong": "H6235"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "left",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "in one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "they too will die",
+            "strong": "H4191"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And when the relative",
+            "strong": "H1730"
+          },
+          " ",
+          {
+            "text": "who is to burn [the bodies]",
+            "strong": "H5635"
+          },
+          " ",
+          {
+            "text": "picks them up",
+            "strong": "H5375"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6106"
+          },
+          " ",
+          {
+            "text": "to remove them",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "he will call",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to one",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "inside",
+            "strong": "H3411"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1004"
+          },
+          ", \u201c",
+          {
+            "text": "Is anyone else",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "with you",
+            "strong": "H5973"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "None",
+            "strong": "H657"
+          },
+          ",\u201d ",
+          {
+            "text": "that person will answer",
+            "strong": "H559"
+          },
+          ".\u201c",
+          {
+            "text": "Silence",
+            "strong": "H2013"
+          },
+          ",\u201d ",
+          {
+            "text": "[the relative] will retort",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be invoked",
+            "strong": "H2142"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "gives a command",
+            "strong": "H6680"
+          },
+          ":\u201c",
+          {
+            "text": "The great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "will be smashed",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "to pieces",
+            "strong": "H7447"
+          },
+          ", ",
+          {
+            "text": "and the small",
+            "strong": "H6996"
+          },
+          " ",
+          {
+            "text": "house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "to rubble",
+            "strong": "H1233"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "Do horses",
+            "strong": "H5483"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "gallop",
+            "strong": "H7323"
+          },
+          " ",
+          {
+            "text": "on the cliffs",
+            "strong": "H5553"
+          },
+          "? ",
+          {
+            "text": "Does one plow [the sea]",
+            "strong": "H2790"
+          },
+          " ",
+          {
+            "text": "with oxen",
+            "strong": "H1241"
+          },
+          "? ",
+          {
+            "text": "But",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have turned",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "into poison",
+            "strong": "H7219"
+          },
+          " ",
+          {
+            "text": "and the fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "of righteousness",
+            "strong": "H6666"
+          },
+          " ",
+          {
+            "text": "into wormwood",
+            "strong": "H3939"
+          },
+          "\u2014"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "you who rejoice",
+            "strong": "H8056"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3810"
+          },
+          " ",
+          {
+            "text": "in Lo-debar",
+            "strong": "H3810"
+          },
+          " ",
+          {
+            "text": "and say",
+            "strong": "H559"
+          },
+          ",\u2018",
+          {
+            "text": "Did we not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "Karnaim",
+            "strong": "H7161"
+          },
+          " by our own ",
+          {
+            "text": "strength",
+            "strong": "H2392"
+          },
+          "?\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "behold",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "I will raise up",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "a nation",
+            "strong": "H1471"
+          },
+          " ",
+          {
+            "text": "against you",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "O house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ",\u201d ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ",\u201c",
+          {
+            "text": "and they will oppress",
+            "strong": "H3905"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "from Lebo-hamath",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2574"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the Brook",
+            "strong": "H5158"
+          },
+          " ",
+          {
+            "text": "of the Arabah",
+            "strong": "H6160"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

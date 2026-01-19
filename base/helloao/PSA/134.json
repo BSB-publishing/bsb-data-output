@@ -1,0 +1,92 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 134,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Lift up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "your hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "to the sanctuary",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "and bless",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "May the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the Maker",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "of heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "bless you",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "from Zion",
+            "strong": "H6726"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

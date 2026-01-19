@@ -1,0 +1,3076 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "DAN",
+    "name": "Daniel",
+    "number": 27
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "a golden",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "sixty",
+            "strong": "H8361"
+          },
+          " ",
+          {
+            "text": "cubits",
+            "strong": "H521"
+          },
+          " ",
+          {
+            "text": "high",
+            "strong": "H7314"
+          },
+          " ",
+          {
+            "text": "and six",
+            "strong": "H8353"
+          },
+          " ",
+          {
+            "text": "cubits",
+            "strong": "H521"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H6613"
+          },
+          ", ",
+          {
+            "text": "and he set it up",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "on the plain",
+            "strong": "H1236"
+          },
+          " ",
+          {
+            "text": "of Dura",
+            "strong": "H1757"
+          },
+          " ",
+          {
+            "text": "in the province",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H895"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Then King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "word to assemble",
+            "strong": "H3673"
+          },
+          " ",
+          {
+            "text": "the satraps",
+            "strong": "H324"
+          },
+          ", ",
+          {
+            "text": "prefects",
+            "strong": "H5460"
+          },
+          ", ",
+          {
+            "text": "governors",
+            "strong": "H6347"
+          },
+          ", ",
+          {
+            "text": "advisers",
+            "strong": "H148"
+          },
+          ", ",
+          {
+            "text": "treasurers",
+            "strong": "H1411"
+          },
+          ", ",
+          {
+            "text": "judges",
+            "strong": "H1884"
+          },
+          ", ",
+          {
+            "text": "magistrates",
+            "strong": "H8614"
+          },
+          ", ",
+          {
+            "text": "and all the other",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "officials",
+            "strong": "H7984"
+          },
+          " ",
+          {
+            "text": "of the provinces",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "to attend",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "the dedication",
+            "strong": "H2597"
+          },
+          " ",
+          {
+            "text": "of the statue",
+            "strong": "H6755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "[he]",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "had set up",
+            "strong": "H6966"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the satraps",
+            "strong": "H324"
+          },
+          ", ",
+          {
+            "text": "prefects",
+            "strong": "H5460"
+          },
+          ", ",
+          {
+            "text": "governors",
+            "strong": "H6347"
+          },
+          ", ",
+          {
+            "text": "advisers",
+            "strong": "H148"
+          },
+          ", ",
+          {
+            "text": "treasurers",
+            "strong": "H1411"
+          },
+          ", ",
+          {
+            "text": "judges",
+            "strong": "H1884"
+          },
+          ", ",
+          {
+            "text": "magistrates",
+            "strong": "H8614"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the rulers",
+            "strong": "H7984"
+          },
+          " ",
+          {
+            "text": "of the provinces",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "assembled",
+            "strong": "H3673"
+          },
+          " ",
+          {
+            "text": "for the dedication",
+            "strong": "H2597"
+          },
+          " ",
+          {
+            "text": "of the statue",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "had set up",
+            "strong": "H6966"
+          },
+          ", ",
+          {
+            "text": "and they stood",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6903"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H6755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5020"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6966"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Then the herald",
+            "strong": "H3744"
+          },
+          " ",
+          {
+            "text": "loudly",
+            "strong": "H2429"
+          },
+          " ",
+          {
+            "text": "proclaimed",
+            "strong": "H7123"
+          },
+          ", \u201c",
+          {
+            "text": "O people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "of [every] nation",
+            "strong": "H524"
+          },
+          " ",
+          {
+            "text": "and language",
+            "strong": "H3961"
+          },
+          ", ",
+          {
+            "text": "[this is what] you are commanded",
+            "strong": "H560"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "As soon as",
+            "strong": "H5732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you hear",
+            "strong": "H8086"
+          },
+          " ",
+          {
+            "text": "the sound",
+            "strong": "H7032"
+          },
+          " ",
+          {
+            "text": "of the horn",
+            "strong": "H7162"
+          },
+          ", ",
+          {
+            "text": "flute",
+            "strong": "H4953"
+          },
+          ", ",
+          {
+            "text": "zither",
+            "strong": "H7030"
+          },
+          ", ",
+          {
+            "text": "lyre",
+            "strong": "H5443"
+          },
+          ", ",
+          {
+            "text": "harp",
+            "strong": "H6460"
+          },
+          ", ",
+          {
+            "text": "pipes",
+            "strong": "H5481"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "kinds",
+            "strong": "H2178"
+          },
+          " ",
+          {
+            "text": "of music",
+            "strong": "H2170"
+          },
+          ", ",
+          {
+            "text": "you must fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "statue that",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "has set up",
+            "strong": "H6966"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "And whoever",
+            "strong": "H4479"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "will immediately",
+            "strong": "H8160"
+          },
+          " ",
+          {
+            "text": "be thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "vvv",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6903"
+          },
+          " ",
+          {
+            "text": "Therefore",
+            "strong": "H1836"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H2166"
+          },
+          " ",
+          {
+            "text": "as soon as",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8086"
+          },
+          " ",
+          {
+            "text": "the sound",
+            "strong": "H7032"
+          },
+          " ",
+          {
+            "text": "of the horn",
+            "strong": "H7162"
+          },
+          ", ",
+          {
+            "text": "flute",
+            "strong": "H4953"
+          },
+          ", ",
+          {
+            "text": "zither",
+            "strong": "H7030"
+          },
+          ", ",
+          {
+            "text": "lyre",
+            "strong": "H5443"
+          },
+          ", ",
+          {
+            "text": "harp",
+            "strong": "H6460"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "kinds",
+            "strong": "H2178"
+          },
+          " ",
+          {
+            "text": "of music",
+            "strong": "H2170"
+          },
+          ", ",
+          {
+            "text": "the people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H524"
+          },
+          " ",
+          {
+            "text": "and language",
+            "strong": "H3961"
+          },
+          " ",
+          {
+            "text": "would fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "had set up",
+            "strong": "H6966"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6903"
+          },
+          " ",
+          {
+            "text": "At this time",
+            "strong": "H1836"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2166"
+          },
+          " ",
+          {
+            "text": "some astrologers",
+            "strong": "H3779"
+          },
+          " ",
+          {
+            "text": "came forward",
+            "strong": "H7127"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "and maliciously",
+            "strong": "H399"
+          },
+          " ",
+          {
+            "text": "accused",
+            "strong": "H7170"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the Jews",
+            "strong": "H3062"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "saying",
+            "strong": "H6032"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "to King",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          ", \u201c",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "may you live",
+            "strong": "H2418"
+          },
+          " ",
+          {
+            "text": "forever",
+            "strong": "H5957"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "You",
+            "strong": "H607"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "have issued",
+            "strong": "H7761"
+          },
+          " ",
+          {
+            "text": "a decree",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "everyone",
+            "strong": "H3606"
+          },
+          {
+            "text": ". . .",
+            "strong": "H606"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "hears",
+            "strong": "H8086"
+          },
+          " ",
+          {
+            "text": "the sound",
+            "strong": "H7032"
+          },
+          " ",
+          {
+            "text": "of the horn",
+            "strong": "H7162"
+          },
+          ", ",
+          {
+            "text": "flute",
+            "strong": "H4953"
+          },
+          ", ",
+          {
+            "text": "zither",
+            "strong": "H7030"
+          },
+          ", ",
+          {
+            "text": "lyre",
+            "strong": "H5443"
+          },
+          ", ",
+          {
+            "text": "harp",
+            "strong": "H6460"
+          },
+          ", ",
+          {
+            "text": "pipes",
+            "strong": "H5481"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "kinds",
+            "strong": "H2178"
+          },
+          " ",
+          {
+            "text": "of music",
+            "strong": "H2170"
+          },
+          " ",
+          {
+            "text": "must fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "and that whoever",
+            "strong": "H4479"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "will be thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "But there are",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "some",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "Jews",
+            "strong": "H3062"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you have appointed",
+            "strong": "H4483"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3487"
+          },
+          " ",
+          {
+            "text": "to manage",
+            "strong": "H5922"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5673"
+          },
+          " ",
+          {
+            "text": "the province",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H895"
+          },
+          " \u2014 ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          " \u2014 ",
+          {
+            "text": ". . .",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "[who]",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "have ignored",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7761"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H2942"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "and have refused to",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "your gods",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "or worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you have set up",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3809"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          ", ",
+          {
+            "text": "furious",
+            "strong": "H2528"
+          },
+          " ",
+          {
+            "text": "with rage",
+            "strong": "H7266"
+          },
+          ", ",
+          {
+            "text": "summoned",
+            "strong": "H560"
+          },
+          {
+            "text": ". . .",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ". ",
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "were brought",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6925"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "and Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H560"
+          },
+          " to them, \u201c",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ", ",
+          {
+            "text": "is it true",
+            "strong": "H6656"
+          },
+          " ",
+          {
+            "text": "that you do not",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "my gods",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "or worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "I have set up",
+            "strong": "H6966"
+          },
+          "? ",
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H3705"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "H5732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you hear",
+            "strong": "H8086"
+          },
+          " ",
+          {
+            "text": "the sound",
+            "strong": "H7032"
+          },
+          " ",
+          {
+            "text": "of the horn",
+            "strong": "H7162"
+          },
+          ", ",
+          {
+            "text": "flute",
+            "strong": "H4953"
+          },
+          ", ",
+          {
+            "text": "zither",
+            "strong": "H7030"
+          },
+          ", ",
+          {
+            "text": "lyre",
+            "strong": "H5443"
+          },
+          ", ",
+          {
+            "text": "harp",
+            "strong": "H6460"
+          },
+          ", ",
+          {
+            "text": "pipes",
+            "strong": "H5481"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "kinds",
+            "strong": "H2178"
+          },
+          " ",
+          {
+            "text": "of music",
+            "strong": "H2170"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "you are",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "ready",
+            "strong": "H6263"
+          },
+          " ",
+          {
+            "text": "to fall down",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "and worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the statue",
+            "strong": "H6755"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "I have made, [very good]",
+            "strong": "H5648"
+          },
+          ". ",
+          {
+            "text": "But if",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "you refuse",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "to worship",
+            "strong": "H5457"
+          },
+          ", ",
+          {
+            "text": "you will be thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "at once",
+            "strong": "H8160"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          ". ",
+          {
+            "text": "Then what",
+            "strong": "H4479"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "will be able",
+            "strong": "H1932"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "to deliver you",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "my hands",
+            "strong": "H3028"
+          },
+          "?\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "to the king",
+            "strong": "H4430"
+          },
+          ", \u201c",
+          {
+            "text": "O Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          ", ",
+          {
+            "text": "we",
+            "strong": "H586"
+          },
+          " ",
+          {
+            "text": "have",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "no need",
+            "strong": "H2818"
+          },
+          " ",
+          {
+            "text": "to answer you",
+            "strong": "H8421"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "matter",
+            "strong": "H6600"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "whom",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "we",
+            "strong": "H586"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "exists",
+            "strong": "H383"
+          },
+          ", ",
+          {
+            "text": "then He is able",
+            "strong": "H3202"
+          },
+          " ",
+          {
+            "text": "to deliver us",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          " ",
+          {
+            "text": "and from",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "your hand",
+            "strong": "H3028"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7804"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "But even if",
+            "strong": "H2006"
+          },
+          " ",
+          {
+            "text": "He does not",
+            "strong": "H3809"
+          },
+          ", ",
+          {
+            "text": "let it",
+            "strong": "H1934"
+          },
+          " ",
+          {
+            "text": "be known",
+            "strong": "H3046"
+          },
+          " to you, ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "we will not",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "serve",
+            "strong": "H6399"
+          },
+          " ",
+          {
+            "text": "your gods",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "or worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "the golden",
+            "strong": "H1722"
+          },
+          " ",
+          {
+            "text": "statue",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "you have set up",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3809"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "At this",
+            "strong": "H116"
+          },
+          ", ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "was filled",
+            "strong": "H4391"
+          },
+          " ",
+          {
+            "text": "with rage",
+            "strong": "H2528"
+          },
+          ", ",
+          {
+            "text": "and the expression",
+            "strong": "H6755"
+          },
+          " ",
+          {
+            "text": "on his face",
+            "strong": "H600"
+          },
+          " ",
+          {
+            "text": "changed",
+            "strong": "H8133"
+          },
+          " ",
+          {
+            "text": "toward",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ". ",
+          {
+            "text": "He gave orders",
+            "strong": "H6032"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "to heat",
+            "strong": "H228"
+          },
+          " ",
+          {
+            "text": "the furnace",
+            "strong": "H861"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2298"
+          },
+          " ",
+          {
+            "text": "seven times",
+            "strong": "H7655"
+          },
+          " ",
+          {
+            "text": "hotter",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "usual",
+            "strong": "H2370"
+          },
+          {
+            "text": ". . .",
+            "strong": "H228"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "and he commanded",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "[some] mighty men",
+            "strong": "H1401"
+          },
+          " ",
+          {
+            "text": "of valor",
+            "strong": "H2429"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "in his army",
+            "strong": "H2429"
+          },
+          " ",
+          {
+            "text": "to tie up",
+            "strong": "H3729"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and throw them",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "[they]",
+            "strong": "H479"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "were tied up",
+            "strong": "H3729"
+          },
+          ", ",
+          {
+            "text": "wearing robes",
+            "strong": "H5622"
+          },
+          ", ",
+          {
+            "text": "trousers",
+            "strong": "H6361"
+          },
+          ", ",
+          {
+            "text": "turbans",
+            "strong": "H3737"
+          },
+          ", ",
+          {
+            "text": "and other clothes",
+            "strong": "H3831"
+          },
+          ", ",
+          {
+            "text": "and they were thrown",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1836"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4481"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "The king\u2019s",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "command",
+            "strong": "H4406"
+          },
+          " ",
+          {
+            "text": "was so urgent",
+            "strong": "H2685"
+          },
+          " ",
+          {
+            "text": "and the furnace",
+            "strong": "H861"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3493"
+          },
+          " ",
+          {
+            "text": "hot",
+            "strong": "H228"
+          },
+          " ",
+          {
+            "text": "that the fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "flames",
+            "strong": "H7631"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "killed",
+            "strong": "H6992"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1994"
+          },
+          " ",
+          {
+            "text": "the",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "carried up",
+            "strong": "H5559"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "And these",
+            "strong": "H479"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H8532"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          ", ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ", ",
+          {
+            "text": "firmly bound",
+            "strong": "H3729"
+          },
+          ", ",
+          {
+            "text": "fell",
+            "strong": "H5308"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Suddenly",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4430"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8429"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "jumped up",
+            "strong": "H6966"
+          },
+          " ",
+          {
+            "text": "in amazement",
+            "strong": "H927"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "and asked",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "his advisers",
+            "strong": "H1907"
+          },
+          ", \u201c",
+          {
+            "text": "Did we not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "throw",
+            "strong": "H7412"
+          },
+          " ",
+          {
+            "text": "three",
+            "strong": "H8532"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          ", ",
+          {
+            "text": "firmly bound",
+            "strong": "H3729"
+          },
+          ", ",
+          {
+            "text": "into",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the fire",
+            "strong": "H5135"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "Certainly",
+            "strong": "H3330"
+          },
+          ", ",
+          {
+            "text": "O king",
+            "strong": "H4430"
+          },
+          ",\u201d ",
+          {
+            "text": "they replied",
+            "strong": "H6032"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4430"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "\u201c",
+          {
+            "text": "Look",
+            "strong": "H1888"
+          },
+          "!\u201d ",
+          {
+            "text": ". . .",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "he exclaimed",
+            "strong": "H560"
+          },
+          ". \u201c",
+          {
+            "text": "I",
+            "strong": "H576"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H2370"
+          },
+          " ",
+          {
+            "text": "four",
+            "strong": "H703"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          ", ",
+          {
+            "text": "unbound",
+            "strong": "H8271"
+          },
+          " ",
+          {
+            "text": "and unharmed",
+            "strong": "H2257"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H383"
+          },
+          ", ",
+          {
+            "text": "walking around",
+            "strong": "H1981"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the fire",
+            "strong": "H5135"
+          },
+          " \u2014 ",
+          {
+            "text": "and the fourth",
+            "strong": "H7244"
+          },
+          " ",
+          {
+            "text": "looks",
+            "strong": "H7299"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "like",
+            "strong": "H1821"
+          },
+          " ",
+          {
+            "text": "a son",
+            "strong": "H1247"
+          },
+          " ",
+          {
+            "text": "of the gods",
+            "strong": "H426"
+          },
+          "!\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          " ",
+          {
+            "text": "approached",
+            "strong": "H7127"
+          },
+          " ",
+          {
+            "text": "the door",
+            "strong": "H8651"
+          },
+          " ",
+          {
+            "text": "of the blazing",
+            "strong": "H3345"
+          },
+          " ",
+          {
+            "text": "fiery",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "furnace",
+            "strong": "H861"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6032"
+          },
+          " ",
+          {
+            "text": "and called out",
+            "strong": "H560"
+          },
+          ", \u201c",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ", ",
+          {
+            "text": "servants",
+            "strong": "H5649"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "of the Most High",
+            "strong": "H5943"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H426"
+          },
+          ", ",
+          {
+            "text": "come out",
+            "strong": "H5312"
+          },
+          "!\u201d ",
+          {
+            "text": ". . .",
+            "strong": "H858"
+          },
+          " ",
+          {
+            "text": "So",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "came out",
+            "strong": "H5312"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H4481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1459"
+          },
+          " ",
+          {
+            "text": "the fire",
+            "strong": "H5135"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "and when the satraps",
+            "strong": "H324"
+          },
+          ", ",
+          {
+            "text": "prefects",
+            "strong": "H5460"
+          },
+          ", ",
+          {
+            "text": "governors",
+            "strong": "H6347"
+          },
+          ", ",
+          {
+            "text": "and royal",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "advisers",
+            "strong": "H1907"
+          },
+          " ",
+          {
+            "text": "had gathered around",
+            "strong": "H3673"
+          },
+          ", ",
+          {
+            "text": "they saw",
+            "strong": "H2370"
+          },
+          " ",
+          {
+            "text": "that the fire",
+            "strong": "H5135"
+          },
+          " ",
+          {
+            "text": "had no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "effect",
+            "strong": "H7981"
+          },
+          " ",
+          {
+            "text": "on the bodies",
+            "strong": "H1655"
+          },
+          " ",
+          {
+            "text": "of these",
+            "strong": "H479"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1400"
+          },
+          ". ",
+          {
+            "text": "Not",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "a hair",
+            "strong": "H8177"
+          },
+          " ",
+          {
+            "text": "of their heads",
+            "strong": "H7217"
+          },
+          " ",
+          {
+            "text": "was singed",
+            "strong": "H2761"
+          },
+          ", ",
+          {
+            "text": "their robes",
+            "strong": "H5622"
+          },
+          " ",
+          {
+            "text": "were unaffected",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8133"
+          },
+          ", ",
+          {
+            "text": "and there was no",
+            "strong": "H3809"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5709"
+          },
+          " ",
+          {
+            "text": "smell",
+            "strong": "H7382"
+          },
+          " ",
+          {
+            "text": "of fire",
+            "strong": "H5135"
+          },
+          " on them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Nebuchadnezzar",
+            "strong": "H5020"
+          },
+          {
+            "text": ". . .",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "declared",
+            "strong": "H6032"
+          },
+          ", \u201c",
+          {
+            "text": "Blessed",
+            "strong": "H1289"
+          },
+          " ",
+          {
+            "text": "be the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          ", ",
+          {
+            "text": "who has sent",
+            "strong": "H7972"
+          },
+          " ",
+          {
+            "text": "His angel",
+            "strong": "H4398"
+          },
+          " ",
+          {
+            "text": "and delivered",
+            "strong": "H7804"
+          },
+          " ",
+          {
+            "text": "His servants",
+            "strong": "H5649"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "trusted",
+            "strong": "H7365"
+          },
+          " ",
+          {
+            "text": "in Him",
+            "strong": "H5922"
+          },
+          ". ",
+          {
+            "text": "They violated",
+            "strong": "H8133"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3052"
+          },
+          " ",
+          {
+            "text": "the king\u2019s",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "command",
+            "strong": "H4406"
+          },
+          " ",
+          {
+            "text": "and risked their lives",
+            "strong": "H1655"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "rather than serve",
+            "strong": "H6399"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "or worship",
+            "strong": "H5457"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "except",
+            "strong": "H3861"
+          },
+          " ",
+          {
+            "text": "their own God",
+            "strong": "H426"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Therefore I ",
+          {
+            "text": "decree",
+            "strong": "H7761"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2942"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5972"
+          },
+          " ",
+          {
+            "text": "of any",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H524"
+          },
+          " ",
+          {
+            "text": "or language",
+            "strong": "H3961"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H560"
+          },
+          " ",
+          {
+            "text": "anything offensive",
+            "strong": "H7955"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5922"
+          },
+          " ",
+          {
+            "text": "the God",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "will be cut",
+            "strong": "H5648"
+          },
+          " ",
+          {
+            "text": "into pieces",
+            "strong": "H1917"
+          },
+          " ",
+          {
+            "text": "and their houses",
+            "strong": "H1005"
+          },
+          " ",
+          {
+            "text": "reduced",
+            "strong": "H7739"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3606"
+          },
+          " ",
+          {
+            "text": "to rubble",
+            "strong": "H5122"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H6903"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "there is",
+            "strong": "H383"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3809"
+          },
+          " ",
+          {
+            "text": "other",
+            "strong": "H321"
+          },
+          " ",
+          {
+            "text": "god",
+            "strong": "H426"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H1768"
+          },
+          " ",
+          {
+            "text": "can",
+            "strong": "H3202"
+          },
+          " ",
+          {
+            "text": "deliver",
+            "strong": "H5338"
+          },
+          " ",
+          {
+            "text": "in this way",
+            "strong": "H1836"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Then",
+            "strong": "H116"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4430"
+          },
+          " ",
+          {
+            "text": "promoted",
+            "strong": "H6744"
+          },
+          " ",
+          {
+            "text": "Shadrach",
+            "strong": "H7715"
+          },
+          ", ",
+          {
+            "text": "Meshach",
+            "strong": "H4336"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "and Abednego",
+            "strong": "H5665"
+          },
+          " ",
+          {
+            "text": "in the province",
+            "strong": "H4083"
+          },
+          " ",
+          {
+            "text": "of Babylon",
+            "strong": "H895"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

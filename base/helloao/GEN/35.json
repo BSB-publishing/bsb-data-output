@@ -1,0 +1,2029 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "GEN",
+    "name": "Genesis",
+    "number": 1
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          ", \u201c",
+          {
+            "text": "Arise",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "go up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel",
+            "strong": "H1008"
+          },
+          ", ",
+          {
+            "text": "and settle",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          ". ",
+          {
+            "text": "Build",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "an altar",
+            "strong": "H4196"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "to the God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "who appeared",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "you when you fled",
+            "strong": "H1272"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "your brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "Esau",
+            "strong": "H6215"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "told",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his household",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were with him",
+            "strong": "H5973"
+          },
+          ", \u201c",
+          {
+            "text": "Get rid of",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the foreign",
+            "strong": "H5236"
+          },
+          " ",
+          {
+            "text": "gods",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "are among you",
+            "strong": "H8432"
+          },
+          ". ",
+          {
+            "text": "Purify yourselves",
+            "strong": "H2891"
+          },
+          " ",
+          {
+            "text": "and change",
+            "strong": "H2498"
+          },
+          " ",
+          {
+            "text": "your garments",
+            "strong": "H8071"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then let us arise",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "and go",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel",
+            "strong": "H1008"
+          },
+          ". ",
+          {
+            "text": "I will build",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "an altar",
+            "strong": "H4196"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "to God",
+            "strong": "H410"
+          },
+          ", ",
+          {
+            "text": "who answered",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in my day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of distress",
+            "strong": "H6869"
+          },
+          ". ",
+          {
+            "text": "He has been",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "with me",
+            "strong": "H5978"
+          },
+          " ",
+          {
+            "text": "wherever",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I have gone",
+            "strong": "H1980"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "So they gave",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "foreign",
+            "strong": "H5236"
+          },
+          " ",
+          {
+            "text": "gods",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "and [all their] earrings",
+            "strong": "H5141"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "and Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "buried",
+            "strong": "H2934"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the oak",
+            "strong": "H424"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "near",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "Shechem",
+            "strong": "H7927"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "As they set out",
+            "strong": "H5265"
+          },
+          ", ",
+          {
+            "text": "a terror",
+            "strong": "H2847"
+          },
+          " ",
+          {
+            "text": "from God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "fell",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the surrounding",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "cities",
+            "strong": "H5892"
+          },
+          ", ",
+          {
+            "text": "so that they did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "pursue",
+            "strong": "H7291"
+          },
+          {
+            "text": ". . .",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "Jacob\u2019s",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "So Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "and everyone",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "arrived",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "in Luz",
+            "strong": "H3870"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel)",
+            "strong": "H1008"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Canaan",
+            "strong": "H3667"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "There",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "Jacob built",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "an altar",
+            "strong": "H4196"
+          },
+          ", ",
+          {
+            "text": "and he called",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "that place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H416"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H416"
+          },
+          " ",
+          {
+            "text": "El-bethel",
+            "strong": "H416"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "it was there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "that God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "had revealed Himself",
+            "strong": "H1540"
+          },
+          " ",
+          {
+            "text": "to [Jacob]",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "as he fled",
+            "strong": "H1272"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "his brother",
+            "strong": "H251"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Now Deborah",
+            "strong": "H1683"
+          },
+          ", ",
+          {
+            "text": "Rebekah\u2019s",
+            "strong": "H7259"
+          },
+          " ",
+          {
+            "text": "nurse",
+            "strong": "H3243"
+          },
+          ", ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "and was buried",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the oak",
+            "strong": "H437"
+          },
+          " ",
+          {
+            "text": "below",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel",
+            "strong": "H1008"
+          },
+          ". ",
+          {
+            "text": "So [Jacob] named",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H439"
+          },
+          " ",
+          {
+            "text": "Allon-bacuth",
+            "strong": "H439"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "After [Jacob] had returned",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H6307"
+          },
+          " ",
+          {
+            "text": "Paddan-aram",
+            "strong": "H758"
+          },
+          ", ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "appeared",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "again",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "and blessed",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " to him, \u201c",
+          {
+            "text": "[Though] your name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "is Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "you will no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "longer",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "be called",
+            "strong": "H7121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          ". ",
+          {
+            "text": "Instead",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          ", ",
+          {
+            "text": "your name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ".\u201d ",
+          {
+            "text": "So [God] named",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "told",
+            "strong": "H559"
+          },
+          " him, \u201c",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "Almighty",
+            "strong": "H7706"
+          },
+          ". ",
+          {
+            "text": "Be fruitful",
+            "strong": "H6509"
+          },
+          " ",
+          {
+            "text": "and multiply",
+            "strong": "H7235"
+          },
+          ". ",
+          {
+            "text": "A nation",
+            "strong": "H1471"
+          },
+          " \u2014 ",
+          {
+            "text": "even a company",
+            "strong": "H6951"
+          },
+          " ",
+          {
+            "text": "of nations",
+            "strong": "H1471"
+          },
+          " \u2014 ",
+          {
+            "text": "shall come",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "from you",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "and kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "shall descend",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "from you",
+            "strong": "H2504"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "The land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "and Isaac",
+            "strong": "H3327"
+          },
+          " ",
+          {
+            "text": "I will give",
+            "strong": "H5414"
+          },
+          " to you, ",
+          {
+            "text": "and I will give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "this land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "to your descendants",
+            "strong": "H2233"
+          },
+          " ",
+          {
+            "text": "after you",
+            "strong": "H310"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Then God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He had spoken",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "So Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "set up",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "a pillar",
+            "strong": "H4676"
+          },
+          " ",
+          {
+            "text": "in the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "[God] had spoken",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          "\u2014 ",
+          {
+            "text": "a stone",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "marker",
+            "strong": "H4678"
+          },
+          "\u2014 ",
+          {
+            "text": "and he poured out",
+            "strong": "H5258"
+          },
+          " ",
+          {
+            "text": "a drink offering",
+            "strong": "H5262"
+          },
+          " ",
+          {
+            "text": "on it",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "and anointed it",
+            "strong": "H3332"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "with oil",
+            "strong": "H8081"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "H7121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "had spoken",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel",
+            "strong": "H1008"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Later, they set out",
+            "strong": "H5265"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H1008"
+          },
+          " ",
+          {
+            "text": "Bethel",
+            "strong": "H1008"
+          },
+          ", ",
+          {
+            "text": "and while they were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "still",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "some distance",
+            "strong": "H3530"
+          },
+          {
+            "text": ". . .",
+            "strong": "H776"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "from Ephrath",
+            "strong": "H672"
+          },
+          ", ",
+          {
+            "text": "Rachel",
+            "strong": "H7354"
+          },
+          " ",
+          {
+            "text": "began to give birth",
+            "strong": "H3205"
+          },
+          ", ",
+          {
+            "text": "and her labor",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "was difficult",
+            "strong": "H7185"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "During",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "her severe",
+            "strong": "H7185"
+          },
+          " ",
+          {
+            "text": "labor",
+            "strong": "H3205"
+          },
+          ", ",
+          {
+            "text": "the midwife",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " to her, \u201c",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be afraid",
+            "strong": "H3372"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " you ",
+          {
+            "text": "are having",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "another",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "with her last",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "breath",
+            "strong": "H5315"
+          },
+          "\u2014 ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "she was dying",
+            "strong": "H4191"
+          },
+          "\u2014 ",
+          {
+            "text": "she named",
+            "strong": "H7121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "vvv him",
+            "strong": "H1126"
+          },
+          " ",
+          {
+            "text": "Ben-oni",
+            "strong": "H1126"
+          },
+          ". ",
+          {
+            "text": "But his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "called",
+            "strong": "H7121"
+          },
+          " him ",
+          {
+            "text": "Benjamin",
+            "strong": "H1144"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "So Rachel",
+            "strong": "H7354"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "and was buried",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "on the way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "to Ephrath",
+            "strong": "H672"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H1035"
+          },
+          " ",
+          {
+            "text": "Bethlehem)",
+            "strong": "H1035"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "set up",
+            "strong": "H5324"
+          },
+          " ",
+          {
+            "text": "a pillar",
+            "strong": "H4676"
+          },
+          " ",
+          {
+            "text": "on her",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "grave",
+            "strong": "H6900"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "marks",
+            "strong": "H4678"
+          },
+          " ",
+          {
+            "text": "Rachel\u2019s",
+            "strong": "H7354"
+          },
+          " ",
+          {
+            "text": "tomb",
+            "strong": "H6900"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "this day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Israel again",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "set out",
+            "strong": "H5265"
+          },
+          " ",
+          {
+            "text": "and pitched",
+            "strong": "H5186"
+          },
+          " ",
+          {
+            "text": "his tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "beyond",
+            "strong": "H1973"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4029"
+          },
+          " ",
+          {
+            "text": "the Tower of Eder",
+            "strong": "H4029"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "While",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "was living",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "in that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "region",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "Reuben",
+            "strong": "H7205"
+          },
+          " ",
+          {
+            "text": "went in",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and slept with",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "concubine",
+            "strong": "H6370"
+          },
+          " ",
+          {
+            "text": "Bilhah",
+            "strong": "H1090"
+          },
+          ", ",
+          {
+            "text": "and Israel",
+            "strong": "H3478"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "heard about it",
+            "strong": "H8085"
+          },
+          ". ",
+          {
+            "text": "Jacob had",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "twelve",
+            "strong": "H8147"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6240"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Leah",
+            "strong": "H3812"
+          },
+          " ",
+          {
+            "text": "were Reuben",
+            "strong": "H7205"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "Simeon",
+            "strong": "H8095"
+          },
+          ", ",
+          {
+            "text": "Levi",
+            "strong": "H3878"
+          },
+          ", ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "Issachar",
+            "strong": "H3485"
+          },
+          ", ",
+          {
+            "text": "and Zebulun",
+            "strong": "H2074"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Rachel [were]",
+            "strong": "H7354"
+          },
+          " ",
+          {
+            "text": "Joseph",
+            "strong": "H3130"
+          },
+          " ",
+          {
+            "text": "and Benjamin",
+            "strong": "H1144"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Rachel\u2019s",
+            "strong": "H7354"
+          },
+          " ",
+          {
+            "text": "maidservant",
+            "strong": "H8198"
+          },
+          " ",
+          {
+            "text": "Bilhah [were]",
+            "strong": "H1090"
+          },
+          " ",
+          {
+            "text": "Dan",
+            "strong": "H1835"
+          },
+          " ",
+          {
+            "text": "and Naphtali",
+            "strong": "H5321"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "And the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Leah\u2019s",
+            "strong": "H3812"
+          },
+          " ",
+          {
+            "text": "maidservant",
+            "strong": "H8198"
+          },
+          " ",
+          {
+            "text": "Zilpah",
+            "strong": "H2153"
+          },
+          " ",
+          {
+            "text": "[were] Gad",
+            "strong": "H1410"
+          },
+          " ",
+          {
+            "text": "and Asher",
+            "strong": "H836"
+          },
+          ". ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were born",
+            "strong": "H3205"
+          },
+          " to him ",
+          {
+            "text": "in",
+            "strong": "H6307"
+          },
+          " ",
+          {
+            "text": "Paddan-aram",
+            "strong": "H758"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "returned",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Isaac",
+            "strong": "H3327"
+          },
+          " ",
+          {
+            "text": "at Mamre",
+            "strong": "H4471"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H7153"
+          },
+          " ",
+          {
+            "text": "near Kiriath-arba",
+            "strong": "H7153"
+          },
+          " ",
+          {
+            "text": "(that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "Hebron)",
+            "strong": "H2275"
+          },
+          ", ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Abraham",
+            "strong": "H85"
+          },
+          " ",
+          {
+            "text": "and Isaac",
+            "strong": "H3327"
+          },
+          " ",
+          {
+            "text": "had stayed",
+            "strong": "H1481"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "And Isaac",
+            "strong": "H3327"
+          },
+          " ",
+          {
+            "text": "lived",
+            "strong": "H1961"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "180",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8084"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Then [he]",
+            "strong": "H3327"
+          },
+          " ",
+          {
+            "text": "breathed his last",
+            "strong": "H1478"
+          },
+          " ",
+          {
+            "text": "and died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "and was gathered",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "his people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "old",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "and full",
+            "strong": "H7649"
+          },
+          " ",
+          {
+            "text": "of years",
+            "strong": "H3117"
+          },
+          ". ",
+          {
+            "text": "And his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "Esau",
+            "strong": "H6215"
+          },
+          " ",
+          {
+            "text": "and Jacob",
+            "strong": "H3290"
+          },
+          " ",
+          {
+            "text": "buried him",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

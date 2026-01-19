@@ -1,0 +1,1875 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2SA",
+    "name": "2 Samuel",
+    "number": 10
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the tribes",
+            "strong": "H7626"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "at Hebron",
+            "strong": "H2275"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " \u201c",
+          {
+            "text": "Here",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "we [are]",
+            "strong": "H587"
+          },
+          ", ",
+          {
+            "text": "your own flesh",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "and blood",
+            "strong": "H6106"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Even",
+            "strong": "H1571"
+          },
+          {
+            "text": ". . .",
+            "strong": "H865"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "in times past",
+            "strong": "H8032"
+          },
+          ", ",
+          {
+            "text": "while Saul",
+            "strong": "H7586"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "over us",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "were the one",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "who led Israel out",
+            "strong": "H3318"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and brought them back",
+            "strong": "H935"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " And to you ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will shepherd",
+            "strong": "H7462"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "and you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "will be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "ruler",
+            "strong": "H5057"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[them]",
+            "strong": "H3478"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "So all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the elders",
+            "strong": "H2205"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "at Hebron",
+            "strong": "H2275"
+          },
+          ", ",
+          {
+            "text": "[where]",
+            "strong": "H2275"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H3772"
+          },
+          " with them ",
+          {
+            "text": "a covenant",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "And they anointed",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "was thirty",
+            "strong": "H7970"
+          },
+          " ",
+          {
+            "text": "years old",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "when he became king",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "[and] he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "forty",
+            "strong": "H705"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "In Hebron",
+            "strong": "H2275"
+          },
+          " ",
+          {
+            "text": "he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "seven",
+            "strong": "H7651"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "and six",
+            "strong": "H8337"
+          },
+          " ",
+          {
+            "text": "months",
+            "strong": "H2320"
+          },
+          ", ",
+          {
+            "text": "and in Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "he reigned",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "thirty-three",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7969"
+          },
+          " ",
+          {
+            "text": "years",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "and Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Now the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "marched",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "to Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Jebusites",
+            "strong": "H2983"
+          },
+          " ",
+          {
+            "text": "who inhabited",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ". ",
+          {
+            "text": "The Jebusites said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to David",
+            "strong": "H1732"
+          },
+          ": \u201c",
+          {
+            "text": "You will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "get in",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H2008"
+          },
+          ". ",
+          {
+            "text": "Even",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "the blind",
+            "strong": "H5787"
+          },
+          " ",
+          {
+            "text": "and lame",
+            "strong": "H6455"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "can repel you",
+            "strong": "H5493"
+          },
+          ".\u201d ",
+          {
+            "text": "For they thought",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "get in",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "here",
+            "strong": "H2008"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Nevertheless , David",
+            "strong": "H1732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "captured",
+            "strong": "H3920"
+          },
+          " ",
+          {
+            "text": "the fortress",
+            "strong": "H4686"
+          },
+          " ",
+          {
+            "text": "of Zion",
+            "strong": "H6726"
+          },
+          " (",
+          {
+            "text": "that is",
+            "strong": "H1931"
+          },
+          ", ",
+          {
+            "text": "the City",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ")."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "On that",
+            "strong": "H1931"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "[he]",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Whoever attacks",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the Jebusites",
+            "strong": "H2983"
+          },
+          " ",
+          {
+            "text": "must use the water shaft",
+            "strong": "H6794"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to reach",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "the lame",
+            "strong": "H6455"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and blind",
+            "strong": "H5787"
+          },
+          " ",
+          {
+            "text": "who are despised",
+            "strong": "H8130"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "by David",
+            "strong": "H1732"
+          },
+          ".\u201d ",
+          {
+            "text": "That is why",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "it is said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "The blind",
+            "strong": "H5787"
+          },
+          " ",
+          {
+            "text": "and the lame",
+            "strong": "H6455"
+          },
+          " ",
+          {
+            "text": "will never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "enter",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the palace",
+            "strong": "H1004"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "took up residence",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the fortress",
+            "strong": "H4686"
+          },
+          " ",
+          {
+            "text": "and called",
+            "strong": "H7121"
+          },
+          " it ",
+          {
+            "text": "the City",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ". ",
+          {
+            "text": "He",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "built it up",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "all the way around",
+            "strong": "H5439"
+          },
+          ", ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the supporting terraces",
+            "strong": "H4407"
+          },
+          " ",
+          {
+            "text": "inward",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "became",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "greater",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and greater",
+            "strong": "H1431"
+          },
+          ", ",
+          {
+            "text": "for the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          " ",
+          {
+            "text": "was with him",
+            "strong": "H5973"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Now Hiram",
+            "strong": "H2438"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Tyre",
+            "strong": "H6865"
+          },
+          " ",
+          {
+            "text": "sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "envoys",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          ", ",
+          {
+            "text": "along with cedar",
+            "strong": "H730"
+          },
+          " ",
+          {
+            "text": "logs",
+            "strong": "H6086"
+          },
+          ", ",
+          {
+            "text": "carpenters",
+            "strong": "H2796"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6086"
+          },
+          ", ",
+          {
+            "text": "and stonemasons",
+            "strong": "H2796"
+          },
+          {
+            "text": ". . .",
+            "strong": "H68"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H7023"
+          },
+          " ",
+          {
+            "text": "and they built",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "a palace",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "for David",
+            "strong": "H1732"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "And David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "realized",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had established him",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "as king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "and had exalted",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "his kingdom",
+            "strong": "H4467"
+          },
+          " ",
+          {
+            "text": "for the sake of",
+            "strong": "H5668"
+          },
+          " ",
+          {
+            "text": "His people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "After",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "he had arrived",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "from Hebron",
+            "strong": "H2275"
+          },
+          ", ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "more",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "concubines",
+            "strong": "H6370"
+          },
+          " ",
+          {
+            "text": "and wives",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "from Jerusalem",
+            "strong": "H3389"
+          },
+          ", ",
+          {
+            "text": "and more",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "and daughters",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "were born",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "to him",
+            "strong": "H1732"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the children born",
+            "strong": "H3209"
+          },
+          " to him ",
+          {
+            "text": "in Jerusalem",
+            "strong": "H3389"
+          },
+          ": ",
+          {
+            "text": "Shammua",
+            "strong": "H8051"
+          },
+          ", ",
+          {
+            "text": "Shobab",
+            "strong": "H7727"
+          },
+          ", ",
+          {
+            "text": "Nathan",
+            "strong": "H5416"
+          },
+          ", ",
+          {
+            "text": "Solomon",
+            "strong": "H8010"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Ibhar",
+            "strong": "H2984"
+          },
+          ", ",
+          {
+            "text": "Elishua",
+            "strong": "H474"
+          },
+          ", ",
+          {
+            "text": "Nepheg",
+            "strong": "H5298"
+          },
+          ", ",
+          {
+            "text": "Japhia",
+            "strong": "H3309"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Elishama",
+            "strong": "H476"
+          },
+          ", ",
+          {
+            "text": "Eliada",
+            "strong": "H450"
+          },
+          ", ",
+          {
+            "text": "and Eliphelet",
+            "strong": "H467"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "When the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "had been anointed",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "they",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "in search of",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H1732"
+          },
+          "; ",
+          {
+            "text": "but [David]",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "learned [of this]",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "and went down",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the stronghold",
+            "strong": "H4686"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Now the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "had come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "and spread out",
+            "strong": "H5203"
+          },
+          " ",
+          {
+            "text": "in the Valley",
+            "strong": "H6010"
+          },
+          " ",
+          {
+            "text": "of Rephaim",
+            "strong": "H7497"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "inquired",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Should I go up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          "? ",
+          {
+            "text": "Will You deliver them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into my hand",
+            "strong": "H3027"
+          },
+          "?\u201d\u201c",
+          {
+            "text": "Go up",
+            "strong": "H5927"
+          },
+          ",\u201d ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1732"
+          },
+          ", \u201c",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I will surely deliver",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "into your hand",
+            "strong": "H3027"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "went",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1188"
+          },
+          " ",
+          {
+            "text": "to Baal-perazim",
+            "strong": "H1188"
+          },
+          ", ",
+          {
+            "text": "where he defeated [the Philistines]",
+            "strong": "H5221"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8033"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Like a bursting",
+            "strong": "H6556"
+          },
+          " ",
+          {
+            "text": "flood",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "has burst out",
+            "strong": "H6555"
+          },
+          " ",
+          {
+            "text": "against my enemies",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "before me",
+            "strong": "H6440"
+          },
+          ".\u201d ",
+          {
+            "text": "So",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "he called",
+            "strong": "H7121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1188"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "Baal-perazim",
+            "strong": "H1188"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "There",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "the Philistines abandoned",
+            "strong": "H5800"
+          },
+          " ",
+          {
+            "text": "their idols",
+            "strong": "H6091"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "and his men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "carried them away",
+            "strong": "H5375"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Once again",
+            "strong": "H3254"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "came up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "and spread out",
+            "strong": "H5203"
+          },
+          " ",
+          {
+            "text": "in the Valley",
+            "strong": "H6010"
+          },
+          " ",
+          {
+            "text": "of Rephaim",
+            "strong": "H7497"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          " ",
+          {
+            "text": "inquired",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "who answered",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Do not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "march straight up",
+            "strong": "H5927"
+          },
+          ", ",
+          {
+            "text": "but circle",
+            "strong": "H5437"
+          },
+          " ",
+          {
+            "text": "around",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "behind them",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "and attack",
+            "strong": "H935"
+          },
+          " them ",
+          {
+            "text": "in front",
+            "strong": "H4136"
+          },
+          " ",
+          {
+            "text": "of the balsam trees",
+            "strong": "H1057"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "As soon as",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "you hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the sound",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of marching",
+            "strong": "H6807"
+          },
+          " ",
+          {
+            "text": "in the tops",
+            "strong": "H7218"
+          },
+          " ",
+          {
+            "text": "of the balsam trees",
+            "strong": "H1057"
+          },
+          ", ",
+          {
+            "text": "move quickly",
+            "strong": "H2782"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "this will mean that",
+            "strong": "H227"
+          },
+          {
+            "text": ". . .",
+            "strong": "H227"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has gone out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "before you",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "to strike",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "the camp",
+            "strong": "H4264"
+          },
+          " ",
+          {
+            "text": "of the Philistines",
+            "strong": "H6430"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "So David",
+            "strong": "H1732"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had commanded him",
+            "strong": "H6680"
+          },
+          ", ",
+          {
+            "text": "and he struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Philistines",
+            "strong": "H6430"
+          },
+          " ",
+          {
+            "text": "all the way from Gibeon",
+            "strong": "H1387"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "Gezer",
+            "strong": "H1507"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

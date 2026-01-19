@@ -1,0 +1,840 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 147,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Hallelujah",
+            "strong": "H1984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3050"
+          },
+          "! ",
+          {
+            "text": "How",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "good [it is]",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "to sing praises",
+            "strong": "H2167"
+          },
+          " ",
+          {
+            "text": "to our God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "how",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "pleasant",
+            "strong": "H5273"
+          },
+          " ",
+          {
+            "text": "and lovely",
+            "strong": "H5000"
+          },
+          " ",
+          {
+            "text": "to praise [Him]",
+            "strong": "H8416"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "builds up",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "Jerusalem",
+            "strong": "H3389"
+          },
+          "; ",
+          {
+            "text": "He gathers",
+            "strong": "H3664"
+          },
+          " ",
+          {
+            "text": "the exiles",
+            "strong": "H5080"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He heals",
+            "strong": "H7495"
+          },
+          " ",
+          {
+            "text": "the brokenhearted",
+            "strong": "H7665"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "and binds",
+            "strong": "H2280"
+          },
+          " ",
+          {
+            "text": "up their wounds",
+            "strong": "H6094"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "He determines",
+            "strong": "H4487"
+          },
+          " ",
+          {
+            "text": "the number",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "of the stars",
+            "strong": "H3556"
+          },
+          "; ",
+          {
+            "text": "He calls them",
+            "strong": "H7121"
+          },
+          " ",
+          {
+            "text": "each",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "by name",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Great",
+            "strong": "H1419"
+          },
+          " ",
+          {
+            "text": "[is] our Lord",
+            "strong": "H113"
+          },
+          ", ",
+          {
+            "text": "and mighty",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "in power",
+            "strong": "H3581"
+          },
+          "; ",
+          {
+            "text": "His understanding",
+            "strong": "H8394"
+          },
+          " ",
+          {
+            "text": "has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "limit",
+            "strong": "H4557"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "sustains",
+            "strong": "H5749"
+          },
+          " ",
+          {
+            "text": "the humble",
+            "strong": "H6035"
+          },
+          ", ",
+          {
+            "text": "[but] casts",
+            "strong": "H8213"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the ground",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Sing",
+            "strong": "H6030"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "with thanksgiving",
+            "strong": "H8426"
+          },
+          "; ",
+          {
+            "text": "make music",
+            "strong": "H2167"
+          },
+          " ",
+          {
+            "text": "on the harp",
+            "strong": "H3658"
+          },
+          " ",
+          {
+            "text": "to our God",
+            "strong": "H430"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "who covers",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "the sky",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "with clouds",
+            "strong": "H5645"
+          },
+          ", ",
+          {
+            "text": "who prepares",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "rain",
+            "strong": "H4306"
+          },
+          " ",
+          {
+            "text": "for the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "who makes grass",
+            "strong": "H2682"
+          },
+          " ",
+          {
+            "text": "to grow",
+            "strong": "H6779"
+          },
+          " ",
+          {
+            "text": "on the hills",
+            "strong": "H2022"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "He provides",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H3899"
+          },
+          " ",
+          {
+            "text": "for the animals",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "and for the young",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "ravens",
+            "strong": "H6158"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "when they call",
+            "strong": "H7121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "He does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "delight",
+            "strong": "H2654"
+          },
+          " ",
+          {
+            "text": "in the strength",
+            "strong": "H1369"
+          },
+          " ",
+          {
+            "text": "of the horse",
+            "strong": "H5483"
+          },
+          "; ",
+          {
+            "text": "He takes no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "pleasure",
+            "strong": "H7521"
+          },
+          " ",
+          {
+            "text": "in the legs",
+            "strong": "H7785"
+          },
+          " ",
+          {
+            "text": "of a man",
+            "strong": "H376"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "is pleased",
+            "strong": "H7521"
+          },
+          " ",
+          {
+            "text": "with those who fear Him",
+            "strong": "H3373"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "who hope",
+            "strong": "H3176"
+          },
+          " ",
+          {
+            "text": "in His loving devotion",
+            "strong": "H2617"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Exalt",
+            "strong": "H7623"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "O Jerusalem",
+            "strong": "H3389"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          "; ",
+          {
+            "text": "praise",
+            "strong": "H1984"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "O Zion",
+            "strong": "H6726"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "He strengthens",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "the bars",
+            "strong": "H1280"
+          },
+          " ",
+          {
+            "text": "of your gates",
+            "strong": "H8179"
+          },
+          " ",
+          {
+            "text": "and blesses",
+            "strong": "H1288"
+          },
+          " ",
+          {
+            "text": "the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "within you",
+            "strong": "H7130"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "He makes",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "peace",
+            "strong": "H7965"
+          },
+          " ",
+          {
+            "text": "[at] your borders",
+            "strong": "H1366"
+          },
+          "; ",
+          {
+            "text": "He fills you",
+            "strong": "H7646"
+          },
+          " ",
+          {
+            "text": "with the finest",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "wheat",
+            "strong": "H2406"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "He sends forth",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "His command",
+            "strong": "H565"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          "; ",
+          {
+            "text": "His word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "runs",
+            "strong": "H7323"
+          },
+          " ",
+          {
+            "text": "swiftly",
+            "strong": "H4120"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "He spreads",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the snow",
+            "strong": "H7950"
+          },
+          " ",
+          {
+            "text": "like wool",
+            "strong": "H6785"
+          },
+          "; ",
+          {
+            "text": "He scatters",
+            "strong": "H6340"
+          },
+          " ",
+          {
+            "text": "the frost",
+            "strong": "H3713"
+          },
+          " ",
+          {
+            "text": "like ashes",
+            "strong": "H665"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "He casts forth",
+            "strong": "H7993"
+          },
+          " ",
+          {
+            "text": "His hail",
+            "strong": "H7140"
+          },
+          " ",
+          {
+            "text": "like pebbles",
+            "strong": "H6595"
+          },
+          ". ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can withstand",
+            "strong": "H6440"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "His icy blast",
+            "strong": "H7135"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "He sends forth",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "His word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "and melts them",
+            "strong": "H4529"
+          },
+          "; ",
+          {
+            "text": "He unleashes",
+            "strong": "H5380"
+          },
+          " ",
+          {
+            "text": "His winds",
+            "strong": "H7307"
+          },
+          ", ",
+          {
+            "text": "and the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "flow",
+            "strong": "H5140"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "He declares",
+            "strong": "H5046"
+          },
+          " ",
+          {
+            "text": "His word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "to Jacob",
+            "strong": "H3290"
+          },
+          ", ",
+          {
+            "text": "His statutes",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "and judgments",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "to Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "He has done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "for no other",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "nation",
+            "strong": "H1471"
+          },
+          "; ",
+          {
+            "text": "they do not",
+            "strong": "H1077"
+          },
+          " ",
+          {
+            "text": "know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "His judgments",
+            "strong": "H4941"
+          },
+          ". ",
+          {
+            "text": "Hallelujah",
+            "strong": "H1984"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3050"
+          },
+          "!"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

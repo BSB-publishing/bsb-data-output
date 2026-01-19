@@ -1,0 +1,389 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Blessed",
+            "strong": "H835"
+          },
+          " ",
+          {
+            "text": "[is] the man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "walk",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "in the counsel",
+            "strong": "H6098"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "set foot",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "on the path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of sinners",
+            "strong": "H2400"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sit",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in the seat",
+            "strong": "H4186"
+          },
+          " ",
+          {
+            "text": "of mockers",
+            "strong": "H3887"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "But",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "his delight",
+            "strong": "H2656"
+          },
+          " ",
+          {
+            "text": "[is] in the Law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "and on His law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "he meditates",
+            "strong": "H1897"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3119"
+          },
+          " ",
+          {
+            "text": "and night",
+            "strong": "H3915"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He is",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like a tree",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "planted",
+            "strong": "H8362"
+          },
+          " ",
+          {
+            "text": "by",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "streams",
+            "strong": "H6388"
+          },
+          " ",
+          {
+            "text": "of water",
+            "strong": "H4325"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "yielding",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "its fruit",
+            "strong": "H6529"
+          },
+          " ",
+          {
+            "text": "in season",
+            "strong": "H6256"
+          },
+          ", ",
+          {
+            "text": "whose leaf",
+            "strong": "H5929"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "wither",
+            "strong": "H5034"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who prospers",
+            "strong": "H6743"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "in all he does",
+            "strong": "H6213"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          "! ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "[they are]",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "like chaff",
+            "strong": "H4671"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "driven off",
+            "strong": "H5086"
+          },
+          " ",
+          {
+            "text": "by the wind",
+            "strong": "H7307"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "{will} not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "stand",
+            "strong": "H6965"
+          },
+          " ",
+          {
+            "text": "in the judgment",
+            "strong": "H4941"
+          },
+          ", ",
+          {
+            "text": "nor sinners",
+            "strong": "H2400"
+          },
+          " ",
+          {
+            "text": "in the assembly",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "guards",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "the path",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the righteous",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "but the way",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "will perish",
+            "strong": "H6"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

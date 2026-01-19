@@ -1,0 +1,1687 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "JOB",
+    "name": "Job",
+    "number": 18
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then Elihu",
+            "strong": "H453"
+          },
+          " ",
+          {
+            "text": "continued",
+            "strong": "H6030"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "my words",
+            "strong": "H4405"
+          },
+          ", ",
+          {
+            "text": "O wise men",
+            "strong": "H2450"
+          },
+          "; ",
+          {
+            "text": "give ear",
+            "strong": "H238"
+          },
+          " to me, ",
+          {
+            "text": "O men of learning",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the ear",
+            "strong": "H241"
+          },
+          " ",
+          {
+            "text": "tests",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "words",
+            "strong": "H4405"
+          },
+          " ",
+          {
+            "text": "as the mouth",
+            "strong": "H2441"
+          },
+          " ",
+          {
+            "text": "tastes",
+            "strong": "H2938"
+          },
+          " ",
+          {
+            "text": "food",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Let us choose",
+            "strong": "H977"
+          },
+          " for ourselves ",
+          {
+            "text": "what is right",
+            "strong": "H4941"
+          },
+          "; ",
+          {
+            "text": "let us learn",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "is good",
+            "strong": "H2896"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Job",
+            "strong": "H347"
+          },
+          " ",
+          {
+            "text": "has declared",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "I am righteous",
+            "strong": "H6663"
+          },
+          ", ",
+          {
+            "text": "yet God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "has deprived me of",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Would I lie",
+            "strong": "H3576"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "my case",
+            "strong": "H4941"
+          },
+          "? ",
+          {
+            "text": "My wound",
+            "strong": "H2671"
+          },
+          " ",
+          {
+            "text": "is incurable",
+            "strong": "H605"
+          },
+          ", ",
+          {
+            "text": "though I am without",
+            "strong": "H1097"
+          },
+          " ",
+          {
+            "text": "transgression",
+            "strong": "H6588"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "What",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "is like Job",
+            "strong": "H347"
+          },
+          ", ",
+          {
+            "text": "[who] drinks up",
+            "strong": "H8354"
+          },
+          " ",
+          {
+            "text": "derision",
+            "strong": "H3933"
+          },
+          " ",
+          {
+            "text": "like water",
+            "strong": "H4325"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "He keeps",
+            "strong": "H732"
+          },
+          " ",
+          {
+            "text": "company",
+            "strong": "H2274"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "evildoers",
+            "strong": "H6466"
+          },
+          {
+            "text": ". . .",
+            "strong": "H205"
+          },
+          " ",
+          {
+            "text": "and walks",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "wicked",
+            "strong": "H7562"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H582"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he has said",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "It profits",
+            "strong": "H5532"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "nothing",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "that he should delight",
+            "strong": "H7521"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "listen",
+            "strong": "H8085"
+          },
+          " to me, ",
+          {
+            "text": "O men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "of understanding",
+            "strong": "H3824"
+          },
+          ". ",
+          {
+            "text": "Far be it",
+            "strong": "H2486"
+          },
+          " ",
+          {
+            "text": "from God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "to do wrong",
+            "strong": "H7562"
+          },
+          ", ",
+          {
+            "text": "and from the Almighty",
+            "strong": "H7706"
+          },
+          " ",
+          {
+            "text": "to act unjustly",
+            "strong": "H5766"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "according to a man\u2019s deeds",
+            "strong": "H6467"
+          },
+          " ",
+          {
+            "text": "He repays",
+            "strong": "H7999"
+          },
+          " him; ",
+          {
+            "text": "according to a man\u2019s",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "ways",
+            "strong": "H734"
+          },
+          " ",
+          {
+            "text": "He brings consequences",
+            "strong": "H4672"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Indeed",
+            "strong": "H637"
+          },
+          ", ",
+          {
+            "text": "it is true",
+            "strong": "H551"
+          },
+          " ",
+          {
+            "text": "that God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "act wickedly",
+            "strong": "H7561"
+          },
+          ", ",
+          {
+            "text": "and the Almighty",
+            "strong": "H7706"
+          },
+          " ",
+          {
+            "text": "does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "pervert",
+            "strong": "H5791"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "gave Him charge",
+            "strong": "H6485"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "over the earth",
+            "strong": "H776"
+          },
+          "? ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "appointed [Him]",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "[over] the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "world",
+            "strong": "H8398"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "He were to set",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "His heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "to it",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and withdraw",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "His Spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "and breath",
+            "strong": "H5397"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "flesh",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "would perish",
+            "strong": "H1478"
+          },
+          " ",
+          {
+            "text": "together",
+            "strong": "H3162"
+          },
+          " ",
+          {
+            "text": "and mankind",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "would return",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the dust",
+            "strong": "H6083"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "you have understanding",
+            "strong": "H998"
+          },
+          ", ",
+          {
+            "text": "hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          "; ",
+          {
+            "text": "listen to",
+            "strong": "H238"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "my words",
+            "strong": "H4405"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Could",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "one who hates",
+            "strong": "H8130"
+          },
+          " ",
+          {
+            "text": "justice",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "govern",
+            "strong": "H2280"
+          },
+          "?",
+          {
+            "text": ". . .",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "Will you condemn",
+            "strong": "H7561"
+          },
+          " ",
+          {
+            "text": "the just",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "and mighty One",
+            "strong": "H3524"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "who says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to kings",
+            "strong": "H4428"
+          },
+          ", \u2018",
+          {
+            "text": "[You are] worthless",
+            "strong": "H1100"
+          },
+          "!\u2019 ",
+          {
+            "text": "and to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "nobles",
+            "strong": "H5081"
+          },
+          ", \u2018",
+          {
+            "text": "[You are] wicked",
+            "strong": "H7563"
+          },
+          ",\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "partial",
+            "strong": "H5375"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "to princes",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "and does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "favor",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "rich",
+            "strong": "H7771"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "poor",
+            "strong": "H1800"
+          },
+          "? ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "they are all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the work",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "of His hands",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "They die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "in an instant",
+            "strong": "H7281"
+          },
+          ", ",
+          {
+            "text": "in the middle",
+            "strong": "H2676"
+          },
+          " ",
+          {
+            "text": "of the night",
+            "strong": "H3915"
+          },
+          ". ",
+          {
+            "text": "The people",
+            "strong": "H5971"
+          },
+          " ",
+          {
+            "text": "convulse",
+            "strong": "H1607"
+          },
+          " ",
+          {
+            "text": "and pass away",
+            "strong": "H5674"
+          },
+          "; ",
+          {
+            "text": "the mighty",
+            "strong": "H47"
+          },
+          " ",
+          {
+            "text": "are removed",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "human hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "His eyes [are]",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the ways",
+            "strong": "H1870"
+          },
+          " ",
+          {
+            "text": "of a man",
+            "strong": "H376"
+          },
+          ", ",
+          {
+            "text": "and He sees",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "his every step",
+            "strong": "H6806"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "There is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "darkness",
+            "strong": "H2822"
+          },
+          " ",
+          {
+            "text": "[or]",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "deep shadow",
+            "strong": "H6757"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "the workers",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "of iniquity",
+            "strong": "H205"
+          },
+          " ",
+          {
+            "text": "can hide",
+            "strong": "H5641"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "need not",
+            "strong": "H3808"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "examine",
+            "strong": "H7760"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "further",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "[or] have him approach",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "for judgment",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "He shatters",
+            "strong": "H7489"
+          },
+          " ",
+          {
+            "text": "the mighty",
+            "strong": "H3524"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "inquiry",
+            "strong": "H2714"
+          },
+          " ",
+          {
+            "text": "and sets up",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "others",
+            "strong": "H312"
+          },
+          " ",
+          {
+            "text": "in their place",
+            "strong": "H8478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          ", ",
+          {
+            "text": "He recognizes",
+            "strong": "H5234"
+          },
+          " ",
+          {
+            "text": "their deeds",
+            "strong": "H4566"
+          },
+          "; ",
+          {
+            "text": "He overthrows [them]",
+            "strong": "H2015"
+          },
+          " ",
+          {
+            "text": "in the night",
+            "strong": "H3915"
+          },
+          " ",
+          {
+            "text": "and they are crushed",
+            "strong": "H1792"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "He strikes them",
+            "strong": "H5606"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "their wickedness",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "in full",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "view",
+            "strong": "H7200"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "because",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "they turned aside",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "from Him",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "and had no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "regard",
+            "strong": "H7919"
+          },
+          " ",
+          {
+            "text": "for any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of His ways",
+            "strong": "H1870"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "They caused the cry",
+            "strong": "H6818"
+          },
+          " ",
+          {
+            "text": "of the poor",
+            "strong": "H1800"
+          },
+          " ",
+          {
+            "text": "to come",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "before Him",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "and He heard",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "the outcry",
+            "strong": "H6818"
+          },
+          " ",
+          {
+            "text": "of the afflicted",
+            "strong": "H6041"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "But when He",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "remains silent",
+            "strong": "H8252"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can condemn Him",
+            "strong": "H7561"
+          },
+          "? ",
+          {
+            "text": "When He hides",
+            "strong": "H5641"
+          },
+          " ",
+          {
+            "text": "His face",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can see Him",
+            "strong": "H7789"
+          },
+          "? ",
+          {
+            "text": "Yet He watches over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "both",
+            "strong": "H3162"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "and nation",
+            "strong": "H1471"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "that godless",
+            "strong": "H2611"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "should not rule",
+            "strong": "H4427"
+          },
+          " ",
+          {
+            "text": "or lay snares",
+            "strong": "H4170"
+          },
+          " ",
+          {
+            "text": "for the people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Suppose",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "someone says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H410"
+          },
+          ",\u2018",
+          {
+            "text": "I have endured my punishment",
+            "strong": "H5375"
+          },
+          "; ",
+          {
+            "text": "I will offend",
+            "strong": "H2254"
+          },
+          " ",
+          {
+            "text": "no more",
+            "strong": "H3808"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Teach me",
+            "strong": "H3384"
+          },
+          " ",
+          {
+            "text": "what I cannot",
+            "strong": "H1107"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H2372"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I have done",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "wrong",
+            "strong": "H5766"
+          },
+          ", ",
+          {
+            "text": "I will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "do it again",
+            "strong": "H3254"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "Should God repay you",
+            "strong": "H7999"
+          },
+          " ",
+          {
+            "text": "on your own terms",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "you have disavowed Him",
+            "strong": "H3988"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3588"
+          },
+          "? ",
+          {
+            "text": "You",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "must choose",
+            "strong": "H977"
+          },
+          ", ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          "; ",
+          {
+            "text": "so tell me",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "you know",
+            "strong": "H3045"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "Men",
+            "strong": "H582"
+          },
+          " ",
+          {
+            "text": "of understanding",
+            "strong": "H3824"
+          },
+          " ",
+          {
+            "text": "will declare",
+            "strong": "H559"
+          },
+          " to me, ",
+          {
+            "text": "and the wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "men",
+            "strong": "H1397"
+          },
+          " ",
+          {
+            "text": "who hear me",
+            "strong": "H8085"
+          },
+          " [will say]:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "\u2018",
+          {
+            "text": "Job",
+            "strong": "H347"
+          },
+          " ",
+          {
+            "text": "speaks",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "knowledge",
+            "strong": "H1847"
+          },
+          "; ",
+          {
+            "text": "his words",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "lack",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "insight",
+            "strong": "H7919"
+          },
+          ".\u2019"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "If only",
+            "strong": "H15"
+          },
+          " ",
+          {
+            "text": "Job",
+            "strong": "H347"
+          },
+          " ",
+          {
+            "text": "were tried",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "the utmost",
+            "strong": "H5331"
+          },
+          " ",
+          {
+            "text": "for",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "answering",
+            "strong": "H8666"
+          },
+          " ",
+          {
+            "text": "like a wicked",
+            "strong": "H205"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H582"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he adds",
+            "strong": "H3254"
+          },
+          " ",
+          {
+            "text": "rebellion",
+            "strong": "H6588"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his sin",
+            "strong": "H2403"
+          },
+          "; ",
+          {
+            "text": "he claps [his hands]",
+            "strong": "H5606"
+          },
+          " ",
+          {
+            "text": "among us",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "and multiplies",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "his words",
+            "strong": "H561"
+          },
+          " ",
+          {
+            "text": "against God",
+            "strong": "H410"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

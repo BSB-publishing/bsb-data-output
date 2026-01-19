@@ -1,0 +1,1361 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "2CH",
+    "name": "2 Chronicles",
+    "number": 14
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "In the thirty-sixth",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8337"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4438"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of Asa\u2019s [reign]",
+            "strong": "H609"
+          },
+          ", ",
+          {
+            "text": "Baasha",
+            "strong": "H1201"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "went up",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and fortified",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ramah",
+            "strong": "H7414"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1115"
+          },
+          " ",
+          {
+            "text": "to prevent",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "[anyone] from leaving",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "or entering the territory",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "of Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "So Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "withdrew",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "the silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H2091"
+          },
+          " ",
+          {
+            "text": "from the treasuries",
+            "strong": "H214"
+          },
+          " ",
+          {
+            "text": "of the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "and the royal",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "palace",
+            "strong": "H1004"
+          },
+          ", ",
+          {
+            "text": "and he sent it",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "with this message",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "Ben-hadad",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          ", ",
+          {
+            "text": "who was ruling",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "in Damascus",
+            "strong": "H1834"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "\u201c",
+          {
+            "text": "[Let there be] a treaty",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "between me and you",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "[as there was] between",
+            "strong": "H996"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "my father",
+            "strong": "H1"
+          },
+          {
+            "text": ". . .",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "and your father",
+            "strong": "H1"
+          },
+          ". ",
+          {
+            "text": "See",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I have sent",
+            "strong": "H7971"
+          },
+          " you ",
+          {
+            "text": "silver",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "and gold",
+            "strong": "H2091"
+          },
+          ". ",
+          {
+            "text": "Now go",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "and break",
+            "strong": "H6565"
+          },
+          " ",
+          {
+            "text": "your treaty",
+            "strong": "H1285"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Baasha",
+            "strong": "H1201"
+          },
+          " ",
+          {
+            "text": "king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "so that he will withdraw",
+            "strong": "H5927"
+          },
+          " ",
+          {
+            "text": "from me",
+            "strong": "H5921"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "And Ben-hadad",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "listened",
+            "strong": "H8085"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1130"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "and sent",
+            "strong": "H7971"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the commanders",
+            "strong": "H8269"
+          },
+          " ",
+          {
+            "text": "of his armies",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "conquering",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ijon",
+            "strong": "H5859"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Dan",
+            "strong": "H1835"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H66"
+          },
+          " ",
+          {
+            "text": "Abel-maim",
+            "strong": "H66"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the store",
+            "strong": "H4543"
+          },
+          " ",
+          {
+            "text": "cities",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of Naphtali",
+            "strong": "H5321"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "When Baasha",
+            "strong": "H1201"
+          },
+          " ",
+          {
+            "text": "learned of this",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "he stopped",
+            "strong": "H2308"
+          },
+          " ",
+          {
+            "text": "fortifying",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Ramah",
+            "strong": "H7414"
+          },
+          " ",
+          {
+            "text": "and abandoned",
+            "strong": "H7673"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his work",
+            "strong": "H4399"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Then King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "brought",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all [the men]",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          ", ",
+          {
+            "text": "and they carried away",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the stones",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "of Ramah",
+            "strong": "H7414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the timbers",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Baasha",
+            "strong": "H1201"
+          },
+          " ",
+          {
+            "text": "had used for building",
+            "strong": "H1129"
+          },
+          ". And with [these materials] ",
+          {
+            "text": "he built up",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Geba",
+            "strong": "H1387"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and Mizpah",
+            "strong": "H4709"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "At that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "Hanani",
+            "strong": "H2607"
+          },
+          " ",
+          {
+            "text": "the seer",
+            "strong": "H7203"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "King",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Because you have relied",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "and not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "your God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "the army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "of the king",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Aram",
+            "strong": "H758"
+          },
+          " ",
+          {
+            "text": "has escaped",
+            "strong": "H4422"
+          },
+          " ",
+          {
+            "text": "from your hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "the Cushites",
+            "strong": "H3569"
+          },
+          " ",
+          {
+            "text": "and Libyans",
+            "strong": "H3864"
+          },
+          " ",
+          {
+            "text": "a vast",
+            "strong": "H7230"
+          },
+          " ",
+          {
+            "text": "army",
+            "strong": "H2428"
+          },
+          " ",
+          {
+            "text": "with many",
+            "strong": "H7235"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "chariots",
+            "strong": "H7393"
+          },
+          " ",
+          {
+            "text": "and horsemen",
+            "strong": "H6571"
+          },
+          "? ",
+          {
+            "text": "Yet because you relied",
+            "strong": "H8172"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "He delivered them",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into your hand",
+            "strong": "H3027"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "roam to and fro",
+            "strong": "H7751"
+          },
+          " ",
+          {
+            "text": "over all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the earth",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "to show Himself strong",
+            "strong": "H2388"
+          },
+          " ",
+          {
+            "text": "on behalf of [those]",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "whose hearts",
+            "strong": "H3824"
+          },
+          " ",
+          {
+            "text": "are fully devoted",
+            "strong": "H8003"
+          },
+          " ",
+          {
+            "text": "to Him",
+            "strong": "H413"
+          },
+          ". ",
+          {
+            "text": "You have acted foolishly",
+            "strong": "H5528"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this matter",
+            "strong": "H2063"
+          },
+          ". ",
+          {
+            "text": "From now on",
+            "strong": "H6258"
+          },
+          ", ",
+          {
+            "text": "therefore",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "you will be at",
+            "strong": "H3426"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "war",
+            "strong": "H4421"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "was angry",
+            "strong": "H3707"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the seer",
+            "strong": "H7203"
+          },
+          " ",
+          {
+            "text": "[and became]",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "so enraged",
+            "strong": "H2197"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this matter",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "that he put [the man]",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "in prison",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4115"
+          },
+          ". ",
+          {
+            "text": "And at the same",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "time",
+            "strong": "H6256"
+          },
+          " ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "oppressed",
+            "strong": "H7533"
+          },
+          " ",
+          {
+            "text": "some of",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Now",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "the acts",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of Asa",
+            "strong": "H609"
+          },
+          ", ",
+          {
+            "text": "from beginning",
+            "strong": "H7223"
+          },
+          " ",
+          {
+            "text": "to end",
+            "strong": "H314"
+          },
+          ", ",
+          {
+            "text": "are indeed",
+            "strong": "H2005"
+          },
+          " ",
+          {
+            "text": "written",
+            "strong": "H3789"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Book",
+            "strong": "H5612"
+          },
+          " ",
+          {
+            "text": "of the Kings",
+            "strong": "H4428"
+          },
+          " ",
+          {
+            "text": "of Judah",
+            "strong": "H3063"
+          },
+          " ",
+          {
+            "text": "and Israel",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "In the thirty-ninth",
+            "strong": "H7970"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8672"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of his reign",
+            "strong": "H4438"
+          },
+          ", ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "became diseased",
+            "strong": "H2456"
+          },
+          " ",
+          {
+            "text": "in his feet",
+            "strong": "H7272"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "his disease",
+            "strong": "H2483"
+          },
+          " ",
+          {
+            "text": "became increasingly severe",
+            "strong": "H4605"
+          },
+          ". ",
+          {
+            "text": "Yet even",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "in his illness",
+            "strong": "H2483"
+          },
+          " ",
+          {
+            "text": "he did not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "seek",
+            "strong": "H1875"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "but",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "only the physicians",
+            "strong": "H7495"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "So in the forty-first",
+            "strong": "H705"
+          },
+          {
+            "text": ". . .",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "year",
+            "strong": "H8141"
+          },
+          " ",
+          {
+            "text": "of his reign",
+            "strong": "H4427"
+          },
+          ", ",
+          {
+            "text": "Asa",
+            "strong": "H609"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "and rested",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "his fathers",
+            "strong": "H1"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "And he was buried",
+            "strong": "H6912"
+          },
+          " ",
+          {
+            "text": "in the tomb",
+            "strong": "H6913"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he had cut out",
+            "strong": "H3738"
+          },
+          " for himself ",
+          {
+            "text": "in the City",
+            "strong": "H5892"
+          },
+          " ",
+          {
+            "text": "of David",
+            "strong": "H1732"
+          },
+          ". ",
+          {
+            "text": "They laid him",
+            "strong": "H7901"
+          },
+          " ",
+          {
+            "text": "on a bier",
+            "strong": "H4904"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "was full of",
+            "strong": "H4390"
+          },
+          " ",
+          {
+            "text": "spices",
+            "strong": "H1314"
+          },
+          " ",
+          {
+            "text": "and various",
+            "strong": "H2177"
+          },
+          " ",
+          {
+            "text": "blended",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "perfumes",
+            "strong": "H7543"
+          },
+          "; ",
+          {
+            "text": ". . .",
+            "strong": "H4842"
+          },
+          " ",
+          {
+            "text": "then they made a great",
+            "strong": "H1419"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5704"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3966"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H8313"
+          },
+          " ",
+          {
+            "text": "in his honor",
+            "strong": "H8316"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

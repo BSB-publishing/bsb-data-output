@@ -1,0 +1,840 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ZEC",
+    "name": "Zechariah",
+    "number": 38
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Again",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "I lifted up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "my eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "and saw",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "before me",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "a flying",
+            "strong": "H5774"
+          },
+          " ",
+          {
+            "text": "scroll",
+            "strong": "H4039"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "do you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          "?\u201d ",
+          {
+            "text": "asked [the angel]",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          ".\u201c",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "a flying",
+            "strong": "H5774"
+          },
+          " ",
+          {
+            "text": "scroll",
+            "strong": "H4039"
+          },
+          ",\u201d ",
+          {
+            "text": "I replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "twenty",
+            "strong": "H6242"
+          },
+          " ",
+          {
+            "text": "cubits",
+            "strong": "H520"
+          },
+          " ",
+          {
+            "text": "long",
+            "strong": "H753"
+          },
+          " ",
+          {
+            "text": "and ten",
+            "strong": "H6235"
+          },
+          " ",
+          {
+            "text": "cubits",
+            "strong": "H520"
+          },
+          " ",
+          {
+            "text": "wide",
+            "strong": "H7341"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Then he told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the curse",
+            "strong": "H423"
+          },
+          " ",
+          {
+            "text": "that is going out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the face",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "according [to]",
+            "strong": "H3644"
+          },
+          " ",
+          {
+            "text": "one [side] of [the scroll]",
+            "strong": "H2088"
+          },
+          ", ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "thief",
+            "strong": "H1589"
+          },
+          " ",
+          {
+            "text": "will be removed",
+            "strong": "H5352"
+          },
+          "; ",
+          {
+            "text": "and according to",
+            "strong": "H3644"
+          },
+          " ",
+          {
+            "text": "the other side",
+            "strong": "H2088"
+          },
+          ", ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "perjurer",
+            "strong": "H7650"
+          },
+          " ",
+          {
+            "text": "will be removed",
+            "strong": "H5352"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "I will send it out",
+            "strong": "H3318"
+          },
+          ", ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "of Hosts",
+            "strong": "H6635"
+          },
+          ", ",
+          {
+            "text": "and it will enter",
+            "strong": "H935"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of the thief",
+            "strong": "H1590"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "and the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of him who swears",
+            "strong": "H7650"
+          },
+          " ",
+          {
+            "text": "falsely",
+            "strong": "H8267"
+          },
+          " ",
+          {
+            "text": "by My name",
+            "strong": "H8034"
+          },
+          ". ",
+          {
+            "text": "It will remain",
+            "strong": "H3885"
+          },
+          " ",
+          {
+            "text": "inside",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "his house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "and destroy it",
+            "strong": "H3615"
+          },
+          ", ",
+          {
+            "text": "[down to]",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "its timbers",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and stones",
+            "strong": "H68"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "who was speaking",
+            "strong": "H1696"
+          },
+          " with me ",
+          {
+            "text": "came forward",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "and told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H413"
+          },
+          ", \u201c",
+          {
+            "text": "Now",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "lift up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "your eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "and see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is approaching",
+            "strong": "H3318"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "\u201c",
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "is it",
+            "strong": "H1931"
+          },
+          "?\u201d ",
+          {
+            "text": "I asked",
+            "strong": "H559"
+          },
+          ". ",
+          {
+            "text": "And he replied",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "-",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "A measuring basket",
+            "strong": "H374"
+          },
+          " ",
+          {
+            "text": "is going forth",
+            "strong": "H3318"
+          },
+          ".\u201d ",
+          {
+            "text": "Then he continued",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is their iniquity",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "in all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "the cover",
+            "strong": "H3603"
+          },
+          " ",
+          {
+            "text": "of lead",
+            "strong": "H5777"
+          },
+          " ",
+          {
+            "text": "was raised",
+            "strong": "H5375"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "and there was",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "a woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "sitting",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "inside",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the basket",
+            "strong": "H374"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "\u201c",
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is Wickedness",
+            "strong": "H7564"
+          },
+          ",\u201d ",
+          {
+            "text": "he said",
+            "strong": "H559"
+          },
+          ". ",
+          {
+            "text": "And he shoved her down",
+            "strong": "H7993"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "into",
+            "strong": "H413"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the basket",
+            "strong": "H374"
+          },
+          ", ",
+          {
+            "text": "pushing down",
+            "strong": "H7993"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the lead",
+            "strong": "H5777"
+          },
+          " ",
+          {
+            "text": "cover",
+            "strong": "H68"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "its opening",
+            "strong": "H6310"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Then I lifted",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "up my eyes",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "and saw",
+            "strong": "H7200"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "two",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "women",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "approaching",
+            "strong": "H3318"
+          },
+          ", ",
+          {
+            "text": "with the wind",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "in their wings",
+            "strong": "H3671"
+          },
+          ". Their ",
+          {
+            "text": "wings",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "were like those",
+            "strong": "H3671"
+          },
+          " ",
+          {
+            "text": "of a stork",
+            "strong": "H2624"
+          },
+          ", ",
+          {
+            "text": "and they lifted up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the basket",
+            "strong": "H374"
+          },
+          " ",
+          {
+            "text": "between",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "heaven",
+            "strong": "H8064"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H996"
+          },
+          " ",
+          {
+            "text": "earth",
+            "strong": "H776"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "\u201c",
+          {
+            "text": "Where",
+            "strong": "H575"
+          },
+          " ",
+          {
+            "text": "are they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "taking",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the basket",
+            "strong": "H374"
+          },
+          "?\u201d ",
+          {
+            "text": "I asked",
+            "strong": "H559"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the angel",
+            "strong": "H4397"
+          },
+          " ",
+          {
+            "text": "who was speaking",
+            "strong": "H1696"
+          },
+          " with me."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "\u201c",
+          {
+            "text": "To build",
+            "strong": "H1129"
+          },
+          " ",
+          {
+            "text": "a house",
+            "strong": "H1004"
+          },
+          " for it ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Shinar",
+            "strong": "H8152"
+          },
+          ",\u201d ",
+          {
+            "text": "he told",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H413"
+          },
+          ". \u201c",
+          {
+            "text": "And when it is ready",
+            "strong": "H3559"
+          },
+          ", ",
+          {
+            "text": "the basket will be set",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "there",
+            "strong": "H8033"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "its pedestal",
+            "strong": "H4369"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

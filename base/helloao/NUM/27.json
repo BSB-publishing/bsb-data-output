@@ -1,0 +1,1677 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "NUM",
+    "name": "Numbers",
+    "number": 4
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Now the daughters",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Zelophehad",
+            "strong": "H6765"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Hepher",
+            "strong": "H2660"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Gilead",
+            "strong": "H1568"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Machir",
+            "strong": "H4353"
+          },
+          ", ",
+          {
+            "text": "the son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H4519"
+          },
+          ", ",
+          {
+            "text": "belonged to the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of Manasseh",
+            "strong": "H4519"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Joseph",
+            "strong": "H3130"
+          },
+          ". ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of his daughters",
+            "strong": "H1323"
+          },
+          ": ",
+          {
+            "text": "Mahlah",
+            "strong": "H4244"
+          },
+          ", ",
+          {
+            "text": "Noah",
+            "strong": "H5270"
+          },
+          ", ",
+          {
+            "text": "Hoglah",
+            "strong": "H2295"
+          },
+          ", ",
+          {
+            "text": "Milcah",
+            "strong": "H4435"
+          },
+          ", ",
+          {
+            "text": "and Tirzah",
+            "strong": "H8656"
+          },
+          ". ",
+          {
+            "text": "They approached",
+            "strong": "H7126"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          ", ",
+          {
+            "text": "stood",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the leaders",
+            "strong": "H5387"
+          },
+          ", ",
+          {
+            "text": "and the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          ", ",
+          {
+            "text": "and said",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "\u201c",
+          {
+            "text": "Our father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "in the wilderness",
+            "strong": "H4057"
+          },
+          ", ",
+          {
+            "text": "but he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the followers",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "of Korah",
+            "strong": "H7141"
+          },
+          " ",
+          {
+            "text": "who gathered together",
+            "strong": "H3259"
+          },
+          " ",
+          {
+            "text": "against",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "Instead",
+            "strong": "H3588"
+          },
+          ", ",
+          {
+            "text": "he died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "because of his own sin",
+            "strong": "H2399"
+          },
+          ", ",
+          {
+            "text": "and he had",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of our father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "disappear",
+            "strong": "H1639"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "his clan",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "because",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he had no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          "? ",
+          {
+            "text": "Give",
+            "strong": "H5414"
+          },
+          " us ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "our father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "brought",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "their case",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "and the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "answered",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H559"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "\u201c",
+          {
+            "text": "The daughters",
+            "strong": "H1323"
+          },
+          " ",
+          {
+            "text": "of Zelophehad",
+            "strong": "H6765"
+          },
+          " ",
+          {
+            "text": "speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "correctly",
+            "strong": "H3651"
+          },
+          ". ",
+          {
+            "text": "You certainly must give",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5414"
+          },
+          " them ",
+          {
+            "text": "property",
+            "strong": "H272"
+          },
+          " ",
+          {
+            "text": "as an inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "their father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "and transfer",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "their",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "inheritance",
+            "strong": "H5159"
+          },
+          " to them."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Furthermore",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "you shall say",
+            "strong": "H1696"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          ", \u2018",
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "dies",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "and leaves no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "you are to transfer",
+            "strong": "H5674"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to his daughter",
+            "strong": "H1323"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "he has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "daughter",
+            "strong": "H1323"
+          },
+          ", ",
+          {
+            "text": "give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to his brothers",
+            "strong": "H251"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "he has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          ", ",
+          {
+            "text": "give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to his father\u2019s",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "And if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "his father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "has no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "brothers",
+            "strong": "H251"
+          },
+          ", ",
+          {
+            "text": "give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his inheritance",
+            "strong": "H5159"
+          },
+          " ",
+          {
+            "text": "to the next",
+            "strong": "H7138"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "of kin",
+            "strong": "H7607"
+          },
+          " ",
+          {
+            "text": "from his clan",
+            "strong": "H4940"
+          },
+          ", ",
+          {
+            "text": "that he may take possession of it",
+            "strong": "H3423"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "This is to be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a statutory",
+            "strong": "H2708"
+          },
+          " ",
+          {
+            "text": "ordinance",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "for the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "has commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "Go up",
+            "strong": "H5927"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "mountain",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "of the Abarim range",
+            "strong": "H5682"
+          },
+          " ",
+          {
+            "text": "and see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I have given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "After you have seen it",
+            "strong": "H7200"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "too will",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "be gathered",
+            "strong": "H622"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "your people",
+            "strong": "H5971"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "your brother",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H622"
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "for",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "when the congregation",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "contended",
+            "strong": "H4808"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Zin",
+            "strong": "H6790"
+          },
+          ", ",
+          {
+            "text": "both of you rebelled",
+            "strong": "H4784"
+          },
+          " ",
+          {
+            "text": "against My command",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "to show My holiness",
+            "strong": "H6942"
+          },
+          " ",
+          {
+            "text": "in their sight",
+            "strong": "H5869"
+          },
+          " ",
+          {
+            "text": "regarding the waters",
+            "strong": "H4325"
+          },
+          ".\u201d ",
+          {
+            "text": "Those",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "were the waters",
+            "strong": "H4325"
+          },
+          " ",
+          {
+            "text": "of Meribah",
+            "strong": "H4809"
+          },
+          " ",
+          {
+            "text": "in Kadesh",
+            "strong": "H6946"
+          },
+          ", ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Zin",
+            "strong": "H6790"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "appealed",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "\u201c",
+          {
+            "text": "May the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "of the spirits",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "flesh",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "appoint",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "over",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the congregation",
+            "strong": "H5712"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "will go out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and come in",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "before them",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "will lead them out",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "and bring them in",
+            "strong": "H935"
+          },
+          ", ",
+          {
+            "text": "so that the congregation",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "like sheep",
+            "strong": "H6629"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "without",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "a shepherd",
+            "strong": "H7462"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "And the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "replied",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "Take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Joshua",
+            "strong": "H3091"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Nun",
+            "strong": "H5126"
+          },
+          ", ",
+          {
+            "text": "a man with",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the Spirit",
+            "strong": "H7307"
+          },
+          " in him, ",
+          {
+            "text": "and lay",
+            "strong": "H5564"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "on him",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Have him stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          ", ",
+          {
+            "text": "and commission",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in their sight",
+            "strong": "H5869"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Confer",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "on him",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "[some of] your authority",
+            "strong": "H1935"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H4616"
+          },
+          " ",
+          {
+            "text": "the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "will obey him",
+            "strong": "H8085"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "He shall stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "who will seek counsel",
+            "strong": "H7592"
+          },
+          " for him ",
+          {
+            "text": "before the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "by the judgment",
+            "strong": "H4941"
+          },
+          " ",
+          {
+            "text": "of the Urim",
+            "strong": "H224"
+          },
+          ". ",
+          {
+            "text": "At",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his command",
+            "strong": "H6310"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          ", ",
+          {
+            "text": "he",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "with him",
+            "strong": "H854"
+          },
+          "\u2014 ",
+          {
+            "text": "the entire",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          "\u2014 ",
+          {
+            "text": "will go out",
+            "strong": "H3318"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "and come in",
+            "strong": "H935"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "did",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "had commanded him",
+            "strong": "H6680"
+          },
+          ". ",
+          {
+            "text": "He took",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "Joshua",
+            "strong": "H3091"
+          },
+          ", ",
+          {
+            "text": "had him stand",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "and the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "and laid",
+            "strong": "H5564"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "on him",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "and commissioned him",
+            "strong": "H6680"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had instructed",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "through",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

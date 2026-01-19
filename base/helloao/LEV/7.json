@@ -1,0 +1,2592 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "LEV",
+    "name": "Leviticus",
+    "number": 3
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "\u201c",
+          {
+            "text": "Now this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of the guilt offering",
+            "strong": "H817"
+          },
+          ", ",
+          {
+            "text": "which [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "most",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "holy",
+            "strong": "H6944"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The guilt offering",
+            "strong": "H817"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "must be slaughtered",
+            "strong": "H7819"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "in the place",
+            "strong": "H4725"
+          },
+          " ",
+          {
+            "text": "where",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the burnt offering",
+            "strong": "H5930"
+          },
+          " ",
+          {
+            "text": "is slaughtered",
+            "strong": "H7819"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and [the priest] shall splatter",
+            "strong": "H2236"
+          },
+          " ",
+          {
+            "text": "its blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "on all sides",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the altar",
+            "strong": "H4196"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "shall be offered",
+            "strong": "H7126"
+          },
+          ": ",
+          {
+            "text": "the fat tail",
+            "strong": "H451"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "that covers",
+            "strong": "H3680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the entrails",
+            "strong": "H7130"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "both",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "kidneys",
+            "strong": "H3629"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "with the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "on them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "near",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the loins",
+            "strong": "H3689"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the lobe",
+            "strong": "H3508"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the liver",
+            "strong": "H3516"
+          },
+          ", ",
+          {
+            "text": "which is to be removed",
+            "strong": "H5493"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the kidneys",
+            "strong": "H3629"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "The priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "shall burn",
+            "strong": "H6999"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "on the altar",
+            "strong": "H4196"
+          },
+          " ",
+          {
+            "text": "as a food offering",
+            "strong": "H801"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "is a guilt offering",
+            "strong": "H817"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "male",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "among the priests",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "may eat of it",
+            "strong": "H398"
+          },
+          ". ",
+          {
+            "text": "It must be eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "in a holy",
+            "strong": "H6918"
+          },
+          " ",
+          {
+            "text": "place",
+            "strong": "H4725"
+          },
+          "; ",
+          {
+            "text": "it [is]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "most",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "holy",
+            "strong": "H6944"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The guilt offering",
+            "strong": "H817"
+          },
+          " ",
+          {
+            "text": "is like the sin offering",
+            "strong": "H2403"
+          },
+          "; ",
+          {
+            "text": "the same",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "law",
+            "strong": "H8451"
+          },
+          " applies to both. ",
+          {
+            "text": "It belongs to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "makes atonement",
+            "strong": "H3722"
+          },
+          " with it."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "As for the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "who presents",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "a burnt offering",
+            "strong": "H5930"
+          },
+          " ",
+          {
+            "text": "for anyone",
+            "strong": "H376"
+          },
+          ", ",
+          {
+            "text": "the hide",
+            "strong": "H5785"
+          },
+          " ",
+          {
+            "text": "of [that] offering",
+            "strong": "H5930"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H7126"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3548"
+          },
+          " belongs to him ",
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Likewise , every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "grain offering",
+            "strong": "H4503"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is baked",
+            "strong": "H644"
+          },
+          " ",
+          {
+            "text": "in an oven",
+            "strong": "H8574"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "or cooked",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "in a pan",
+            "strong": "H4802"
+          },
+          " ",
+          {
+            "text": "or on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "a griddle",
+            "strong": "H4227"
+          },
+          " ",
+          {
+            "text": "belongs",
+            "strong": "H1961"
+          },
+          " to ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "who presents",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H853"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "and every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "grain offering",
+            "strong": "H4503"
+          },
+          ", ",
+          {
+            "text": "whether dry",
+            "strong": "H2720"
+          },
+          " ",
+          {
+            "text": "or mixed",
+            "strong": "H1101"
+          },
+          " ",
+          {
+            "text": "with oil",
+            "strong": "H8081"
+          },
+          ", ",
+          {
+            "text": "belongs equally",
+            "strong": "H376"
+          },
+          {
+            "text": ". . .",
+            "strong": "H251"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Now this",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "of the peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "one may present",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          ":"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "he offers it",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "in",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "thanksgiving",
+            "strong": "H8426"
+          },
+          ", ",
+          {
+            "text": "then along with",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "of thanksgiving",
+            "strong": "H8426"
+          },
+          " ",
+          {
+            "text": "he shall offer",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "unleavened",
+            "strong": "H4682"
+          },
+          " ",
+          {
+            "text": "cakes",
+            "strong": "H2471"
+          },
+          " ",
+          {
+            "text": "mixed",
+            "strong": "H1101"
+          },
+          " ",
+          {
+            "text": "with olive oil",
+            "strong": "H8081"
+          },
+          ", ",
+          {
+            "text": "unleavened",
+            "strong": "H4682"
+          },
+          " ",
+          {
+            "text": "wafers",
+            "strong": "H7550"
+          },
+          " ",
+          {
+            "text": "coated",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "with oil",
+            "strong": "H8081"
+          },
+          ", ",
+          {
+            "text": "and well-kneaded",
+            "strong": "H7246"
+          },
+          " ",
+          {
+            "text": "cakes",
+            "strong": "H2471"
+          },
+          " ",
+          {
+            "text": "of fine flour",
+            "strong": "H5560"
+          },
+          " ",
+          {
+            "text": "mixed",
+            "strong": "H1101"
+          },
+          " ",
+          {
+            "text": "with oil",
+            "strong": "H8081"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Along",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "his peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "of thanksgiving",
+            "strong": "H8426"
+          },
+          " ",
+          {
+            "text": "he is to present",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "an offering",
+            "strong": "H7133"
+          },
+          " ",
+          {
+            "text": "with cakes",
+            "strong": "H2471"
+          },
+          " ",
+          {
+            "text": "of leavened",
+            "strong": "H2557"
+          },
+          " ",
+          {
+            "text": "bread",
+            "strong": "H3899"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "From",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the cakes he must present",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "portion of each",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "offering",
+            "strong": "H7133"
+          },
+          " ",
+          {
+            "text": "as a contribution",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          ". ",
+          {
+            "text": "It belongs",
+            "strong": "H1961"
+          },
+          " to ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "who sprinkles",
+            "strong": "H2236"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "of the peace offering",
+            "strong": "H8002"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "The meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "of the sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "of his peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "of thanksgiving",
+            "strong": "H8426"
+          },
+          " ",
+          {
+            "text": "must be eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he offers it",
+            "strong": "H7133"
+          },
+          "; ",
+          {
+            "text": "none",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "of it",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "may be left",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "until",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "morning",
+            "strong": "H1242"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "If, however",
+            "strong": "H518"
+          },
+          ", ",
+          {
+            "text": "the sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "he offers",
+            "strong": "H7133"
+          },
+          " ",
+          {
+            "text": "is a vow",
+            "strong": "H5088"
+          },
+          " ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "a freewill offering",
+            "strong": "H5071"
+          },
+          ", ",
+          {
+            "text": "it shall be eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "he presents",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "his sacrifice",
+            "strong": "H2077"
+          },
+          ", ",
+          {
+            "text": "but the remainder",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "may be eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "the next day",
+            "strong": "H4283"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "But any meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "of the sacrifice",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "remaining",
+            "strong": "H3498"
+          },
+          " ",
+          {
+            "text": "until the third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "must be burned up",
+            "strong": "H8313"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "any of",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "from his peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "is eaten",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "on the third",
+            "strong": "H7992"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          ", ",
+          {
+            "text": "it will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be accepted",
+            "strong": "H7521"
+          },
+          ". ",
+          {
+            "text": "It will not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be credited",
+            "strong": "H2803"
+          },
+          " to ",
+          {
+            "text": "the one who presented it",
+            "strong": "H7126"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "it shall be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "an abomination",
+            "strong": "H6292"
+          },
+          ", ",
+          {
+            "text": "and the one",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "who eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "of it",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "shall bear",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "his iniquity",
+            "strong": "H5771"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be eaten",
+            "strong": "H398"
+          },
+          "; ",
+          {
+            "text": "vvv",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "it is to be burned up",
+            "strong": "H8313"
+          },
+          ". ",
+          {
+            "text": "As for",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "any other meat",
+            "strong": "H1320"
+          },
+          ", ",
+          {
+            "text": "anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "who is ceremonially clean",
+            "strong": "H2889"
+          },
+          " ",
+          {
+            "text": "may eat it",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "But if anyone",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is unclean",
+            "strong": "H2932"
+          },
+          " ",
+          {
+            "text": "eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "from the peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "belongs to the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "person",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "must be cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "from his people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "touches",
+            "strong": "H5060"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          ", ",
+          {
+            "text": "whether",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "human",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "uncleanness",
+            "strong": "H2932"
+          },
+          ", ",
+          {
+            "text": "an unclean",
+            "strong": "H2931"
+          },
+          " ",
+          {
+            "text": "animal",
+            "strong": "H929"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H176"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "unclean",
+            "strong": "H2931"
+          },
+          ", ",
+          {
+            "text": "detestable thing",
+            "strong": "H8263"
+          },
+          ", ",
+          {
+            "text": "and then eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "any of the meat",
+            "strong": "H1320"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "of the peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "belongs to the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "person",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "must be cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "from his people",
+            "strong": "H5971"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "\u201c",
+          {
+            "text": "Speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "[and] say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "You are not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "to eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "of an ox",
+            "strong": "H7794"
+          },
+          ", ",
+          {
+            "text": "a sheep",
+            "strong": "H3775"
+          },
+          ", ",
+          {
+            "text": "or a goat",
+            "strong": "H5795"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "The fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "of an animal found dead",
+            "strong": "H5038"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "or mauled by wild beasts",
+            "strong": "H2966"
+          },
+          " ",
+          {
+            "text": "may be used",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "for any other",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "purpose",
+            "strong": "H4399"
+          },
+          ", ",
+          {
+            "text": "but you must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "it",
+            "strong": "H398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "anyone",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "of an animal",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "from which",
+            "strong": "H4480"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "a food offering",
+            "strong": "H801"
+          },
+          " ",
+          {
+            "text": "may be presented",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the one",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "who eats it",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "must be cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "from his people",
+            "strong": "H5971"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": ". . .",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "You must not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "eat",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "the blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "of any bird",
+            "strong": "H5775"
+          },
+          " ",
+          {
+            "text": "or animal",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "in any",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "of your dwellings",
+            "strong": "H4186"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "If anyone",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "eats",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "blood",
+            "strong": "H1818"
+          },
+          ", ",
+          {
+            "text": "that",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "person",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "must be cut off",
+            "strong": "H3772"
+          },
+          " ",
+          {
+            "text": "from his people",
+            "strong": "H5971"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "\u201c",
+          {
+            "text": "Speak",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "[and] say",
+            "strong": "H559"
+          },
+          ", \u2018",
+          {
+            "text": "Anyone who presents",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "a peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "must bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "[it]",
+            "strong": "H7133"
+          },
+          " ",
+          {
+            "text": "as his sacrifice",
+            "strong": "H2077"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "With his own hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "he is to bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the food offerings",
+            "strong": "H801"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          "; ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "he shall bring",
+            "strong": "H935"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          ", ",
+          {
+            "text": "together with",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the breast",
+            "strong": "H2373"
+          },
+          ", ",
+          {
+            "text": "and wave",
+            "strong": "H5130"
+          },
+          " ",
+          {
+            "text": "the breast",
+            "strong": "H2373"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "as a wave offering",
+            "strong": "H8573"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "The priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "is to burn",
+            "strong": "H6999"
+          },
+          " ",
+          {
+            "text": "the fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "on the altar",
+            "strong": "H4196"
+          },
+          ", ",
+          {
+            "text": "but the breast",
+            "strong": "H2373"
+          },
+          " ",
+          {
+            "text": "belongs to",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "And",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you are to give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the right",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "thigh",
+            "strong": "H7785"
+          },
+          " ",
+          {
+            "text": "to the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "as a contribution",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "from your peace offering",
+            "strong": "H8002"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "The son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "who presents",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the blood",
+            "strong": "H1818"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "fat",
+            "strong": "H2459"
+          },
+          " ",
+          {
+            "text": "of the peace offering",
+            "strong": "H8002"
+          },
+          " ",
+          {
+            "text": "shall have",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the right",
+            "strong": "H3225"
+          },
+          " ",
+          {
+            "text": "thigh",
+            "strong": "H7785"
+          },
+          " ",
+          {
+            "text": "as a portion",
+            "strong": "H4490"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "I have taken",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "from the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "the breast",
+            "strong": "H2373"
+          },
+          " ",
+          {
+            "text": "of the wave offering",
+            "strong": "H8573"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the thigh",
+            "strong": "H7785"
+          },
+          " ",
+          {
+            "text": "of the contribution",
+            "strong": "H8641"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "of their peace offerings",
+            "strong": "H8002"
+          },
+          ", ",
+          {
+            "text": "and I have given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "as a permanent",
+            "strong": "H5769"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H2706"
+          },
+          " ",
+          {
+            "text": "from the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ".\u2019\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the portion",
+            "strong": "H4888"
+          },
+          " ",
+          {
+            "text": "of the food offerings",
+            "strong": "H801"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "for Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4888"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "since the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "they were presented",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to serve the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "as priests",
+            "strong": "H3547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "On the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "they were anointed",
+            "strong": "H4886"
+          },
+          ", ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "commanded that",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "be given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " by ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ". ",
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "It is a permanent",
+            "strong": "H5769"
+          },
+          " ",
+          {
+            "text": "portion",
+            "strong": "H2708"
+          },
+          " ",
+          {
+            "text": "for the generations to come",
+            "strong": "H1755"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H2063"
+          },
+          " ",
+          {
+            "text": "is the law",
+            "strong": "H8451"
+          },
+          " ",
+          {
+            "text": "of the burnt offering",
+            "strong": "H5930"
+          },
+          ", ",
+          {
+            "text": "the grain offering",
+            "strong": "H4503"
+          },
+          ", ",
+          {
+            "text": "the sin offering",
+            "strong": "H2403"
+          },
+          ", ",
+          {
+            "text": "the guilt offering",
+            "strong": "H817"
+          },
+          ", ",
+          {
+            "text": "the ordination offering",
+            "strong": "H4394"
+          },
+          ", ",
+          {
+            "text": "vvv",
+            "strong": "H2077"
+          },
+          " ",
+          {
+            "text": "and the peace offering",
+            "strong": "H8002"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "gave",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "on Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Sinai",
+            "strong": "H5514"
+          },
+          " ",
+          {
+            "text": "on the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "He commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "to present",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "their offerings",
+            "strong": "H7133"
+          },
+          " ",
+          {
+            "text": "to the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Sinai",
+            "strong": "H5514"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

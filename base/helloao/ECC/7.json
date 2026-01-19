@@ -1,0 +1,1829 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "ECC",
+    "name": "Ecclesiastes",
+    "number": 21
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "A good name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than fine",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "perfume",
+            "strong": "H8081"
+          },
+          ", ",
+          {
+            "text": "and one\u2019s day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "[is better] than his day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of birth",
+            "strong": "H3205"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "It is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "to enter",
+            "strong": "H1980"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of mourning",
+            "strong": "H60"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H1980"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "a house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of feasting",
+            "strong": "H4960"
+          },
+          ", ",
+          {
+            "text": "since",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "[death]",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "[is] the end",
+            "strong": "H5490"
+          },
+          " ",
+          {
+            "text": "of every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "and the living",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "should take [this]",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Sorrow",
+            "strong": "H3708"
+          },
+          " ",
+          {
+            "text": "is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than laughter",
+            "strong": "H7814"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "a sad",
+            "strong": "H7455"
+          },
+          " ",
+          {
+            "text": "countenance",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "is good",
+            "strong": "H3190"
+          },
+          " ",
+          {
+            "text": "for the heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "of the wise",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "[is] in the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of mourning",
+            "strong": "H60"
+          },
+          ", ",
+          {
+            "text": "but the heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "of fools",
+            "strong": "H3684"
+          },
+          " ",
+          {
+            "text": "is in the house",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "of pleasure",
+            "strong": "H8057"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "It is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "to heed",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "a wise man\u2019s",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "rebuke",
+            "strong": "H1606"
+          },
+          " ",
+          {
+            "text": "than",
+            "strong": "H376"
+          },
+          " ",
+          {
+            "text": "to listen",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "to the song",
+            "strong": "H7892"
+          },
+          " ",
+          {
+            "text": "of fools",
+            "strong": "H3684"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "like the crackling",
+            "strong": "H6963"
+          },
+          " ",
+          {
+            "text": "of thorns",
+            "strong": "H5518"
+          },
+          " ",
+          {
+            "text": "under",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "the pot",
+            "strong": "H5518"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "is the laughter",
+            "strong": "H7814"
+          },
+          " ",
+          {
+            "text": "of the fool",
+            "strong": "H3684"
+          },
+          ". ",
+          {
+            "text": "This",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "too",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "is futile",
+            "strong": "H1892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Surely",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "extortion",
+            "strong": "H6233"
+          },
+          " ",
+          {
+            "text": "turns a wise man",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "into a fool",
+            "strong": "H1984"
+          },
+          ", ",
+          {
+            "text": "and a bribe",
+            "strong": "H4979"
+          },
+          " ",
+          {
+            "text": "corrupts",
+            "strong": "H6"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The end",
+            "strong": "H319"
+          },
+          " ",
+          {
+            "text": "of a matter",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than the beginning",
+            "strong": "H7225"
+          },
+          ", ",
+          {
+            "text": "[and] a patient",
+            "strong": "H750"
+          },
+          " ",
+          {
+            "text": "spirit",
+            "strong": "H7307"
+          },
+          " ",
+          {
+            "text": "is better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than a proud",
+            "strong": "H1364"
+          },
+          " ",
+          {
+            "text": "[one]",
+            "strong": "H7307"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be quickly",
+            "strong": "H926"
+          },
+          " ",
+          {
+            "text": "provoked",
+            "strong": "H3707"
+          },
+          " ",
+          {
+            "text": "in your spirit",
+            "strong": "H7307"
+          },
+          ", ",
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "anger",
+            "strong": "H3708"
+          },
+          " ",
+          {
+            "text": "settles",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "in the lap",
+            "strong": "H2436"
+          },
+          " ",
+          {
+            "text": "of a fool",
+            "strong": "H3684"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "say",
+            "strong": "H559"
+          },
+          ", \u201c",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the old",
+            "strong": "H7223"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "days",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "better",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "than these",
+            "strong": "H428"
+          },
+          "?\u201d ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "it is unwise",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "of you to ask",
+            "strong": "H7592"
+          },
+          " ",
+          {
+            "text": "about",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Wisdom",
+            "strong": "H2451"
+          },
+          ", ",
+          {
+            "text": "like",
+            "strong": "H5973"
+          },
+          " ",
+          {
+            "text": "an inheritance",
+            "strong": "H5159"
+          },
+          ", ",
+          {
+            "text": "[is] good",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "and it benefits",
+            "strong": "H3148"
+          },
+          " ",
+          {
+            "text": "those who see",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "the sun",
+            "strong": "H8121"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H6738"
+          },
+          ", ",
+          {
+            "text": "like money",
+            "strong": "H3701"
+          },
+          ", ",
+          {
+            "text": "[is] a shelter",
+            "strong": "H6738"
+          },
+          ", ",
+          {
+            "text": "and the advantage",
+            "strong": "H3504"
+          },
+          " ",
+          {
+            "text": "of knowledge",
+            "strong": "H1847"
+          },
+          " ",
+          {
+            "text": "is that wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "preserves the life",
+            "strong": "H2421"
+          },
+          " ",
+          {
+            "text": "of its owner",
+            "strong": "H1167"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Consider",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the work",
+            "strong": "H4639"
+          },
+          " ",
+          {
+            "text": "of God",
+            "strong": "H430"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can",
+            "strong": "H3201"
+          },
+          " ",
+          {
+            "text": "straighten",
+            "strong": "H8626"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "what",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "He has bent",
+            "strong": "H5791"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "In the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of prosperity",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "joyful",
+            "strong": "H2896"
+          },
+          ", ",
+          {
+            "text": "but in the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "of adversity",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "consider this",
+            "strong": "H7200"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          ": ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "has made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "one [of these]",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "along with",
+            "strong": "H5980"
+          },
+          " ",
+          {
+            "text": "the other",
+            "strong": "H2088"
+          },
+          ", ",
+          {
+            "text": "so that",
+            "strong": "H5921"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1700"
+          },
+          " ",
+          {
+            "text": "a man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "cannot",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "discover",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "anything",
+            "strong": "H3972"
+          },
+          " ",
+          {
+            "text": "that will come after him",
+            "strong": "H310"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "In my futile",
+            "strong": "H1892"
+          },
+          " ",
+          {
+            "text": "life",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "I have seen",
+            "strong": "H7200"
+          },
+          " ",
+          {
+            "text": "both of these",
+            "strong": "H3605"
+          },
+          ": ",
+          {
+            "text": "-",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "A righteous man",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "perishing",
+            "strong": "H6"
+          },
+          " ",
+          {
+            "text": "in his righteousness",
+            "strong": "H6664"
+          },
+          ", ",
+          {
+            "text": "[and]",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "a wicked man",
+            "strong": "H7563"
+          },
+          " ",
+          {
+            "text": "living long",
+            "strong": "H748"
+          },
+          " ",
+          {
+            "text": "in his wickedness",
+            "strong": "H7451"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "overly",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "righteous",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "and do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "make yourself too",
+            "strong": "H3148"
+          },
+          " ",
+          {
+            "text": "wise",
+            "strong": "H2449"
+          },
+          ". ",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should you destroy yourself?",
+            "strong": "H8074"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be excessively",
+            "strong": "H7235"
+          },
+          " ",
+          {
+            "text": "wicked",
+            "strong": "H7561"
+          },
+          ", ",
+          {
+            "text": "and do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "a fool",
+            "strong": "H5530"
+          },
+          ". ",
+          {
+            "text": "Why",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "should you die",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "your time",
+            "strong": "H6256"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "It is good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "to grasp",
+            "strong": "H270"
+          },
+          " ",
+          {
+            "text": "the one",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "let the other slip",
+            "strong": "H5117"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "from",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "your hand",
+            "strong": "H3027"
+          },
+          ". ",
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "he who fears",
+            "strong": "H3373"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "will follow",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "both [warnings]",
+            "strong": "H3605"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "makes the wise man",
+            "strong": "H2450"
+          },
+          " ",
+          {
+            "text": "stronger than",
+            "strong": "H5810"
+          },
+          " ",
+          {
+            "text": "ten",
+            "strong": "H6235"
+          },
+          " ",
+          {
+            "text": "rulers",
+            "strong": "H7989"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in a city",
+            "strong": "H5892"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Surely",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "there is no",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "on earth",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "good",
+            "strong": "H2896"
+          },
+          " ",
+          {
+            "text": "and never",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sins",
+            "strong": "H2398"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "Do not",
+            "strong": "H408"
+          },
+          " ",
+          {
+            "text": "pay",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "attention",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "to every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "is spoken",
+            "strong": "H1696"
+          },
+          ", ",
+          {
+            "text": "or",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "you may hear",
+            "strong": "H8085"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "your servant",
+            "strong": "H5650"
+          },
+          " ",
+          {
+            "text": "cursing you",
+            "strong": "H7043"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "For",
+            "strong": "H3588"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "you know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "in your heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1571"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "times",
+            "strong": "H6471"
+          },
+          " ",
+          {
+            "text": "you yourself",
+            "strong": "H859"
+          },
+          " ",
+          {
+            "text": "have cursed",
+            "strong": "H7043"
+          },
+          " ",
+          {
+            "text": "others",
+            "strong": "H312"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "All",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2090"
+          },
+          " ",
+          {
+            "text": "I tested",
+            "strong": "H5254"
+          },
+          " ",
+          {
+            "text": "by wisdom, [saying]",
+            "strong": "H2451"
+          },
+          ", \u201c",
+          {
+            "text": "I resolve",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to be wise",
+            "strong": "H2449"
+          },
+          ".\u201d ",
+          {
+            "text": "But it",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "was beyond",
+            "strong": "H7350"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H4480"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "What",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "exists",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "is out of reach",
+            "strong": "H7350"
+          },
+          " ",
+          {
+            "text": "and very deep",
+            "strong": "H6013"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6013"
+          },
+          ". ",
+          {
+            "text": "Who",
+            "strong": "H4310"
+          },
+          " ",
+          {
+            "text": "can fathom it",
+            "strong": "H4672"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "directed",
+            "strong": "H5437"
+          },
+          " ",
+          {
+            "text": "my mind",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "to understand",
+            "strong": "H3045"
+          },
+          ", ",
+          {
+            "text": "to explore",
+            "strong": "H8446"
+          },
+          ", ",
+          {
+            "text": "to search out",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "wisdom",
+            "strong": "H2451"
+          },
+          " ",
+          {
+            "text": "and explanations",
+            "strong": "H2808"
+          },
+          ", ",
+          {
+            "text": "and to understand",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "the stupidity",
+            "strong": "H3689"
+          },
+          " ",
+          {
+            "text": "of wickedness",
+            "strong": "H7562"
+          },
+          " ",
+          {
+            "text": "and the folly",
+            "strong": "H5531"
+          },
+          " ",
+          {
+            "text": "of madness",
+            "strong": "H1947"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "And I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "more bitter",
+            "strong": "H4751"
+          },
+          " ",
+          {
+            "text": "than death",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the woman",
+            "strong": "H802"
+          },
+          " ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1931"
+          },
+          " ",
+          {
+            "text": "[is] a snare",
+            "strong": "H4685"
+          },
+          ", ",
+          {
+            "text": "whose heart",
+            "strong": "H3820"
+          },
+          " ",
+          {
+            "text": "[is] a net",
+            "strong": "H2764"
+          },
+          ", ",
+          {
+            "text": "and whose hands",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "[are] chains",
+            "strong": "H612"
+          },
+          ". ",
+          {
+            "text": "The man who pleases",
+            "strong": "H2896"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "escapes",
+            "strong": "H4422"
+          },
+          " ",
+          {
+            "text": "her",
+            "strong": "H4480"
+          },
+          ", ",
+          {
+            "text": "but the sinner",
+            "strong": "H2398"
+          },
+          " ",
+          {
+            "text": "is ensnared",
+            "strong": "H3920"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "\u201c",
+          {
+            "text": "Behold",
+            "strong": "H7200"
+          },
+          ",\u201d ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "the Teacher",
+            "strong": "H6953"
+          },
+          ", \u201c",
+          {
+            "text": "I have discovered",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "by adding one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "thing to another",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "to find",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "an explanation",
+            "strong": "H2808"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "While",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "was still",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "searching",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "but not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "finding",
+            "strong": "H4672"
+          },
+          ", ",
+          {
+            "text": "among a thousand",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "I have found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "one",
+            "strong": "H259"
+          },
+          " ",
+          {
+            "text": "[upright] man",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "but among all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "I have not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "found",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "[one such] woman",
+            "strong": "H802"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Only",
+            "strong": "H905"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2088"
+          },
+          " ",
+          {
+            "text": "have I found",
+            "strong": "H7200"
+          },
+          ": ",
+          {
+            "text": "I have discovered",
+            "strong": "H4672"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "mankind",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "upright",
+            "strong": "H3477"
+          },
+          ", ",
+          {
+            "text": "but they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "have sought out",
+            "strong": "H1245"
+          },
+          " ",
+          {
+            "text": "many",
+            "strong": "H7227"
+          },
+          " ",
+          {
+            "text": "schemes",
+            "strong": "H2810"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

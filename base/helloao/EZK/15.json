@@ -1,0 +1,571 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "EZK",
+    "name": "Ezekiel",
+    "number": 26
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Then the word",
+            "strong": "H1697"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "came",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "to me",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "\u201c",
+          {
+            "text": "Son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of man",
+            "strong": "H120"
+          },
+          ", ",
+          {
+            "text": "how",
+            "strong": "H4100"
+          },
+          " ",
+          {
+            "text": "does",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the wood",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of the vine",
+            "strong": "H1612"
+          },
+          " ",
+          {
+            "text": "surpass",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "any [other]",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "branch",
+            "strong": "H2156"
+          },
+          " ",
+          {
+            "text": "among the trees",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "in the forest",
+            "strong": "H3293"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Can wood",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "be taken",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "from it",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "to make",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "something useful",
+            "strong": "H4399"
+          },
+          "? ",
+          {
+            "text": "Or",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "can one make",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "from it",
+            "strong": "H4480"
+          },
+          " ",
+          {
+            "text": "a peg",
+            "strong": "H3489"
+          },
+          " ",
+          {
+            "text": "on which",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "to hang",
+            "strong": "H8518"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "utensils",
+            "strong": "H3627"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "No",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "it is cast",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "into the fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "for fuel",
+            "strong": "H402"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "The fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "devours",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "both",
+            "strong": "H8147"
+          },
+          " ",
+          {
+            "text": "ends",
+            "strong": "H7098"
+          },
+          ", ",
+          {
+            "text": "and the middle",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "is charred",
+            "strong": "H2787"
+          },
+          ". ",
+          {
+            "text": "Can it be useful",
+            "strong": "H6743"
+          },
+          " ",
+          {
+            "text": "for anything",
+            "strong": "H4399"
+          },
+          "?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Even",
+            "strong": "H2009"
+          },
+          " ",
+          {
+            "text": "when it was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "whole",
+            "strong": "H8549"
+          },
+          ", ",
+          {
+            "text": "it could not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "be made",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "useful",
+            "strong": "H4399"
+          },
+          ". ",
+          {
+            "text": "How much less",
+            "strong": "H637"
+          },
+          " ",
+          {
+            "text": "can it ever",
+            "strong": "H5750"
+          },
+          " ",
+          {
+            "text": "be",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "useful",
+            "strong": "H4399"
+          },
+          " ",
+          {
+            "text": "when",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "the fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "has consumed it",
+            "strong": "H398"
+          },
+          " ",
+          {
+            "text": "and charred it",
+            "strong": "H2787"
+          },
+          "!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Therefore",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "this is what",
+            "strong": "H3541"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          " ",
+          {
+            "text": "says",
+            "strong": "H559"
+          },
+          ": \u2018",
+          {
+            "text": "Like",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the wood",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of the vine",
+            "strong": "H1612"
+          },
+          " ",
+          {
+            "text": "among the trees",
+            "strong": "H6086"
+          },
+          " ",
+          {
+            "text": "of the forest",
+            "strong": "H3293"
+          },
+          ", ",
+          {
+            "text": "which",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "I have given",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "to the fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "for fuel",
+            "strong": "H402"
+          },
+          ", ",
+          {
+            "text": "so",
+            "strong": "H3651"
+          },
+          " ",
+          {
+            "text": "I will give up",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the people",
+            "strong": "H3427"
+          },
+          " ",
+          {
+            "text": "of Jerusalem",
+            "strong": "H3389"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "And I will set",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My face",
+            "strong": "H6440"
+          },
+          " against them. ",
+          {
+            "text": "Though they may have escaped",
+            "strong": "H3318"
+          },
+          " ",
+          {
+            "text": "the fire",
+            "strong": "H784"
+          },
+          ", ",
+          {
+            "text": "yet another fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "will consume them",
+            "strong": "H398"
+          },
+          ". ",
+          {
+            "text": "And when I set",
+            "strong": "H7760"
+          },
+          {
+            "text": ". . .",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "My face",
+            "strong": "H6440"
+          },
+          " against them, ",
+          {
+            "text": "you will know",
+            "strong": "H3045"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "I [am]",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Thus I will make",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "desolate",
+            "strong": "H8077"
+          },
+          ", ",
+          {
+            "text": "because",
+            "strong": "H3282"
+          },
+          " ",
+          {
+            "text": "they have acted unfaithfully",
+            "strong": "H4603"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4604"
+          },
+          ",\u2019 ",
+          {
+            "text": "declares",
+            "strong": "H5002"
+          },
+          " ",
+          {
+            "text": "the Lord",
+            "strong": "H136"
+          },
+          " ",
+          {
+            "text": "GOD",
+            "strong": "H3069"
+          },
+          ".\u201d"
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

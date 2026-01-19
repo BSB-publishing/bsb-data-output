@@ -1,0 +1,3220 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "NUM",
+    "name": "Numbers",
+    "number": 4
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "This",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "is the account",
+            "strong": "H8435"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "at the time",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "with",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "on Mount",
+            "strong": "H2022"
+          },
+          " ",
+          {
+            "text": "Sinai",
+            "strong": "H5514"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "are the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          ": ",
+          {
+            "text": "Nadab",
+            "strong": "H5070"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          ", ",
+          {
+            "text": "then Abihu",
+            "strong": "H30"
+          },
+          ", ",
+          {
+            "text": "Eleazar",
+            "strong": "H499"
+          },
+          ", ",
+          {
+            "text": "and Ithamar",
+            "strong": "H385"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "[were] Aaron\u2019s",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "the anointed",
+            "strong": "H4886"
+          },
+          " ",
+          {
+            "text": "priests",
+            "strong": "H3548"
+          },
+          ", ",
+          {
+            "text": "who",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "were ordained",
+            "strong": "H4390"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3027"
+          },
+          " ",
+          {
+            "text": "to serve as priests",
+            "strong": "H3547"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Nadab",
+            "strong": "H5070"
+          },
+          " ",
+          {
+            "text": "and Abihu, however",
+            "strong": "H30"
+          },
+          ", ",
+          {
+            "text": "died",
+            "strong": "H4191"
+          },
+          " ",
+          {
+            "text": "in the presence of",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "when they offered",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "unauthorized",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "fire",
+            "strong": "H784"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Sinai",
+            "strong": "H5514"
+          },
+          ". ",
+          {
+            "text": "And since they had",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "no",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "sons",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "only Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "and Ithamar",
+            "strong": "H385"
+          },
+          " ",
+          {
+            "text": "served as priests",
+            "strong": "H3547"
+          },
+          " ",
+          {
+            "text": "during",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the lifetime",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of their father",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          {
+            "text": ". . .",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "\u201c",
+          {
+            "text": "Bring",
+            "strong": "H7126"
+          },
+          " ",
+          {
+            "text": "the tribe",
+            "strong": "H4294"
+          },
+          " ",
+          {
+            "text": "of Levi",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and present",
+            "strong": "H5975"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          " ",
+          {
+            "text": "to assist him",
+            "strong": "H8334"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "They are to perform",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "duties for him",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "and for the whole",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "congregation",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          ", ",
+          {
+            "text": "attending",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the service",
+            "strong": "H5656"
+          },
+          " ",
+          {
+            "text": "of the tabernacle",
+            "strong": "H4908"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "They shall take care of",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the furnishings",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "of the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "fulfill obligations",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "for the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "by attending",
+            "strong": "H5647"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "to the service",
+            "strong": "H5656"
+          },
+          " ",
+          {
+            "text": "of the tabernacle",
+            "strong": "H4908"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Assign",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "to Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          "; ",
+          {
+            "text": "they",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "have been given exclusively",
+            "strong": "H5414"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5414"
+          },
+          " to him ",
+          {
+            "text": "from among",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "the Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "So",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "you shall appoint",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "to carry out",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the duties of the priesthood",
+            "strong": "H3550"
+          },
+          "; ",
+          {
+            "text": "but any outsider",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "who approaches [the tabernacle]",
+            "strong": "H7131"
+          },
+          " ",
+          {
+            "text": "must be put to death",
+            "strong": "H4191"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Again the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "\u201c",
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "have taken",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "from among",
+            "strong": "H8432"
+          },
+          " ",
+          {
+            "text": "the children",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "in place of",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "firstborn",
+            "strong": "H6363"
+          },
+          " ",
+          {
+            "text": "Israelite",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "from the womb",
+            "strong": "H7358"
+          },
+          ". ",
+          {
+            "text": "The Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "belong",
+            "strong": "H1961"
+          },
+          " to Me,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "for",
+            "strong": "H3588"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " [are] Mine. ",
+          {
+            "text": "On the day",
+            "strong": "H3117"
+          },
+          " ",
+          {
+            "text": "I struck down",
+            "strong": "H5221"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "in the land",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "of Egypt",
+            "strong": "H4714"
+          },
+          ", ",
+          {
+            "text": "I consecrated",
+            "strong": "H6942"
+          },
+          " to Myself ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "in Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "both man",
+            "strong": "H120"
+          },
+          " ",
+          {
+            "text": "and",
+            "strong": "H5704"
+          },
+          " ",
+          {
+            "text": "beast",
+            "strong": "H929"
+          },
+          ". ",
+          {
+            "text": "They are",
+            "strong": "H1961"
+          },
+          " Mine; ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "in the Wilderness",
+            "strong": "H4057"
+          },
+          " ",
+          {
+            "text": "of Sinai",
+            "strong": "H5514"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "\u201c",
+          {
+            "text": "Number",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3878"
+          },
+          " ",
+          {
+            "text": "by their families",
+            "strong": "H1"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1004"
+          },
+          " ",
+          {
+            "text": "and clans",
+            "strong": "H4940"
+          },
+          ". ",
+          {
+            "text": "You are to count",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "male",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "numbered",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "them",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "according to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the word",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "he had been commanded",
+            "strong": "H6680"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Levi",
+            "strong": "H3878"
+          },
+          " ",
+          {
+            "text": "by name",
+            "strong": "H8034"
+          },
+          ": ",
+          {
+            "text": "Gershon",
+            "strong": "H1648"
+          },
+          ", ",
+          {
+            "text": "Kohath",
+            "strong": "H6955"
+          },
+          ", ",
+          {
+            "text": "and Merari",
+            "strong": "H4847"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were the names",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Gershon",
+            "strong": "H1648"
+          },
+          " ",
+          {
+            "text": "by their clans",
+            "strong": "H4940"
+          },
+          ": ",
+          {
+            "text": "Libni",
+            "strong": "H3845"
+          },
+          " ",
+          {
+            "text": "and Shimei",
+            "strong": "H8096"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "The sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Kohath",
+            "strong": "H6955"
+          },
+          " ",
+          {
+            "text": "by their clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "were Amram",
+            "strong": "H6019"
+          },
+          ", ",
+          {
+            "text": "Izhar",
+            "strong": "H3324"
+          },
+          ", ",
+          {
+            "text": "Hebron",
+            "strong": "H2275"
+          },
+          ", ",
+          {
+            "text": "and Uzziel",
+            "strong": "H5816"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "And the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Merari",
+            "strong": "H4847"
+          },
+          " ",
+          {
+            "text": "by their clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "were Mahli",
+            "strong": "H4249"
+          },
+          " ",
+          {
+            "text": "and Mushi",
+            "strong": "H4187"
+          },
+          ". ",
+          {
+            "text": "These",
+            "strong": "H428"
+          },
+          " ",
+          {
+            "text": "were",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of the Levites",
+            "strong": "H3881"
+          },
+          ", ",
+          {
+            "text": "according to their families",
+            "strong": "H1"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1004"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "From Gershon came",
+            "strong": "H1648"
+          },
+          " ",
+          {
+            "text": "the Libnite",
+            "strong": "H3846"
+          },
+          " ",
+          {
+            "text": "clan",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "and the Shimeite",
+            "strong": "H8097"
+          },
+          " ",
+          {
+            "text": "clan",
+            "strong": "H4940"
+          },
+          "; ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "were the Gershonite",
+            "strong": "H1649"
+          },
+          " ",
+          {
+            "text": "clans",
+            "strong": "H4940"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "The number",
+            "strong": "H6485"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the males",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "was",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "7,500",
+            "strong": "H7651"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "The Gershonite",
+            "strong": "H1649"
+          },
+          " ",
+          {
+            "text": "clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "were to camp",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "on the west",
+            "strong": "H3220"
+          },
+          ", ",
+          {
+            "text": "behind",
+            "strong": "H310"
+          },
+          " ",
+          {
+            "text": "the tabernacle",
+            "strong": "H4908"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "and the leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "of the families",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of the Gershonites",
+            "strong": "H1649"
+          },
+          " ",
+          {
+            "text": "was Eliasaph",
+            "strong": "H460"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Lael",
+            "strong": "H3815"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "The duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "of the Gershonites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1648"
+          },
+          " ",
+          {
+            "text": "at the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          " ",
+          {
+            "text": "[were] the tabernacle",
+            "strong": "H4908"
+          },
+          " ",
+          {
+            "text": "and tent",
+            "strong": "H168"
+          },
+          ", ",
+          {
+            "text": "its covering",
+            "strong": "H4372"
+          },
+          ", ",
+          {
+            "text": "the curtain",
+            "strong": "H4539"
+          },
+          " ",
+          {
+            "text": "for the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "the curtains",
+            "strong": "H7050"
+          },
+          " ",
+          {
+            "text": "of the courtyard",
+            "strong": "H2691"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the curtain",
+            "strong": "H4539"
+          },
+          " ",
+          {
+            "text": "for the entrance",
+            "strong": "H6607"
+          },
+          " ",
+          {
+            "text": "to the courtyard",
+            "strong": "H2691"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "surrounds",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the tabernacle",
+            "strong": "H4908"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "and altar",
+            "strong": "H4196"
+          },
+          ", ",
+          {
+            "text": ". . .",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the cords",
+            "strong": "H4340"
+          },
+          "\u2014 ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the service [for these items]",
+            "strong": "H5656"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "From Kohath came",
+            "strong": "H6955"
+          },
+          " ",
+          {
+            "text": "the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of the Amramites",
+            "strong": "H6020"
+          },
+          ", ",
+          {
+            "text": "the Izharites",
+            "strong": "H3325"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4940"
+          },
+          ", ",
+          {
+            "text": "the Hebronites",
+            "strong": "H2276"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4940"
+          },
+          ", ",
+          {
+            "text": "and the Uzzielites",
+            "strong": "H5817"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4940"
+          },
+          "; ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "were the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of the Kohathites",
+            "strong": "H6956"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "The number",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the males",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "was 8,600",
+            "strong": "H8083"
+          },
+          ".",
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8337"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "They were responsible for",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "of the sanctuary",
+            "strong": "H6944"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "The clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of the Kohathites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6955"
+          },
+          " ",
+          {
+            "text": "were to camp",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the south",
+            "strong": "H8486"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H3409"
+          },
+          " ",
+          {
+            "text": "of the tabernacle",
+            "strong": "H4908"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "and the leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "of the families",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of the Kohathites",
+            "strong": "H6956"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "was Elizaphan",
+            "strong": "H469"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Uzziel",
+            "strong": "H5816"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Their duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "[were] the ark",
+            "strong": "H727"
+          },
+          ", ",
+          {
+            "text": "the table",
+            "strong": "H7979"
+          },
+          ", ",
+          {
+            "text": "the lampstand",
+            "strong": "H4501"
+          },
+          ", ",
+          {
+            "text": "the altars",
+            "strong": "H4196"
+          },
+          ", ",
+          {
+            "text": "the articles",
+            "strong": "H3627"
+          },
+          " ",
+          {
+            "text": "of the sanctuary",
+            "strong": "H6944"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "used",
+            "strong": "H8334"
+          },
+          " with them, ",
+          {
+            "text": "and the curtain",
+            "strong": "H4539"
+          },
+          "\u2014 ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the service [for these items]",
+            "strong": "H5656"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "The chief",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "of the leaders",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "of the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "was Eleazar",
+            "strong": "H499"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "the priest",
+            "strong": "H3548"
+          },
+          "; ",
+          {
+            "text": "he oversaw",
+            "strong": "H6486"
+          },
+          " ",
+          {
+            "text": "those responsible for",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "of the sanctuary",
+            "strong": "H6944"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          {
+            "text": "From Merari came",
+            "strong": "H4848"
+          },
+          " ",
+          {
+            "text": "the clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "of the Mahlites",
+            "strong": "H4250"
+          },
+          " ",
+          {
+            "text": "and Mushites",
+            "strong": "H4188"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4940"
+          },
+          "; ",
+          {
+            "text": "these",
+            "strong": "H428"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1992"
+          },
+          " ",
+          {
+            "text": "were the Merarite",
+            "strong": "H4848"
+          },
+          " ",
+          {
+            "text": "clans",
+            "strong": "H4940"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "text": "The number",
+            "strong": "H6485"
+          },
+          {
+            "text": ". . .",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the males",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          " ",
+          {
+            "text": "was 6,200",
+            "strong": "H8337"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          {
+            "text": "The leader",
+            "strong": "H5387"
+          },
+          " ",
+          {
+            "text": "of the families",
+            "strong": "H1004"
+          },
+          {
+            "text": ". . .",
+            "strong": "H1"
+          },
+          " ",
+          {
+            "text": "of the Merarites",
+            "strong": "H4848"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "was Zuriel",
+            "strong": "H6700"
+          },
+          " ",
+          {
+            "text": "son",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Abihail",
+            "strong": "H32"
+          },
+          "; ",
+          {
+            "text": "they were to camp",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the north",
+            "strong": "H6828"
+          },
+          " ",
+          {
+            "text": "side",
+            "strong": "H3409"
+          },
+          " ",
+          {
+            "text": "of the tabernacle",
+            "strong": "H4908"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "The duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "assigned",
+            "strong": "H6486"
+          },
+          " ",
+          {
+            "text": "to the sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Merari",
+            "strong": "H4847"
+          },
+          " ",
+          {
+            "text": "were the tabernacle\u2019s",
+            "strong": "H4908"
+          },
+          " ",
+          {
+            "text": "frames",
+            "strong": "H7175"
+          },
+          ", ",
+          {
+            "text": "crossbars",
+            "strong": "H1280"
+          },
+          ", ",
+          {
+            "text": "posts",
+            "strong": "H5982"
+          },
+          ", ",
+          {
+            "text": "bases",
+            "strong": "H134"
+          },
+          ", ",
+          {
+            "text": "and all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "its equipment",
+            "strong": "H3627"
+          },
+          "\u2014 ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the service for these [items]",
+            "strong": "H5656"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          {
+            "text": "as well as the posts",
+            "strong": "H5982"
+          },
+          " ",
+          {
+            "text": "of the surrounding",
+            "strong": "H5439"
+          },
+          " ",
+          {
+            "text": "courtyard",
+            "strong": "H2691"
+          },
+          " ",
+          {
+            "text": "with their bases",
+            "strong": "H134"
+          },
+          ", ",
+          {
+            "text": "tent pegs",
+            "strong": "H3489"
+          },
+          ", ",
+          {
+            "text": "and ropes",
+            "strong": "H4340"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "Aaron",
+            "strong": "H175"
+          },
+          ", ",
+          {
+            "text": "and [Aaron\u2019s sons]",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "were to camp",
+            "strong": "H2583"
+          },
+          " ",
+          {
+            "text": "to the east",
+            "strong": "H6924"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "of the tabernacle",
+            "strong": "H4908"
+          },
+          ", ",
+          {
+            "text": "toward the sunrise",
+            "strong": "H4217"
+          },
+          ", ",
+          {
+            "text": "before",
+            "strong": "H6440"
+          },
+          " ",
+          {
+            "text": "the Tent",
+            "strong": "H168"
+          },
+          " ",
+          {
+            "text": "of Meeting",
+            "strong": "H4150"
+          },
+          ". ",
+          {
+            "text": "They were to perform",
+            "strong": "H8104"
+          },
+          " ",
+          {
+            "text": "the duties",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "of the sanctuary",
+            "strong": "H4720"
+          },
+          " ",
+          {
+            "text": "as a service",
+            "strong": "H4931"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "on behalf of the Israelites",
+            "strong": "H3478"
+          },
+          "; ",
+          {
+            "text": "but any outsider",
+            "strong": "H2114"
+          },
+          " ",
+          {
+            "text": "who approached [the sanctuary]",
+            "strong": "H7131"
+          },
+          " ",
+          {
+            "text": "was to be put to death",
+            "strong": "H4191"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          {
+            "text": "The total",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "number",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "of Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "that",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "and Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "counted",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "by their clans",
+            "strong": "H4940"
+          },
+          " ",
+          {
+            "text": "at",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the LORD\u2019s",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "command",
+            "strong": "H6310"
+          },
+          ", ",
+          {
+            "text": "including all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the males",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          ", ",
+          {
+            "text": "was 22,000",
+            "strong": "H8147"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "Then the LORD",
+            "strong": "H3068"
+          },
+          {
+            "text": ". . .",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "said",
+            "strong": "H559"
+          },
+          " ",
+          {
+            "text": "to Moses",
+            "strong": "H4872"
+          },
+          ", \u201c",
+          {
+            "text": "Number",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "every",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "male",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Israelites",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          ", ",
+          {
+            "text": "and list",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "their names",
+            "strong": "H8034"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          {
+            "text": "You are to take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          " for Me\u2014 ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          "\u2014 ",
+          {
+            "text": "in place of",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "and the livestock",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "of the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "in place of",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "of the livestock",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Israelites",
+            "strong": "H3478"
+          },
+          ".\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "numbered",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Israelites",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "him",
+            "strong": "H853"
+          },
+          ". ",
+          {
+            "text": "-",
+            "strong": "H853"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          {
+            "text": "The total",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "number",
+            "strong": "H6485"
+          },
+          " ",
+          {
+            "text": "of the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "males",
+            "strong": "H2145"
+          },
+          " ",
+          {
+            "text": "a month",
+            "strong": "H2320"
+          },
+          " ",
+          {
+            "text": "old",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "or more",
+            "strong": "H4605"
+          },
+          ", ",
+          {
+            "text": "listed",
+            "strong": "H4557"
+          },
+          " ",
+          {
+            "text": "by name",
+            "strong": "H8034"
+          },
+          ", ",
+          {
+            "text": "was",
+            "strong": "H1961"
+          },
+          " ",
+          {
+            "text": "22,273",
+            "strong": "H8147"
+          },
+          {
+            "text": ". . .",
+            "strong": "H6242"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7969"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7657"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          {
+            "text": "Again the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "spoke",
+            "strong": "H1696"
+          },
+          " ",
+          {
+            "text": "to",
+            "strong": "H413"
+          },
+          " ",
+          {
+            "text": "Moses",
+            "strong": "H4872"
+          },
+          ", ",
+          {
+            "text": "saying",
+            "strong": "H559"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "\u201c",
+          {
+            "text": "Take",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "in place",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "of all",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of Israel",
+            "strong": "H3478"
+          },
+          ", ",
+          {
+            "text": "and",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the livestock",
+            "strong": "H929"
+          },
+          " ",
+          {
+            "text": "of the Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "in place",
+            "strong": "H8478"
+          },
+          " ",
+          {
+            "text": "of their livestock",
+            "strong": "H929"
+          },
+          ". ",
+          {
+            "text": "The Levites",
+            "strong": "H3881"
+          },
+          " ",
+          {
+            "text": "belong",
+            "strong": "H1961"
+          },
+          " to Me; ",
+          {
+            "text": "I",
+            "strong": "H589"
+          },
+          " ",
+          {
+            "text": "am the LORD",
+            "strong": "H3068"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "To redeem",
+            "strong": "H6302"
+          },
+          " ",
+          {
+            "text": "the 273",
+            "strong": "H7969"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7657"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          " ",
+          {
+            "text": "firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "Israelites",
+            "strong": "H1121"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3478"
+          },
+          " ",
+          {
+            "text": "who outnumber",
+            "strong": "H5736"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the Levites",
+            "strong": "H3881"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "you are to collect",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "five",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H2568"
+          },
+          " ",
+          {
+            "text": "shekels",
+            "strong": "H8255"
+          },
+          " ",
+          {
+            "text": "for each one",
+            "strong": "H1538"
+          },
+          ", ",
+          {
+            "text": "according to the sanctuary",
+            "strong": "H6944"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "shekel",
+            "strong": "H8255"
+          },
+          " ",
+          {
+            "text": "of twenty",
+            "strong": "H6242"
+          },
+          " ",
+          {
+            "text": "gerahs",
+            "strong": "H1626"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8255"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          {
+            "text": "Give",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "as the redemption price",
+            "strong": "H6302"
+          },
+          " ",
+          {
+            "text": "for the excess",
+            "strong": "H5736"
+          },
+          " among [the Israelites].\u201d"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          {
+            "text": "So Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "collected",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "the redemption",
+            "strong": "H6306"
+          },
+          {
+            "text": ". . .",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "from those in excess",
+            "strong": "H5736"
+          },
+          " ",
+          {
+            "text": "of",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the number redeemed",
+            "strong": "H6302"
+          },
+          " ",
+          {
+            "text": "by the Levites",
+            "strong": "H3881"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          {
+            "text": "-",
+            "strong": "H854"
+          },
+          " ",
+          {
+            "text": "He collected",
+            "strong": "H3947"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "the money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "from the firstborn",
+            "strong": "H1060"
+          },
+          " ",
+          {
+            "text": "vvv",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "of the Israelites",
+            "strong": "H3478"
+          },
+          ": ",
+          {
+            "text": "1,365",
+            "strong": "H2568"
+          },
+          {
+            "text": ". . .",
+            "strong": "H8346"
+          },
+          {
+            "text": ". . .",
+            "strong": "H7969"
+          },
+          {
+            "text": ". . .",
+            "strong": "H3967"
+          },
+          {
+            "text": ". . .",
+            "strong": "H505"
+          },
+          " ",
+          {
+            "text": "shekels",
+            "strong": "H8255"
+          },
+          ", ",
+          {
+            "text": "according to the sanctuary shekel",
+            "strong": "H6944"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          {
+            "text": "And Moses",
+            "strong": "H4872"
+          },
+          " ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "gave",
+            "strong": "H5414"
+          },
+          " ",
+          {
+            "text": "the redemption",
+            "strong": "H6302"
+          },
+          " ",
+          {
+            "text": "money",
+            "strong": "H3701"
+          },
+          " ",
+          {
+            "text": "to Aaron",
+            "strong": "H175"
+          },
+          " ",
+          {
+            "text": "and his sons",
+            "strong": "H1121"
+          },
+          " ",
+          {
+            "text": "in obedience to",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "the word",
+            "strong": "H6310"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "-",
+            "strong": "H853"
+          },
+          " ",
+          {
+            "text": "just as",
+            "strong": "H834"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "had commanded",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "[him]",
+            "strong": "H4872"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}

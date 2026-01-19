@@ -1,0 +1,729 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "language": "en",
+    "license": "CC0",
+    "website": "https://berean.bible"
+  },
+  "book": {
+    "id": "PSA",
+    "name": "Psalms",
+    "number": 19
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "or",
+            "strong": "H6435"
+          },
+          " ",
+          {
+            "text": "they will shred",
+            "strong": "H2963"
+          },
+          " ",
+          {
+            "text": "my soul",
+            "strong": "H5315"
+          },
+          " ",
+          {
+            "text": "like a lion",
+            "strong": "H738"
+          },
+          " ",
+          {
+            "text": "and tear me to pieces",
+            "strong": "H6561"
+          },
+          " ",
+          {
+            "text": "with no one",
+            "strong": "H369"
+          },
+          " ",
+          {
+            "text": "to rescue me",
+            "strong": "H5337"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "my God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I have done",
+            "strong": "H6213"
+          },
+          " ",
+          {
+            "text": "this",
+            "strong": "H2063"
+          },
+          ", ",
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "injustice",
+            "strong": "H5766"
+          },
+          " ",
+          {
+            "text": "is",
+            "strong": "H3426"
+          },
+          " ",
+          {
+            "text": "on my hands",
+            "strong": "H3709"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "if",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "I have rewarded",
+            "strong": "H1580"
+          },
+          " ",
+          {
+            "text": "my ally",
+            "strong": "H7999"
+          },
+          " ",
+          {
+            "text": "with evil",
+            "strong": "H7451"
+          },
+          ", ",
+          {
+            "text": "if I have plundered",
+            "strong": "H2502"
+          },
+          " ",
+          {
+            "text": "my foe",
+            "strong": "H6887"
+          },
+          " ",
+          {
+            "text": "without cause",
+            "strong": "H7387"
+          },
+          ","
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "then may my enemy",
+            "strong": "H341"
+          },
+          " ",
+          {
+            "text": "pursue me",
+            "strong": "H7291"
+          },
+          " ",
+          {
+            "text": "and overtake",
+            "strong": "H5381"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H5315"
+          },
+          "; ",
+          {
+            "text": "may he trample",
+            "strong": "H7429"
+          },
+          " ",
+          {
+            "text": "me",
+            "strong": "H2416"
+          },
+          " ",
+          {
+            "text": "to the ground",
+            "strong": "H776"
+          },
+          " ",
+          {
+            "text": "and leave",
+            "strong": "H7931"
+          },
+          " ",
+          {
+            "text": "my honor",
+            "strong": "H3519"
+          },
+          " ",
+          {
+            "text": "in the dust",
+            "strong": "H6083"
+          },
+          ". ",
+          {
+            "text": "Selah",
+            "strong": "H5542"
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Arise",
+            "strong": "H6965"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "in Your anger",
+            "strong": "H639"
+          },
+          "; ",
+          {
+            "text": "rise up",
+            "strong": "H5375"
+          },
+          " ",
+          {
+            "text": "against the fury",
+            "strong": "H5678"
+          },
+          " ",
+          {
+            "text": "of my enemies",
+            "strong": "H6887"
+          },
+          ". ",
+          {
+            "text": "Awake",
+            "strong": "H5782"
+          },
+          ", ",
+          {
+            "text": "my God",
+            "strong": "H413"
+          },
+          ", ",
+          {
+            "text": "and ordain",
+            "strong": "H6680"
+          },
+          " ",
+          {
+            "text": "judgment",
+            "strong": "H4941"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Let the assembled",
+            "strong": "H5712"
+          },
+          " ",
+          {
+            "text": "peoples",
+            "strong": "H3816"
+          },
+          " ",
+          {
+            "text": "gather around You",
+            "strong": "H5437"
+          },
+          "; ",
+          {
+            "text": "take Your seat",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "over them",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "on high",
+            "strong": "H4791"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "judges",
+            "strong": "H1777"
+          },
+          " ",
+          {
+            "text": "the peoples",
+            "strong": "H5971"
+          },
+          "; ",
+          {
+            "text": "vindicate me",
+            "strong": "H8199"
+          },
+          ", ",
+          {
+            "text": "O LORD",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "according to my righteousness",
+            "strong": "H6664"
+          },
+          " ",
+          {
+            "text": "and integrity",
+            "strong": "H8537"
+          },
+          {
+            "text": ". . .",
+            "strong": "H5921"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Put an end",
+            "strong": "H1584"
+          },
+          " ",
+          {
+            "text": "to the evil",
+            "strong": "H7451"
+          },
+          " ",
+          {
+            "text": "of the wicked",
+            "strong": "H7563"
+          },
+          ", ",
+          {
+            "text": "but establish",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "the righteous",
+            "strong": "H6662"
+          },
+          ", ",
+          {
+            "text": "O",
+            "strong": "H4994"
+          },
+          " ",
+          {
+            "text": "righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "who searches",
+            "strong": "H974"
+          },
+          " ",
+          {
+            "text": "hearts",
+            "strong": "H3826"
+          },
+          " ",
+          {
+            "text": "and minds",
+            "strong": "H3629"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "My shield",
+            "strong": "H4043"
+          },
+          " ",
+          {
+            "text": "is with",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          ", ",
+          {
+            "text": "who saves",
+            "strong": "H3467"
+          },
+          " ",
+          {
+            "text": "the upright",
+            "strong": "H3477"
+          },
+          " ",
+          {
+            "text": "in heart",
+            "strong": "H3820"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "God",
+            "strong": "H430"
+          },
+          " ",
+          {
+            "text": "is a righteous",
+            "strong": "H6662"
+          },
+          " ",
+          {
+            "text": "judge",
+            "strong": "H8199"
+          },
+          " ",
+          {
+            "text": "and a God",
+            "strong": "H410"
+          },
+          " ",
+          {
+            "text": "who feels indignation",
+            "strong": "H2194"
+          },
+          " ",
+          {
+            "text": "each",
+            "strong": "H3605"
+          },
+          " ",
+          {
+            "text": "day",
+            "strong": "H3117"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "If",
+            "strong": "H518"
+          },
+          " ",
+          {
+            "text": "one does not",
+            "strong": "H3808"
+          },
+          " ",
+          {
+            "text": "repent",
+            "strong": "H7725"
+          },
+          ", ",
+          {
+            "text": "God will sharpen",
+            "strong": "H3913"
+          },
+          " ",
+          {
+            "text": "His sword",
+            "strong": "H2719"
+          },
+          "; ",
+          {
+            "text": "He has bent",
+            "strong": "H1869"
+          },
+          " ",
+          {
+            "text": "and strung",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "His bow",
+            "strong": "H7198"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "He has prepared",
+            "strong": "H3559"
+          },
+          " ",
+          {
+            "text": "His deadly",
+            "strong": "H4194"
+          },
+          " ",
+          {
+            "text": "weapons",
+            "strong": "H3627"
+          },
+          "; ",
+          {
+            "text": "He ordains",
+            "strong": "H6466"
+          },
+          " ",
+          {
+            "text": "His arrows",
+            "strong": "H2671"
+          },
+          " ",
+          {
+            "text": "with fire",
+            "strong": "H1814"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Behold",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "[the wicked man] travails",
+            "strong": "H2254"
+          },
+          " ",
+          {
+            "text": "with evil",
+            "strong": "H205"
+          },
+          "; ",
+          {
+            "text": "he conceives",
+            "strong": "H2029"
+          },
+          " ",
+          {
+            "text": "trouble",
+            "strong": "H5999"
+          },
+          " ",
+          {
+            "text": "and births",
+            "strong": "H3205"
+          },
+          " ",
+          {
+            "text": "falsehood",
+            "strong": "H8267"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "He has dug",
+            "strong": "H3738"
+          },
+          " ",
+          {
+            "text": "a hole",
+            "strong": "H953"
+          },
+          " ",
+          {
+            "text": "and hollowed it out",
+            "strong": "H2658"
+          },
+          "; ",
+          {
+            "text": "he has fallen",
+            "strong": "H5307"
+          },
+          " ",
+          {
+            "text": "into a pit",
+            "strong": "H7845"
+          },
+          " ",
+          {
+            "text": "of his own making",
+            "strong": "H6466"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "His trouble",
+            "strong": "H5999"
+          },
+          " ",
+          {
+            "text": "recoils",
+            "strong": "H7725"
+          },
+          " ",
+          {
+            "text": "on himself",
+            "strong": "H7218"
+          },
+          ", ",
+          {
+            "text": "and his violence",
+            "strong": "H2555"
+          },
+          " ",
+          {
+            "text": "falls",
+            "strong": "H3381"
+          },
+          " ",
+          {
+            "text": "on",
+            "strong": "H5921"
+          },
+          " ",
+          {
+            "text": "his own head",
+            "strong": "H6936"
+          },
+          "."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "I will thank",
+            "strong": "H3034"
+          },
+          " ",
+          {
+            "text": "the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "for His righteousness",
+            "strong": "H6664"
+          },
+          " ",
+          {
+            "text": "and sing praise",
+            "strong": "H2167"
+          },
+          " ",
+          {
+            "text": "to the name",
+            "strong": "H8034"
+          },
+          " ",
+          {
+            "text": "of the LORD",
+            "strong": "H3068"
+          },
+          " ",
+          {
+            "text": "Most High",
+            "strong": "H5945"
+          },
+          "."
+        ]
+      }
+    ],
+    "footnotes": []
+  }
+}
