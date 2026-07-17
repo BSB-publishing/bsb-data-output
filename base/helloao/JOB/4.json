@@ -43,7 +43,7 @@
         "type": "verse",
         "number": 2,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "If one ventures",
             "strong": "H5254"
@@ -259,11 +259,6 @@
             "strong": "H4310"
           },
           ", ",
-          {
-            "text": "-",
-            "strong": "H1931"
-          },
-          " ",
           {
             "text": "being innocent",
             "strong": "H5355"
@@ -669,7 +664,7 @@
         "type": "verse",
         "number": 17,
         "content": [
-          "\u2018",
+          "‘",
           {
             "text": "{Can} a mortal",
             "strong": "H582"
@@ -853,11 +848,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H3808"
-          },
-          " ",
-          {
             "text": "pulled up",
             "strong": "H5265"
           },
@@ -876,7 +866,7 @@
             "text": "wisdom",
             "strong": "H2451"
           },
-          "?\u2019[\u2019\u2019]"
+          "?’[’’]"
         ]
       }
     ],

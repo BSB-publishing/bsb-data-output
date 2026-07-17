@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsb-data/schema/versification.schema.json",
+  "title": "BSB Versification Tradition",
+  "description": "Versification mapping data for a single tradition (English, LXX, Vulgate, etc.)",
+  "type": "object",
+  "required": [
+    "tradition",
+    "description",
+    "max_verses",
+    "verse_mappings",
+    "stats"
+  ],
+  "properties": {
+    "tradition": {
+      "type": "string",
+      "description": "Tradition identifier",
+      "enum": [
+        "eng",
+        "lxx",
+        "vul",
+        "org"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "max_verses": {
+      "type": "object",
+      "description": "Maximum verse count per chapter, keyed by book code",
+      "patternProperties": {
+        "^[A-Z0-9]{3}$": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "verse_mappings": {
+      "type": "array",
+      "description": "Verse-level mappings between English and this tradition",
+      "items": {
+        "type": "object",
+        "required": [
+          "eng",
+          "other"
+        ],
+        "properties": {
+          "eng": {
+            "type": "string",
+            "description": "English verse reference"
+          },
+          "other": {
+            "type": "string",
+            "description": "Tradition verse reference"
+          }
+        }
+      }
+    },
+    "excluded_verses": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "books": {
+          "type": "integer"
+        },
+        "total_mappings": {
+          "type": "integer"
+        },
+        "excluded_count": {
+          "type": "integer"
+        },
+        "skipped_apocryphal": {
+          "type": "integer"
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

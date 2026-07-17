@@ -1,0 +1,30 @@
+{
+  "traditions": {
+    "eng": {
+      "books": 66,
+      "total_mappings": 2031,
+      "excluded_count": 0,
+      "skipped_apocryphal": 121
+    },
+    "lxx": {
+      "books": 63,
+      "total_mappings": 3705,
+      "excluded_count": 0,
+      "skipped_apocryphal": 41
+    },
+    "vul": {
+      "books": 65,
+      "total_mappings": 3922,
+      "excluded_count": 0,
+      "skipped_apocryphal": 161
+    },
+    "org": {
+      "books": 66,
+      "total_mappings": 0,
+      "excluded_count": 0,
+      "skipped_apocryphal": 8
+    }
+  },
+  "total_traditions": 4,
+  "total_mappings": 9658
+}

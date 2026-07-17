@@ -139,7 +139,7 @@
         "type": "verse",
         "number": 3,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Listen",
             "strong": "H8085"
@@ -636,7 +636,7 @@
             "text": "I say",
             "strong": "H559"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "My purpose",
             "strong": "H6098"
@@ -661,7 +661,7 @@
             "text": "I will accomplish",
             "strong": "H6213"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -839,7 +839,7 @@
             "text": "with My splendor",
             "strong": "H8597"
           },
-          ".[\u2019\u2019]"
+          ".[’’]"
         ]
       }
     ],

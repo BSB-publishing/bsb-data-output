@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsb-data/schema/lexicon.schema.json",
+  "title": "BSB Lexicon Entry",
+  "description": "Extended Strong's lexicon entry from STEPBible TBESH/TBESG",
+  "type": "object",
+  "required": [
+    "strongs",
+    "language"
+  ],
+  "properties": {
+    "strongs": {
+      "type": "string",
+      "description": "Strong's number (zero-padded)",
+      "pattern": "^[HG]\\d{4,5}[a-z]?$",
+      "examples": [
+        "H0001",
+        "G3056"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "hebrew",
+        "greek"
+      ]
+    },
+    "strongsExtended": {
+      "type": "string",
+      "description": "Extended Strong's number"
+    },
+    "strongsDisambiguated": {
+      "type": "string"
+    },
+    "lemma": {
+      "type": "string",
+      "description": "Original language word form"
+    },
+    "transliteration": {
+      "type": "string",
+      "description": "Romanized form"
+    },
+    "morphology": {
+      "type": "string",
+      "description": "Morphology code"
+    },
+    "gloss": {
+      "type": "string",
+      "description": "Brief English meaning"
+    },
+    "definition": {
+      "type": "string",
+      "description": "Full definition (plain text)"
+    }
+  },
+  "additionalProperties": true
+}

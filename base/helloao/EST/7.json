@@ -93,12 +93,7 @@
             "text": "once more",
             "strong": "H1571"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "H635"
-          },
-          ", \u201c",
+          ", “",
           {
             "text": "Queen",
             "strong": "H4436"
@@ -153,7 +148,7 @@
             "text": "it will be fulfilled",
             "strong": "H6213"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -178,7 +173,7 @@
             "text": ". . .",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "If",
             "strong": "H518"
@@ -343,7 +338,7 @@
             "text": "the king",
             "strong": "H4428"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -379,7 +374,7 @@
             "text": "Esther",
             "strong": "H635"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Who",
             "strong": "H4310"
@@ -431,7 +426,7 @@
             "text": "such a scheme?",
             "strong": "H3651"
           },
-          "\u201d"
+          "”"
         ]
       },
       {
@@ -451,7 +446,7 @@
             "text": "replied",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "The adversary",
             "strong": "H6862"
@@ -471,12 +466,12 @@
             "text": "wicked man",
             "strong": "H7451"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "Haman",
             "strong": "H2001"
           },
-          "!\u201d ",
+          "!” ",
           {
             "text": "And Haman",
             "strong": "H2001"
@@ -710,7 +705,7 @@
             "text": "exclaimed",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Would he actually",
             "strong": "H1571"
@@ -719,11 +714,6 @@
           {
             "text": "assault",
             "strong": "H3533"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -740,7 +730,7 @@
             "text": "I am in the palace",
             "strong": "H1004"
           },
-          "?\u201d ",
+          "?” ",
           {
             "text": "As soon as the words",
             "strong": "H1697"
@@ -752,7 +742,7 @@
           },
           " ",
           {
-            "text": "the king\u2019s",
+            "text": "the king’s",
             "strong": "H4428"
           },
           " ",
@@ -767,7 +757,7 @@
           },
           " ",
           {
-            "text": "Haman\u2019s",
+            "text": "Haman’s",
             "strong": "H2001"
           },
           " ",
@@ -821,7 +811,7 @@
             "text": "said",
             "strong": "H559"
           },
-          ": \u201c",
+          ": “",
           {
             "text": "There",
             "strong": "H2009"
@@ -830,11 +820,6 @@
           {
             "text": "is a gallows",
             "strong": "H6086"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {
@@ -853,7 +838,7 @@
           },
           " ",
           {
-            "text": "at Haman\u2019s",
+            "text": "at Haman’s",
             "strong": "H2001"
           },
           " ",
@@ -904,7 +889,7 @@
             "text": ". . .",
             "strong": "H5975"
           },
-          ".\u201d\u201c",
+          ".”“",
           {
             "text": "Hang him",
             "strong": "H8518"
@@ -914,7 +899,7 @@
             "text": "on it",
             "strong": "H5921"
           },
-          "!\u201d ",
+          "!” ",
           {
             "text": "declared",
             "strong": "H559"
@@ -937,11 +922,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "Haman",
             "strong": "H2001"
           },
@@ -954,11 +934,6 @@
           {
             "text": "the gallows",
             "strong": "H6086"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {

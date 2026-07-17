@@ -78,7 +78,7 @@
         "type": "verse",
         "number": 2,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Speak",
             "strong": "H559"
@@ -174,7 +174,7 @@
         "type": "verse",
         "number": 3,
         "content": [
-          "\u2018",
+          "‘",
           {
             "text": "Who",
             "strong": "H4310"
@@ -193,11 +193,6 @@
           {
             "text": "saw",
             "strong": "H7200"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -231,11 +226,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "to you",
             "strong": "H859"
           },
@@ -264,7 +254,7 @@
             "text": "in comparison",
             "strong": "H3644"
           },
-          "?\u2019"
+          "?’"
         ]
       },
       {
@@ -398,18 +388,8 @@
         "number": 5,
         "content": [
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "This is the promise",
             "strong": "H1697"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {
@@ -456,7 +436,7 @@
             "text": "be afraid",
             "strong": "H3372"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -487,7 +467,7 @@
             "text": "says",
             "strong": "H559"
           },
-          ":\u201c",
+          ":“",
           {
             "text": "Once",
             "strong": "H259"
@@ -519,38 +499,19 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "the heavens",
             "strong": "H8064"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
             "text": "and the earth",
             "strong": "H776"
           },
-          ", ",
-          {
-            "text": "-",
-            "strong": "H853"
-          },
+          ",",
           " ",
           {
             "text": "the sea",
             "strong": "H3220"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -567,11 +528,6 @@
           {
             "text": "I will shake",
             "strong": "H7493"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -605,11 +561,6 @@
           {
             "text": "and I will fill",
             "strong": "H4390"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -768,7 +719,7 @@
             "text": "of Hosts",
             "strong": "H6635"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -845,7 +796,7 @@
         "type": "verse",
         "number": 11,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "This is what",
             "strong": "H3541"
@@ -865,7 +816,7 @@
             "text": "says",
             "strong": "H559"
           },
-          ": \u2018",
+          ": ‘",
           {
             "text": "Ask",
             "strong": "H7592"
@@ -873,11 +824,6 @@
           {
             "text": ". . .",
             "strong": "H4994"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -1003,12 +949,12 @@
             "text": "does [that item] become holy",
             "strong": "H6942"
           },
-          "?\u2019\u201d\u201c",
+          "?’”“",
           {
             "text": "No",
             "strong": "H3808"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": ". . .",
             "strong": "H559"
@@ -1039,7 +985,7 @@
             "text": "asked",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "If",
             "strong": "H518"
@@ -1074,12 +1020,12 @@
             "text": "does it become defiled",
             "strong": "H2930"
           },
-          "?\u201d\u201c",
+          "?”“",
           {
             "text": "Yes, it becomes defiled",
             "strong": "H2930"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "the priests",
             "strong": "H3548"
@@ -1113,7 +1059,7 @@
             "text": "replied",
             "strong": "H6030"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "So [it is]",
             "strong": "H3651"
@@ -1349,11 +1295,6 @@
             "text": "fifty [baths]",
             "strong": "H2572"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "H6333"
-          },
           ", ",
           {
             "text": "there were",
@@ -1375,12 +1316,7 @@
             "text": "I struck you",
             "strong": "H5221"
           },
-          "\u2014 ",
-          {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
+          "— ",
           {
             "text": "all",
             "strong": "H3605"
@@ -1395,7 +1331,7 @@
             "text": "of your hands",
             "strong": "H3027"
           },
-          "\u2014 ",
+          "— ",
           {
             "text": "with blight",
             "strong": "H7711"
@@ -1412,18 +1348,8 @@
           },
           ", ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "but you did not",
             "strong": "H369"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -1479,7 +1405,7 @@
             "text": "forward",
             "strong": "H4605"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "from",
             "strong": "H4480"
@@ -1510,12 +1436,7 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H834"
-          },
-          " ",
-          {
-            "text": "the foundation of the LORD\u2019s",
+            "text": "the foundation of the LORD’s",
             "strong": "H3068"
           },
           " ",
@@ -1528,7 +1449,7 @@
             "text": "was laid",
             "strong": "H3245"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "consider carefully",
             "strong": "H7760"
@@ -1618,7 +1539,7 @@
             "text": "I will bless you",
             "strong": "H1288"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1680,7 +1601,7 @@
         "type": "verse",
         "number": 21,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Tell",
             "strong": "H559"
@@ -1721,18 +1642,8 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "the heavens",
             "strong": "H8064"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -1926,7 +1837,7 @@
             "text": "of Hosts",
             "strong": "H6635"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],

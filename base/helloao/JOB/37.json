@@ -18,7 +18,7 @@
         "type": "verse",
         "number": 1,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "At this",
             "strong": "H2063"
@@ -262,7 +262,7 @@
             "text": "to the snow",
             "strong": "H7950"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "Fall",
             "strong": "H1933"
@@ -272,7 +272,7 @@
             "text": "[on] the earth",
             "strong": "H776"
           },
-          ",\u2019 ",
+          ",’ ",
           {
             "text": "and to the gentle rain",
             "strong": "H1653"
@@ -281,7 +281,7 @@
             "text": ". . .",
             "strong": "H4306"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "Pour out",
             "strong": "H1653"
@@ -296,7 +296,7 @@
             "text": "downpour",
             "strong": "H4306"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -461,11 +461,6 @@
         "type": "verse",
         "number": 11,
         "content": [
-          {
-            "text": "-",
-            "strong": "H637"
-          },
-          " ",
           {
             "text": "He loads",
             "strong": "H2959"
@@ -875,11 +870,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H3588"
-          },
-          " ",
-          {
             "text": "to be swallowed up",
             "strong": "H1104"
           },
@@ -1082,7 +1072,7 @@
             "text": "in heart",
             "strong": "H3820"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],

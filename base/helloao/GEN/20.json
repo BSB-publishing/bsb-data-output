@@ -107,7 +107,7 @@
             "text": "Sarah",
             "strong": "H8283"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "She",
             "strong": "H1931"
@@ -117,7 +117,7 @@
             "text": "is my sister",
             "strong": "H269"
           },
-          ".\u201d ",
+          ".” ",
           {
             "text": "So Abimelech",
             "strong": "H40"
@@ -147,11 +147,7 @@
             "text": "to him",
             "strong": "H3947"
           },
-          ". ",
-          {
-            "text": "-",
-            "strong": "H853"
-          }
+          ". "
         ]
       },
       {
@@ -193,11 +189,7 @@
             "strong": "H559"
           },
           " him, ",
-          {
-            "text": "-",
-            "strong": "H2009"
-          },
-          " \u201c",
+          " “",
           {
             "text": "You are as good as dead",
             "strong": "H4191"
@@ -211,11 +203,6 @@
           {
             "text": "the woman",
             "strong": "H802"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {
@@ -237,7 +224,7 @@
             "text": "woman.",
             "strong": "H1167"
           },
-          "\u201d"
+          "”"
         ]
       },
       {
@@ -268,7 +255,7 @@
             "text": "so he replied",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Lord",
             "strong": "H136"
@@ -301,7 +288,7 @@
         "number": 5,
         "content": [
           {
-            "text": "Didn\u2019t",
+            "text": "Didn’t",
             "strong": "H3808"
           },
           " ",
@@ -314,7 +301,7 @@
             "text": "tell",
             "strong": "H559"
           },
-          " me, \u2018",
+          " me, ‘",
           {
             "text": "She",
             "strong": "H1931"
@@ -324,7 +311,7 @@
             "text": "is my sister",
             "strong": "H269"
           },
-          "\u2019? ",
+          "’? ",
           {
             "text": "And she",
             "strong": "H1931"
@@ -343,7 +330,7 @@
             "text": "said",
             "strong": "H559"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "He",
             "strong": "H1931"
@@ -353,7 +340,7 @@
             "text": "is my brother",
             "strong": "H251"
           },
-          ".\u2019 ",
+          ".’ ",
           {
             "text": "I have done",
             "strong": "H6213"
@@ -383,7 +370,7 @@
             "text": "of my hands",
             "strong": "H3709"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -409,7 +396,7 @@
             "text": "in the dream",
             "strong": "H2472"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Yes",
             "strong": "H1571"
@@ -520,7 +507,7 @@
           },
           " ",
           {
-            "text": "the man\u2019s",
+            "text": "the man’s",
             "strong": "H376"
           },
           " ",
@@ -592,7 +579,7 @@
             "text": ". . .",
             "strong": "H4191"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "you",
             "strong": "H859"
@@ -607,7 +594,7 @@
             "text": "who belong",
             "strong": "H834"
           },
-          " to you.\u201d"
+          " to you.”"
         ]
       },
       {
@@ -647,16 +634,6 @@
           {
             "text": "and when he described to them",
             "strong": "H1696"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H241"
           },
           " ",
           {
@@ -713,7 +690,7 @@
             "text": "and asked",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "What",
             "strong": "H4100"
@@ -798,7 +775,7 @@
             "text": "be done",
             "strong": "H6213"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -823,7 +800,7 @@
             "text": "Abraham",
             "strong": "H85"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "What",
             "strong": "H4100"
@@ -844,11 +821,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "such",
             "strong": "H2088"
           },
@@ -857,7 +829,7 @@
             "text": "a thing",
             "strong": "H1697"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
@@ -877,12 +849,12 @@
             "text": "replied",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "I thought to myself",
             "strong": "H559"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "Surely",
             "strong": "H7535"
@@ -931,7 +903,7 @@
             "text": "my wife",
             "strong": "H802"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -967,7 +939,7 @@
             "text": "of my father",
             "strong": "H1"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "though",
             "strong": "H389"
@@ -987,7 +959,7 @@
             "text": "of my mother",
             "strong": "H517"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "and she became",
             "strong": "H1961"
@@ -1005,11 +977,6 @@
         "number": 13,
         "content": [
           {
-            "text": "-",
-            "strong": "H1961"
-          },
-          " ",
-          {
             "text": "So when",
             "strong": "H834"
           },
@@ -1025,12 +992,7 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
-            "text": "from my father\u2019s",
+            "text": "from my father’s",
             "strong": "H1"
           },
           " ",
@@ -1043,15 +1005,10 @@
             "text": "I said",
             "strong": "H559"
           },
-          " to [Sarah], \u2018",
+          " to [Sarah], ‘",
           {
             "text": "This is how",
             "strong": "H2088"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {
@@ -1084,11 +1041,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H834"
-          },
-          " ",
-          {
             "text": "we go",
             "strong": "H935"
           },
@@ -1102,7 +1054,7 @@
             "text": "say",
             "strong": "H559"
           },
-          " of me, \u201c",
+          " of me, “",
           {
             "text": "He is",
             "strong": "H1931"
@@ -1112,7 +1064,7 @@
             "text": "my brother",
             "strong": "H251"
           },
-          ".\u201d\u2019\u201d"
+          ".”’”"
         ]
       },
       {
@@ -1165,11 +1117,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "his wife",
             "strong": "H802"
           },
@@ -1194,7 +1141,7 @@
             "text": "said",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Look",
             "strong": "H2009"
@@ -1222,7 +1169,7 @@
             "text": ". . .",
             "strong": "H5869"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1238,7 +1185,7 @@
             "text": "to Sarah",
             "strong": "H8283"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "See",
             "strong": "H2009"
@@ -1310,7 +1257,7 @@
             "text": "cleared",
             "strong": "H3198"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1343,11 +1290,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "healed",
             "strong": "H7495"
           },
@@ -1355,11 +1297,6 @@
           {
             "text": "Abimelech",
             "strong": "H40"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -1376,7 +1313,7 @@
             "text": "so that they could again bear children",
             "strong": "H3205"
           },
-          " \u2014"
+          " —"
         ]
       },
       {
@@ -1399,7 +1336,7 @@
           },
           " ",
           {
-            "text": "of Abraham\u2019s",
+            "text": "of Abraham’s",
             "strong": "H85"
           },
           " ",
@@ -1442,7 +1379,7 @@
           },
           " ",
           {
-            "text": "in Abimelech\u2019s",
+            "text": "in Abimelech’s",
             "strong": "H40"
           },
           " ",

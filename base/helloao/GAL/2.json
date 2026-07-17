@@ -90,11 +90,6 @@
         "number": 2,
         "content": [
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "I went",
             "strong": "G305"
           },
@@ -302,11 +297,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3748"
-          },
-          " ",
-          {
             "text": "had come in",
             "strong": "G3922"
           },
@@ -327,23 +317,8 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "freedom",
             "strong": "G1657"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3739"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2192"
           },
           " ",
           {
@@ -488,7 +463,7 @@
             "text": ". . .",
             "strong": "G5100"
           },
-          "\u2014 ",
+          "— ",
           {
             "text": "whatever",
             "strong": "G3697"
@@ -544,12 +519,7 @@
             "text": ". . .",
             "strong": "G444"
           },
-          "\u2014 ",
-          {
-            "text": "-",
-            "strong": "G1063"
-          },
-          " ",
+          "— ",
           {
             "text": "those",
             "strong": "G3588"
@@ -668,7 +638,7 @@
           },
           " ",
           {
-            "text": "in Peter\u2019s",
+            "text": "in Peter’s",
             "strong": "G4074"
           },
           {
@@ -765,11 +735,6 @@
             "text": "James",
             "strong": "G2385"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
           ", ",
           {
             "text": "Cephas",
@@ -785,7 +750,7 @@
             "text": "John",
             "strong": "G2491"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "those",
             "strong": "G3588"
@@ -805,7 +770,7 @@
             "text": "pillars",
             "strong": "G4769"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "gave",
             "strong": "G1325"
@@ -928,16 +893,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3739"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "I was eager",
             "strong": "G4704"
           },
@@ -1040,11 +995,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "came",
             "strong": "G2064"
           },
@@ -1141,11 +1091,6 @@
         "number": 13,
         "content": [
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "The",
             "strong": "G3588"
           },
@@ -1216,11 +1161,6 @@
         "number": 14,
         "content": [
           {
-            "text": "-",
-            "strong": "G235"
-          },
-          " ",
-          {
             "text": "When",
             "strong": "G3753"
           },
@@ -1276,11 +1216,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "to Cephas",
             "strong": "G2786"
           },
@@ -1294,7 +1229,7 @@
             "text": "[them] all",
             "strong": "G3956"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "If",
             "strong": "G1487"
@@ -1364,7 +1299,7 @@
             "text": "to live like Jews",
             "strong": "G2450"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
@@ -1405,23 +1340,18 @@
             "text": "Gentile",
             "strong": "G1484"
           },
-          " \u201c",
+          " “",
           {
             "text": "sinners",
             "strong": "G268"
           },
-          "\u201d"
+          "”"
         ]
       },
       {
         "type": "verse",
         "number": 16,
         "content": [
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
           {
             "text": "know",
             "strong": "G1492"
@@ -1700,11 +1630,6 @@
         "number": 18,
         "content": [
           {
-            "text": "-",
-            "strong": "G1063"
-          },
-          " ",
-          {
             "text": "If",
             "strong": "G1487"
           },
@@ -1721,11 +1646,6 @@
           {
             "text": "what",
             "strong": "G3778"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3739"
           },
           " ",
           {
@@ -1861,11 +1781,6 @@
           },
           ". ",
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "The [life]",
             "strong": "G3739"
           },
@@ -1906,11 +1821,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "in the",
             "strong": "G3588"
           },
@@ -1918,11 +1828,6 @@
           {
             "text": "Son",
             "strong": "G5207"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1993,11 +1898,6 @@
           {
             "text": "grace",
             "strong": "G5485"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {

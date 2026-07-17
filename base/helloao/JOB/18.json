@@ -43,7 +43,7 @@
         "type": "verse",
         "number": 2,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "How long",
             "strong": "H575"
@@ -134,7 +134,7 @@
             "text": "in anger",
             "strong": "H639"
           },
-          "\u2014 ",
+          "— ",
           {
             "text": "should the earth",
             "strong": "H776"
@@ -714,11 +714,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H3808"
-          },
-          " ",
-          {
             "text": "or posterity",
             "strong": "H5220"
           },
@@ -833,7 +828,7 @@
             "text": "God",
             "strong": "H410"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],

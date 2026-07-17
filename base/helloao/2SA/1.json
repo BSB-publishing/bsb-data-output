@@ -19,11 +19,6 @@
         "number": 1,
         "content": [
           {
-            "text": "-",
-            "strong": "H1961"
-          },
-          " ",
-          {
             "text": "After",
             "strong": "H310"
           },
@@ -94,11 +89,6 @@
         "number": 2,
         "content": [
           {
-            "text": "-",
-            "strong": "H1961"
-          },
-          " ",
-          {
             "text": "On the third",
             "strong": "H7992"
           },
@@ -143,11 +133,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H1961"
-          },
-          " ",
-          {
             "text": "arrived",
             "strong": "H935"
           },
@@ -158,7 +143,7 @@
           },
           " ",
           {
-            "text": "Saul\u2019s",
+            "text": "Saul’s",
             "strong": "H7586"
           },
           " ",
@@ -208,7 +193,7 @@
         "type": "verse",
         "number": 3,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Where",
             "strong": "H335"
@@ -222,7 +207,7 @@
             "text": "have you come from",
             "strong": "H935"
           },
-          "?\u201d ",
+          "?” ",
           {
             "text": "David",
             "strong": "H1732"
@@ -232,7 +217,7 @@
             "text": "asked",
             "strong": "H559"
           },
-          ".\u201c",
+          ".“",
           {
             "text": "I have escaped",
             "strong": "H4422"
@@ -247,15 +232,10 @@
             "text": "camp",
             "strong": "H4264"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "he replied",
             "strong": "H559"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H413"
           },
           "."
         ]
@@ -264,7 +244,7 @@
         "type": "verse",
         "number": 4,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "What",
             "strong": "H4100"
@@ -278,7 +258,7 @@
             "text": ". . .",
             "strong": "H1697"
           },
-          "?\u201d ",
+          "?” ",
           {
             "text": "David",
             "strong": "H1732"
@@ -293,7 +273,7 @@
             "text": ". . .",
             "strong": "H413"
           },
-          " \u201c",
+          " “",
           {
             "text": "Please",
             "strong": "H4994"
@@ -303,7 +283,7 @@
             "text": "tell",
             "strong": "H5046"
           },
-          " me.\u201d\u201c",
+          " me.”“",
           {
             "text": "The troops",
             "strong": "H5971"
@@ -323,22 +303,13 @@
             "text": "the battle",
             "strong": "H4421"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "he replied",
             "strong": "H559"
           },
           ". ",
-          {
-            "text": "-",
-            "strong": "H834"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H1571"
-          },
-          " \u201c",
+          " “",
           {
             "text": "Many",
             "strong": "H7235"
@@ -388,7 +359,7 @@
             "text": "are also dead",
             "strong": "H4191"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -418,7 +389,7 @@
             "text": "who had brought him the report",
             "strong": "H5046"
           },
-          " . . ., \u201c",
+          " . . ., “",
           {
             "text": "How",
             "strong": "H349"
@@ -453,14 +424,14 @@
             "text": "are dead",
             "strong": "H4191"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
         "type": "verse",
         "number": 6,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "I happened",
             "strong": "H7122"
@@ -479,22 +450,17 @@
             "text": "Gilboa",
             "strong": "H1533"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "[he]",
             "strong": "H5288"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H5046"
           },
           " - ",
           {
             "text": "replied",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "and there",
             "strong": "H2009"
@@ -578,19 +544,19 @@
             "text": "and I answered",
             "strong": "H559"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "Here I am",
             "strong": "H2005"
           },
-          "!\u2019"
+          "!’"
         ]
       },
       {
         "type": "verse",
         "number": 8,
         "content": [
-          "\u2018",
+          "‘",
           {
             "text": "Who",
             "strong": "H4310"
@@ -600,7 +566,7 @@
             "text": "are you",
             "strong": "H859"
           },
-          "?\u2019 ",
+          "?’ ",
           {
             "text": "he asked",
             "strong": "H559"
@@ -615,7 +581,7 @@
             "text": "him",
             "strong": "H413"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "I am",
             "strong": "H595"
@@ -625,7 +591,7 @@
             "text": "an Amalekite",
             "strong": "H6003"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -641,7 +607,7 @@
             "text": ". . .",
             "strong": "H413"
           },
-          " \u2018",
+          " ‘",
           {
             "text": "Stand",
             "strong": "H5975"
@@ -695,7 +661,7 @@
             "text": "lingers",
             "strong": "H5750"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -816,7 +782,7 @@
             "text": "my lord",
             "strong": "H113"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -997,7 +963,7 @@
             "text": "who had brought him the report",
             "strong": "H5046"
           },
-          " . . ., \u201c",
+          " . . ., “",
           {
             "text": "Where",
             "strong": "H335"
@@ -1011,7 +977,7 @@
             "text": "are you from",
             "strong": "H859"
           },
-          "?\u201d\u201c",
+          "?”“",
           {
             "text": "I am the son",
             "strong": "H1121"
@@ -1025,12 +991,12 @@
             "text": "of a foreigner",
             "strong": "H1616"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "he answered",
             "strong": "H559"
           },
-          ". \u201c",
+          ". “",
           {
             "text": "I am",
             "strong": "H595"
@@ -1040,7 +1006,7 @@
             "text": "an Amalekite",
             "strong": "H6003"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1061,7 +1027,7 @@
             "text": "him",
             "strong": "H413"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Why",
             "strong": "H349"
@@ -1093,12 +1059,7 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
-            "text": "the LORD\u2019s",
+            "text": "the LORD’s",
             "strong": "H3068"
           },
           " ",
@@ -1106,7 +1067,7 @@
             "text": "anointed",
             "strong": "H4899"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
@@ -1137,7 +1098,7 @@
             "text": "and said",
             "strong": "H559"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Go",
             "strong": "H5066"
@@ -1147,7 +1108,7 @@
             "text": "execute",
             "strong": "H6293"
           },
-          " him!\u201d ",
+          " him!” ",
           {
             "text": "So [the young man] struck him down",
             "strong": "H5221"
@@ -1178,7 +1139,7 @@
             "text": "to the Amalekite",
             "strong": "H413"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Your blood",
             "strong": "H1818"
@@ -1213,7 +1174,7 @@
             "text": "saying",
             "strong": "H559"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "I",
             "strong": "H595"
@@ -1225,12 +1186,7 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
-            "text": "the LORD\u2019s",
+            "text": "the LORD’s",
             "strong": "H3068"
           },
           " ",
@@ -1238,7 +1194,7 @@
             "text": "anointed",
             "strong": "H4899"
           },
-          ".\u2019\u201d"
+          ".’”"
         ]
       },
       {
@@ -1253,11 +1209,6 @@
           {
             "text": "took up",
             "strong": "H6969"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -1356,7 +1307,7 @@
         "type": "verse",
         "number": 19,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Your glory",
             "strong": "H6643"
@@ -1936,7 +1887,7 @@
             "text": "have perished",
             "strong": "H6"
           },
-          "!\u201d"
+          "!”"
         ]
       }
     ],

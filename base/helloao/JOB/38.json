@@ -58,7 +58,7 @@
         "type": "verse",
         "number": 2,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Who",
             "strong": "H4310"
@@ -237,11 +237,6 @@
         "type": "verse",
         "number": 6,
         "content": [
-          {
-            "text": "-",
-            "strong": "H5921"
-          },
-          " ",
           {
             "text": "On what",
             "strong": "H4100"
@@ -439,7 +434,7 @@
             "text": "and I declared",
             "strong": "H559"
           },
-          ": \u2018",
+          ": ‘",
           {
             "text": "You may come",
             "strong": "H935"
@@ -483,7 +478,7 @@
             "text": "must stop",
             "strong": "H7896"
           },
-          "\u2019?"
+          "’?"
         ]
       },
       {
@@ -1449,12 +1444,12 @@
             "text": "Do they report",
             "strong": "H559"
           },
-          " to you, \u2018",
+          " to you, ‘",
           {
             "text": "Here we are",
             "strong": "H2005"
           },
-          "\u2019?"
+          "’?"
         ]
       },
       {
@@ -1722,7 +1717,7 @@
             "text": "food",
             "strong": "H400"
           },
-          "?[\u2019\u2019]"
+          "?[’’]"
         ]
       }
     ],

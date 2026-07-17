@@ -34,11 +34,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "opened",
             "strong": "H6605"
           },
@@ -51,11 +46,6 @@
           {
             "text": "and cursed",
             "strong": "H7043"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H853"
           },
           " ",
           {
@@ -90,7 +80,7 @@
         "type": "verse",
         "number": 3,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "May the day",
             "strong": "H3117"
@@ -115,7 +105,7 @@
             "text": "it was said",
             "strong": "H559"
           },
-          ",\u2018",
+          ",‘",
           {
             "text": "A boy",
             "strong": "H1397"
@@ -125,7 +115,7 @@
             "text": "is conceived",
             "strong": "H2029"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -374,7 +364,7 @@
             "text": "the day",
             "strong": "H3117"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "those prepared",
             "strong": "H6264"
@@ -1151,7 +1141,7 @@
             "text": "has come",
             "strong": "H935"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],

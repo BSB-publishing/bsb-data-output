@@ -18,7 +18,7 @@
         "type": "verse",
         "number": 1,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Can you pull in",
             "strong": "H4900"
@@ -871,11 +871,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H5921"
-          },
-          " ",
-          {
             "text": "and immovable",
             "strong": "H1077"
           },
@@ -1251,7 +1246,7 @@
             "text": "is his equal",
             "strong": "H4915"
           },
-          "\u2014 ",
+          "— ",
           {
             "text": "a creature",
             "strong": "H6213"
@@ -1304,11 +1299,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H853"
-          },
-          " ",
-          {
             "text": "all",
             "strong": "H3605"
           },
@@ -1321,7 +1311,7 @@
             "text": "the proud",
             "strong": "H7830"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],

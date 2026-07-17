@@ -38,7 +38,7 @@
         "type": "verse",
         "number": 2,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Truly",
             "strong": "H551"
@@ -258,15 +258,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "H834"
-          },
-          " ",
-          {
             "text": "are secure",
             "strong": "H987"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "those who carry",
             "strong": "H935"
@@ -430,11 +425,6 @@
         "type": "verse",
         "number": 10,
         "content": [
-          {
-            "text": "-",
-            "strong": "H834"
-          },
-          " ",
           {
             "text": "The life",
             "strong": "H5315"
@@ -962,7 +952,7 @@
           },
           " ",
           {
-            "text": "the earth\u2019s",
+            "text": "the earth’s",
             "strong": "H776"
           },
           " ",
@@ -1034,7 +1024,7 @@
             "text": "like drunkards",
             "strong": "H7910"
           },
-          ".[\u2019\u2019]"
+          ".[’’]"
         ]
       }
     ],

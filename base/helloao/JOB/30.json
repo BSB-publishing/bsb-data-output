@@ -18,7 +18,7 @@
         "type": "verse",
         "number": 1,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "But now",
             "strong": "H6258"
@@ -89,11 +89,6 @@
         "type": "verse",
         "number": 2,
         "content": [
-          {
-            "text": "-",
-            "strong": "H1571"
-          },
-          " ",
           {
             "text": "What use",
             "strong": "H4100"
@@ -1014,11 +1009,6 @@
         "number": 25,
         "content": [
           {
-            "text": "-",
-            "strong": "H518"
-          },
-          " ",
-          {
             "text": "Have I not",
             "strong": "H3808"
           },
@@ -1296,7 +1286,7 @@
             "text": "of weeping",
             "strong": "H1058"
           },
-          ".[\u2019\u2019]"
+          ".[’’]"
         ]
       }
     ],

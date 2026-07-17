@@ -18,7 +18,7 @@
         "type": "verse",
         "number": 1,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Call out",
             "strong": "H7121"
@@ -191,11 +191,6 @@
           {
             "text": "The hungry",
             "strong": "H7457"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "H834"
           },
           " ",
           {
@@ -383,7 +378,7 @@
             "text": "Him",
             "strong": "H430"
           },
-          "\u2014"
+          "—"
         ]
       },
       {
@@ -1178,7 +1173,7 @@
             "text": "know",
             "strong": "H3045"
           },
-          " for yourself.\u201d"
+          " for yourself.”"
         ]
       }
     ],

@@ -18,7 +18,7 @@
         "type": "verse",
         "number": 1,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "My spirit",
             "strong": "H7307"
@@ -134,11 +134,6 @@
         "type": "verse",
         "number": 4,
         "content": [
-          {
-            "text": "-",
-            "strong": "H3588"
-          },
-          " ",
           {
             "text": "You have closed",
             "strong": "H6845"
@@ -437,7 +432,7 @@
             "text": "are broken off",
             "strong": "H5423"
           },
-          " \u2014 ",
+          " — ",
           {
             "text": "even the desires",
             "strong": "H4180"
@@ -545,7 +540,7 @@
             "text": "to corruption",
             "strong": "H7845"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "You [are]",
             "strong": "H859"
@@ -555,22 +550,22 @@
             "text": "my father",
             "strong": "H1"
           },
-          ",\u2019 ",
+          ",’ ",
           {
             "text": "and to the worm",
             "strong": "H7415"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "My mother",
             "strong": "H517"
           },
-          ",\u2019 ",
+          ",’ ",
           {
-            "text": "or \u2018My sister",
+            "text": "or ‘My sister",
             "strong": "H269"
           },
-          ",\u2019"
+          ",’"
         ]
       },
       {
@@ -627,11 +622,7 @@
             "text": "of Sheol",
             "strong": "H7585"
           },
-          "? ",
-          {
-            "text": "-",
-            "strong": "H518"
-          },
+          "?",
           " ",
           {
             "text": "Will we go down",
@@ -652,7 +643,7 @@
             "text": "the dust",
             "strong": "H6083"
           },
-          "?\u201d"
+          "?”"
         ]
       }
     ],

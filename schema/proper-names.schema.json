@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsb-data/schema/proper-names.schema.json",
+  "title": "BSB Proper Name Entry",
+  "description": "Disambiguated proper name (person, place, or other) from STEPBible TIPNR",
+  "type": "object",
+  "required": [
+    "id",
+    "uniqueName",
+    "type"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier derived from uniqueName",
+      "examples": [
+        "Aaron_Exo_4_14",
+        "Cyprus_Num_24_24"
+      ]
+    },
+    "uniqueName": {
+      "type": "string",
+      "description": "TIPNR unique name with defining reference",
+      "examples": [
+        "Aaron@Exo.4.14"
+      ]
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "person",
+        "place",
+        "other"
+      ],
+      "description": "Category of proper name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description"
+    },
+    "placename": {
+      "type": "string",
+      "description": "Place name (places only)"
+    },
+    "coordinates": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "lon": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        }
+      },
+      "required": [
+        "lat",
+        "lon"
+      ]
+    },
+    "relations": {
+      "type": "object",
+      "description": "Family relationships (people only)",
+      "properties": {
+        "father": {
+          "type": "string"
+        },
+        "mother": {
+          "type": "string"
+        },
+        "siblings": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "partners": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "offspring": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "names": {
+      "type": "array",
+      "description": "Name forms with translations and Strong's numbers",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ESV_translation": {
+            "type": "string"
+          },
+          "NIV_translation": {
+            "type": "string"
+          },
+          "KJV_translation": {
+            "type": "string"
+          },
+          "strongs": {
+            "type": "string"
+          },
+          "hebrew_greek": {
+            "type": "string"
+          },
+          "verses": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Z0-9]{3}\\.\\d+\\.\\d+$"
+            }
+          }
+        }
+      }
+    },
+    "verses": {
+      "type": "array",
+      "description": "All verse references (deduplicated across name forms)",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z0-9]{3}\\.\\d+\\.\\d+$"
+      }
+    }
+  },
+  "additionalProperties": true
+}

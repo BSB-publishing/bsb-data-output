@@ -19,11 +19,6 @@
         "number": 1,
         "content": [
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "After",
             "strong": "G3326"
           },
@@ -41,11 +36,6 @@
           {
             "text": "Lord",
             "strong": "G2962"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2532"
           },
           " ",
           {
@@ -178,11 +168,7 @@
             "strong": "G846"
           },
           ", ",
-          {
-            "text": "- ",
-            "strong": "G3303"
-          },
-          "\u201c",
+          "“",
           {
             "text": "The",
             "strong": "G3588"
@@ -271,11 +257,6 @@
           {
             "text": "His",
             "strong": "G846"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -374,11 +355,6 @@
           },
           ". ",
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "Do not greet",
             "strong": "G782"
           },
@@ -409,11 +385,6 @@
         "type": "verse",
         "number": 5,
         "content": [
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
           {
             "text": "Whatever",
             "strong": "G3739"
@@ -446,7 +417,7 @@
             "text": "by saying",
             "strong": "G3004"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "Peace",
             "strong": "G1515"
@@ -458,26 +429,16 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "house",
             "strong": "G3624"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
         "type": "verse",
         "number": 6,
         "content": [
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
           {
             "text": "If",
             "strong": "G1437"
@@ -509,11 +470,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "peace",
             "strong": "G1515"
           },
@@ -533,11 +489,6 @@
             "strong": "G846"
           },
           "; ",
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
           {
             "text": "if",
             "strong": "G1487"
@@ -570,11 +521,6 @@
         "number": 7,
         "content": [
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "Stay",
             "strong": "G3306"
           },
@@ -582,11 +528,6 @@
           {
             "text": "at",
             "strong": "G1722"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -699,11 +640,6 @@
         "number": 8,
         "content": [
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "If you enter",
             "strong": "G1525"
           },
@@ -715,11 +651,6 @@
           {
             "text": "a",
             "strong": "G3739"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G302"
           },
           " ",
           {
@@ -769,11 +700,6 @@
         "number": 9,
         "content": [
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "Heal",
             "strong": "G2323"
           },
@@ -812,7 +738,7 @@
             "text": "them",
             "strong": "G846"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "The",
             "strong": "G3588"
@@ -821,11 +747,6 @@
           {
             "text": "kingdom",
             "strong": "G932"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -839,15 +760,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G1909"
-          },
-          " ",
-          {
             "text": "you",
             "strong": "G4771"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -913,11 +829,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G846"
-          },
-          " ",
-          {
             "text": "the",
             "strong": "G3588"
           },
@@ -938,7 +849,7 @@
         "type": "verse",
         "number": 11,
         "content": [
-          "\u2018",
+          "‘",
           {
             "text": "Even",
             "strong": "G2532"
@@ -965,11 +876,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "town",
             "strong": "G4172"
           },
@@ -992,11 +898,6 @@
           {
             "text": "our",
             "strong": "G1473"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1028,11 +929,6 @@
             "text": "of this",
             "strong": "G3778"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3754"
-          },
           ": ",
           {
             "text": "The",
@@ -1045,11 +941,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "of God",
             "strong": "G2316"
           },
@@ -1058,7 +949,7 @@
             "text": "is near",
             "strong": "G1448"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -1073,11 +964,6 @@
           {
             "text": "you",
             "strong": "G4771"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3754"
           },
           ", ",
           {
@@ -1101,11 +987,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "day",
             "strong": "G2250"
           },
@@ -1123,11 +1004,6 @@
           {
             "text": "for that",
             "strong": "G1565"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1246,11 +1122,6 @@
             "strong": "G3819"
           },
           ", ",
-          {
-            "text": "-",
-            "strong": "G302"
-          },
-          " ",
           {
             "text": "sitting",
             "strong": "G2521"
@@ -1389,11 +1260,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "Hades",
             "strong": "G86"
           },
@@ -1429,11 +1295,6 @@
             "strong": "G1473"
           },
           "; ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
           {
             "text": "whoever",
             "strong": "G3588"
@@ -1498,18 +1359,13 @@
             "text": "Me",
             "strong": "G1473"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
         "type": "verse",
         "number": 17,
         "content": [
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
           {
             "text": "The",
             "strong": "G3588"
@@ -1543,7 +1399,7 @@
             "text": "[and] said",
             "strong": "G3004"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Lord",
             "strong": "G2962"
@@ -1585,15 +1441,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "name",
             "strong": "G3686"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1614,15 +1465,10 @@
             "text": "them",
             "strong": "G846"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "I saw",
             "strong": "G2334"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1648,11 +1494,6 @@
           {
             "text": "from",
             "strong": "G1537"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1682,18 +1523,8 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "authority",
             "strong": "G1849"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1757,11 +1588,6 @@
           },
           ". ",
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "Nothing",
             "strong": "G3762"
           },
@@ -1796,7 +1622,7 @@
           },
           ", ",
           {
-            "text": "{do] not",
+            "text": "{do} not",
             "strong": "G3361"
           },
           " ",
@@ -1861,11 +1687,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "names",
             "strong": "G3686"
           },
@@ -1881,15 +1702,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "heaven",
             "strong": "G3772"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -1904,11 +1720,6 @@
           {
             "text": "that",
             "strong": "G846"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -1932,11 +1743,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "Holy",
             "strong": "G40"
           },
@@ -1955,7 +1761,7 @@
             "text": "declared",
             "strong": "G2036"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "I praise",
             "strong": "G1843"
@@ -1977,11 +1783,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "of heaven",
             "strong": "G3772"
           },
@@ -1989,11 +1790,6 @@
           {
             "text": "and",
             "strong": "G2532"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2062,11 +1858,6 @@
           },
           ", ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "Father",
             "strong": "G3962"
           },
@@ -2132,20 +1923,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "Father",
             "strong": "G3962"
           },
           ". ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
           {
             "text": "No one",
             "strong": "G3762"
@@ -2250,11 +2031,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G1437"
-          },
-          " ",
-          {
             "text": "the",
             "strong": "G3588"
           },
@@ -2273,7 +2049,7 @@
             "text": "to reveal [Him]",
             "strong": "G601"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -2319,7 +2095,7 @@
             "text": "privately",
             "strong": "G2398"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Blessed [are]",
             "strong": "G3107"
@@ -2475,7 +2251,7 @@
             "text": "did not hear [it]",
             "strong": "G191"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -2515,17 +2291,17 @@
             "text": "Him",
             "strong": "G846"
           },
-          ". \u201c",
+          ". “",
           {
             "text": "Teacher",
             "strong": "G1320"
           },
-          ",\u201d ",
+          ",” ",
           {
             "text": "he asked",
             "strong": "G3004"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "what",
             "strong": "G5101"
@@ -2550,14 +2326,14 @@
             "text": "life",
             "strong": "G2222"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
         "type": "verse",
         "number": 26,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "What",
             "strong": "G5101"
@@ -2582,32 +2358,13 @@
             "text": "Law",
             "strong": "G3551"
           },
-          "?\u201d ",
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
-          },
+          "?”",
           " ",
           {
             "text": "[Jesus] replied",
             "strong": "G2036"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "G4314"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G846"
-          },
-          ". \u201c",
+          ". “",
           {
             "text": "How",
             "strong": "G4459"
@@ -2617,23 +2374,13 @@
             "text": "do you read [it]",
             "strong": "G314"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
         "type": "verse",
         "number": 27,
         "content": [
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
           {
             "text": "vvv",
             "strong": "G611"
@@ -2643,7 +2390,7 @@
             "text": "He answered",
             "strong": "G2036"
           },
-          ", \u201c\u2018",
+          ", “‘",
           {
             "text": "Love",
             "strong": "G25"
@@ -2657,11 +2404,6 @@
           {
             "text": "your",
             "strong": "G4771"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2682,11 +2424,6 @@
           {
             "text": "your",
             "strong": "G4771"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2715,11 +2452,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "soul",
             "strong": "G5590"
           },
@@ -2742,11 +2474,6 @@
           {
             "text": "your",
             "strong": "G4771"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2775,28 +2502,18 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "mind",
             "strong": "G1271"
           },
-          "\u2019 ",
+          "’ ",
           {
             "text": "and",
             "strong": "G2532"
           },
-          " \u2018",
+          " ‘",
           {
             "text": "[Love] your",
             "strong": "G4771"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2813,14 +2530,14 @@
             "text": "yourself",
             "strong": "G4572"
           },
-          ".\u2019\u201d"
+          ".’”"
         ]
       },
       {
         "type": "verse",
         "number": 28,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "You have answered",
             "strong": "G611"
@@ -2830,11 +2547,7 @@
             "text": "correctly",
             "strong": "G3723"
           },
-          ",\u201d ",
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
+          ",”",
           " ",
           {
             "text": "[Jesus] said",
@@ -2844,7 +2557,7 @@
             "text": ". . .",
             "strong": "G846"
           },
-          ". \u201c",
+          ". “",
           {
             "text": "Do",
             "strong": "G4160"
@@ -2864,7 +2577,7 @@
             "text": "you will live",
             "strong": "G2198"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -2874,11 +2587,6 @@
           {
             "text": "But",
             "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -2902,20 +2610,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G4314"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "Jesus",
             "strong": "G2424"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "And",
             "strong": "G2532"
@@ -2940,18 +2638,13 @@
             "text": "neighbor",
             "strong": "G4139"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
         "type": "verse",
         "number": 30,
         "content": [
-          {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
           {
             "text": "Jesus",
             "strong": "G2424"
@@ -2971,7 +2664,7 @@
             "text": "said",
             "strong": "G2036"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "A",
             "strong": "G5100"
@@ -3028,20 +2721,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "stripped [him]",
             "strong": "G1562"
           },
           ", ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
           {
             "text": "beat",
             "strong": "G2007"
@@ -3117,11 +2800,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "road",
             "strong": "G3598"
           },
@@ -3153,11 +2831,6 @@
         "number": 32,
         "content": [
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "So too",
             "strong": "G3668"
           },
@@ -3165,11 +2838,6 @@
           {
             "text": "[when] a Levite",
             "strong": "G3019"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2532"
           },
           " ",
           {
@@ -3275,11 +2943,6 @@
         "number": 34,
         "content": [
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "He went to [him]",
             "strong": "G4334"
           },
@@ -3292,11 +2955,6 @@
           {
             "text": "his",
             "strong": "G846"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3350,11 +3008,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "animal",
             "strong": "G2934"
           },
@@ -3401,16 +3054,6 @@
         "number": 35,
         "content": [
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G1909"
-          },
-          " ",
-          {
             "text": "The",
             "strong": "G3588"
           },
@@ -3449,7 +3092,7 @@
             "text": "innkeeper",
             "strong": "G3830"
           },
-          ". \u2018",
+          ". ‘",
           {
             "text": "Take care",
             "strong": "G1959"
@@ -3459,17 +3102,12 @@
             "text": "of him",
             "strong": "G846"
           },
-          ",\u2019 ",
-          {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
+          ",’ ",
           {
             "text": "he said",
             "strong": "G2036"
           },
-          ", \u2018",
+          ", ‘",
           {
             "text": "and",
             "strong": "G2532"
@@ -3483,11 +3121,6 @@
           {
             "text": "my",
             "strong": "G1473"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3527,7 +3160,7 @@
             "text": "expense",
             "strong": "G4325"
           },
-          ".\u2019"
+          ".’"
         ]
       },
       {
@@ -3542,11 +3175,6 @@
           {
             "text": "of these",
             "strong": "G3778"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3590,22 +3218,17 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "robbers",
             "strong": "G3027"
           },
-          "?\u201d"
+          "?”"
         ]
       },
       {
         "type": "verse",
         "number": 37,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "The [one]",
             "strong": "G3588"
@@ -3626,25 +3249,10 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "mercy",
             "strong": "G1656"
           },
-          ",\u201d ",
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
+          ",” ",
           {
             "text": "replied [the expert in the law]",
             "strong": "G2036"
@@ -3653,11 +3261,6 @@
           {
             "text": "Then",
             "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3674,7 +3277,7 @@
             "text": "him",
             "strong": "G846"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Go",
             "strong": "G4198"
@@ -3686,11 +3289,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G4771"
-          },
-          " ",
-          {
             "text": "do",
             "strong": "G4160"
           },
@@ -3699,7 +3297,7 @@
             "text": "likewise",
             "strong": "G3668"
           },
-          ".\u201d"
+          ".”"
         ]
       },
       {
@@ -3718,11 +3316,6 @@
           {
             "text": "they",
             "strong": "G846"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3816,11 +3409,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "had",
             "strong": "G1510"
           },
@@ -3846,11 +3434,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G2532"
-          },
-          " ",
-          {
             "text": "sat",
             "strong": "G3869"
           },
@@ -3871,7 +3454,7 @@
           },
           " ",
           {
-            "text": "Lord\u2019s",
+            "text": "Lord’s",
             "strong": "G2962"
           },
           " ",
@@ -3891,11 +3474,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "message",
             "strong": "G3056"
           },
@@ -3909,11 +3487,6 @@
           {
             "text": "But",
             "strong": "G1161"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G3588"
           },
           " ",
           {
@@ -3941,11 +3514,6 @@
           },
           ". ",
           {
-            "text": "-",
-            "strong": "G1161"
-          },
-          " ",
-          {
             "text": "She came to [Jesus]",
             "strong": "G2186"
           },
@@ -3954,7 +3522,7 @@
             "text": "[and] said",
             "strong": "G2036"
           },
-          ", \u201c",
+          ", “",
           {
             "text": "Lord",
             "strong": "G2962"
@@ -3985,11 +3553,6 @@
           },
           " ",
           {
-            "text": "-",
-            "strong": "G3588"
-          },
-          " ",
-          {
             "text": "sister",
             "strong": "G79"
           },
@@ -4015,11 +3578,6 @@
           },
           "? ",
           {
-            "text": "-",
-            "strong": "G3767"
-          },
-          " ",
-          {
             "text": "Tell",
             "strong": "G2036"
           },
@@ -4043,14 +3601,14 @@
             "text": "me",
             "strong": "G1473"
           },
-          "!\u201d"
+          "!”"
         ]
       },
       {
         "type": "verse",
         "number": 41,
         "content": [
-          "\u201c",
+          "“",
           {
             "text": "Martha",
             "strong": "G3136"
@@ -4060,11 +3618,7 @@
             "text": "Martha",
             "strong": "G3136"
           },
-          ",\u201d ",
-          {
-            "text": "-",
-            "strong": "G1161"
-          },
+          ",”",
           " ",
           {
             "text": "the",
@@ -4080,17 +3634,7 @@
             "text": "replied",
             "strong": "G611"
           },
-          " ",
-          {
-            "text": "-",
-            "strong": "G2036"
-          },
-          " ",
-          {
-            "text": "-",
-            "strong": "G846"
-          },
-          ", \u201c",
+          ", “",
           {
             "text": "you are worried",
             "strong": "G3309"
@@ -4153,11 +3697,6 @@
           },
           ". ",
           {
-            "text": "-",
-            "strong": "G1063"
-          },
-          " ",
-          {
             "text": "Mary",
             "strong": "G3137"
           },
@@ -4201,7 +3740,7 @@
             "text": "her",
             "strong": "G846"
           },
-          ".\u201d"
+          ".”"
         ]
       }
     ],
