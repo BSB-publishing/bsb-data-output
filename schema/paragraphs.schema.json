@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bsb-data/schema/paragraphs.schema.json",
+  "title": "BSB Paragraph Break",
+  "description": "A paragraph/poetry/list style break with a verse anchor, so consumers can reconstruct BSB's original paragraph and stanza layout on top of the flat per-verse display/index output. Headings (s1/s2/r/d/...) are in headings.jsonl instead.",
+  "type": "object",
+  "required": [
+    "id",
+    "b",
+    "c",
+    "before_v",
+    "marker"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique break ID",
+      "pattern": "^[A-Z0-9]{3}\\.[a-z0-9]+\\.\\d+$",
+      "examples": [
+        "GEN.p.1",
+        "GEN.q1.3",
+        "GEN.b.1"
+      ]
+    },
+    "b": {
+      "type": "string",
+      "description": "Book code (3-letter identifier)",
+      "pattern": "^[A-Z0-9]{3}$"
+    },
+    "c": {
+      "type": "integer",
+      "description": "Chapter number",
+      "minimum": 1
+    },
+    "before_v": {
+      "type": "integer",
+      "description": "Verse number that follows this break",
+      "minimum": 1
+    },
+    "marker": {
+      "type": "string",
+      "description": "USJ paragraph/poetry/list style marker",
+      "enum": [
+        "p",
+        "pmo",
+        "m",
+        "mi",
+        "nb",
+        "b",
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "qr",
+        "qa",
+        "qc",
+        "li1",
+        "li2",
+        "li3",
+        "li4",
+        "pc"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

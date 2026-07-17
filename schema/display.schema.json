@@ -14,7 +14,7 @@
       "patternProperties": {
         "^\\d+$": {
           "type": "array",
-          "description": "Word entries: [text, strongs|null] normally, or [text, strongs, {\"elided\": true}] for an elided word (text is always \"\")",
+          "description": "Word entries: [text, strongs|null] normally, or a third metadata object for {\"elided\": true[, \"reason\"]}, {\"supplied\": true}, or {\"defect\": true}",
           "items": {
             "type": "array",
             "minItems": 2,
@@ -22,7 +22,7 @@
             "items": [
               {
                 "type": "string",
-                "description": "Text content; always \"\" when the third element marks the entry as elided"
+                "description": "Text content; always \"\" when flagged \"elided\""
               },
               {
                 "type": [
@@ -34,16 +34,51 @@
               },
               {
                 "type": "object",
-                "description": "Present only for elided (zero-surface-form) words",
-                "required": [
-                  "elided"
-                ],
-                "properties": {
-                  "elided": {
-                    "const": true
+                "description": "Present only when this word entry has metadata",
+                "oneOf": [
+                  {
+                    "required": [
+                      "elided"
+                    ],
+                    "properties": {
+                      "elided": {
+                        "const": true
+                      },
+                      "reason": {
+                        "type": "string",
+                        "enum": [
+                          "ellipsis",
+                          "defect"
+                        ],
+                        "description": "Omitted for plain grammatical elision (e.g. Hebrew's direct-object marker); 'ellipsis' for a discontinuous/repeated original-language word; 'defect' for a known upstream data-quality placeholder"
+                      }
+                    },
+                    "additionalProperties": false
+                  },
+                  {
+                    "required": [
+                      "supplied"
+                    ],
+                    "properties": {
+                      "supplied": {
+                        "const": true
+                      }
+                    },
+                    "additionalProperties": false
+                  },
+                  {
+                    "required": [
+                      "defect"
+                    ],
+                    "properties": {
+                      "defect": {
+                        "const": true,
+                        "description": "A known upstream data-quality placeholder token was removed from this entry, but real text remains (unlike the elided+defect case, where the token was the entry's only content)"
+                      }
+                    },
+                    "additionalProperties": false
                   }
-                },
-                "additionalProperties": false
+                ]
               }
             ]
           }
@@ -110,6 +145,47 @@
         }
       },
       "additionalProperties": false
+    },
+    "structure": {
+      "type": "object",
+      "description": "Verse number mapped to section headings and paragraph/poetry/list breaks that occur immediately before that verse (BSB only - not present in the MSB edition tree). Most verses aren't keys here since they continue the current paragraph.",
+      "patternProperties": {
+        "^\\d+$": {
+          "type": "object",
+          "properties": {
+            "headings": {
+              "type": "array",
+              "description": "Section headings/references, in document order",
+              "items": {
+                "type": "object",
+                "required": [
+                  "level",
+                  "text"
+                ],
+                "properties": {
+                  "level": {
+                    "type": "string",
+                    "description": "Heading level: s1/s2/.../r/d/... (see headings.jsonl)"
+                  },
+                  "text": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "para": {
+              "type": "array",
+              "description": "USJ paragraph/poetry/list style markers that begin here, in document order (e.g. \"p\", \"pmo\", \"b\" for a stanza break, \"q1\"/\"q2\" for poetry indent levels; see paragraphs.jsonl)",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false,
@@ -135,6 +211,27 @@
           [
             "created",
             "H1254"
+          ]
+        ],
+        "4": [
+          [
+            "God",
+            "H430"
+          ],
+          [
+            "saw",
+            "H7200"
+          ],
+          [
+            "the light",
+            "H216"
+          ],
+          [
+            "was good",
+            "H2896",
+            {
+              "supplied": true
+            }
           ]
         ]
       },
