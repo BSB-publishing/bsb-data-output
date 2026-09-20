@@ -153,7 +153,12 @@
         "number": 5,
         "content": [
           {
-            "text": "You, indeed",
+            "text": "You",
+            "strong": "H2009"
+          },
+          ", ",
+          {
+            "text": "indeed",
             "strong": "H2009"
           },
           ", ",

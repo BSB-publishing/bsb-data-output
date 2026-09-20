@@ -79,7 +79,12 @@
           },
           " ",
           {
-            "text": "Bithynia, chosen",
+            "text": "Bithynia",
+            "strong": "G978"
+          },
+          ", ",
+          {
+            "text": "chosen",
             "strong": "G978"
           }
         ]
@@ -329,8 +334,7 @@
             "text": "imperishable",
             "strong": "G862"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "undefiled",
             "strong": "G283"
@@ -592,8 +596,7 @@
             "text": "praise",
             "strong": "G1868"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "glory",
             "strong": "G1391"
@@ -635,6 +638,7 @@
         "type": "verse",
         "number": 8,
         "content": [
+          " ",
           {
             "text": "Though you have not seen",
             "strong": "G3708"
@@ -649,8 +653,7 @@
             "text": "you love Him",
             "strong": "G25"
           },
-          ";",
-          " ",
+          "; ",
           {
             "text": "and though you do not see",
             "strong": "G3708"
@@ -1146,8 +1149,7 @@
             "text": "children",
             "strong": "G5043"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "do not conform",
             "strong": "G4964"
@@ -1264,8 +1266,8 @@
             "text": "it is written",
             "strong": "G1125"
           },
-          ":",
-          " “",
+          ": ",
+          "“",
           {
             "text": "Be",
             "strong": "G1510"
@@ -1473,8 +1475,7 @@
             "text": "of Christ",
             "strong": "G5547"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "a lamb",
             "strong": "G286"

@@ -158,7 +158,12 @@
         "number": 5,
         "content": [
           {
-            "text": "Oh, that",
+            "text": "Oh",
+            "strong": "H305"
+          },
+          ", ",
+          {
+            "text": "that",
             "strong": "H305"
           },
           " ",
@@ -3018,7 +3023,7 @@
             "text": "without cause",
             "strong": "H8267"
           },
-          " — ",
+          "— ",
           {
             "text": "help me",
             "strong": "H5826"
@@ -3371,7 +3376,12 @@
         "number": 97,
         "content": [
           {
-            "text": "Oh, how",
+            "text": "Oh",
+            "strong": "H4100"
+          },
+          ", ",
+          {
+            "text": "how",
             "strong": "H4100"
           },
           " ",
@@ -3615,7 +3625,7 @@
             "text": "to my taste",
             "strong": "H2441"
           },
-          " — ",
+          "— ",
           {
             "text": "sweeter than honey",
             "strong": "H1706"

@@ -87,7 +87,12 @@
         "number": 3,
         "content": [
           {
-            "text": "You asked, ‘Who",
+            "text": "You asked",
+            "strong": "H4310"
+          },
+          ", ",
+          {
+            "text": "‘Who",
             "strong": "H4310"
           },
           " ",
@@ -158,7 +163,12 @@
         "number": 4,
         "content": [
           {
-            "text": "You said, ‘Listen",
+            "text": "You said",
+            "strong": "H8085"
+          },
+          ", ",
+          {
+            "text": "‘Listen",
             "strong": "H8085"
           },
           " ",

@@ -1006,10 +1006,15 @@
           },
           " ",
           {
-            "text": "the web of a loom and tighten it with a pin, I will become as weak as any other man.",
+            "text": "the web of a loom and tighten it with a pin",
             "strong": "H4545"
           },
-          "”"
+          ", ",
+          {
+            "text": "I will become as weak as any other man",
+            "strong": "H4545"
+          },
+          ".”"
         ]
       },
       {
@@ -1017,10 +1022,15 @@
         "number": 14,
         "content": [
           {
-            "text": "So while he slept, Delilah took the seven braids of his hair and wove them into the web.",
+            "text": "So while he slept",
             "strong": "H8628"
           },
-          "Then she tightened it ",
+          ", ",
+          {
+            "text": "Delilah took the seven braids of his hair and wove them into the web",
+            "strong": "H8628"
+          },
+          ".Then she tightened it ",
           {
             "text": "with a pin",
             "strong": "H3489"
@@ -1171,7 +1181,12 @@
         "number": 16,
         "content": [
           {
-            "text": "Finally, after",
+            "text": "Finally",
+            "strong": "H1961"
+          },
+          ", ",
+          {
+            "text": "after",
             "strong": "H1961"
           },
           " ",
@@ -1179,8 +1194,7 @@
             "text": "she had pressed",
             "strong": "H6693"
           },
-          " him",
-          " ",
+          " him ",
           {
             "text": "daily",
             "strong": "H3117"
@@ -1221,8 +1235,7 @@
             "text": "Samson told",
             "strong": "H5046"
           },
-          " her",
-          " ",
+          " her ",
           {
             "text": "all that was",
             "strong": "H3605"
@@ -1349,8 +1362,7 @@
             "text": "he had revealed",
             "strong": "H5046"
           },
-          " to her",
-          " ",
+          " to her ",
           {
             "text": "all that was",
             "strong": "H3605"
@@ -1400,8 +1412,7 @@
             "text": "he has revealed",
             "strong": "H5046"
           },
-          " to me",
-          " ",
+          " to me ",
           {
             "text": "all that is",
             "strong": "H3605"
@@ -1677,7 +1688,12 @@
         "number": 22,
         "content": [
           {
-            "text": "However, the hair",
+            "text": "However",
+            "strong": "H8181"
+          },
+          ", ",
+          {
+            "text": "the hair",
             "strong": "H8181"
           },
           " ",
@@ -1786,7 +1802,7 @@
             "text": "into our hands",
             "strong": "H3027"
           },
-          ".”"
+          ".” "
         ]
       },
       {
@@ -1802,8 +1818,7 @@
             "text": "saw him",
             "strong": "H7200"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "they praised",
             "strong": "H1984"

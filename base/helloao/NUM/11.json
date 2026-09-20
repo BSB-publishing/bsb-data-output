@@ -207,7 +207,12 @@
         "number": 4,
         "content": [
           {
-            "text": "Meanwhile, the rabble",
+            "text": "Meanwhile",
+            "strong": "H628"
+          },
+          ", ",
+          {
+            "text": "the rabble",
             "strong": "H628"
           },
           " ",
@@ -296,26 +301,22 @@
             "text": "along with the cucumbers",
             "strong": "H7180"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "melons",
             "strong": "H20"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "leeks",
             "strong": "H2682"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "onions",
             "strong": "H1211"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and garlic",
             "strong": "H7762"
@@ -1381,7 +1382,7 @@
             "text": "a whole month",
             "strong": "H2320"
           },
-          " — ",
+          "— ",
           {
             "text": "until",
             "strong": "H5704"
@@ -1406,7 +1407,7 @@
             "text": "nauseous",
             "strong": "H2214"
           },
-          " — ",
+          "— ",
           {
             "text": "because",
             "strong": "H3282"
@@ -1860,7 +1861,12 @@
           },
           ", ",
           {
-            "text": "however, had remained",
+            "text": "however",
+            "strong": "H7604"
+          },
+          ", ",
+          {
+            "text": "had remained",
             "strong": "H7604"
           },
           " ",

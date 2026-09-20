@@ -132,7 +132,12 @@
         "number": 3,
         "content": [
           {
-            "text": "Jonah, however",
+            "text": "Jonah",
+            "strong": "H3124"
+          },
+          ", ",
+          {
+            "text": "however",
             "strong": "H3124"
           },
           ", ",
@@ -884,8 +889,8 @@
             "text": "he answered",
             "strong": "H559"
           },
-          ",",
-          " “",
+          ", ",
+          "“",
           {
             "text": "and cast me",
             "strong": "H2904"
@@ -963,7 +968,12 @@
         "number": 13,
         "content": [
           {
-            "text": "Nevertheless, the men",
+            "text": "Nevertheless",
+            "strong": "H582"
+          },
+          ", ",
+          {
+            "text": "the men",
             "strong": "H582"
           },
           " ",
@@ -1204,8 +1214,7 @@
             "text": "greatly",
             "strong": "H1419"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and they offered",
             "strong": "H2076"

@@ -192,10 +192,15 @@
         "number": 4,
         "content": [
           {
-            "text": "Your spoil, O nations,",
+            "text": "Your spoil",
             "strong": "H7998"
           },
-          " ",
+          ", ",
+          {
+            "text": "O nations",
+            "strong": "H7998"
+          },
+          ", ",
           {
             "text": "is gathered",
             "strong": "H622"
@@ -847,7 +852,7 @@
             "text": "evil",
             "strong": "H7451"
           },
-          " —"
+          "—"
         ]
       },
       {

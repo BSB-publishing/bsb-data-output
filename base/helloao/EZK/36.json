@@ -962,7 +962,12 @@
         "number": 12,
         "content": [
           {
-            "text": "Yes, I will cause",
+            "text": "Yes",
+            "strong": "H853"
+          },
+          ", ",
+          {
+            "text": "I will cause",
             "strong": "H853"
           },
           " ",
@@ -1719,7 +1724,7 @@
             "text": "among the nations",
             "strong": "H1471"
           },
-          " — ",
+          "— ",
           {
             "text": "the name",
             "strong": "H834"
@@ -2135,8 +2140,7 @@
             "text": "and make it plentiful",
             "strong": "H7235"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and I will not",
             "strong": "H3808"
@@ -2187,8 +2191,7 @@
             "text": "plentiful",
             "strong": "H7235"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "so that",
             "strong": "H4616"

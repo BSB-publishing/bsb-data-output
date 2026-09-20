@@ -19,7 +19,12 @@
         "number": 1,
         "content": [
           {
-            "text": "Later, the prophets",
+            "text": "Later",
+            "strong": "H5029"
+          },
+          ", ",
+          {
+            "text": "the prophets",
             "strong": "H5029"
           },
           " ",
@@ -468,8 +473,7 @@
             "text": "of the Euphrates",
             "strong": "H5103"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "Shethar-bozenai",
             "strong": "H8370"
@@ -1388,10 +1392,15 @@
         "number": 17,
         "content": [
           {
-            "text": "Now, therefore,",
+            "text": "Now",
             "strong": "H3705"
           },
-          " ",
+          ", ",
+          {
+            "text": "therefore",
+            "strong": "H3705"
+          },
+          ", ",
           {
             "text": "if",
             "strong": "H2006"

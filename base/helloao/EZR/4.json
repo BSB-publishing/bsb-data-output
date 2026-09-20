@@ -533,8 +533,7 @@
             "text": "Artaxerxes",
             "strong": "H783"
           },
-          ".",
-          " ",
+          ". ",
           {
             "text": "It",
             "strong": "H5406"
@@ -656,7 +655,7 @@
             "text": "of their associates",
             "strong": "H3675"
           },
-          " — ",
+          "— ",
           {
             "text": "the judges",
             "strong": "H1784"
@@ -1596,7 +1595,12 @@
         "number": 21,
         "content": [
           {
-            "text": "Now, therefore",
+            "text": "Now",
+            "strong": "H3705"
+          },
+          ", ",
+          {
+            "text": "therefore",
             "strong": "H3705"
           },
           ", ",

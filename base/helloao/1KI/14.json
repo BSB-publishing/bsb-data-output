@@ -1173,7 +1173,12 @@
         "number": 14,
         "content": [
           {
-            "text": "Moreover, the LORD",
+            "text": "Moreover",
+            "strong": "H3068"
+          },
+          ", ",
+          {
+            "text": "the LORD",
             "strong": "H3068"
           },
           " ",
@@ -1226,10 +1231,14 @@
             "text": "is the day",
             "strong": "H3117"
           },
-          " —",
-          " ",
+          " — ",
           {
-            "text": "yes, even",
+            "text": "yes",
+            "strong": "H1571"
+          },
+          ", ",
+          {
+            "text": "even",
             "strong": "H1571"
           },
           " ",
@@ -1409,7 +1418,7 @@
             "text": "to commit",
             "strong": "H2398"
           },
-          ".”"
+          ".” "
         ]
       },
       {
@@ -1696,7 +1705,12 @@
         "number": 21,
         "content": [
           {
-            "text": "Meanwhile, Rehoboam",
+            "text": "Meanwhile",
+            "strong": "H7346"
+          },
+          ", ",
+          {
+            "text": "Rehoboam",
             "strong": "H7346"
           },
           " ",

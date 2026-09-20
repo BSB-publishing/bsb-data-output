@@ -557,7 +557,12 @@
         "number": 8,
         "content": [
           {
-            "text": "Meanwhile, Abner",
+            "text": "Meanwhile",
+            "strong": "H74"
+          },
+          ", ",
+          {
+            "text": "Abner",
             "strong": "H74"
           },
           " ",
@@ -585,8 +590,7 @@
             "text": "army",
             "strong": "H6635"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "took",
             "strong": "H3947"
@@ -649,8 +653,7 @@
             "text": "Jezreel",
             "strong": "H3157"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "Ephraim",
             "strong": "H669"
@@ -661,7 +664,7 @@
             "text": "and Benjamin",
             "strong": "H1144"
           },
-          " — ",
+          "— ",
           {
             "text": "over",
             "strong": "H5921"
@@ -1479,8 +1482,7 @@
             "text": "his equipment",
             "strong": "H2488"
           },
-          " for yourself.”",
-          " ",
+          " for yourself.” ",
           {
             "text": "But Asahel",
             "strong": "H6214"

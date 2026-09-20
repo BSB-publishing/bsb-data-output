@@ -19,7 +19,12 @@
         "number": 1,
         "content": [
           {
-            "text": "Meanwhile, Joseph",
+            "text": "Meanwhile",
+            "strong": "H3130"
+          },
+          ", ",
+          {
+            "text": "Joseph",
             "strong": "H3130"
           },
           " ",
@@ -662,8 +667,7 @@
             "text": "you",
             "strong": "H518"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "because",
             "strong": "H834"
@@ -973,8 +977,8 @@
             "text": "she said",
             "strong": "H559"
           },
-          ",",
-          " “",
+          ", ",
+          "“",
           {
             "text": "this Hebrew",
             "strong": "H5680"

@@ -1483,7 +1483,12 @@
           },
           "? ",
           {
-            "text": "Look, they are even",
+            "text": "Look",
+            "strong": "H2005"
+          },
+          ", ",
+          {
+            "text": "they are even",
             "strong": "H2005"
           },
           " ",
@@ -1582,7 +1587,7 @@
             "text": "listen to them",
             "strong": "H8085"
           },
-          ".”"
+          ".” "
         ]
       }
     ],

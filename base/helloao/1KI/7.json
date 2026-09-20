@@ -395,7 +395,12 @@
         "number": 7,
         "content": [
           {
-            "text": "In addition, he built",
+            "text": "In addition",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "he built",
             "strong": "H6213"
           },
           " ",
@@ -897,14 +902,12 @@
             "text": "skill",
             "strong": "H2451"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "understanding",
             "strong": "H8394"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and knowledge",
             "strong": "H1847"
@@ -1175,7 +1178,12 @@
         "number": 18,
         "content": [
           {
-            "text": "Likewise, he made",
+            "text": "Likewise",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "he made",
             "strong": "H6213"
           },
           " ",
@@ -1300,8 +1308,7 @@
             "text": "pillars",
             "strong": "H5982"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "just",
             "strong": "H5980"
@@ -1600,8 +1607,7 @@
             "text": "the Sea",
             "strong": "H3220"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "cast",
             "strong": "H3332"
@@ -1801,7 +1807,12 @@
         "number": 27,
         "content": [
           {
-            "text": "In addition, he made",
+            "text": "In addition",
+            "strong": "H6213"
+          },
+          ", ",
+          {
+            "text": "he made",
             "strong": "H6213"
           },
           " ",
@@ -2732,7 +2743,12 @@
         "number": 40,
         "content": [
           {
-            "text": "Additionally, Huram",
+            "text": "Additionally",
+            "strong": "H2438"
+          },
+          ", ",
+          {
+            "text": "Huram",
             "strong": "H2438"
           },
           " ",
@@ -2751,8 +2767,7 @@
             "text": "shovels",
             "strong": "H3257"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and sprinkling bowls",
             "strong": "H4219"
@@ -2919,9 +2934,9 @@
             "text": "sets of network",
             "strong": "H7639"
           },
-          " ",
+          " (",
           {
-            "text": "(two",
+            "text": "two",
             "strong": "H8147"
           },
           " ",
@@ -2971,10 +2986,10 @@
           },
           " ",
           {
-            "text": "the pillars)",
+            "text": "the pillars",
             "strong": "H5982"
           },
-          ";"
+          ");"
         ]
       },
       {
@@ -3058,20 +3073,17 @@
             "text": "the pots",
             "strong": "H5518"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "shovels",
             "strong": "H3257"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and sprinkling bowls",
             "strong": "H4219"
           },
-          ".",
-          " ",
+          ". ",
           {
             "text": "All",
             "strong": "H3605"
@@ -3269,8 +3281,7 @@
             "text": "of the LORD",
             "strong": "H3068"
           },
-          ":",
-          " ",
+          ": ",
           {
             "text": "the golden",
             "strong": "H2091"
@@ -3447,9 +3458,14 @@
             "text": "temple",
             "strong": "H1004"
           },
-          " ",
+          " (",
           {
-            "text": "(that is, the Most Holy Place",
+            "text": "that is",
+            "strong": "H6944"
+          },
+          ", ",
+          {
+            "text": "the Most Holy Place",
             "strong": "H6944"
           },
           ") ",
@@ -3543,13 +3559,12 @@
             "text": "had dedicated",
             "strong": "H6944"
           },
-          " — ",
+          "— ",
           {
             "text": "the silver",
             "strong": "H3701"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "the gold",
             "strong": "H2091"
@@ -3564,7 +3579,7 @@
             "text": "the furnishings",
             "strong": "H3627"
           },
-          " — ",
+          "— ",
           {
             "text": "and he placed them",
             "strong": "H5414"

@@ -65,7 +65,12 @@
         "number": 3,
         "content": [
           {
-            "text": "You said, “I have made",
+            "text": "You said",
+            "strong": "H3772"
+          },
+          ", “",
+          {
+            "text": "I have made",
             "strong": "H3772"
           },
           " ",
@@ -1474,7 +1479,17 @@
         "number": 38,
         "content": [
           {
-            "text": "Now, however, You",
+            "text": "Now",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "however",
+            "strong": "H859"
+          },
+          ", ",
+          {
+            "text": "You",
             "strong": "H859"
           },
           " ",

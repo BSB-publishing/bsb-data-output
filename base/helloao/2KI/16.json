@@ -161,7 +161,12 @@
         "number": 3,
         "content": [
           {
-            "text": "Instead, he walked",
+            "text": "Instead",
+            "strong": "H1980"
+          },
+          ", ",
+          {
+            "text": "he walked",
             "strong": "H1980"
           },
           " ",
@@ -1212,8 +1217,7 @@
             "text": "and grain offering",
             "strong": "H4503"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "as well as the burnt offerings",
             "strong": "H5930"

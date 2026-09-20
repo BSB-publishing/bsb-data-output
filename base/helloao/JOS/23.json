@@ -395,7 +395,12 @@
           },
           " ",
           {
-            "text": "strong, then",
+            "text": "strong",
+            "strong": "H2388"
+          },
+          ", ",
+          {
+            "text": "then",
             "strong": "H2388"
           },
           ", ",
@@ -877,7 +882,12 @@
           },
           ". ",
           {
-            "text": "Instead, they will become",
+            "text": "Instead",
+            "strong": "H1961"
+          },
+          ", ",
+          {
+            "text": "they will become",
             "strong": "H1961"
           },
           " for you ",
@@ -1263,8 +1273,7 @@
             "text": "He commanded you",
             "strong": "H6680"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and go",
             "strong": "H1980"

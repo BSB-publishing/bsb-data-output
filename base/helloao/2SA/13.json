@@ -1220,7 +1220,12 @@
         "number": 17,
         "content": [
           {
-            "text": "Instead, he called",
+            "text": "Instead",
+            "strong": "H7121"
+          },
+          ", ",
+          {
+            "text": "he called",
             "strong": "H7121"
           },
           " ",
@@ -2083,8 +2088,7 @@
             "text": "you are to kill him",
             "strong": "H4191"
           },
-          ".",
-          " ",
+          ". ",
           {
             "text": "Do not",
             "strong": "H408"
@@ -2569,7 +2573,12 @@
         "number": 34,
         "content": [
           {
-            "text": "Meanwhile, Absalom",
+            "text": "Meanwhile",
+            "strong": "H53"
+          },
+          ", ",
+          {
+            "text": "Absalom",
             "strong": "H53"
           },
           " ",
@@ -2629,7 +2638,17 @@
           },
           " ",
           {
-            "text": "of the hill. And the watchman went and reported to the king, “I see men coming from the direction of Horonaim, along the side of the hill",
+            "text": "of the hill. And the watchman went and reported to the king",
+            "strong": "H2022"
+          },
+          ", “",
+          {
+            "text": "I see men coming from the direction of Horonaim",
+            "strong": "H2022"
+          },
+          ", ",
+          {
+            "text": "along the side of the hill",
             "strong": "H2022"
           },
           ".”"

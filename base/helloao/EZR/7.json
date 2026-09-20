@@ -241,7 +241,7 @@
             "text": "priest",
             "strong": "H3548"
           },
-          " —"
+          "—"
         ]
       },
       {
@@ -919,7 +919,12 @@
         "number": 15,
         "content": [
           {
-            "text": "Moreover, you are to take with you",
+            "text": "Moreover",
+            "strong": "H2987"
+          },
+          ", ",
+          {
+            "text": "you are to take with you",
             "strong": "H2987"
           },
           " ",
@@ -1329,8 +1334,7 @@
             "text": "Artaxerxes",
             "strong": "H783"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "decree",
             "strong": "H2942"

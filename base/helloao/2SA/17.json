@@ -19,7 +19,12 @@
         "number": 1,
         "content": [
           {
-            "text": "Furthermore, Ahithophel",
+            "text": "Furthermore",
+            "strong": "H302"
+          },
+          ", ",
+          {
+            "text": "Ahithophel",
             "strong": "H302"
           },
           " ",
@@ -108,8 +113,7 @@
             "text": "I will throw him into a panic",
             "strong": "H2729"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and all",
             "strong": "H3605"
@@ -512,7 +516,12 @@
           },
           ". ",
           {
-            "text": "Moreover, your father is",
+            "text": "Moreover",
+            "strong": "H1"
+          },
+          ", ",
+          {
+            "text": "your father is",
             "strong": "H1"
           },
           " ",
@@ -783,7 +792,7 @@
             "text": "Beersheba",
             "strong": "H884"
           },
-          " — ",
+          "— ",
           {
             "text": "a multitude",
             "strong": "H7230"
@@ -803,7 +812,7 @@
             "text": "the seashore",
             "strong": "H3220"
           },
-          " — ",
+          "— ",
           {
             "text": "be gathered",
             "strong": "H622"
@@ -1152,7 +1161,7 @@
             "text": "Absalom",
             "strong": "H53"
           },
-          "."
+          ". "
         ]
       },
       {

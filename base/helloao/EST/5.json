@@ -208,8 +208,7 @@
             "text": "toward Esther",
             "strong": "H635"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and she",
             "strong": "H635"
@@ -386,8 +385,8 @@
             "text": "the king",
             "strong": "H4428"
           },
-          ",",
-          " “",
+          ", ",
+          "“",
           {
             "text": "and bring Haman",
             "strong": "H2001"
@@ -713,7 +712,12 @@
           },
           " ",
           {
-            "text": "gate, however",
+            "text": "gate",
+            "strong": "H8179"
+          },
+          ", ",
+          {
+            "text": "however",
             "strong": "H8179"
           },
           ", ",
@@ -784,7 +788,12 @@
         "number": 10,
         "content": [
           {
-            "text": "Nevertheless, Haman",
+            "text": "Nevertheless",
+            "strong": "H2001"
+          },
+          ", ",
+          {
+            "text": "Haman",
             "strong": "H2001"
           },
           " ",

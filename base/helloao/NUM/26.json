@@ -606,7 +606,12 @@
         "number": 11,
         "content": [
           {
-            "text": "However, the line",
+            "text": "However",
+            "strong": "H1121"
+          },
+          ", ",
+          {
+            "text": "the line",
             "strong": "H1121"
           },
           " ",
@@ -754,9 +759,10 @@
           },
           " ",
           {
-            "text": "men.",
+            "text": "men",
             "strong": "H3967"
-          }
+          },
+          "."
         ]
       },
       {
@@ -1401,8 +1407,7 @@
             "text": "from Machir",
             "strong": "H4353"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "the father of",
             "strong": "H3205"
@@ -2818,8 +2823,7 @@
             "text": "of Levi",
             "strong": "H3878"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "born",
             "strong": "H3205"
@@ -2849,14 +2853,12 @@
             "text": "Aaron",
             "strong": "H175"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "Moses",
             "strong": "H4872"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and their sister",
             "strong": "H269"
@@ -2877,20 +2879,17 @@
             "text": "Nadab",
             "strong": "H5070"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "Abihu",
             "strong": "H30"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "Eleazar",
             "strong": "H499"
           },
-          ",",
-          " ",
+          ", ",
           {
             "text": "and Ithamar",
             "strong": "H385"
@@ -3128,7 +3127,12 @@
         "number": 64,
         "content": [
           {
-            "text": "Among all these, however",
+            "text": "Among all these",
+            "strong": "H428"
+          },
+          ", ",
+          {
+            "text": "however",
             "strong": "H428"
           },
           ", ",
